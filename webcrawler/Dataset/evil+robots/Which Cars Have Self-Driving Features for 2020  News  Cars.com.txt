@@ -1,0 +1,1351 @@
+<style type="text/css">.disclaimer{text-align:right;font-size:x-small}.banner{background-color:#fff;text-align:left}.cacheContent{position:relative}.b_vPanel>div{padding-bottom:10px}.b_vPanel>div:last-child{padding:0}.banner a{color:#1a0dab}</style><base href="https://www.cars.com/articles/which-cars-have-self-driving-features-for-2020-418934/" /><meta http-equiv="content-type" content="text/html; charset=utf-8" /><!-- Banner:Start --><!--LocalizedDate:2020-07-02--><!--InvariantDate:7/2/2020--><div class="banner"><div class="b_vPanel"><div><!-- Title:Start -->You have reached the cached page for <strong><a href="https://www.cars.com/articles/which-cars-have-self-driving-features-for-2020-418934/" h="ID=SERP,5003.1">https://www.cars.com/articles/which-cars-have-self-driving-features-for-2020-418934/</a></strong><!-- Title:End --></div><div><!-- Content:Start -->Below is a snapshot of the Web page as it appeared on <strong>2020-07-02</strong> (the last time our crawler visited it). This is the version of the page that was used for ranking your search results. The page may have changed since we last cached it. To see what might have changed (without the highlights), <a href="https://www.cars.com/articles/which-cars-have-self-driving-features-for-2020-418934/" h="ID=SERP,5003.2">go to the current page</a>.<!-- Content:End --></div><div><!-- Hit:Start -->You searched for: <!--HitHighlight:Start--><b style="color:#000;background:#ffff66">self</b> <b style="color:#000;background:#66ffff">driving</b> <b style="color:#000;background:#ffcc99">cars</b><!--HitHighlight:End--> We have highlighted matching words that appear in the page below.<!-- Hit:End --></div><div><!-- Disclaimer:Start --><div class="disclaimer">Bing is not responsible for the content of this page.</div><!-- Disclaimer:End --></div><!-- Banner:End --></div></div><div class="cacheContent"><!doctype html>
+<html lang="en">
+    <head>
+        <script>if (window.performance && window.performance.clearMarks) {window.performance.clearMarks();}</script>
+        <script>if (window.performance && window.performance.mark) {window.performance.mark("pageLoadStart");}</script>
+        
+        <script nomodule src="/cldstatic/header/0.2.3/polyfills.js"></script>
+        <meta name="apple-itunes-app" content="app-id=353263352">
+        <link rel="manifest" href="/cldstatic/header/0.2.3/manifest.json">
+        <link href="/cldstatic/header/0.2.3/header.component.css" rel="stylesheet" />
+        <script defer src="/cldstatic/header/0.2.3/header.component.js"></script>
+        
+
+
+<link rel="preconnect" href="https://www.cstatic-images.com">
+<link rel="preconnect" href="https://www.cstatic-graphics.com">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+
+<title>Which Cars Have Self-Driving Features for 2020? | News | Cars.com</title>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="fb:app_id" content="290349283473">
+
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:title" content="Which Cars Have Self-Driving Features for 2020? | News from Cars.com">
+<meta property="og:site_name" content="Cars.com">
+<meta property="og:image" content="https://static.carsdn.co/cldstatic/wp-content/uploads/car-safety-features-motion.gif">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.cars.com/articles/which-cars-have-self-driving-features-for-2020-418934/">
+<meta property="og:description" content="March 4, 2020 - No current production car in the U.S. can drive itself, but many systems can maintain distance from the vehicle ahead or keep your car centered in its lane.">
+<meta name="twitter:title" property="twitter:title" content="Which Cars Have Self-Driving Features for 2020? via @carsdotcom">
+<meta name="twitter:site" property="twitter:site" content="@carsdotcom">
+<meta name="twitter:card" property="twitter:card" content="summary_large_image">
+<meta name="twitter:image" property="twitter:image" content="https://static.carsdn.co/cldstatic/wp-content/uploads/car-safety-features-motion.gif">
+<meta name="twitter:description" property="twitter:description" content="March 4, 2020 - No current production car in the U.S. can drive itself, but many systems can maintain distance from the vehicle ahead or keep your car centered in its lane.">
+<meta name="description" content="March 4, 2020 - No current production car in the U.S. can drive itself, but many systems can maintain distance from the vehicle ahead or keep your car centered in its lane.">
+<meta name="twitter:title" property="twitter:title" content="Which Cars Have Self-Driving Features for 2020? via @carsdotcom">
+<meta name="twitter:site" property="twitter:site" content="@carsdotcom">
+<meta name="twitter:card" property="twitter:card" content="summary_large_image">
+<meta name="twitter:image" property="twitter:image" content="https://static.carsdn.co/cldstatic/wp-content/uploads/car-safety-features-motion.gif">
+<meta name="twitter:description" property="twitter:description" content="March 4, 2020 - No current production car in the U.S. can drive itself, but many systems can maintain distance from the vehicle ahead or keep your car centered in its lane.">
+
+<script>
+window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(18),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(19),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var x=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof x&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof x&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(21)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(21)(r);n.exports=r;var i=window.history&&window.history.constructor&&window.history.constructor.prototype,a=window.history;i&&i.pushState&&i.replaceState&&(a=i),o.inPlace(a,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(21)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(21)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(b?b.then(a):w?w(a):(E=-E,R.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(21)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var x=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!w&&!m){var E=1,R=document.createTextNode(E);new h(a).observe(R,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(){var t=window.NREUM,n=t.info.accountID||null,e=t.info.agentID||null,r=t.info.trustKey||null,i="btoa"in window&&"function"==typeof window.btoa;if(!n||!e||!i)return null;var a={v:[0,1],d:{ty:"Browser",ac:n,ap:e,id:o.generateCatId(),tr:o.generateCatId(),ti:Date.now()}};return r&&n!==r&&(a.d.tk=r),btoa(JSON.stringify(a))}var o=t(16);n.exports={generateTraceHeader:r}},{}],11:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<p;r++)t.removeEventListener(l[r],this.listener,!1);n.aborted||(e.duration=s.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==n.status&&(n.status=0):a(this,t),e.cbTime=this.cbTime,d.emit("xhr-done",[t],t),c("xhr",[n,e,this.startTime]))}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return w(r)}function i(t,n){var e=f(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}function a(t,n){t.params.status=n.status;var e=o(n,t.lastSize);if(e&&(t.metrics.rxSize=e),t.sameOrigin){var r=n.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(12),u=t(10).generateTraceHeader,d=t("ee"),l=["load","error","abort","timeout"],p=l.length,h=t("id"),m=t(15),w=t(14),v=window.XMLHttpRequest;s.features.xhr=!0,t(9),d.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,n.loadCaptureCalled=!1,t.addEventListener("load",function(e){a(n,t)},!1),m&&(m>34||m<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),d.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),d.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var e=!1;if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(e=!!NREUM.init.distributed_tracing.enabled),e&&this.sameOrigin){var r=u();r&&n.setRequestHeader("newrelic",r)}}),d.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=w(r);i&&(e.txSize=i)}this.startTime=s.now(),this.listener=function(t){try{"abort"!==t.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{d.emit("internal-error",[e])}catch(r){}}};for(var a=0;a<p;a++)n.addEventListener(l[a],this.listener,!1)}),d.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),d.on("xhr-load-added",function(t,n){var e=""+h(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),d.on("xhr-load-removed",function(t,n){var e=""+h(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),d.on("addEventListener-end",function(t,n){n instanceof v&&"load"===t[0]&&d.emit("xhr-load-added",[t[1],t[2]],n)}),d.on("removeEventListener-end",function(t,n){n instanceof v&&"load"===t[0]&&d.emit("xhr-load-removed",[t[1],t[2]],n)}),d.on("fn-start",function(t,n,e){n instanceof v&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=s.now()))}),d.on("fn-end",function(t,n){this.xhrCbStart&&d.emit("xhr-cb-time",[s.now()-this.xhrCbStart,this.onload,n],n)})}},{}],12:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],13:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(18),s=t(19),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t,n){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,n])}},{}],14:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],15:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],16:[function(t,n,e){function r(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(n=r.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",s=0;s<i.length;s++)o=i[s],"x"===o?a+=t().toString(16):"y"===o?(o=3&t()|8,a+=o.toString(16)):a+=o;return a}function o(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(n=r.getRandomValues(new Uint8Array(31)));for(var o=[],i=0;i<16;i++)o.push(t().toString(16));return o.join("")}n.exports={generateUuid:r,generateCatId:o}},{}],17:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],18:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],19:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],20:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],21:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(19),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[e]];return d&&d.push([x,e,r,a]),a}}function p(t,n){y[t]=m(t).concat(n)}function h(t,n){var e=y[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return y[t]||[]}function w(t){return d[t]=d[t]||o(e)}function v(t,n){f(t,function(t,e){n=n||"feature",g[e]=n,n in u||(u[n]=[])})}var y={},g={},x={on:p,addEventListener:p,removeEventListener:h,emit:e,get:w,listeners:m,context:n,buffer:v,abort:a,aborted:!1};return x}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(18),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=b.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(g,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return R.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(18),u=t("ee"),d=t(17),l=window,p=l.document,h="addEventListener",m="attachEvent",w=l.XMLHttpRequest,v=w&&w.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:w,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1130.min.js"},x=w&&v&&v[h]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:x,userAgent:d};t(13),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,R=t(20)},{}]},{},["loader",2,11,4,3]);
+;NREUM.loader_config={accountID:"2094067",trustKey:"2094067",agentID:"449224135",licenseKey:"80f1ce6624",applicationID:"449224135"}
+;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"80f1ce6624",applicationID:"449224135",sa:1}
+</script>
+<link rel="canonical" href="https://www.cars.com/articles/which-cars-have-self-driving-features-for-2020-418934/">
+<link rel="amphtml" href="https://www.cars.com/amp/articles/which-cars-have-self-driving-features-for-2020-418934/">
+
+
+    <link href="/static/editorial/08a28aedee3a/app.bundle.css" rel="stylesheet" type="text/css">
+
+<script defer src="//assets.adobedtm.com/36e159fa28ebd11f42c753477615b777373ed969/satelliteLib-d02c51728c29ecf9a3db1b01abbed2ea57be2e3c.js"></script>
+
+
+
+<script defer src="//cdn.optimizely.com/js/7544042.js"></script>
+
+<style>
+    @font-face {
+        font-family: 'Source Sans Pro';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: local('Source Sans Pro'),
+             local('SourceSansPro-Regular'),
+             url(https://fonts.gstatic.com/s/sourcesanspro/v9/ODelI1aHBYDBqgeIAH2zlJbPFduIYtoLzwST68uhz_Y.woff2) format('woff2'),
+             url(https://fonts.gstatic.com/s/sourcesanspro/v9/ODelI1aHBYDBqgeIAH2zlNHq-FFgoDNV3GTKpHwuvtI.woff) format('woff');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+    }
+    @font-face {
+        font-family: 'Source Sans Pro';
+        font-style: normal;
+        font-weight: 600;
+        font-display: swap;
+        src: local('Source Sans Pro Semibold'),
+             local('SourceSansPro-Semibold'),
+             url(https://fonts.gstatic.com/s/sourcesanspro/v9/toadOcfmlt9b38dHJxOBGMzFoXZ-Kj537nB_-9jJhlA.woff2) format('woff2'),
+             url(https://fonts.gstatic.com/s/sourcesanspro/v9/toadOcfmlt9b38dHJxOBGCmgpmuQqK2I-L2S9cF65Ek.woff) format('woff');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+    }
+    @font-face {
+        font-family: 'Source Sans Pro';
+        font-style: normal;
+        font-weight: 700;
+        font-display: swap;
+        src: local('Source Sans Pro Bold'),
+             local('SourceSansPro-Bold'),
+             url(https://fonts.gstatic.com/s/sourcesanspro/v9/toadOcfmlt9b38dHJxOBGJkF8H8ye47wsfpWywda8og.woff2) format('woff2'),
+             url(https://fonts.gstatic.com/s/sourcesanspro/v9/toadOcfmlt9b38dHJxOBGIqjGYJUyOXcBwUQbRaNH6c.woff) format('woff');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+    }
+</style>
+
+
+    </head>
+
+    <body class="" ng-app="editorial">
+
+        <cui-cobrand-bar host="https://api.cars.com" key="tgIEjKJsl9PodnPW31nzyjGeWLaWZKMI"></cui-cobrand-bar>
+        <header class="flat_w_profile" ng-non-bindable>
+        <nav class="prof__nav not-logged-in">
+            <a href="/" target="_self" data-linkname="header-home">
+                <img width="85" height="36"
+                     class="global-nav__logo"
+                     src="/cldstatic/header/0.2.3/logo.png"
+                     alt="Cars.com"/>
+            </a>
+            <input type="checkbox" id="prof__menu--trigger" style="display:none;">
+            <input type="checkbox" id="all__menu--trigger" style="display:none;">
+            
+        <label class="prof__overlay--mobile" for="all__menu--trigger" style="display: none;"></label>
+        <label class="prof__overlay--desktop" for="prof__menu--trigger" style="display: none;"></label>
+        <div class="prof__menu" style="display:none">
+            <div class="prof__menu__caret"><label class="prof__menu__trigger" for="all__menu--trigger" style="display:none;">
+                <svg class="prof__menu--close" width="16px" height="16px">
+                    <use xlink:href="/cldstatic/header/0.2.3/icons.svg#icon-close"></use>
+                </svg>
+            </label></div>
+            <div class="prof__menu__greeting">
+                <p class="prof__menu__greeting--name hide-for-anonymous">Hi, <span class="prof__menu--name">Guest</span>!</p>
+                <p class="prof__menu__text hide-for-logged-in">Save <b style="color:#000;background:#ffcc99">cars</b>. Access them anywhere.
+                    <a target="_self" class="prof__menu__button js_continue" href="/profile/secure/signup/" data-linkname="headerpro-sign-up">Sign Up</a></p>
+                <p class="prof__menu__text--small hide-for-logged-in">Already have an account?
+                    <a target="_self"
+                       data-linkname="headerpro-sign-in"
+                       class="prof__menu__link js_continue"
+                       href="/profile/secure/login/">Log In</a>
+                </p>
+            </div>
+            <div class="prof__menu--divider">
+        <a target="_self" href="/profile/dashboard/" id="prof_menu-dashboard" class="prof__link " data-linkname="headerpro-dashboard">
+            <svg class="prof__icon" width="16px" height="16px">
+                <use xlink:href="/cldstatic/header/0.2.3/icons.svg#icon-avatar-line"></use>
+            </svg>
+            My Dashboard 
+            <span class="prof__link--count"></span>
+            
+        </a>
+        <a target="_self" href="/profile/saved-research/" id="prof_menu-savedresearch" class="prof__link hide-for-anonymous" data-linkname="headerpro-saved-research">
+            <svg class="prof__icon" width="16px" height="16px">
+                <use xlink:href="/cldstatic/header/0.2.3/icons.svg#icon-features"></use>
+            </svg>
+            My Saved Research 
+            <span class="prof__link--count">( 0 )</span>
+            <span class="prof__badge--new">NEW</span>
+        </a>
+        <a target="_self" href="/profile/saved-cars/" id="prof_menu-savedcars" class="prof__link " data-linkname="headerpro-saved-cars">
+            <svg class="prof__icon" width="16px" height="16px">
+                <use xlink:href="/cldstatic/header/0.2.3/icons.svg#icon-carfront-line"></use>
+            </svg>
+            My Saved <b style="color:#000;background:#ffcc99">Cars</b> 
+            <span class="prof__link--count">( 0 )</span>
+            
+        </a>
+        <a target="_self" href="/profile/saved-searches/" id="prof_menu-savedsearches" class="prof__link " data-linkname="headerpro-saved-searches">
+            <svg class="prof__icon" width="16px" height="16px">
+                <use xlink:href="/cldstatic/header/0.2.3/icons.svg#icon-searchalt-line"></use>
+            </svg>
+            My Saved Searches 
+            <span class="prof__link--count">( 0 )</span>
+            
+        </a>
+        <a target="_self" href="/sell/profile/" id="prof_menu-savedlistings" class="prof__link hide-for-anonymous" data-linkname="headerpro-ads">
+            <svg class="prof__icon" width="16px" height="16px">
+                <use xlink:href="/cldstatic/header/0.2.3/icons.svg#icon-tag-line"></use>
+            </svg>
+            My Listings 
+            <span class="prof__link--count">( 0 )</span>
+            
+        </a>
+        <a target="_self" href="/profile/secure/settings/" id="prof_menu-settings" class="prof__link hide-for-anonymous" data-linkname="headerpro-account-settings">
+            <svg class="prof__icon" width="16px" height="16px">
+                <use xlink:href="/cldstatic/header/0.2.3/icons.svg#icon-settings-line"></use>
+            </svg>
+            Settings 
+            <span class="prof__link--count"></span>
+            
+        </a></div>
+            <ul class="prof__menu__global-nav__parent">
+        <li class="global-nav__container ">
+            <a target="_self" class="global-nav__link"
+               href="/shopping/"
+               title="Shop for new, used, and certified cars and trucks"
+               data-linkname="header-buy"><b style="color:#000;background:#ffcc99">Cars</b> for Sale</a></li>
+        <li class="global-nav__container ">
+            <a target="_self" class="global-nav__link"
+               href="/sell/"
+               title="Sell your car online"
+               data-linkname="header-sell">Sell Your Car</a></li>
+        <li class="global-nav__container ">
+            <a target="_self" class="global-nav__link"
+               href="/auto-repair/"
+               title="Estimates on car repairs or find a service shop near you"
+               data-linkname="header-service">Service & Repair</a></li>
+        <li class="global-nav__container ">
+            <a target="_self" class="global-nav__link"
+               href="/research/"
+               title="Specifications and reviews on car models"
+               data-linkname="header-research">Research</a></li>
+        <li class="global-nav__container ">
+            <a target="_self" class="global-nav__link"
+               href="/news/"
+               title="Latest news and videos from the Cars.com editorial team"
+               data-linkname="header-news">Videos & Reviews</a></li>
+        <li class="global-nav__container ">
+            <a target="_self" class="global-nav__link"
+               href="/contact/"
+               title="Ask a question or submit feedback"
+               data-linkname="header-contact">Contact Us</a></li></ul>
+            <div class="prof__menu__signout hide-for-anonymous">
+                <a target="_self" href="/logout/" class="prof__link" data-linkname="Log Out">
+                    <b>Sign Out</b></a>
+            </div>
+            <div class="signal-link-container"></div>
+        </div>
+                <ul class="global-nav__parent">
+                    
+        <li class="global-nav__container ">
+            <a target="_self" class="global-nav__link"
+               href="/shopping/"
+               title="Shop for new, used, and certified cars and trucks"
+               data-linkname="header-buy"><b style="color:#000;background:#ffcc99">Cars</b> for Sale</a></li>
+        <li class="global-nav__container ">
+            <a target="_self" class="global-nav__link"
+               href="/sell/"
+               title="Sell your car online"
+               data-linkname="header-sell">Sell Your Car</a></li>
+        <li class="global-nav__container ">
+            <a target="_self" class="global-nav__link"
+               href="/auto-repair/"
+               title="Estimates on car repairs or find a service shop near you"
+               data-linkname="header-service">Service & Repair</a></li>
+        <li class="global-nav__container ">
+            <a target="_self" class="global-nav__link"
+               href="/research/"
+               title="Specifications and reviews on car models"
+               data-linkname="header-research">Research</a></li>
+        <li class="global-nav__container ">
+            <a target="_self" class="global-nav__link"
+               href="/news/"
+               title="Latest news and videos from the Cars.com editorial team"
+               data-linkname="header-news">Videos & Reviews</a></li>
+        <li class="global-nav__container ">
+            <a target="_self" class="global-nav__link"
+               href="/contact/"
+               title="Ask a question or submit feedback"
+               data-linkname="header-contact">Contact Us</a></li>
+                    
+        <li class="global-nav__container--signup invisible-for-logged-in">
+            <a target="_self" class="global-nav__link--signup js_continue"
+               href="/profile/secure/signup/" title="login or signup"
+               data-linkname="header-sign-up">Sign
+                Up</a>
+        </li>
+        <li class="global-nav__container">
+            <label id="profile_menu-avatar" class="prof__avatar--link" for="prof__menu--trigger"
+                   data-linkname="profiles-menu">
+                <svg class="prof__avatar--icon" viewBox="0 0 16 16"
+                     width="24px" height="24px">
+                    <path d="M8,0C3.582,0,0,3.582,0,8c0,4.418,3.582,8,8,8c4.418,0,8-3.582,8-8C16,3.582,12.418,0,8,0z M8,0.735  c4.013,0,7.266,3.252,7.266,7.265c0,1.706-0.59,3.274-1.575,4.515c-0.301-0.455-0.784-0.887-1.507-1.16  c-0.897-0.341-2.558-1.075-2.633-1.49c-0.058-0.317,0.16-0.621,0.286-0.789c0.143-0.191,0.578-0.912,0.762-1.62  c0.123-0.473,0.681-2.897-0.377-4.208c-0.46-0.571-1.319-0.94-2.187-0.94c-0.893,0-1.801,0.379-2.261,0.944  c-1.16,1.431-0.522,3.995-0.468,4.232c0.167,0.731,0.677,1.44,0.734,1.551c0.116,0.225,0.37,0.41,0.313,0.83  c-0.02,0.149-0.612,0.722-2.625,1.483c-0.653,0.247-1.149,0.667-1.465,1.108C1.306,11.225,0.735,9.68,0.735,8  C0.735,3.987,3.987,0.735,8,0.735z M8,15.266c-2.097,0-3.986-0.891-5.312-2.312c0.447-0.578,0.906-0.852,1.74-1.188  c1.714-0.694,2.48-1.215,2.562-1.807C7.042,9.575,7,9.347,6.844,9.143C6.781,9.058,6.213,8.208,6.061,7.704  C5.898,7.164,5.347,5.184,6.163,3.837c0.312-0.515,1.071-0.878,1.82-0.878c0.762,0,1.383,0.326,1.742,0.816  c0.857,1.174,0.326,3.275,0.122,3.898c-0.161,0.493-0.738,1.38-0.796,1.468c-0.133,0.205-0.189,0.52-0.152,0.817  c0.081,0.663,1.611,1.398,2.448,1.755c0.744,0.317,1.488,0.599,1.889,1.32C11.914,14.409,10.058,15.266,8,15.266z"></path>
+                </svg>
+            </label>
+        </li>
+                    <li class="signal-link-container"></li>
+                </ul>
+                <div class="mobile-nav__container">
+                    <label class="menu__avatar--link" for="all__menu--trigger">
+                        <svg class="menu__avatar--icon" viewBox="0 0 16 16" width="16px" height="16px">
+                            <use xlink:href="/cldstatic/header/0.2.3/icons.svg#icon-menu-line"></use>
+                        </svg>
+                    </label>
+                </div>
+        </nav>
+    </header>
+
+        <div class="cui-page-container body-padding-adjustment ">
+
+            <!-- Page Heading -->
+
+            
+
+            <article>
+    <div class="body-wrapper" ng-app="editorial">
+        <div class="banner">
+            <cars-ad-creative slot="/6427/cdn.cars.news/article" size="pencil-leader" targeting="adapt({'adCat':'None', 'cat':'', 'adMMYT':'', 'artID':'418934'})"  data-placement="14456029"></cars-ad-creative>
+        </div>
+        <header>
+            <h1 class="article-title">Which <b style="color:#000;background:#ffcc99">Cars</b> Have <b style="color:#000;background:#ffff66">Self</b>-<b style="color:#000;background:#66ffff">Driving</b> Features for 2020?</h1>
+            <div class="article-byline">
+                <p>By <strong class="article-byline__author ">Kelsey Mays</strong></p>
+                <p itemprop="datePublished" class="article-byline__date">March 4, 2020</p>
+            </div>
+            <div class="article-share">
+                <span class="share">Share</span>
+                <cars-social-share-buttons></cars-social-share-buttons>
+            </div>
+        </header>
+        <div class="clear"></div>
+        <div class="page-body secondary" itemscope="" itemtype="http://schema.org/NewsArticle" style="display: none">
+            <meta itemprop="url mainEntityOfPage" content = "https://www.cars.com/articles/which-cars-have-self-driving-features-for-2020-418934/"/>
+            <meta itemprop="description" content="Which Cars Have Self-Driving Features for 2020?"/>
+            <meta itemprop="datePublished" content="March 4, 2020"/>
+            <meta itemprop="dateModified" content="March 4, 2020"/>
+            <meta itemprop="headline" content="Which Cars Have Self-Driving Features for 2020?"/>
+            <meta itemprop="image" content="https://static.carsdn.co/cldstatic/wp-content/uploads/car-safety-features-motion.gif"/>
+            <meta itemprop="author" itemtype="http://schema.org/Person" content="Kelsey Mays"/>
+            <div itemscope="" itemprop="publisher" itemtype="https://schema.org/Organization" id="carscomOrg">
+                <meta itemprop="name" content="Cars.com">
+                <meta itemprop="url" content="https://www.cars.com/">
+                <div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+                    <img itemprop="url" content="https://graphics.cars.com/images/core/logo.png">
+                    <meta itemprop="width" content="231">
+                    <meta itemprop="height" content="98">
+                </div>
+            </div>
+        </div>
+        <meta itemprop="url mainEntityOfPage" content = "https://www.cars.com/articles/which-cars-have-self-driving-features-for-2020-418934/"/>
+        <meta itemprop="description" content="Which Cars Have Self-Driving Features for 2020?"/>
+        <script type="application/ld+json">{
+            "@context": "http://schema.org",
+            "@type": "Blog",
+            "name": "Which Cars Have Self-Driving Features for 2020?",
+            "url": "https://www.cars.com/articles/which-cars-have-self-driving-features-for-2020-418934/",
+            "description": "Which Cars Have Self-Driving Features for 2020?",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Cars.com"
+                }
+        }</script>
+        <div class="bodyGrid">
+            <div class="mainBody">
+                
+                
+
+                
+
+                
+
+                
+
+                
+                        <div>
+        <figure itemprop="image" itemscope="" itemtype="https://schema.org/ImageObject">
+                <img itemprop="url" src="https://static.carsdn.co/cldstatic/wp-content/uploads/car-safety-features-motion.gif" alt="car-safety-features-motion.gif" class="body-image">
+                <noscript>
+                        &lt;meta itemprop="width" content="1170"&gt;
+                        &lt;meta itemprop="height" content="1170"&gt;
+                </noscript>
+                <figcaption class="image__caption">
+                        <div itemprop="author" class="image__photographer"><b style="color:#000;background:#ffcc99">Cars</b>.com illustration by Paul Dolan</div>
+                </figcaption>
+        </figure>
+    </div>
+
+
+                    <p><span style="font-weight: 400;">As the auto industry enters a new decade, the onetime imminence of <b style="color:#000;background:#ffff66">self</b>-<b style="color:#000;background:#66ffff">driving</b> <b style="color:#000;background:#ffcc99">cars</b> gives way to a humbler reality: Major regulatory and technological hurdles remain before mass-market <b style="color:#000;background:#ffcc99">cars</b> will schlep average folks around nationwide. Early last decade, experts </span><a href="https://www.cars.com/articles/self-driving-cars-hit-a-speed-bump-1420663071452/"><span style="font-weight: 400;">expected mass-market viability by 2025</span></a><span style="font-weight: 400;">. Now, a January 2020 report by the Victoria Transport Policy Institute predicts widespread, affordable autonomous vehicles won’t come </span><a href="https://www.vtpi.org/avip.pdf"><span style="font-weight: 400;">until the 2030s or 2040s</span></a><span style="font-weight: 400;">.</span></p>
+<p><b>Related: </b><a href="https://www.cars.com/articles/which-cars-have-self-driving-features-for-2019-402645/"><b>Which <b style="color:#000;background:#ffcc99">Cars</b> Have <b style="color:#000;background:#ffff66">Self</b>-<b style="color:#000;background:#66ffff">Driving</b> Features for 2019?</b></a></p>
+
+                    <div class="actions">
+    <a class="actions__button-secondary cui-button--secondary" href="/research/hyundai-palisade-2020/" data-linkname="mmy-details">2020 Hyundai Palisade Specs &amp; Reviews</a>
+    <a class="actions__button-secondary cui-button--secondary" href="/shopping/hyundai-palisade-2020/" data-linkname="mmy-near-you">Find a 2020 Hyundai Palisade Near You</a>
+</div>
+
+                    <p><span style="font-weight: 400;">The good news? Some <b style="color:#000;background:#ffff66">self</b>-<b style="color:#000;background:#66ffff">driving</b> features can help ease the burden of your commute or road trip. No current production car in the U.S. can drive while you sleep, read or tweet, but many systems can maintain following distance with the vehicle ahead or keep your car centered in its lane — even down to a stop in bumper-to-bumper traffic, and in some cases without your holding the wheel.</span></p>
+<p><span style="font-weight: 400;">Such capabilities have proliferated. When we began documenting <b style="color:#000;background:#ffff66">self</b>-<b style="color:#000;background:#66ffff">driving</b> features across the industry </span><a href="https://www.cars.com/articles/self-driving-cars-the-big-list-of-which-automakers-do-what-1420684684889/"><span style="font-weight: 400;">in 2016</span></a><span style="font-weight: 400;">, only a handful of vehicles had lane-centering steering, and only some of those — mostly from Mercedes-Benz — did so from stop-and-go traffic up to highway speeds. Today, scores of models offer such full-range functionality, some as affordable as a base-model Toyota Corolla. A few BMWs and one Cadillac will even steer, accelerate and brake without your having to hold the wheel (provided a driver-facing camera intuits you’re paying attention).</span></p>
+<p><span style="font-weight: 400;">Which <b style="color:#000;background:#ffcc99">cars</b> have what? We simplified this list for 2020 to include the root nameplates only, so bear in mind that powertrain or body style variants — such as extended-length versions, or high-performance or hybrid variants — may also include the listed feature. In some cases, we singled out certain variants if the feature</span> <span style="font-weight: 400;">is </span><i><span style="font-weight: 400;">exclusive</span></i><span style="font-weight: 400;"> to them: For example, only the all-electric Kia Niro EV, not its gasoline counterpart, has lane-centering steering. But for the most part, we kept things at a high level.</span></p>
+<p><span style="font-weight: 400;">Alphabetically by mass-market brand, here’s is the lay of the <b style="color:#000;background:#ffff66">self</b>-<b style="color:#000;background:#66ffff">driving</b> land.</span></p>
+<h2><b>Acura</b></h2>
+<h3>Lane-centering steering at higher speeds only:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Acura ILX</span></li>
+</ul>
+<h3>Adaptive cruise control down to a stop with lane-centering steering at higher speeds only:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Acura MDX</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Acura RDX</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Acura TLX</span></li>
+</ul>
+<h3>Adaptive cruise control and lane-centering steering, both down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Acura RLX</span></li>
+</ul>
+<h3>What should I look for?</h3>
+<p><span style="font-weight: 400;">Acura bundles most driver-assist tech under its AcuraWatch suite of features. Depending on the car, AcuraWatch includes a Lane Keeping Assist System, Adaptive Cruise Control with Low-Speed Follow, or both. Lane-centering steering via LKAS functions only from 45 mph and above, but the RLX adds Traffic Jam Assist, which incorporates lane-centering steering down to a stop.</span></p>
+<p><a href="https://www.cars.com/research/acura/"><b>Research Acura Vehicles</b></a></p>
+<h2><b>Alfa Romeo</b></h2>
+<h3>Adaptive cruise control and lane-centering steering, both down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Alfa Romeo Giulia</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Alfa Romeo Stelvio</span></li>
+</ul>
+<h3>What should I look for?</h3>
+<p><span style="font-weight: 400;">Adaptive Cruise Control Plus with Full Stop, plus two new lane-centering steering systems: Traffic Jam Assist and Highway Assist System. TJA works at speeds up to 37 mph. HAS functions at speeds up to 90 mph but only on GPS-intuited highways.</span></p>
+<p><a href="https://www.cars.com/research/alfa_romeo/"><b>Research Alfa Romeo Vehicles</b></a></p>
+<h2><b>Audi</b></h2>
+<h3>Adaptive cruise control down to a stop and lane-centering steering at higher speeds only:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Audi A3</span></li>
+</ul>
+<h3>Adaptive cruise control and lane-centering steering, both down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Audi A4</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Audi A5</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Audi A6</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Audi A7</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Audi A8</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Audi E-tron</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Audi Q3</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Audi Q5</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Audi Q7</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Audi Q8</span></li>
+</ul>
+<h3>What should I look for?</h3>
+<p><span style="font-weight: 400;">Terminology varies. Lane-centering steering comes by way of Traffic Jam Assist, which works at speeds up to around 40 mph. Active Lane Assist, a separate feature, works at speeds </span><i><span style="font-weight: 400;">above</span></i><span style="font-weight: 400;"> roughly 40 mph. Characterized by Audi officials as lane centering, ALA is widely offered even on <b style="color:#000;background:#ffcc99">cars</b> that lack TJA, like the A3. Further complicating matters, ALA is offered on Audi’s TT sports car, but it does </span><i><span style="font-weight: 400;">not</span></i><span style="font-weight: 400;"> include lane-centering steering on that model. For adaptive cruise control, look for Adaptive Cruise Control with Stop and Go, sometimes simply called Adaptive Cruise Control or Adaptive Cruise Assist. It’s available on every model-year 2020 Audi model except the TT and R8.</span></p>
+<p><a href="https://www.cars.com/research/audi/"><b>Research Audi Vehicles</b></a></p>
+<h2><b>BMW</b></h2>
+<h3>Adaptive cruise control down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 BMW 2 Series</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 BMW 4 Series</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 BMW i3</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 BMW X1</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 BMW X2</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 BMW Z4</span></li>
+</ul>
+<h3>Adaptive cruise control and lane-centering steering, both down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 BMW 5 Series </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 BMW X3</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 BMW X4</span></li>
+</ul>
+<h3>Adaptive cruise control and lane-centering steering, both down to a stop, and hands-free steering at lower speeds:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 BMW 3 Series</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 BMW 7 Series</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 BMW 8 Series</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 BMW X5</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 BMW X6</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 BMW X7</span></li>
+</ul>
+<h3>What should I look for?</h3>
+<p><span style="font-weight: 400;">BMW’s adaptive cruise control that operates all the way to a stop goes by Active Cruise Control with Stop &amp; Go. One step beyond that, Active Lane Keeping Assist and Traffic Jam Assist (sometimes called </span><i><span style="font-weight: 400;">Assistant</span></i><span style="font-weight: 400;"> for both) constitute hands-on, lane-centering steering that can work down to a stop in certain traffic conditions. Finally, </span><a href="https://www.cars.com/articles/our-hands-on-experience-with-the-2019-bmw-x7s-hands-free-driving-mode-407421/"><span style="font-weight: 400;">Extended Traffic Jam Assistant</span></a><span style="font-weight: 400;"> is a proliferating feature available on some half a dozen models, all of them new or substantially updated, for 2020. ETJA enables hands-free <b style="color:#000;background:#66ffff">driving</b> on divided highways at speeds up to 40 mph as long as you’re paying attention, something the car intuits with a driver-facing camera; it makes BMW one of two brands on the U.S. market (the other is Cadillac) to offer provisional hands-free <b style="color:#000;background:#66ffff">driving</b>. In our experience with ETJA, BMW’s system transitions to hands-on lane centering once you exceed 40 mph.</span></p>
+<p><a href="https://www.cars.com/research/bmw/"><b>Research BMW Vehicles</b></a></p>
+<h2><b>Buick</b></h2>
+<h3>Adaptive cruise control down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Buick Enclave</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Buick Encore GX</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Buick Envision</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Buick Regal</span></li>
+</ul>
+<h3>What should I look for?</h3>
+<p><span style="font-weight: 400;">Depending on the car, look for Adaptive Cruise Control-Advanced or Adaptive Cruise Control-Camera.</span></p>
+<p><a href="https://www.cars.com/research/buick/"><b>Research Buick Vehicles</b></a></p>
+<h2><b>Cadillac</b></h2>
+<h3>Adaptive cruise control down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Cadillac CT4</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Cadillac CT5</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Cadillac Escalade</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Cadillac XT4</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Cadillac XT5</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Cadillac XT6</span></li>
+</ul>
+<h3>Adaptive cruise control down to a stop and hands-free steering:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Cadillac CT6 </span></li>
+</ul>
+<h3>What should I look for?</h3>
+<p><span style="font-weight: 400;">Adaptive cruise control down to a stop comes in the form of Cadillac’s Adaptive Cruise Control-Advanced or, on the CT5, Advanced Adaptive Cruise Control. Hands-free lane centering, which works from a stop all the way up to highway speeds on certain highways, comes via Cadillac’s Super Cruise system. Introduced on the 2018 CT6, Super Cruise is no longer the only hands-free steering system in a U.S. production vehicle — BMW now offers the capability at low speeds — but it remains the only one that can do it all the way up to highway speeds. Super Cruise doesn’t relieve you of the need to pay attention and take over if necessary, something the system intuits through a driver-facing camera. Cadillac plans to expand Super Cruise to the 2021 CT4, CT5 and Escalade.</span></p>
+<p><a href="https://www.cars.com/research/cadillac/"><b>Research Cadillac Vehicles</b></a></p>
+<h2><b>Chevrolet</b></h2>
+<h3>Adaptive cruise control down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Chevrolet Blazer</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Chevrolet Equinox</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Chevrolet Impala</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Chevrolet Malibu</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Chevrolet Traverse</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Chevrolet Silverado 1500</span></li>
+</ul>
+<h3>What should I look for?</h3>
+<p><span style="font-weight: 400;">Depending on the car, look for Adaptive Cruise Control-Advanced or Adaptive Cruise Control-Camera.</span></p>
+<p><a href="https://www.cars.com/research/chevrolet/"><b>Research Chevrolet Vehicles</b></a></p>
+<h2><b>Chrysler</b></h2>
+<h3>Adaptive cruise control down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Chrysler 300</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Chrysler Pacifica</span></li>
+</ul>
+<h3>What should I look for?</h3>
+<p><span style="font-weight: 400;">Adaptive Cruise Control with Stop or Adaptive Cruise Control with Stop and Go.</span></p>
+<p><a href="https://www.cars.com/research/chrysler/"><b>Research Chrysler Vehicles</b></a></p>
+<h2><b>Dodge</b></h2>
+<h3>Adaptive cruise control down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Dodge Charger</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Dodge Durango</span></li>
+</ul>
+<h3>What should I look for?</h3>
+<p><span style="font-weight: 400;">Depending on the model, Adaptive Cruise Control with Stop or Adaptive Cruise Control Plus with Stop.</span></p>
+<p><a href="https://www.cars.com/research/dodge/"><b>Research Dodge Vehicles</b></a></p>
+<h2><b>Ford</b></h2>
+<h3>Adaptive cruise control down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Ford F-150</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Ford Fusion</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Ford Expedition</span></li>
+</ul>
+<h3>Adaptive cruise control and lane centering steering, both down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Ford Edge</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Ford Escape</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Ford Explorer</span></li>
+</ul>
+<h3>What should I look for?</h3>
+<p><span style="font-weight: 400;">Look for Adaptive Cruise Control with Stop-and-Go, though some owner’s manuals carry simpler designations. Ford expanded lane centering down to a stop for 2020 — for 2019, it was only available on the Edge — for a combination system dubbed Adaptive Cruise Control with Stop-and-Go and Lane Centering, or Intelligent Adaptive Cruise Control. The latter system includes both features.</span></p>
+<p><a href="https://www.cars.com/research/ford/"><b>Research Ford Vehicles</b></a></p>
+<h2><b>Genesis</b></h2>
+<h3>Adaptive cruise control down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Genesis G70</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Genesis G80</span></li>
+</ul>
+<h3>Adaptive cruise control and lane centering, both down to a stop:</h3>
+<ul>
+<li><b><span style="font-weight: 400;">2020 Genesis G90</span></b></li>
+</ul>
+<h3>What should I look for?</h3>
+<p><span style="font-weight: 400;">Look for Smart Cruise Control with Stop &amp; Go and Lane Keeping Assist. In our experience, LKA centers the vehicle above roughly 40 mph; Genesis called it lane centering </span><a href="https://www.cars.com/articles/which-cars-have-self-driving-features-for-2019-402645/"><span style="font-weight: 400;">last year</span></a><span style="font-weight: 400;"> but backed off such designations for 2020, although officials say the system hasn’t changed. It</span><span style="font-weight: 400;"> “does a pretty good job of centering the car in the lane,” Genesis representatives told <b style="color:#000;background:#ffcc99">Cars</b>.com in an email, but “the intent of that feature is still at its root to be a lane departure prevention aid — not a driver convenience feature like LFA.”</span></p>
+<p><span style="font-weight: 400;">LFA stands for Lane Following Assist, a feature that debuts in the refreshed G90 sedan. LFA keeps the vehicle centered at speeds up to 95 mph, while a new feature in the G90 called Highway <b style="color:#000;background:#66ffff">Driving</b> Assist works on “select interstate highways” to add automatic speed adjustment based on speed-limit signs.</span></p>
+<p><a href="https://www.cars.com/research/genesis/"><b>Research Genesis Vehicles</b></a></p>
+<h2><b>GMC</b></h2>
+<h3>Adaptive cruise control down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 GMC Acadia</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 GMC Terrain</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 GMC Sierra 1500</span></li>
+</ul>
+<h3>What should I look for?</h3>
+<p><span style="font-weight: 400;">Adaptive Cruise Control-Advanced on the Acadia and Adaptive Cruise Control-Camera on the Terrain and Sierra 1500.</span></p>
+<p><a href="https://www.cars.com/research/gmc/"><b>Research GMC Vehicles</b></a></p>
+<h2><b>Honda</b></h2>
+<h3>Lane-centering steering at higher speeds only:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Honda Fit</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Honda HR-V </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Honda Odyssey</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Honda Passport</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Honda Pilot</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Honda Ridgeline</span></li>
+</ul>
+<h3>Adaptive cruise control down to a stop with lane-centering steering at higher speeds only:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Honda Accord</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Honda Civic</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Honda Clarity</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Honda CR-V</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Honda Insight</span></li>
+</ul>
+<h3>What should I look for?</h3>
+<p><span style="font-weight: 400;">Honda bundles most driver-assist tech under its Honda Sensing suite of features. Depending on the car, Honda Sensing includes a lane-keeping assist system, adaptive cruise control with low-speed follow, or both. Note that half a dozen models — the Fit, HR-V, Odyssey, Passport, Pilot and Ridgeline — offer Honda Sensing with adaptive cruise control but </span><i><span style="font-weight: 400;">not</span></i><span style="font-weight: 400;"> low-speed follow. In those vehicles, adaptive cruise control deactivates below 22 mph.</span></p>
+<p><a href="https://www.cars.com/research/honda/"><b>Research Honda Vehicles</b></a></p>
+<h2><b>Hyundai</b></h2>
+<h3>Adaptive cruise control down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Hyundai Kona Electric</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Hyundai Elantra GT</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Hyundai Santa Fe</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Hyundai Tucson</span></li>
+</ul>
+<h3>Adaptive cruise control and lane-centering steering, both down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Hyundai Ioniq</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Hyundai Nexo</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Hyundai Palisade</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Hyundai Sonata</span></li>
+</ul>
+<h3>What should I look for?</h3>
+<p><span style="font-weight: 400;">Depending on the car, Smart Cruise Control with Stop/Start or Smart Cruise Control with Stop &amp; Go. Many such features are packaged into Hyundai’s SmartSense suite of safety and driver-assist features, though SmartSense contents will vary depending on the car. Lane-centering steering proliferates for 2020 — only the Nexo offered it in 2019 — in the form of Lane Following Assist, which can center the vehicle all the way down to a stop. An additional feature called Highway <b style="color:#000;background:#66ffff">Driving</b> Assist, offered on the Palisade, Ioniq and Sonata, adds traffic-sign recognition for automatic speed-limit adjustment on certain highways.</span></p>
+<p><span style="font-weight: 400;">By contrast, Lane </span><i><span style="font-weight: 400;">Keep</span></i><span style="font-weight: 400;"> Assist (sometimes Lane Keeping Assist) is a separate feature widely available across affiliated brands Hyundai, Kia and Genesis. Hyundai officials won’t call it lane centering, but in <b style="color:#000;background:#ffcc99">Cars</b>.com’s experience with various LKA-equipped <b style="color:#000;background:#ffcc99">cars</b> from the three brands, LKA does center the car in its lane above moderate speeds. Different <b style="color:#000;background:#ffcc99">cars</b> may have different setups, however, so test-drive them for yourself and see.</span></p>
+<p><a href="https://www.cars.com/research/hyundai/"><b>Research Hyundai Vehicles</b></a></p>
+<h2><b>Infiniti</b></h2>
+<h3>Adaptive cruise control down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Infiniti QX60</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Infiniti QX80</span></li>
+</ul>
+<h3>Adaptive cruise control down to a stop with lane-centering steering at higher speeds only:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Infiniti Q50</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Infiniti Q60</span></li>
+</ul>
+<h3>Adaptive cruise control and lane-centering steering, both down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Infiniti QX50</span></li>
+</ul>
+<h3>What should I look for?</h3>
+<p><span style="font-weight: 400;">Infiniti calls its adaptive cruise control with full-stop capabilities Intelligent Cruise Control with Full-Speed Range or some variation of that language. Lane-centering steering at higher speeds on the Q50 and Q60 goes by Active Lane Control, while Infiniti’s most robust system — which includes lane centering all the way down to a stop — comes in the QX50’s available ProPilot Assist.</span></p>
+<p><a href="https://www.cars.com/research/infiniti/"><b>Research Infiniti Vehicles</b></a></p>
+<h2><b>Jaguar</b></h2>
+<h3>Adaptive cruise control down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Jaguar E-Pace</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Jaguar XE</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Jaguar XF</span></li>
+</ul>
+<h3>Adaptive cruise control and lane-centering steering, both down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Jaguar F-Pace</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Jaguar I-Pace</span></li>
+</ul>
+<h3>What should I look for?</h3>
+<p><span style="font-weight: 400;">Look for Queue Assist or Stop and Go, both used in conjunction with Jaguar’s adaptive cruise control. The feature constitutes adaptive cruise control down to a stop in slow-moving traffic; Stop and Go functionality automatically resumes if the car ahead starts moving within a few seconds. Lane-centering steering, meanwhile, goes by Steering Assist; it functions from a stop up to 112 mph. Don’t confuse Steering Assist with Lane Keep Assist. Despite going by a similar name as some competitors’ lane-</span><i><span style="font-weight: 400;">centering</span></i><span style="font-weight: 400;"> systems, Jaguar’s LKA is a separate, widely available system that only intervenes as you approach lane markings.</span></p>
+<p><a href="https://www.cars.com/research/jaguar/"><b>Research Jaguar Vehicles</b></a></p>
+<h2><b>Jeep</b></h2>
+<h3>Adaptive cruise control down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Jeep Cherokee</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Jeep Compass</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Jeep Gladiator</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Jeep Grand Cherokee</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Jeep Wrangler</span></li>
+</ul>
+<h3>What should I look for?</h3>
+<p><span style="font-weight: 400;">Depending on the model, Adaptive Cruise Control Plus, Adaptive Cruise Control with Stop or simply Adaptive Cruise Control. Note that models like the Renegade </span><i><span style="font-weight: 400;">also</span></i><span style="font-weight: 400;"> offer adaptive cruise control, but only the vehicles above have full-stop capabilities, name similarities notwithstanding.</span></p>
+<p><a href="https://www.cars.com/research/jeep/"><b>Research Jeep Vehicles</b></a></p>
+<h2><b>Kia</b></h2>
+<h3>Adaptive cruise control down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Kia Cadenza</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Kia Niro</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Kia Optima</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Kia Sedona</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Kia Sorento</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Kia Sportage</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Kia Stinger</span></li>
+</ul>
+<h3>Adaptive cruise control and lane-centering steering, both down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Kia K900</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Kia Niro EV</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Kia Telluride</span></li>
+</ul>
+<h3>What should I look for?</h3>
+<p><span style="font-weight: 400;">Smart Cruise Control with Stop &amp; Go. On the K900, Niro EV and Telluride, lane-centering steering comes in the form of Lane Follow Assist. By contrast, Lane </span><i><span style="font-weight: 400;">Keep</span></i><span style="font-weight: 400;"> Assist (sometimes Lane Keeping Assist) is a separate feature widely available across affiliated brands Hyundai, Kia and Genesis. Kia officials won’t call it lane centering, but in <b style="color:#000;background:#ffcc99">Cars</b>.com’s experience with various LKA-equipped <b style="color:#000;background:#ffcc99">cars</b> from the three brands, LKA does center the car in its lane above a minimum speed (typically around 40 mph). Different <b style="color:#000;background:#ffcc99">cars</b> may have different setups, however, so test-drive for yourself and see.</span></p>
+<p><a href="https://www.cars.com/research/kia/"><b>Research Kia Vehicles</b></a></p>
+<h2><b>Land Rover</b></h2>
+<h3>Adaptive cruise control and lane-centering steering, both down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Land Rover Discovery</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Land Rover Discovery Sport</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Land Rover Range Rover</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Land Rover Range Rover Evoque</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Land Rover Range Rover Sport</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Land Rover Range Rover Velar</span></li>
+</ul>
+<h3>What should I look for?</h3>
+<p><span style="font-weight: 400;">Look for Queue Assist or Stop and Go, both used in conjunction with Land Rover’s adaptive cruise control. The feature constitutes adaptive cruise control down to a stop in slow-moving traffic; Stop and Go functionality automatically resumes movement if the car ahead starts moving within a few seconds. Lane-centering steering, meanwhile, goes by Steering Assist; it functions from a stop up to 112 mph. Don’t confuse it with Lane Keep Assist; despite going by the same name as some competitors’ lane-</span><i><span style="font-weight: 400;">centering</span></i><span style="font-weight: 400;"> systems, Land Rover’s LKA is a separate, widely available system that only intervenes as you approach lane markings. As of this writing, Land Rover has yet to share full equipment for the new 2020 Defender.</span></p>
+<p><a href="https://www.cars.com/research/land_rover/"><b>Research Land Rover Vehicles</b></a></p>
+<h2><b>Lexus</b></h2>
+<h3>Adaptive cruise control down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Lexus LX</span></li>
+</ul>
+<h3>Adaptive cruise control and lane-centering steering, both down to stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Lexus ES</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Lexus GS</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Lexus LC</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Lexus LS</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Lexus NX</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Lexus RX</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Lexus UX</span></li>
+</ul>
+<h3>What should I look for?</h3>
+<p><span style="font-weight: 400;">All-Speed Dynamic Radar Cruise Control, which works down to a stop, though Lexus sometimes also calls it Dynamic Radar Cruise Control with Full-Speed Range. Lane-centering steering comes as either Lane-Keeping Assist (GS, LC) or Lane Tracing Assist (ES, LS, NX, RX, UX). Both systems work down to a stop, but LTA is a more advanced function that can trace the path of the car in front, not just lane markings, and keep the vehicle centered on curvier roads.</span></p>
+<p><a href="https://www.cars.com/research/lexus/"><b>Research Lexus Vehicles</b></a></p>
+<h2><b>Lincoln</b></h2>
+<h3>Adaptive cruise control down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Lincoln Continental</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Lincoln MKZ</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Lincoln Navigator</span></li>
+</ul>
+<h3>Adaptive cruise control with lane-centering steering, both down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Lincoln Aviator</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Lincoln Corsair</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Lincoln Nautilus</span></li>
+</ul>
+<h3>What should I look for?</h3>
+<p><span style="font-weight: 400;">Adaptive Cruise Control with Stop-and-Go. The Aviator, Corsair and Nautilus offer an updated version of Lincoln’s Co-Pilot360 system dubbed Co-Pilot360 Plus, which adds lane centering.</span></p>
+<p><a href="https://www.cars.com/research/lincoln/"><b>Research Lincoln Vehicles</b></a></p>
+<h2><b>Maserati</b></h2>
+<h3>Adaptive cruise control with lane-centering steering, both down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Maserati Ghibli</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Maserati Levante</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Maserati Quattroporte</span></li>
+</ul>
+<h3>What should I look for?</h3>
+<p><span style="font-weight: 400;">Maserati’s available Adaptive Cruise Control functions all the way down to a stop. The brand’s Highway Assist System can center the car all the way to a stop, but it only works on highways intuited through GPS. Don’t confuse it with Lane Keep Assist, a separate system that works above 37 mph across a broader spectrum of roads but only intervenes as you approach the lane markings.</span></p>
+<p><a href="https://www.cars.com/research/maserati/"><b>Research Maserati Vehicles</b></a></p>
+<h2><b>Mazda</b></h2>
+<h3>Adaptive cruise control down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Mazda3</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Mazda6</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Mazda CX-3</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Mazda CX-30</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Mazda CX-5</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Mazda CX-9</span></li>
+</ul>
+<h3>What should I look for?</h3>
+<p><span style="font-weight: 400;">Mazda Radar Cruise Control with Stop &amp; Go. Mazda offers a Traffic Jam Assist system with low-speed lane-centering steering in some international markets for the Mazda3, but the U.S. isn’t one of them for now.</span></p>
+<p><a href="https://www.cars.com/research/mazda/"><b>Research Mazda Vehicles</b></a></p>
+<h2><b>Mercedes-Benz</b></h2>
+<h3>Adaptive cruise control down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Mercedes-AMG GT</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Mercedes-Benz G-Class</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Mercedes-Benz GLA-Class</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Mercedes-Benz SLC-Class</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Mercedes-Benz Sprinter</span></li>
+</ul>
+<h3>Adaptive cruise control and lane-centering steering, both down to a stop:</h3>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Mercedes-AMG GT 4-Door Coupe</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Mercedes-Benz A-Class</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Mercedes-Benz C-Class</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Mercedes-Benz CLA-Class</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Mercedes-Benz CLS-Class</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Mercedes-Benz E-Class</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Mercedes-Benz GLB-Class</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Mercedes-Benz GLC-Class</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Mercedes-Benz GLE-Class</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Mercedes-Benz GLS-Class</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Mercedes-Benz S-Class</span></li>
+<li style="font-weight: 400;"><b><span style="font-weight: 400;">2020 Mercedes-Benz SL-Class</span></b></li>
+</ul>
+</li>
+</ul>
+<h3><b>What should I look for?</b></h3>
+<p><span style="font-weight: 400;">Active Distance Assist Distronic and Active Steering Assist.</span></p>
+<p><a href="https://www.cars.com/research/mercedes_benz/"><b>Research Mercedes-Benz Vehicles</b></a></p>
+<h2><b>Mini</b></h2>
+<h3>Adaptive cruise control down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Mini Countryman</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Mini Clubman</span></li>
+</ul>
+<h3>What should I look for?</h3>
+<p><span style="font-weight: 400;">Depending on the context, Active Cruise Control or Adaptive Cruise Control.</span></p>
+<h2><b>Mitsubishi</b></h2>
+<h3>Adaptive cruise control down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Mitsubishi Outlander</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Mitsubishi Eclipse Cross</span></li>
+</ul>
+<h3>What should I look for?</h3>
+<p><span style="font-weight: 400;">Mitsubishi simply calls it Adaptive Cruise Control.</span></p>
+<p><a href="https://www.cars.com/research/mitsubishi/"><b>Research Mitsubishi Vehicles</b></a></p>
+<h2><b>Nissan</b></h2>
+<h3>Adaptive cruise control down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Nissan Armada</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Nissan Maxima</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Nissan Murano</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Nissan Pathfinder</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Nissan Sentra</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Nissan Titan</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Nissan Versa</span></li>
+</ul>
+<h3>Adaptive cruise control with lane-centering steering, both down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Nissan Altima</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Nissan Leaf</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Nissan Rogue</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Nissan Rogue Sport</span></li>
+</ul>
+<h3>What should I look for?</h3>
+<p><span style="font-weight: 400;">Intelligent Cruise Control with Full Speed Range or some derivative — ICC with Full Speed Range and Hold in the Leaf, for example. It’s simply Intelligent Cruise Control in many Nissan models, but the system can bring you to a halt in bumper-to-bumper traffic. Lane centering comes by way of Nissan’s ProPilot Assist system, which combines adaptive cruise control and lane-centering steering, both down to a stop.</span></p>
+<p><a href="https://www.cars.com/research/nissan/"><b>Research Nissan Vehicles</b></a></p>
+<h2><b>Polestar</b></h2>
+<h3>Adaptive cruise control and lane-centering steering, both down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Polestar 1</span></li>
+</ul>
+<h3>What should I look for?</h3>
+<p><span style="font-weight: 400;">Polestar&#8217;s Pilot Assist system, which a spokesperson confirmed to <b style="color:#000;background:#ffcc99">Cars</b>.com features the same technology as that found in parent company Volvo&#8217;s vehicles and incorporates lane-centering steering and adaptive cruise control all the way to a stop.</span></p>
+<p><a href="https://www.cars.com/articles/volvo-gets-serious-about-electrifying-polestar-1420695829429/"><strong>Read More About Polestar</strong></a></p>
+<h2><b>Porsche</b></h2>
+<h3>Adaptive cruise control down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Porsche 718</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Porsche 911</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Porsche Panamera</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Porsche Macan</span></li>
+</ul>
+<h3>Adaptive cruise control and lane-centering, both down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Porsche Cayenne</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Porsche Taycan</span></li>
+</ul>
+<h3>What should I look for?</h3>
+<p><span style="font-weight: 400;">Simply, Adaptive Cruise Control. Lane centering goes by Active Lane Keep on the Cayenne, while the Taycan offers Traffic Jam Assist with Active Lane Keeping. Porsche representatives called the Taycan’s lane-centering Active Lane Assist. Whether ALK or ALA, the systems are capable of centering their respective vehicles down to a stop.</span></p>
+<p><a href="https://www.cars.com/research/porsche/"><b>Research Porsche Vehicles</b></a></p>
+<h2><b>Ram</b></h2>
+<h3>Adaptive cruise control down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Ram 1500</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Ram 2500</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Ram 3500</span></li>
+</ul>
+<h3>What should I look for?</h3>
+<p><span style="font-weight: 400;">Adaptive Cruise Control with Stop on the Ram 2500/3500 or Adaptive Cruise Control with Stop, Go and Hold on the Ram 1500.</span></p>
+<p><a href="https://www.cars.com/research/ram/"><b>Research Ram Vehicles</b></a></p>
+<h2><b>Subaru</b></h2>
+<h3>Adaptive cruise control down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Subaru Ascent</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Subaru Crosstrek</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Subaru Impreza</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Subaru WRX</span></li>
+</ul>
+<h3>Adaptive cruise control and lane-centering, both down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Subaru Forester</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Subaru Legacy</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Subaru Outback</span></li>
+</ul>
+<h3>What should I look for?</h3>
+<p><span style="font-weight: 400;">Subaru’s EyeSight system, which bundles adaptive cruise control down to a stop with various safety technologies, is available on all models except the BRZ. On the Forester, Legacy and Outback, an updated version of EyeSight adds Advanced Adaptive Cruise Control with Lane Centering, which can center your vehicle all the way down to a stop. Don’t confuse it with EyeSight’s Lane Keep Assist function, which can only apply steering corrections as you approach lane markings; it won’t actively center the vehicle in its lane.</span></p>
+<p><a href="https://www.cars.com/research/subaru/"><b>Research Subaru Vehicles</b></a></p>
+<h2><b>Tesla</b></h2>
+<h3>Adaptive cruise control and lane-centering steering down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Tesla Model 3</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Tesla Model S</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Tesla Model X</span></li>
+</ul>
+<h3>What should I look for?</h3>
+<p><span style="font-weight: 400;">Autopilot, Tesla’s wide-reaching semi-autonomous <b style="color:#000;background:#66ffff">driving</b> system. Although Tesla bills it as a hands-on-the-wheel system, </span><a href="https://www.cars.com/articles/tesla-autopilot-first-test-1420683859346/"><span style="font-weight: 400;">early versions</span></a><span style="font-weight: 400;"> allowed you to drive hands-free for extended periods of time. The automaker has </span><a href="https://www.cars.com/articles/tesla-updates-autopilot-for-safer-operation-more-use-of-radar-1420690342438/"><span style="font-weight: 400;">since updated</span></a><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Autopilot’s software on new <b style="color:#000;background:#ffcc99">cars</b> and ones already on the road (via over-the-air software updates) to deactivate itself if it senses drivers’ hands are repeatedly off the wheel. Note that, since Tesla regularly updates significant aspects of its vehicles after you buy them, capabilities in the above <b style="color:#000;background:#ffcc99">cars</b> may change as they’re on the road.</span></p>
+<p><a href="https://www.cars.com/research/tesla/"><b>Research Tesla Vehicles</b></a></p>
+<h2><b>Toyota</b></h2>
+<h3>Adaptive cruise control down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Toyota Avalon</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Toyota Camry</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Toyota C-HR</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Toyota Prius</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Toyota Supra</span></li>
+</ul>
+<h3>Adaptive cruise control and lane-centering steering, both down to stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Toyota Corolla</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Toyota Highlander</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Toyota RAV4</span></li>
+</ul>
+<h3>What should I look for?</h3>
+<p><span style="font-weight: 400;">Adaptive cruise control down to a stop comes through Toyota’s Full-Speed Dynamic Radar Cruise Control, sometimes called Full-Speed </span><i><span style="font-weight: 400;">Range</span></i><span style="font-weight: 400;"> Dynamic Radar Cruise Control or Dynamic Radar Cruise Control with full-speed range — the operative phrase, obviously, being “full-speed.” For lane-centering steering, look for Lane Tracing Assist or Lane Trace Assist, depending on the vehicle.</span></p>
+<p><a href="https://www.cars.com/research/toyota/"><b>Research Toyota Vehicles</b></a></p>
+<h2><b>Volkswagen</b></h2>
+<h3>Adaptive cruise control down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Volkswagen Arteon</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Volkswagen Atlas</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Volkswagen Golf GTI</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Volkswagen Jetta</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Volkswagen Tiguan</span></li>
+</ul>
+<h3>Adaptive cruise control down to a stop and lane-centering steering at lower speeds only:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Volkswagen Atlas Cross Sport</span></li>
+</ul>
+<h3>What should I look for?</h3>
+<p><span style="font-weight: 400;">Volkswagen simply calls it Adaptive Cruise Control, a system capable of stop-and-go following. The Atlas Cross Sport adds available Traffic Jam Assist, which includes lane centering from a standstill up to 37 mph.</span></p>
+<p><a href="https://www.cars.com/research/volkswagen/"><b>Research Volkswagen Vehicles</b></a></p>
+<h2><b>Volvo</b></h2>
+<h3>Adaptive cruise control and lane-centering steering, both down to a stop:</h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Volvo S60</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Volvo S90</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Volvo V60</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Volvo V90</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Volvo XC40</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Volvo XC60</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2020 Volvo XC90</span></li>
+</ul>
+<h3>What should I look for?</h3>
+<p><span style="font-weight: 400;">Volvo’s Pilot Assist system, which incorporates lane-centering steering and adaptive cruise control all the way to a stop.</span></p>
+<p><a href="https://www.cars.com/research/volvo/"><b>Research Volvo Vehicles</b></a></p>
+<p><b>More From <b style="color:#000;background:#ffcc99">Cars</b>.com:</b></p>
+<ul>
+<li style="font-weight: 400;"><a href="https://www.cars.com/articles/which-cars-have-self-driving-features-for-2018-1420699785509/"><span style="font-weight: 400;">Which <b style="color:#000;background:#ffcc99">Cars</b> Have <b style="color:#000;background:#ffff66">Self</b>-<b style="color:#000;background:#66ffff">Driving</b> Features for 2018?</span></a></li>
+<li style="font-weight: 400;"><a href="https://www.cars.com/articles/which-cars-have-self-driving-features-for-2017-1420694547867/"><span style="font-weight: 400;">Which <b style="color:#000;background:#ffcc99">Cars</b> Have <b style="color:#000;background:#ffff66">Self</b>-<b style="color:#000;background:#66ffff">Driving</b> Features for 2017?</span></a></li>
+<li style="font-weight: 400;"><a href="https://www.cars.com/articles/self-driving-cars-the-big-list-of-which-automakers-do-what-1420684684889/"><span style="font-weight: 400;">Which <b style="color:#000;background:#ffcc99">Cars</b> Have <b style="color:#000;background:#ffff66">Self</b>-<b style="color:#000;background:#66ffff">Driving</b> Features for 2016?</span></a><span style="font-weight: 400;"> </span></li>
+<li style="font-weight: 400;"><a href="https://www.cars.com/news/autonomous/"><span style="font-weight: 400;">More <b style="color:#000;background:#ffff66">Self</b>-<b style="color:#000;background:#66ffff">Driving</b> Car Coverage</span></a></li>
+</ul>
+<h2><b>More About the Systems</b></h2>
+<p><span style="font-weight: 400;">Myriad differences exist in the systems listed above, and performance varies widely. In our evaluations, some systems maintain fastidious lane centering and respond smoothly to changing traffic conditions. Others can allow significant wandering in your lane, react suddenly to changing traffic patterns or both. Varying conditions, from weather to road markings, can affect whether — and how well — each system works. It’s a good idea to download the owner’s manual of your prospective car to learn how its <b style="color:#000;background:#ffff66">self</b>-<b style="color:#000;background:#66ffff">driving</b> systems work, and ask a dealer specialist for a tutorial when you buy the car. And, of course, pay attention to the road.</span></p>
+<p><span style="font-weight: 400;">Want to know more? Read on.</span></p>
+<h3>Adaptive Cruise Control Down to a Stop</h3>
+<p><span style="font-weight: 400;">This feature builds on basic adaptive cruise control, a </span><a href="http://wardsauto.com/news-analysis/smart-cruisemercedes-first-adaptive-cruise-control-system"><span style="font-weight: 400;">decades-old feature</span></a><span style="font-weight: 400;"> that maintains a selectable distance between you and the car ahead. Adaptive cruise that works at </span><i><span style="font-weight: 400;">higher</span></i><span style="font-weight: 400;"> speeds is widely available, but systems that function down to a full standstill are an important next step toward managing bumper-to-bumper traffic. Such systems can bring you to a full stop in traffic. Some require you to apply the brakes and reaccelerate afterward, while others can resume speed when the car ahead moves within a given timeframe.</span></p>
+<h3>Lane-Centering Steering</h3>
+<p><span style="font-weight: 400;">This goes beyond lane-departure steering assist, which intervenes only as you approach or cross the lane markings — and often pinballs you back toward the </span><i><span style="font-weight: 400;">opposite</span></i><span style="font-weight: 400;"> markings — to actively center the vehicle in its lane by tracking lane markings, the vehicle ahead or some combination of the two. Such systems can often negotiate mild curves, as well, but nearly all of them require you to keep your hands on the wheel, issuing warnings and eventually deactivating if they sense a lack of steering force after a short time. Many lane-centering steering systems will also deactivate if lane markings disappear, which often occurs with construction zones, merging lanes or poorly marked roads. Some systems operate only above or below a certain speed threshold, but most modern systems now function from a stop all the way up to highway speeds.</span></p>
+<h3>Hands-Free Steering</h3>
+<p><span style="font-weight: 400;">This centers the car </span><i><span style="font-weight: 400;">without </span></i><span style="font-weight: 400;">your hands on the wheel. For 2020, only two systems — Cadillac’s Super Cruise and BMW’s Extended Traffic Jam Assistant — do this. Both require you to pay attention, intuited via driver-facing cameras.</span></p>
+<h3>Attention-Free <b style="color:#000;background:#66ffff">Driving</b></h3>
+<p><span style="font-weight: 400;">Conditional automated <b style="color:#000;background:#66ffff">driving</b>, where your car putters along in specific situations and you </span><i><span style="font-weight: 400;">don’t </span></i><span style="font-weight: 400;">have to pay attention, was to come with Audi’s new </span><a href="https://www.cars.com/articles/2019-audi-a8-has-high-self-driving-capability-are-we-ready-1420698230637/"><span style="font-weight: 400;">Traffic Jam Pilot</span></a><span style="font-weight: 400;">, a feature made possible in low-speed traffic through some two dozen camera, radar, sonic and laser sensors on the brand’s flagship A8 sedan. (You’d have to be able to take over if the system determined that conditions required it, so you couldn’t, for example, take a nap.) But regulatory challenges </span><a href="https://www.cars.com/articles/heres-the-rub-new-audi-a8-can-massage-your-feet-but-not-drive-itself-1420700846380/"><span style="font-weight: 400;">stymied the technology</span></a><span style="font-weight: 400;"> for the U.S. market, so, as of now, the A8 — or any other Audi in the U.S., for that matter — does not offer TJP. As of yet, no production car in the U.S. has advanced to this point.</span></p>
+<p><strong>Editor&#8217;s note:</strong> This story was updated March 12, 2020, to reflect that lane centering from Jaguar and Land Rover works down to a stop.</p>
+<p><i><span style="font-weight: 400;"><b style="color:#000;background:#ffcc99">Cars</b>.com’s Editorial department is your source for automotive news and reviews. In line with <b style="color:#000;background:#ffcc99">Cars</b>.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of <b style="color:#000;background:#ffcc99">Cars</b>.com’s advertising, sales and sponsored content departments.</span></i></p>
+
+                <div class="article-share">
+                    <span class="share">Share</span>
+                    <cars-social-share-buttons></cars-social-share-buttons>
+                </div>
+                <div class="article-footer">
+        <div class="pattern-markup article-attribution">
+                    <figure class="image-container ng-scope">
+                            <img src="https://static.carsdn.co/cldstatic/wp-content/uploads/74959434-1425053042814.jpg" class="image-expert">
+                        <figcaption class="image__caption">
+                            Senior Consumer Affairs Editor Kelsey Mays likes quality, reliability, safety and practicality. But he also likes a fair price.<a href="mailto:Editor@cars.com" class="article-att_link" cars-tracking-omniture-custom="author-email" data-linkname="author-email" data-customlink="click"> Email Kelsey</a>
+                        </figcaption>
+                    </figure>
+
+        </div>
+</div>
+
+    <cars-email-capture-form category='create-alert-news-article' class='article__email-capture-mobile' api-key='' apigee-host=''></cars-email-capture-form>
+
+            </div>
+                <div class="rail">
+            <div class="topStories">
+                <div class="cui-delta">Top Stories</div>
+                <ul>
+                        <li><a class="top-story-anchor top-story-index-0" href="/articles/what-are-the-best-4th-of-july-car-deals-on-the-most-american-cars-423278/" cars-tracking-omniture-standard="what-are-the-best-4th-of-july-car-deals-on-the-most-american-cars?-top-story" data-linkname="what-are-the-best-4th-of-july-car-deals-on-the-most-american-cars?-top-story">What Are the Best 4th of July Car Deals on the Most American <b style="color:#000;background:#ffcc99">Cars</b>?</a></li>
+                        <li><a class="top-story-anchor top-story-index-1" href="/articles/the-cars-com-2020-american-made-index-which-cars-are-most-american-422711/" cars-tracking-omniture-standard="the-cars.com-2020-american-made-index:-which-cars-are-most-american?-top-story" data-linkname="the-cars.com-2020-american-made-index:-which-cars-are-most-american?-top-story">The <b style="color:#000;background:#ffcc99">Cars</b>.com 2020 American-Made Index: Which <b style="color:#000;background:#ffcc99">Cars</b> Are Most American?</a></li>
+                        <li><a class="top-story-anchor top-story-index-2" href="/articles/2020-hyundai-sonata-hybrid-review-ordinary-in-the-best-way-422122/" cars-tracking-omniture-standard="2020-hyundai-sonata-hybrid-review:-ordinary-in-the-best-way-top-story" data-linkname="2020-hyundai-sonata-hybrid-review:-ordinary-in-the-best-way-top-story">2020 Hyundai Sonata Hybrid Review: Ordinary in the Best Way</a></li>
+                        <li><a class="top-story-anchor top-story-index-3" href="/articles/2021-dodge-charger-srt-hellcat-redeye-youre-not-actually-surprised-are-you-423440/" cars-tracking-omniture-standard="2021-dodge-charger-srt-hellcat-redeye:-you’re-not-actually-surprised,-are-you?-top-story" data-linkname="2021-dodge-charger-srt-hellcat-redeye:-you’re-not-actually-surprised,-are-you?-top-story">2021 Dodge Charger SRT Hellcat Redeye: You’re Not Actually Surprised, Are You?</a></li>
+                </ul>
+            </div>
+
+                <div class="module">
+                    <div class="cui-delta">Start Shopping</div>
+                    <ul>
+                            <li><a class="buy-link" href="/shopping/hyundai-palisade/"  data-linkname="find-cars"><cui-icon class="rail-links_icons" name="map-line"></cui-icon>Find a Hyundai Palisade Near You</a></li>
+                            <li><a class="research-link" href="/research/hyundai-palisade-2020/" data-linkname="research-model"><cui-icon class="rail-links_icons spec-icon" name="research-line"></cui-icon>2020 Hyundai Palisade Specs &amp; Reviews</a></li>
+                            <li><a class="compare-link" href="/research/compare/?vehicles&#x3D;hyundai-palisade-2020/" data-linkname="compare-vehicles"><cui-icon class="rail-links_icons" name="compare-line"></cui-icon>Compare the 2020 Hyundai Palisade</a></li>
+                    </ul>
+                </div>
+
+            <cars-ad-creative class="module cubeAd" slot="/6427/cdn.cars.news/article" size="ad-rail-l" targeting="adapt({'adCat':'None', 'cat':'', 'adMMYT':'', 'artID':'418934'})" data-placement="14456029"></cars-ad-creative>
+
+            <div class="topStories">
+                <div class="cui-delta">Recent Stories</div>
+                <ul>
+                        <li><a class="recent-story-anchor recent-story-index-0" href="/articles/2021-ford-f-150-mustang-mach-e-to-introduce-improved-real-time-traffic-info-with-sync-4-423654/" data-linkname="">2021 Ford F-150, Mustang Mach-E to Introduce Improved Real-Time Traffic Info With Sync 4</a></li>
+                        <li><a class="recent-story-anchor recent-story-index-1" href="/articles/10-biggest-news-stories-of-the-week-2020-corvette-2021-ford-f-150-just-cant-deal-423650/" data-linkname="">10 Biggest News Stories of the Week: 2020 Corvette, 2021 Ford F-150 Just Can’t Deal</a></li>
+                        <li><a class="recent-story-anchor recent-story-index-2" href="/articles/how-the-2021-hyundai-elantra-stands-out-vs-honda-civic-toyota-corolla-423600/" data-linkname="">How the 2021 Hyundai Elantra Stands Out Vs. Honda Civic, Toyota Corolla</a></li>
+                        <li><a class="recent-story-anchor recent-story-index-3" href="/articles/2021-dodge-durango-brands-only-suv-gets-new-lease-on-life-hellcat-model-423438/" data-linkname="">2021 Dodge Durango: Brand’s Only SUV Gets New Lease on Life, Hellcat Model</a></li>
+                </ul>
+            </div>
+    </div>
+
+        </div>
+    </div>
+</article>
+
+
+    <cars-email-capture-form category='create-alert-news-article' class='article__email-capture ' api-key='BnnjZrdAkcOXsGGCguJS80gFPJHtWNJw' apigee-host='https://api.cars.com'></cars-email-capture-form>
+
+<div class="editorialPicks-wrapper">
+    <a name="expert-articles">&nbsp;</a>
+    <section class="editorialPicks-section mfc-a">
+            
+            <div class="editorialPicks-container ">
+             <div class="ad-adjustment">
+                <div class="cui-beta" id="mfc-component-title">More From <b style="color:#000;background:#ffcc99">Cars</b>.com</div>
+                <div class="">
+                    <a class="col-st-4 editorialPicks-article editorial-picks-article-thumb-0 backdrop-0" href="/articles/child-in-car-heatstroke-prevention-calls-for-high-tech-solutions-vigilant-parents-423502/"  data-linkname="article-thumb-more" >
+                        <div class="col-mb-4 col-st-12 img-container  list-article__image">
+                            <div id="more-from-cars-photo">
+                                <img src="https://static.carsdn.co/cldstatic/wp-content/uploads/heatstroke_map-1.jpg" alt="Child In-Car Heatstroke Prevention Calls for High-Tech Solutions, Vigilant Parents">
+                            </div>
+                        </div>
+                    </a>
+                    <a class="col-st-4 editorialPicks-article editorial-picks-article-name-0" href="/articles/child-in-car-heatstroke-prevention-calls-for-high-tech-solutions-vigilant-parents-423502/" data-linkname="article-name-more" >
+                        <div id="more-from-cars-title" class="col-mb-8 col-st-12">
+                            <span class="cui-delta mfc-article-headline">Child In-Car Heatstroke Prevention Calls for High-Tech Solutions, Vigilant Parents</span>
+                        </div>
+                        <div class="clearfix"></div>
+                    </a>
+                </div>
+                <div class="">
+                    <a class="col-st-4 editorialPicks-article editorial-picks-article-thumb-1 backdrop-1" href="/articles/how-do-car-seats-fit-in-a-2020-subaru-ascent-423352/"  data-linkname="article-thumb-more" >
+                        <div class="col-mb-4 col-st-12 img-container  list-article__image">
+                            <div id="more-from-cars-photo">
+                                <img src="https://static.carsdn.co/cldstatic/wp-content/uploads/subaru-ascent-touring-awd-2020-03-angle--blue--exterior--front.jpg" alt="How Do Car Seats Fit in a 2020 Subaru Ascent?">
+                            </div>
+                        </div>
+                    </a>
+                    <a class="col-st-4 editorialPicks-article editorial-picks-article-name-1" href="/articles/how-do-car-seats-fit-in-a-2020-subaru-ascent-423352/" data-linkname="article-name-more" >
+                        <div id="more-from-cars-title" class="col-mb-8 col-st-12">
+                            <span class="cui-delta mfc-article-headline">How Do Car Seats Fit in a 2020 Subaru Ascent?</span>
+                        </div>
+                        <div class="clearfix"></div>
+                    </a>
+                </div>
+                <div class="">
+                    <a class="col-st-4 editorialPicks-article editorial-picks-article-thumb-2 backdrop-2" href="/articles/2020-hyundai-sonata-hybrid-review-ordinary-in-the-best-way-422122/"  data-linkname="article-thumb-more" >
+                        <div class="col-mb-4 col-st-12 img-container  list-article__image">
+                            <div id="more-from-cars-photo">
+                                <img src="https://static.carsdn.co/cldstatic/wp-content/uploads/hyundai-sonata-hybrid-2020-01-exterior--grey--profile.jpg" alt="2020 Hyundai Sonata Hybrid Review: Ordinary in the Best Way">
+                            </div>
+                        </div>
+                    </a>
+                    <a class="col-st-4 editorialPicks-article editorial-picks-article-name-2" href="/articles/2020-hyundai-sonata-hybrid-review-ordinary-in-the-best-way-422122/" data-linkname="article-name-more" >
+                        <div id="more-from-cars-title" class="col-mb-8 col-st-12">
+                            <span class="cui-delta mfc-article-headline">2020 Hyundai Sonata Hybrid Review: Ordinary in the Best Way</span>
+                        </div>
+                        <div class="clearfix"></div>
+                    </a>
+                </div>
+            </div>
+            <div class='ad-adjustment'>
+                <section class="cui-page-section center">
+    <cars-ad-creative slot="/6427/cdn.cars.news/article" size="cube-no-desktop" targeting="adapt({'adCat':'None', 'cat':'', 'adMMYT':'', 'artID':''})"  data-placement="14456029"></cars-ad-creative>
+</section>
+
+            </div>
+        </div>
+    </section>
+</div>
+
+
+
+            
+
+        </div>
+
+        <div class="global-footer">
+                <footer>
+        <div class="global-footer__container">
+            <div class="global-footer__list cui-accordion-section">
+                <input id="tab-one" class="cui-accordion-section__input footer_accordion_input" type="checkbox">
+                <label for="tab-one" class="cui-epsilon global-footer__heading cui-accordion-section__header footer_accordion_header">Our Company
+                    <svg width="11.893px" height="6.503px" class="cui-accordion-section__icon"><use xlink:href="#chevron"></use></svg>
+                </label>
+                <div class="cui-accordion-section__content">
+                    <ul class="global-footer__links">
+                        <li>
+                            <a href="/about/" data-customlink="" data-linkname="">About <b style="color:#000;background:#ffcc99">Cars</b>.com</a>
+                        </li>
+                        <li>
+                            <a href="https://investor.cars.com/overview/default.aspx" data-customlink="pv2" data-linkname="Investor Relations">Investor Relations</a>
+                        </li>
+                        <li>
+                            <a href="/contact/" data-customlink="" data-linkname="">Contact <b style="color:#000;background:#ffcc99">Cars</b>.com</a>
+                        </li>
+                        <li>
+                            <a href="/mobile/" data-customlink="" data-linkname="">Mobile Apps</a>
+                        </li>
+                        <li>
+                            <a href="/sitemap/" data-customlink="" data-linkname="">Site Map</a>
+                        </li>
+                        <li>
+                            <a href="/careers/" data-customlink="" data-linkname="">Careers</a>
+                        </li>
+                        <li>
+                            <a href="/fraud-awareness/" data-customlink="" data-linkname="">Fraud Awareness</a>
+                        </li>
+                        <li>
+                            <a href="https://wrightsmedia.com/sites/cars/" data-customlink="" data-linkname="footer-licensing-reprints">Licensing &amp; Reprints</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="global-footer__list cui-accordion-section">
+                <input id="tab-two" class="cui-accordion-section__input  footer_accordion_input" type="checkbox">
+                <label for="tab-two" class="cui-epsilon global-footer__heading cui-accordion-section__header  footer_accordion_header">Buying &amp; Selling
+                    <svg width="11.893px" height="6.503px" class="cui-accordion-section__icon"><use xlink:href="#chevron"></use></svg>
+                </label>
+                <div class="cui-accordion-section__content">
+                    <nav>
+                        <ul class="global-footer__links">
+                            <li>
+                                <a href="/shopping/" data-customlink="" data-linkname="">Find a Car</a>
+                            </li>
+                            <li>
+                                <a href="/cpo/" data-customlink="" data-linkname="">Certified Pre-Owned</a>
+                            </li>
+                            <li>
+                                <a href="/sell/" data-customlink="" data-linkname="">Sell Your Car</a>
+                            </li>
+                            <li>
+                                <a href="/sell/book-value/" data-customlink="" data-linkname="">Car Book Values</a>
+                            </li>
+                            <li>
+                                <a href="/dealers/buy/" data-customlink="" data-linkname="">Car Dealers</a>
+                            </li>
+                            <li>
+                                <a href="/price/" data-customlink="" data-linkname="">Compare Car Prices</a>
+                            </li>
+                            <li>
+                                <a href="/sitemap/city-listings/" data-customlink="" data-linkname="">Listings by City</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+            <div class="global-footer__list cui-accordion-section">
+                <input id="tab-three" class="cui-accordion-section__input footer_accordion_input" type="checkbox">
+                <label for="tab-three" class="cui-epsilon global-footer__heading cui-accordion-section__header footer_accordion_header">Our Partners
+                    <svg width="11.893px" height="6.503px" class="cui-accordion-section__icon"><use xlink:href="#chevron"></use></svg>
+                </label>
+                <div class="cui-accordion-section__content">
+                    <ul class="global-footer__links">
+                        <li>
+                            <a href="https://www.auto.com/" data-customlink="" data-linkname="">Auto.com</a>
+                        </li>
+                        <li>
+                            <a href="https://www.newcars.com/" data-customlink="" data-linkname="">NewCars.com</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="global-footer__connect">
+                <ul class="social-icon-list">
+                    <li class="social-icon--twitter">
+                        <a class="icon" href="https://twitter.com/carsdotcom/" data-customlink="" data-linkname="">
+                            <svg height="24" width="24"><use xlink:href="#twitter"></use></svg>
+                        </a>
+                    </li>
+                    <li class="social-icon--facebook">
+                        <a class="icon" href="https://www.facebook.com/CarsDotCom/" data-customlink="" data-linkname="">
+                            <svg height="24" width="24"><use xlink:href="#facebook"></use></svg>
+                        </a>
+                    </li>
+                    <li class="social-icon--youtube">
+                        <a class="icon" href="https://www.youtube.com/user/Carscom/" data-customlink="" data-linkname="">
+                            <svg height="24" width="24"><use xlink:href="#youtube"></use></svg>
+                        </a>
+                    </li>
+                    <li class="social-icon--instagram">
+                        <a class="icon" href="https://www.instagram.com/carsdotcom/?hl=en" data-customlink="" data-linkname="">
+                            <svg height="24" width="24"><use xlink:href="#instagram"></use></svg>
+                        </a>
+                    </li>
+                    <li class="social-icon--linkedin">
+                        <a class="icon" href="https://www.linkedin.com/company/cars-com" data-customlink="" data-linkname="">
+                            <svg height="24" width="24"><use xlink:href="#linkedin"></use></svg>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="global-footer__meta">
+            <div class="global-footer__container">
+                <div class="privacy">
+                    <a href="/about/terms/">
+                        Terms of Service
+                    </a>
+                    <a href="/about/privacy/">
+                        Privacy Statement
+                    </a>
+                    <a href="/about/ccpa-privacy-notice/">
+                        California Privacy Notice
+                    </a>
+                    <a href="/about/ad-choices/">
+                        Ad Choices
+                    </a>
+                    <a href="/contact">
+                        [+] Feedback
+                    </a>
+                </div>
+                <div class="copyright">© <span id="footer-year">2020</span> <b style="color:#000;background:#ffcc99">Cars</b>.com. <span>All rights reserved.</span></div>
+            </div>
+        </div>
+    </footer>
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+    <symbol id="icon-close" viewBox="0 0 16 16">
+        <path d="M8.57,8,14,2.6,13.4,2,8,7.43,2.62,2l-.56.56L7.46,8,2.06,13.38l.56.56L8,8.54l5.39,5.39.55-.56"></path>
+    </symbol>
+    <symbol id="twitter" viewBox="0 0 16 16">
+        <path d="M15.532 3.413l-1.623.335c.776-.645 1.154-1.493 1.154-1.493l-1.857.685c-.58-.594-1.38-.963-2.283-.963-1.762 0-3.194 1.44-3.194 3.212 0 .164.013.334.044.506-3.88-.112-6.377-3.223-6.377-3.223-1.103 3.07.98 4.096.98 4.096l-1.46-.18C1.36 8.885 3.31 9.327 3.31 9.327l-1.328.143c1.383 2.255 2.853 2.048 2.853 2.048-1.434 1.508-4.37 1.367-4.37 1.367 1.38.877 3.007 1.39 4.77 1.39 4.902 0 8.9-3.995 8.9-8.907 0-.04-.008-.074-.008-.11 0-.022.006-.053.006-.067 0-.082-.007-.175-.02-.258 0-.054-.007-.095-.01-.145.936-.516 1.426-1.374 1.426-1.374z"></path>
+    </symbol>
+    <symbol id="facebook" viewBox="0 0 16 16">
+        <path d="M9.881,3.246c0.484,0,1.513,0,1.513,0V0.733c0,0-1.951,0-2.399,0c-1.075,0-2.816,0.397-2.816,2.579 c0,0.388,0,1.162,0,2.163H4.594v2.549h1.583c0,3.378,0,7.241,0,7.241h2.96c0,0,0-4.021,0-7.241h2.02l0.237-2.549H9.137 c0-0.779,0-1.323,0-1.407C9.137,3.622,9.411,3.246,9.881,3.246z"></path>
+    </symbol>
+    <symbol id="youtube" viewBox="0 0 16 16">
+        <path d="M15.922,5.153c-0.284-1.558-1.64-2.738-3.278-2.738c0,0-3.322-0.114-4.615-0.114 c-1.306,0-4.689,0.114-4.689,0.114C1.496,2.415,0,3.91,0,5.76v4.458c0,0.25,0.025,0.468,0.078,0.693 c0.285,1.561,1.644,2.741,3.277,2.741c0,0,3.225,0.113,4.556,0.113c1.335,0,4.748-0.113,4.748-0.113 c1.845,0,3.341-1.499,3.341-3.341V5.846C16,5.605,15.977,5.374,15.922,5.153z M5.733,10.989V5.017l5.804,3.007L5.733,10.989z"></path>
+    </symbol>
+    <symbol id="instagram" viewBox="0 0 16.444 16.25">
+        <rect x="0.125" y="0.125" display="none" fill="none" stroke="#010101" stroke-width="0.25" stroke-miterlimit="10" width="16.194" height="16"></rect> <path d="M13.685,1.059H2.758c-0.884,0-1.603,0.718-1.603,1.604v10.924c0,0.885,0.719,1.604,1.603,1.604h10.926 c0.885,0,1.604-0.719,1.604-1.604V2.664C15.288,1.777,14.569,1.059,13.685,1.059z M8.221,5.359c1.526,0,2.762,1.235,2.762,2.761 c0,1.525-1.236,2.763-2.762,2.763c-1.525,0-2.763-1.237-2.763-2.763C5.458,6.594,6.696,5.359,8.221,5.359z M13.733,13.037 c0,0.332-0.27,0.602-0.602,0.602H3.31c-0.333,0-0.603-0.27-0.603-0.602V6.984h1.268C3.882,7.341,3.833,7.712,3.833,8.097 c0,2.425,1.964,4.39,4.389,4.39c2.422,0,4.389-1.965,4.389-4.39c0-0.385-0.051-0.755-0.143-1.113h1.266V13.037z M13.733,4.873 c-0.033,0.303-0.289,0.534-0.598,0.534H11.55c-0.334,0-0.604-0.269-0.604-0.602V3.218c0-0.332,0.27-0.602,0.604-0.602h1.586 c0.162,0,0.307,0.062,0.414,0.164c0.113,0.109,0.184,0.264,0.184,0.433V4.873z"></path>
+    </symbol>
+    <symbol id="linkedin" viewBox="2.141 1.839 15.19 15.195">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M8.922,6.105c0,0.337,0,0.641,0,1.012c0.108-0.115,0.176-0.183,0.229-0.254    c1.163-1.369,3.473-1.384,4.563-0.033c0.42,0.508,0.639,1.119,0.646,1.766c0.027,1.886,0.012,3.77,0.012,5.676    c-0.82,0-1.646,0-2.516,0c0-0.087,0.008-2.869-0.004-4.152c0-0.325-0.037-0.661-0.113-0.979c-0.148-0.609-0.516-0.911-1.129-0.984    c-0.615-0.063-1.198,0.186-1.43,0.71c-0.146,0.35-0.244,0.769-0.245,1.148c-0.03,1.318-0.015,4.151-0.015,4.264    c-0.808,0-1.604,0-2.421,0c0-2.71,0-5.425,0-8.173C7.297,6.105,8.089,6.105,8.922,6.105z"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M4.858,6.102c0,2.741,0,5.448,0,8.177c-0.851,0-1.674,0-2.527,0    c0-2.719,0-5.43,0-8.177C3.167,6.102,4,6.102,4.858,6.102z"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M3.587,5.012c-0.844,0.002-1.52-0.681-1.52-1.517    c0-0.842,0.676-1.529,1.513-1.523c0.817,0,1.482,0.674,1.493,1.503C5.095,4.308,4.415,5.009,3.587,5.012z"/>
+    </symbol>
+    <symbol version="1.1" id="chevron" x="0px" y="0px" width="11.893px" height="6.503px" viewBox="0 0 11.893 6.503" enable-background="new 0 0 11.893 6.503" xml:space="preserve">
+        <g>
+	        <polygon points="11.893,0.559 11.336,0 5.947,5.39 0.559,0 0,0.559 5.947,6.503 	"/>
+        </g>
+    </symbol>
+</svg>
+
+<!-- font loading observer, this avoids the content flash we see in normal font loading -->
+<!-- https://github.com/bramstein/fontfaceobserver -->
+<script>
+    (function (){
+        if (typeof sessionStorage !== 'undefined') {
+            var setTime = sessionStorage.getItem('fontsLoaded');
+            setTime = typeof setTime === 'string' ? Number(setTime) : 0;
+            if (((new Date().getTime()) - setTime) <= (8 * 60 * 60 * 1000)) {
+                window.document.documentElement.className += ' font-loaded-source-sans-pro';
+                if (window.performance && window.performance.mark) {
+                    performance.mark('fontsLoaded');
+                }
+
+                return;
+            }
+        }
+
+        /* Font Face Observer v2.0.13 - © Bram Stein. License: BSD-3-Clause */(function(){'use strict';var f,g=[];function l(a){g.push(a);1==g.length&&f()}function m(){for(;g.length;)g[0](),g.shift()}f=function(){setTimeout(m)};function n(a){this.a=p;this.b=void 0;this.f=[];var b=this;try{a(function(a){q(b,a)},function(a){r(b,a)})}catch(c){r(b,c)}}var p=2;function t(a){return new n(function(b,c){c(a)})}function u(a){return new n(function(b){b(a)})}function q(a,b){if(a.a==p){if(b==a)throw new TypeError;var c=!1;try{var d=b&&b.then;if(null!=b&&"object"==typeof b&&"function"==typeof d){d.call(b,function(b){c||q(a,b);c=!0},function(b){c||r(a,b);c=!0});return}}catch(e){c||r(a,e);return}a.a=0;a.b=b;v(a)}}
+        function r(a,b){if(a.a==p){if(b==a)throw new TypeError;a.a=1;a.b=b;v(a)}}function v(a){l(function(){if(a.a!=p)for(;a.f.length;){var b=a.f.shift(),c=b[0],d=b[1],e=b[2],b=b[3];try{0==a.a?"function"==typeof c?e(c.call(void 0,a.b)):e(a.b):1==a.a&&("function"==typeof d?e(d.call(void 0,a.b)):b(a.b))}catch(h){b(h)}}})}n.prototype.g=function(a){return this.c(void 0,a)};n.prototype.c=function(a,b){var c=this;return new n(function(d,e){c.f.push([a,b,d,e]);v(c)})};
+        function w(a){return new n(function(b,c){function d(c){return function(d){h[c]=d;e+=1;e==a.length&&b(h)}}var e=0,h=[];0==a.length&&b(h);for(var k=0;k<a.length;k+=1)u(a[k]).c(d(k),c)})}function x(a){return new n(function(b,c){for(var d=0;d<a.length;d+=1)u(a[d]).c(b,c)})};window.Promise||(window.Promise=n,window.Promise.resolve=u,window.Promise.reject=t,window.Promise.race=x,window.Promise.all=w,window.Promise.prototype.then=n.prototype.c,window.Promise.prototype["catch"]=n.prototype.g);}());
+
+        (function(){function l(a,b){document.addEventListener?a.addEventListener("scroll",b,!1):a.attachEvent("scroll",b)}function m(a){document.body?a():document.addEventListener?document.addEventListener("DOMContentLoaded",function c(){document.removeEventListener("DOMContentLoaded",c);a()}):document.attachEvent("onreadystatechange",function k(){if("interactive"==document.readyState||"complete"==document.readyState)document.detachEvent("onreadystatechange",k),a()})};function r(a){this.a=document.createElement("div");this.a.setAttribute("aria-hidden","true");this.a.appendChild(document.createTextNode(a));this.b=document.createElement("span");this.c=document.createElement("span");this.h=document.createElement("span");this.f=document.createElement("span");this.g=-1;this.b.style.cssText="max-width:none;display:inline-block;position:absolute;height:100%;width:100%;overflow:scroll;font-size:16px;";this.c.style.cssText="max-width:none;display:inline-block;position:absolute;height:100%;width:100%;overflow:scroll;font-size:16px;";
+        this.f.style.cssText="max-width:none;display:inline-block;position:absolute;height:100%;width:100%;overflow:scroll;font-size:16px;";this.h.style.cssText="display:inline-block;width:200%;height:200%;font-size:16px;max-width:none;";this.b.appendChild(this.h);this.c.appendChild(this.f);this.a.appendChild(this.b);this.a.appendChild(this.c)}
+        function t(a,b){a.a.style.cssText="max-width:none;min-width:20px;min-height:20px;display:inline-block;overflow:hidden;position:absolute;width:auto;margin:0;padding:0;top:-999px;white-space:nowrap;font-synthesis:none;font:"+b+";"}function y(a){var b=a.a.offsetWidth,c=b+100;a.f.style.width=c+"px";a.c.scrollLeft=c;a.b.scrollLeft=a.b.scrollWidth+100;return a.g!==b?(a.g=b,!0):!1}function z(a,b){function c(){var a=k;y(a)&&a.a.parentNode&&b(a.g)}var k=a;l(a.b,c);l(a.c,c);y(a)};function A(a,b){var c=b||{};this.family=a;this.style=c.style||"normal";this.weight=c.weight||"normal";this.stretch=c.stretch||"normal"}var B=null,C=null,E=null,F=null;function G(){if(null===C)if(J()&&/Apple/.test(window.navigator.vendor)){var a=/AppleWebKit\/([0-9]+)(?:\.([0-9]+))(?:\.([0-9]+))/.exec(window.navigator.userAgent);C=!!a&&603>parseInt(a[1],10)}else C=!1;return C}function J(){null===F&&(F=!!document.fonts);return F}
+        function K(){if(null===E){var a=document.createElement("div");try{a.style.font="condensed 100px sans-serif"}catch(b){}E=""!==a.style.font}return E}function L(a,b){return[a.style,a.weight,K()?a.stretch:"","100px",b].join(" ")}
+        A.prototype.load=function(a,b){var c=this,k=a||"BESbswy",q=0,D=b||3E3,H=(new Date).getTime();return new Promise(function(a,b){if(J()&&!G()){var M=new Promise(function(a,b){function e(){(new Date).getTime()-H>=D?b():document.fonts.load(L(c,'"'+c.family+'"'),k).then(function(c){1<=c.length?a():setTimeout(e,25)},function(){b()})}e()}),N=new Promise(function(a,c){q=setTimeout(c,D)});Promise.race([N,M]).then(function(){clearTimeout(q);a(c)},function(){b(c)})}else m(function(){function u(){var b;if(b=-1!=
+        f&&-1!=g||-1!=f&&-1!=h||-1!=g&&-1!=h)(b=f!=g&&f!=h&&g!=h)||(null===B&&(b=/AppleWebKit\/([0-9]+)(?:\.([0-9]+))/.exec(window.navigator.userAgent),B=!!b&&(536>parseInt(b[1],10)||536===parseInt(b[1],10)&&11>=parseInt(b[2],10))),b=B&&(f==v&&g==v&&h==v||f==w&&g==w&&h==w||f==x&&g==x&&h==x)),b=!b;b&&(d.parentNode&&d.parentNode.removeChild(d),clearTimeout(q),a(c))}function I(){if((new Date).getTime()-H>=D)d.parentNode&&d.parentNode.removeChild(d),b(c);else{var a=document.hidden;if(!0===a||void 0===a)f=e.a.offsetWidth,
+        g=n.a.offsetWidth,h=p.a.offsetWidth,u();q=setTimeout(I,50)}}var e=new r(k),n=new r(k),p=new r(k),f=-1,g=-1,h=-1,v=-1,w=-1,x=-1,d=document.createElement("div");d.dir="ltr";t(e,L(c,"sans-serif"));t(n,L(c,"serif"));t(p,L(c,"monospace"));d.appendChild(e.a);d.appendChild(n.a);d.appendChild(p.a);document.body.appendChild(d);v=e.a.offsetWidth;w=n.a.offsetWidth;x=p.a.offsetWidth;I();z(e,function(a){f=a;u()});t(e,L(c,'"'+c.family+'",sans-serif'));z(n,function(a){g=a;u()});t(n,L(c,'"'+c.family+'",serif'));
+        z(p,function(a){h=a;u()});t(p,L(c,'"'+c.family+'",monospace'))})})};"object"===typeof module?module.exports=A:(window.FontFaceObserver=A,window.FontFaceObserver.prototype.load=A.prototype.load);}());
+
+        var regular = new window.FontFaceObserver("Source Sans Pro", { weight: 400 });
+        var semiBold = new window.FontFaceObserver("Source Sans Pro", { weight: 600 });
+        var bold = new window.FontFaceObserver("Source Sans Pro", { weight: 700 });
+        Promise.all([regular.load(), semiBold.load(), bold.load()]).then(function () {
+            window.document.documentElement.className += " font-loaded-source-sans-pro";
+            if (window.performance && window.performance.mark) {
+                window.performance.mark('fontsLoaded');
+            }
+
+            if (typeof window.sessionStorage !== 'undefined') {
+                sessionStorage.setItem('fontsLoaded', Date.now().toString());
+            }
+        });
+
+    }());
+</script>
+
+<script>
+    window.CARS = window.CARS || {};
+    CARS.digitalData = {"page":{"pageInfo":{"pageName":"news/article","channel":"news","version":"","effectiveDate":"2020-07-03T03:18:32.715Z"},"category":{"pageType":"index"},"attributes":{"rolloutCookie":"","news":{"id":418934,"title":"Which Cars Have Self-Driving Features for 2020?","publishDate":"2020-03-04T09:02:15.000Z","author":"Kelsey Mays","referringCategory":"","pageType":"","categoryType":"","tags":"acura,alfa romeo,audi,bmw,buick,cadillac,chevrolet,chrysler,dodge,ford,genesis,gmc,honda,hyundai,infiniti,jaguar,jeep,kia,land rover,lexus,lincoln,maserati,mazda,mercedes-benz,mini,mitsubishi,nissan,porsche,ram,subaru,tesla,toyota,volkswagen,volvo,safety,self-driving cars,technology,autonomous,brakes,car buying","articleCategories":"news:technology"}},"vehicle":[{"make":"Acura","makeID":"20001"},{"make":"Alfa Romeo","makeID":"20047"},{"make":"Audi","makeID":"20049"},{"make":"BMW","makeID":"20005"},{"make":"Buick","makeID":"20006"},{"make":"Cadillac","makeID":"20052"},{"make":"Chevrolet","makeID":"20053"},{"make":"Chrysler","makeID":"20008"},{"make":"Dodge","makeID":"20012"},{"make":"Ford","makeID":"20015"},{"make":"Genesis","makeID":"35354491"},{"make":"GMC","makeID":"20061"},{"make":"Honda","makeID":"20017"},{"make":"Hyundai","makeID":"20064"},{"make":"INFINITI","makeID":"20019"},{"make":"Jaguar","makeID":"20066"},{"make":"Jeep","makeID":"20021"},{"make":"Kia","makeID":"20068"},{"make":"Land Rover","makeID":"20024"},{"make":"Lexus","makeID":"20070"},{"make":"Lincoln","makeID":"20025"},{"make":"Maserati","makeID":"20072"},{"make":"Mazda","makeID":"20073"},{"make":"Mercedes-Benz","makeID":"20028"},{"make":"MINI","makeID":"20075"},{"make":"Mitsubishi","makeID":"20030"},{"make":"Nissan","makeID":"20077"},{"make":"Porsche","makeID":"20081"},{"make":"RAM","makeID":"44763"},{"make":"Subaru","makeID":"20041"},{"make":"Tesla","makeID":"28263"},{"make":"Toyota","makeID":"20088"},{"make":"Volkswagen","makeID":"20089"},{"make":"Volvo","makeID":"20044"}]},"dataProducts":{"zipCode":null,"affCode":"","lzone":"","section":"","deviceType":""},"user":{"profileInfo":{"login":"","loginType":"","publicConsumerID":"","publicDeviceID":""},"attributes":{"lat":"","long":""}}};
+</script>
+<cars-tracking-dtm-init page="news/article"></cars-tracking-dtm-init>
+
+
+<script async src="//www.googletagservices.com/tag/js/gpt.js"></script>
+    <script async src="//www.cars.com/cldstatic/ads/prebid/1.34.0/prebid.js"></script>
+    <script type="text/javascript">
+        var pbjs = pbjs || {};
+        pbjs.que = pbjs.que || [];
+    </script>
+<script type="text/javascript">
+
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+
+    googletag.cmd.push(function () {
+        googletag.pubads().enableAsyncRendering();
+            googletag.pubads().disableInitialLoad();
+    });
+</script>
+
+<script type="text/javascript">
+    var userSummary;
+    var userSummaryValue = localStorage.getItem("cars.userSummary");
+    if (userSummaryValue) {
+        try {
+            userSummary = JSON.parse(userSummaryValue);
+        } catch(e) {}
+    }
+
+    var carsUserDataValue, listingId;
+    carsUserDataValue = localStorage.getItem("Cars.userData");
+    if (carsUserDataValue) {
+        try {
+            carsUserData = JSON.parse(carsUserDataValue);
+            listingId = carsUserData.listingId;
+        } catch(e) {}
+    }
+
+    if (userSummary && userSummary.email) {
+        _etmc.push(["setOrgId", "Carscomconsumer"]);
+        _etmc.push(["setUserInfo", {"email": userSummary.email}]);
+
+        let pageViewList = ["trackPageView"];
+        if (listingId) {
+            pageViewList.push({"item": ""+listingId});
+        }
+        _etmc.push(pageViewList);
+    }
+</script>
+
+<script type="text/javascript">
+    setAccordion(); // menu expand on/off based on size
+    window.addEventListener("resize", setAccordion);
+
+    function setAccordion() { // using footer_accordion_input to differentiate from other accordions
+        let accordions = window.document.documentElement.getElementsByClassName("footer_accordion_input");
+        let headers = window.document.documentElement.getElementsByClassName("footer_accordion_header");
+        let waist = window.innerWidth;
+    
+        if (accordions && headers) {
+            for (let m = 0; m < accordions.length; m++) {
+                if (waist < 504) { // mobile first
+                    headers[m].style.cursor = "pointer";
+                    accordions[m].checked = false;
+                    accordions[m].disabled = false;
+                } else { // larger screens
+                    headers[m].style.cursor = "default";
+                    accordions[m].checked = true;
+                    accordions[m].disabled = true;
+                }
+            }
+        }
+    }
+</script>
+
+
+<script src="/static/editorial/08a28aedee3a/app.bundle.js" async ></script>
+
+        </div>
+
+    </body>
+</html>
+</div>

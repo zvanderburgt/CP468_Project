@@ -1,0 +1,1512 @@
+<!DOCTYPE html>
+<html lang="en"  itemscope itemtype="https://schema.org/Article"  xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+
+<head>
+<meta charset="UTF-8" />
+
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if gte IE 9 ]><html class="no-js ie9" lang="en"> <![endif]-->
+
+	<title>New international regulations could pave the way for self-driving cars | Driving</title>
+	<meta name="ROBOTS" content="NOARCHIVE" />					<meta name="news_keywords" content="news" />
+										<meta itemprop="dateModified" content="2020-06-29">
+					<meta itemprop="datePublished" content="2020-06-29">
+					<meta itemprop="copyrightYear" content="2020"/>
+					<meta itemprop="description" name="description" content="" />
+					<meta itemprop="keywords" name="keywords" content="news" />
+					<meta itemprop="mainEntityOfPage" property="og:title" content="New international regulations could pave the way for self-driving cars" />
+					<meta itemprop="url" property="og:url" content="https://driving.ca/auto-news/news/new-international-regulations-could-pave-the-way-for-self-driving-cars" />
+					<meta itemprop="thumbnailUrl" property="og:image" content="https://postmediadriving.files.wordpress.com/2020/01/plaza_festival-scaled-1.jpg?quality=80" />
+					
+	
+	<meta id="viewport" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=0">
+
+		
+	<!--[if lt IE 9]>
+		<script>(function(w,d,s) {var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s);j.src='https://s2.wp.com/wp-content/themes/vip/postmedia-driving/js/iehtml5.js';f.parentNode.insertBefore(j,f);
+		})(window,document,'script');
+		</script>
+	<![endif]-->
+
+	<link rel="profile" href="https://gmpg.org/xfn/11" />
+
+	<link rel="pingback" href="https://driving.ca/xmlrpc.php" />
+
+	
+	
+<script type="text/javascript">
+	var sliderAdId = 'gpt-rotator',
+	adWidth = 573,
+	adHeight = 370,
+	sliderAutoPlay = true,
+	sliderSpeed = 0,
+	sliderClickDelay = 0,
+	sliderAdDelay = 0,
+	rotatorAdId = 'gpt-rotator',
+	zone = '/3081/driving.ca/auto-news/news/story',
+	boxWidth = 300,
+	boxHeight = 250,
+	adSlots = [],
+	mg2widgetparams = {},
+	embed_gallery_refresh = false;
+
+	function ExternalJsCallback(id, event, videoObj) {
+
+		if (event == "FullScreenOpened") {
+				document.body.className =  document.body.className+' fullscreen';
+		}
+
+		if (event == "FullScreenClosed") {
+				document.body.className =  document.body.className.replace("fullscreen","");
+		}
+	}
+</script>
+				<meta name="description" content="One of the greatest impediments to proliferation of the self-driving cars we’ve all been promised are just around the corner has been a dearth of safety regulations that they will have to meet." />
+							<meta name="news_keywords" content="news" />
+			<meta name="google-site-verification" content="bfDlF9VWfh9DJmtVjrfGmvjPt2GfAwi70BVfOq8kNI4" />
+		<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=driving.ca&amp;id=55732723&amp;t=1593748862&amp;back=https%3A%2F%2Fdriving.ca%2Fauto-news%2Fnews%2Fnew-international-regulations-could-pave-the-way-for-self-driving-cars' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//cdn.adsafeprotected.com' />
+<link rel='dns-prefetch' href='//dpcthkef9k46t.cloudfront.net' />
+<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//static.freeskreen.com' />
+<link rel='dns-prefetch' href='//postmediadriving.wordpress.com' />
+<link rel='dns-prefetch' href='//js-sec.indexww.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+	<link crossorigin="anonymous" rel='stylesheet' id='google-fonts-css'  href='https://fonts.googleapis.com/css?family=Oswald%3A300%2C400%2C700%7CRoboto%3A400%2C700&#038;ver=5.4.2' media='all' />
+<link rel='stylesheet' id='all-css-2-1' href='https://s2.wp.com/_static/??-eJx9jcEKg0AMRH+oaVhorR7Eb9E16IpZg8min2889FZ6GYbhPQYPgbhlo2zIBWQtU8qKcdvJd5be0AmmMfW0Ejv2jKoP/K0daZzIXNdvB6PzvyJ+A8MgO6mCJ6fCYLN/6e113IZXU9WfUL/DcgHSTkDo?cssminify=yes' type='text/css' media='all' />
+<link rel='stylesheet' id='screen-css-3-1' href='https://s0.wp.com/wp-content/themes/vip/plugins/taxonomy-images/css/style.css?m=1506960102h&cssminify=yes' type='text/css' media='screen' />
+<link rel='stylesheet' id='all-css-4-1' href='https://s2.wp.com/_static/??-eJyllFGO1DAMhi9ENlrYkdgHxCE4QZq6iSGJI9uZam5PWkCAVkiM561J/Dn27/T3e3eRmkJTrxkqiL9i951EK6wY3Mp4xZa86K3AUxR55/8XmcF+IVJRDv1+dOXrDK6Vmo1dmHYBt9xs+DYrB7axGcJqZTcqhXY35H58xp5jMqDHzaLERrF+NPyQZjR0QzWW3ku4FRQ9P6wVdOqjBHaNdqOAO3ZwKZQCViHn5pyCuJgJo+F/O3IwCA2O4OJErGIIBI75yDWKdSqSqc+HDKuLgR95lG5jqi5TNSqyQdDBs44rZIwWHzuyjJZDSlZaIjFMHVbHQeeBUY+fHTjppAVT1gcVmQ7bA6NYXBYnxKEl+FLQ5HdKI+apCc1HUp4qGp1eAhbNPNyOa4K3itQxfWEkbOITkCsU5wSo/bVwWwn4toU/UIalUEq/Lv69vK9ohTpNSs/zFejMJYrx282dG//Kll98KrSEcgR8rp+eL6/vP16eXy8fvn4HTdb0Zw==?cssminify=yes' type='text/css' media='all' />
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJx9zUsKgDAMBNALWYtIixvxLH6itJhUmxTx9lbQnQgDs5gHo49NORrXNAFrn7MniOdTpedC/wGFbom9QImOXjwGEiC57RZYEJj7BT5WDINbQSWGmAFJvplDdh22lTFNbaw1tb8AOGU7DA=='></script>
+<script async src='https://cdn.adsafeprotected.com/iasPET.1.js?ver=5.4.2'></script>
+<script src='https://dpcthkef9k46t.cloudfront.net/assets/pn-just-in-time.js?tsmin=26562241&#038;ver=5.4.2'></script>
+<script>
+var Postmedia = {"adConfig":{"site":"driving.ca","msite":"driving.m","networkId":3081,"keys":{"aid":"79938500175854006","author":"david-booth","ck":"auto-news","nk":"class","page":"story","pr":"dr","sck":"news","vt":"flex","agegate":"true"},"disable_initial_load":false,"sticky_ads":[],"zone":"auto-news\/news\/story","full_zone":"\/3081\/driving.ca\/auto-news\/news\/story"},"Urls":{"home_url":"https:\/\/driving.ca","stylesheet_directory_uri":"https:\/\/s2.wp.com\/wp-content\/themes\/vip\/postmedia-driving","ajaxurl":"https:\/\/driving.ca\/wp-admin\/admin-ajax.php"},"Properties":{"domain":"","userAgents":["mozilla","msie","webkit","ipad"],"mobileAgents":["iphone","ipod","android"],"isMobile":false,"isIpad":false,"isModal":false,"is_admin":false,"post_type":"post"},"Facebook":{"pageId":"7561650675","appId":"199800443522415"}};
+</script>
+<script>
+var PN_VO = {"appServiceUrl":"https:\/\/api.pddataservices.com"};
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJy9j70OwjAMhF+I1GrUjohX6ARz2ljFIX+K06Dy9KQIJEZYup18d/p8cI9iCj6jz5Cv6JChUIQYODvUpIROVMjPYBgsjcJw8LJx5BvDB/ij7ILG5OmRfi5Hu8zk+etSH0gqrTBZxVzzw8eBC44wvPNn0hg2ZNmECAWTVes+yFhJmPZhcabptorXyko8uWPbd51sZS978wSrkbGP'></script>
+<script async="async" src='//js-sec.indexww.com/ht/p/184635-100458272109689.js?ver=5.4.2'></script>
+<link rel='stylesheet' id='all-css-0-2' href='https://s0.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1530132353h&cssminify=yes' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s2.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://postmediadriving.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel='shortlink' href='https://driving.ca/wcm/1cf6dd39-34ac-45a2-a518-d7a205a49821' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Fdriving.ca%2Fauto-news%2Fnews%2Fnew-international-regulations-could-pave-the-way-for-self-driving-cars&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Fdriving.ca%2Fauto-news%2Fnews%2Fnew-international-regulations-could-pave-the-way-for-self-driving-cars&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="New international regulations could pave the way for self-driving cars" />
+<meta property="og:url" content="https://driving.ca/auto-news/news/new-international-regulations-could-pave-the-way-for-self-driving-cars" />
+<meta property="article:published_time" content="2020-06-29T14:58:46+00:00" />
+<meta property="article:modified_time" content="2020-06-29T14:58:46+00:00" />
+<meta property="og:site_name" content="Driving" />
+<meta property="og:image" content="https://postmediadriving.files.wordpress.com/2020/01/plaza_festival-scaled-1.jpg?w=600&#038;h=315&#038;crop=1&#038;quality=80" />
+<meta property="og:image:width" content="200" />
+<meta property="og:image:height" content="200" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:creator" content="@drivingdotca" />
+<meta name="twitter:site" content="@drivingdotca" />
+<meta name="twitter:text:title" content="New international regulations could pave the way for self-driving cars" />
+<meta name="twitter:image" content="https://postmediadriving.files.wordpress.com/2020/01/plaza_festival-scaled-1.jpg?w=600&amp;h=315&amp;crop=1&amp;quality=80" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<meta property="fb:app_id" content="199800443522415" />
+<meta property="fb:page_id" content="7561650675" />
+<meta name="twitter:title" content="New international regulations could pave the way for self-driving cars" />
+<meta name="twitter:description" content="One of the greatest impediments to proliferation of the self-driving cars we’ve all been promised are just around the corner has been a dearth of safety regulations that they will have to meet." />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="shortcut icon" type="image/x-icon" href="https://secure.gravatar.com/blavatar/ee14d0ead2dd0785092fc06583853ed4?s=32" sizes="16x16" />
+<link rel="icon" type="image/x-icon" href="https://secure.gravatar.com/blavatar/ee14d0ead2dd0785092fc06583853ed4?s=32" sizes="16x16" />
+<link rel="apple-touch-icon" href="https://secure.gravatar.com/blavatar/ee14d0ead2dd0785092fc06583853ed4?s=114" />
+<link rel='openid.server' href='https://driving.ca/?openidserver=1' />
+<link rel='openid.delegate' href='https://driving.ca/' />
+<link rel="search" type="application/opensearchdescription+xml" href="https://driving.ca/osd.xml" title="New and Used Car Reviews, Comparisons and News &#124; Driving" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name="stats-full-init" value="0.015" />
+<meta name="stats-postmedia_theme_pre_initialize" value="0.003" />
+<meta name="stats-initialize" value="0.011" />
+<meta name="stats-postmedia_theme_post_initialize" value="0.001" />
+<meta name="stats-vip_load_plugins" value="0.002" />
+<meta name="stats-load_plugins" value="0.008" />
+<meta name="stats-register_widgets" value="0.000" />
+
+
+<!-- BEGIN Sailthru Horizon Meta Information -->
+<meta name="sailthru.date" content="2020-06-29 10:58:46" />
+<meta name="sailthru.title" content="New international regulations could pave the way for self-driving cars" />
+<meta name="sailthru.description" content="One of the greatest impediments to proliferation of the self-driving cars we’ve all been promised are just around the corner has been a dearth of safety regulations that they will have to meet. It’s kinda’ hard to design something as complicated as a car that drives itself when you don’t know the rules it would [&hellip;]" />
+<meta name="sailthru.image.full" content="https://postmediadriving.files.wordpress.com/2020/01/plaza_festival-scaled-1.jpg" />
+<meta name="sailthru.image.thumb" content="https://postmediadriving.files.wordpress.com/2020/01/plaza_festival-scaled-1.jpg" />
+<meta name="sailthru.tags" content="brand-newandusedcarreviews,comparisonsandnews|driving, category-news, self-driving cars, semi-autonomous automobiles, safety regulations, self-driving mode, control, current self-driving systems, Level 3, need, steering wheel, cyclists, driver, Driver Availability Recognition Systems, wheel, rules, United Nations Economic Commission for Europe" />
+<!-- END Sailthru Horizon Meta Information -->
+
+				<script type="text/javascript">var AamGpt={strictEncode:function(a){return encodeURIComponent(a).replace(/[!'()]/g,escape).replace(/\*/g,'%2A')},getCookie:function(b){var d,a,f,e=document.cookie.split(';');for(d=0;d<e.length;d++){a=e[d].substr(0,e[d].indexOf('='));f=e[d].substr(e[d].indexOf('=')+1);a=a.replace(/^\s+|\s+$/g,'');if(a==b){return unescape(f)}}},getKey:function(a){var d=this.getCookie(a);d=this.strictEncode(d);if(typeof d!='undefined'&&d.match(/\w+%3D/)){var b=d.split('%3D');if(typeof b[0]!='undefined'&&b[0].match(/\w+/)){return b[0]}}},getValues:function(a){var e=this.getCookie(a);e=this.strictEncode(e);if(typeof e!='undefined'&&e.match(/\w+%3D\w+/)){var b=e.split('%3D');if(typeof b[1]!='undefined'&&b[1].match(/\w+/)){var d=b[1].split('%2C');if(typeof d[0]!='undefined'){return d}else{return null}}else{return null}}else{return null}}};</script>
+								<script type="text/javascript" async src="//js-sec.indexww.com/ht/p/184635-100458272109689.js"> </script>
+							<script type="text/javascript"> var googletag=googletag||{};googletag.cmd=googletag.cmd||[];(function(){var a=document.getElementsByTagName('script')[0],b=document.createElement("script");b.async=true;b.src="https://www.googletagservices.com/tag/js/gpt.js";b.type='text/javascript';a.parentNode.insertBefore(b,a)}()); </script>
+			<script type="text/javascript">
+			/*
+			* Call Hook function for DFP Plugin
+			*/
+				if (typeof hookGoogleTagObjectCreated === "function") {
+					hookGoogleTagObjectCreated();
+				}
+			</script>
+
+			<script type="text/javascript">
+				googletag.cmd.push(function(){
+							googletag.pubads()
+								.setTargeting(
+						'agegate'
+						, "true"					)
+										.setTargeting(
+						'aid'
+						, "79938500175854006"					)
+										.setTargeting(
+						'author'
+						, "david-booth"					)
+										.setTargeting(
+						'ck'
+						, "auto-news"					)
+										.setTargeting(
+						'nk'
+						, "class"					)
+										.setTargeting(
+						'page'
+						, "story"					)
+										.setTargeting(
+						'pr'
+						, "dr"					)
+										.setTargeting(
+						'sck'
+						, "news"					)
+										.setTargeting(
+						'vt'
+						, "flex"					)
+								;
+							if( typeof AamGpt.getCookie( "aam_dfp" ) != "undefined" ){ googletag.pubads().setTargeting( AamGpt.getKey( "aam_dfp" ),AamGpt.getValues( "aam_dfp") ); };
+				
+			if( typeof AamGpt.getCookie("aam_uuid") != "undefined" ){ googletag.pubads().setTargeting( "aamId", AamGpt.getCookie("aam_uuid") ); };
+
+
+			if ( document.referrer ) {
+				googletag.pubads().setTargeting( "r" ,document.referrer.split('/')[2] ) 
+			}
+							googletag.pubads().collapseEmptyDivs();
+				
+ 	 googletag.pubads().disableInitialLoad();
+ 	 googletag.enableServices();			});
+			</script>
+			
+		 <!-- Amazon Ad Tag --> 
+            <script type='text/javascript'>
+                ! function(a9, a, p, s, t, A, g) {
+                    if (a[a9]) return;
+
+                    function q(c, r) {
+                        a[a9]._Q.push([c, r])
+                    }
+                    a[a9] = {
+                        init: function() {
+                            q("i", arguments)
+                        },
+                        fetchBids: function() {
+                            q("f", arguments)
+                        },
+                        setDisplayBids: function() {},
+                        _Q: []
+                    };
+                    A = p.createElement(s);
+                    A.async = !0;
+                    A.src = t;
+                    g = p.getElementsByTagName(s)[0];
+                    g.parentNode.insertBefore(
+                        A, g)
+                }("apstag", window, document, "script", "//c.amazon-adsystem.com/aax2/apstag.js");apstag.init({
+                        pubID: '3528',
+                        adServer: 'googletag',
+                        bidTimeout: '1e3'
+                    });
+            </script>
+
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			var adSlots = [];
+			/* ]]> */
+		</script><meta name="ROBOTS" content="NOARCHIVE" />			<meta name="google-site-verification" content="07pT7ge3hbVe3ABpbUr0NrPD3WB2zKxNUs5b2S0_IzM" />
+						<meta itemprop="genre" content="News" />
+							<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+				new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+				j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+				'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+				})(window,document,"script","dataLayer","GTM-5SGSTSN");</script>
+				<link rel="alternate" type="application/rss+xml" title="RSS 2.0 Feed" href="https://driving.ca/feed" /><meta name="application-name" content="New and Used Car Reviews, Comparisons and News | Driving" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="The leading online destination for the latest automotive news, reviews, photos and video for Canadians. Driving&#039;s team of award-winning journalists publishes original, fresh content in print, online, on smartphone and tablet." /><meta name="msapplication-task" content="name=Subscribe;action-uri=https://driving.ca/feed;icon-uri=https://secure.gravatar.com/blavatar/ee14d0ead2dd0785092fc06583853ed4?s=16" />
+<link rel="canonical" href="https://postmediadriving.wordpress.com/auto-news/news/new-international-regulations-could-pave-the-way-for-self-driving-cars" />
+<link rel="amphtml" href="https://driving.ca/auto-news/news/new-international-regulations-could-pave-the-way-for-self-driving-cars/amp"><script type="text/javascript">var Postmedia=Postmedia || {}; Postmedia.Analytics=Postmedia.Analytics || {}; Postmedia.Analytics.Driving = Postmedia.Analytics.Driving || {}; Postmedia.Analytics.Video=Postmedia.Analytics.Video || {}; Postmedia.Search = Postmedia.Search || {};Postmedia.Analytics.PageTypeDriving = "story";Postmedia.Analytics.Driving.CategoryDriving = "auto-news";Postmedia.Analytics.PageType = "story";Postmedia.Analytics.ContentAlternateTitle = null;Postmedia.Analytics.ContentExcerpt = null;Postmedia.Analytics.PublishedDate = "2020\/06\/29";Postmedia.Analytics.PublishedTimeOfDay= "14:58:46";Postmedia.Analytics.ModifiedDate = "2020\/06\/29";Postmedia.Analytics.ModifiedTimeOfDay = "14:58:46";Postmedia.Analytics.OriginProperty = true;Postmedia.Analytics.WPGlobalSlug = "5555 hhhhh";Postmedia.Analytics.WordCount = 379;Postmedia.Analytics.WPCanonicalUrl = "http:\/\/driving.ca\/auto-news\/news\/new-international-regulations-could-pave-the-way-for-self-driving-cars";Postmedia.Analytics.NLP = {"entities":[{"value":"Companies","score":0.5679,"rank":"R","level":1,"children":[{"value":"company","score":0.5679,"rank":"R","level":2,"children":[{"value":"Driver Availability Recognition Systems","score":0.5679,"rank":"R","level":3}]}]},{"value":"Agencies","score":0.5604,"rank":"R","level":1,"children":[{"value":"group","score":0.5604,"rank":"R","level":2,"children":[{"value":"Economic Commission for Europe","score":0.5604,"rank":"R","level":3}]}]},{"value":"Associations & groups","score":0.5479,"rank":"R","level":1,"children":[{"value":"Political NGO\/Association","score":0.5479,"rank":"R","level":2,"children":[{"value":"EU","score":0.5479,"rank":"R","level":3},{"value":"United Nations","score":0.2604,"rank":"SR","level":3}]}]},{"value":"Countries","score":0.5479,"rank":"R","level":1,"children":[{"value":"location","score":0.5479,"rank":"R","level":2,"children":[{"value":"Canada","score":0.5479,"rank":"R","level":3},{"value":"Japan","score":0.5479,"rank":"R","level":3},{"value":"United States","score":0.177,"rank":"SR","level":3}]}]},{"value":"Artifacts","score":0.249,"rank":"SR","level":1,"children":[{"value":"artifact","score":0.249,"rank":"SR","level":2,"children":[{"value":"Automated lane","score":0.249,"rank":"SR","level":3}]}]},{"value":"Events","score":0.2395,"rank":"SR","level":1,"children":[{"value":"forum","score":0.2395,"rank":"SR","level":2,"children":[{"value":"World Forum","score":0.2395,"rank":"SR","level":3}]}]}],"categories":[{"value":"Cycling","score":6.44},{"value":"Hardware","score":5.16}],"key_topics":[{"value":"self-driving cars","score":1},{"value":"semi-autonomous automobiles","score":0.9159},{"value":"safety regulations","score":0.7698},{"value":"self-driving mode","score":0.6925},{"value":"control","score":0.6771},{"value":"current self-driving systems","score":0.6604},{"value":"Level 3","score":0.5283},{"value":"need","score":0.5034},{"value":"steering wheel","score":0.5003},{"value":"cyclists","score":0.4814},{"value":"driver","score":0.4745},{"value":"Driver Availability Recognition Systems","score":0.4393},{"value":"wheel","score":0.4319},{"value":"rules","score":0.3997},{"value":"United Nations Economic Commission for Europe","score":0.3893}]};Postmedia.Analytics.PublicationDate = "2020\/06\/29";Postmedia.Analytics.PublicationTimeOfDay= "14:58:46";Postmedia.Analytics.Authors = "motocanada";Postmedia.Analytics.ContentId = "1cf6dd39-34ac-45a2-a518-d7a205a49821";Postmedia.Analytics.ContentOriginId = "400351";Postmedia.Analytics.KMCCategory = "auto-news>news";Postmedia.Analytics.MetaKeywords = "news";Postmedia.Analytics.CategoryAll = "auto-news\/news";Postmedia.Analytics.SubCategories = "news";</script><script type="text/javascript">var pnJustInTime = pnJustInTime || {};pnJustInTime.salesForceKruxClientId = "umfthgf8v";</script>				<script type="text/javascript">
+					var Postmedia=Postmedia || {};
+					Postmedia.Audience=Postmedia.Audience || {};
+					Postmedia.Audience.iframeCount = 0;
+					Postmedia.Audience.globalMparticleId = false;
+					Postmedia.Audience.mParticleID = "cd4afed6a2719d439af431746c942e3c";
+					Postmedia.Audience.identityRequest = Postmedia.Audience.identityRequest || { userIdentities: {} };
+					Postmedia.Audience.mParticleDevelopmentMode =
+					false;				</script>
+				<script type="text/javascript">
+	
+		$ = jQuery.noConflict();
+
+		jQuery(window).load(function() {
+				if( jQuery('.unhaggle').find('.dropdowns').length > 0 ) {
+					var filters = {};
+					filters.search = {};
+					filters.search.field = 'stylename';
+					temp_model = '';
+										filters.search.year = '2020';
+																			get_data_by_style_id( 389364 );
+															}
+		});
+</script>
+	<div itemscope itemtype="https://schema.org/Organization">
+		<meta itemprop="url" content="" />
+		<meta itemprop="logo" content="https://0.gravatar.com/blavatar/ee14d0ead2dd0785092fc06583853ed4?s=200" />
+		<link itemprop="sameAs" href="https://plus.google.com/+drivingca/about">
+		<link itemprop="sameAs" href="https://www.facebook.com/drivingdotca">
+		<link itemprop="sameAs" href="https://twitter.com/drivingdotca">
+		<link itemprop="sameAs" href="https://www.youtube.com/user/drivingdotca">
+		<link itemprop="sameAs" href="https://pinterest.com/drivingca/">
+		<link itemprop="sameAs" href="https://instagram.com/drivingca">
+	</div>
+
+			<span itemprop="copyrightHolder" itemscope itemtype="https://schema.org/Organization" itemid="">
+			<meta itemprop="name" content="Driving"/>
+			<meta itemprop="url" content=""/>
+		</span>
+	
+	</head>
+
+<body class="post-template-default single single-post postid-1cf6dd39-34ac-45a2-a518-d7a205a49821 single-format-standard customizer-styles-applied  drv des driving  storypage  highlander-enabled highlander-light" ><!-- the Body staging2 -->
+<div id="fb-root"></div>
+
+<input type="hidden" name="unhaggle_style_id" value="389364" />
+<input type="hidden" id="page_title_nonce" name="page_title_nonce" value="6826d26240" /><input type="hidden" name="_wp_http_referer" value="/auto-news/news/new-international-regulations-could-pave-the-way-for-self-driving-cars" />					<div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+						<div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+							<meta itemprop="url" content="https://0.gravatar.com/blavatar/ee14d0ead2dd0785092fc06583853ed4?s=200">
+							<meta itemprop="width" content="200">
+							<meta itemprop="height" content="200">
+						</div>
+						<meta itemprop="name" content="Driving">
+					</div>
+
+					<div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+						<meta itemprop="url" content="https://postmediadriving.files.wordpress.com/2020/01/plaza_festival-scaled-1.jpg?quality=80">
+						<meta itemprop="width" content="600">
+						<meta itemprop="height" content="315">
+						<meta itemprop="mainEntityOfPage" href="https://driving.ca/auto-news/news/new-international-regulations-could-pave-the-way-for-self-driving-cars">
+					</div>
+						<!--
+	Start of DoubleClick Floodlight Tag: Please do not remove
+	Activity name of this tag: Driving.ca - retargeting pixel
+	URL of the webpage where the tag is expected to be placed: https://www.postmedia.com/
+	This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
+	Creation Date: 05/20/2014
+	-->
+	<script type="text/javascript">
+		var axel = Math.random() + "";
+		var a = axel * 10000000000000;
+		document.write('<iframe src="https://4436230.fls.doubleclick.net/activityi;src=4436230;type=invmedia;cat=EUOEGzSm;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+	</script>
+	<noscript>
+		<iframe src="https://4436230.fls.doubleclick.net/activityi;src=4436230;type=invmedia;cat=EUOEGzSm;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+	</noscript>
+	<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+
+<header class="site-header">
+	<div class="site-header-container">
+		<div class="menu-hamburguer"></div>
+		<div class="site-header-logo svg-container">
+			<a href="/" onclick="Postmedia.Analytics.NavigationLink('header', 'Logo')" title="Driving">
+				<svg class="svg-logo svg-logo-driving"><use xmlns:xlink="https://www.w3.org/1999/xlink" xlink:href="#svg-logo-driving"></use></svg>
+			</a>
+		</div>
+		<!-- /Site Header Logo -->
+
+		<div class="site-header-menu">
+			<ul class="menu-links text-label">
+				<li class="main-menu-item home-link">
+					<a class="menu-item " href="/">Home</a>
+				</li>
+												<li class="main-menu-item">
+									<div class="menu-item sub-link">
+										<div class="">
+											News &amp; Opinion											<div class="menu-arrow">
+												<svg class="svg-icon bootstrap-glyphicon svg-icon-triangle-down"><use xmlns:xlink="https://www.w3.org/1999/xlink" xlink:href="#svg-icon-triangle-down"></use></svg>
+											</div>
+										</div>
+									</div>
+									<ul class="sub-menu">
+																	<li><a class="sub-menu-item" href="https://driving.ca/category/auto-news" onclick="Postmedia.Analytics.NavigationLink('header', 'Latest News')">Latest News</a></li>
+																	<li><a class="sub-menu-item" href="https://driving.ca/specialsection/auto-shows" onclick="Postmedia.Analytics.NavigationLink('header', 'Auto Shows')">Auto Shows</a></li>
+																	<li><a class="sub-menu-item" href="https://driving.ca/specialsection/motor-mouth" onclick="Postmedia.Analytics.NavigationLink('header', 'Motor Mouth')">Motor Mouth</a></li>
+																	<li><a class="sub-menu-item" href="https://driving.ca/category/column/lorraine" onclick="Postmedia.Analytics.NavigationLink('header', 'Lorraine Complains')">Lorraine Complains</a></li>
+																	<li><a class="sub-menu-item" href="https://driving.ca/category/column" onclick="Postmedia.Analytics.NavigationLink('header', 'More Columns')">More Columns</a></li>
+																		</ul>
+								</li>
+															<li class="main-menu-item">
+									<div class="menu-item sub-link">
+										<div class="">
+											Reviews											<div class="menu-arrow">
+												<svg class="svg-icon bootstrap-glyphicon svg-icon-triangle-down"><use xmlns:xlink="https://www.w3.org/1999/xlink" xlink:href="#svg-icon-triangle-down"></use></svg>
+											</div>
+										</div>
+									</div>
+									<ul class="sub-menu">
+																	<li><a class="sub-menu-item" href="https://driving.ca/category/reviews/preview" onclick="Postmedia.Analytics.NavigationLink('header', 'Previews')">Previews</a></li>
+																	<li><a class="sub-menu-item" href="https://driving.ca/category/reviews/first-drive" onclick="Postmedia.Analytics.NavigationLink('header', 'First Drives')">First Drives</a></li>
+																	<li><a class="sub-menu-item" href="https://driving.ca/category/reviews/road-test" onclick="Postmedia.Analytics.NavigationLink('header', 'Road Tests')">Road Tests</a></li>
+																	<li><a class="sub-menu-item" href="https://driving.ca/category/reviews/comparison" onclick="Postmedia.Analytics.NavigationLink('header', 'Comparisons')">Comparisons</a></li>
+																	<li><a class="sub-menu-item" href="https://driving.ca/category/reviews" onclick="Postmedia.Analytics.NavigationLink('header', 'All Reviews')">All Reviews</a></li>
+																		</ul>
+								</li>
+															<li class="main-menu-item">
+									<div class="menu-item sub-link">
+										<div class="">
+											Research											<div class="menu-arrow">
+												<svg class="svg-icon bootstrap-glyphicon svg-icon-triangle-down"><use xmlns:xlink="https://www.w3.org/1999/xlink" xlink:href="#svg-icon-triangle-down"></use></svg>
+											</div>
+										</div>
+									</div>
+									<ul class="sub-menu">
+																	<li><a class="sub-menu-item" href="https://driving.ca/car-comparison" onclick="Postmedia.Analytics.NavigationLink('header', 'Car Comparison')">Car Comparison</a></li>
+																	<li><a class="sub-menu-item" href="https://driving.ca/bodystyle/suv" onclick="Postmedia.Analytics.NavigationLink('header', 'Buyer\'s Guide')">Buyer&#039;s Guide</a></li>
+																	<li><a class="sub-menu-item" href="https://driving.ca/specialsection/new-car-deals" onclick="Postmedia.Analytics.NavigationLink('header', 'New Car Deals')">New Car Deals</a></li>
+																	<li><a class="sub-menu-item" href="https://driving.ca/classification/shopping" onclick="Postmedia.Analytics.NavigationLink('header', 'Shopping Advice')">Shopping Advice</a></li>
+																		</ul>
+								</li>
+														<li class="main-menu-item"><a class="menu-item " href="https://driving.ca/tag/video" onclick="Postmedia.Analytics.NavigationLink('header', 'Video')">Video</a></li>
+															<li class="main-menu-item">
+									<div class="menu-item sub-link">
+										<div class="">
+											Features											<div class="menu-arrow">
+												<svg class="svg-icon bootstrap-glyphicon svg-icon-triangle-down"><use xmlns:xlink="https://www.w3.org/1999/xlink" xlink:href="#svg-icon-triangle-down"></use></svg>
+											</div>
+										</div>
+									</div>
+									<ul class="sub-menu">
+																	<li><a class="sub-menu-item" href="https://driving.ca/category/features" onclick="Postmedia.Analytics.NavigationLink('header', 'All Features')">All Features</a></li>
+																	<li><a class="sub-menu-item" href="https://driving.ca/specialsection/safety-and-maintenance" onclick="Postmedia.Analytics.NavigationLink('header', 'Safety and Maintenance')">Safety and Maintenance</a></li>
+																	<li><a class="sub-menu-item" href="https://driving.ca/classification/shopping" onclick="Postmedia.Analytics.NavigationLink('header', 'Shopping Advice')">Shopping Advice</a></li>
+																	<li><a class="sub-menu-item" href="https://driving.ca/classification/list" onclick="Postmedia.Analytics.NavigationLink('header', 'Top 10s and lists')">Top 10s and lists</a></li>
+																	<li><a class="sub-menu-item" href="https://driving.ca/specialsection/classic-cars" onclick="Postmedia.Analytics.NavigationLink('header', 'Classic Cars')">Classic Cars</a></li>
+																	<li><a class="sub-menu-item" href="https://driving.ca/specialsection/supercars" onclick="Postmedia.Analytics.NavigationLink('header', 'Supercars')">Supercars</a></li>
+																	<li><a class="sub-menu-item" href="https://driving.ca/specialsection/electric-cars" onclick="Postmedia.Analytics.NavigationLink('header', 'Electric Cars')">Electric Cars</a></li>
+																	<li><a class="sub-menu-item" href="https://driving.ca/specialsection/motorcycles" onclick="Postmedia.Analytics.NavigationLink('header', 'Motorcycles')">Motorcycles</a></li>
+																		</ul>
+								</li>
+										</ul>
+		</div>
+		<!-- /Site Header Menu -->
+
+		<div class="exclusive-box">
+			<a href="https://driving.unhaggle.com/driving/?utm_medium=referral&utm_campaign=header" target="_blank">Get Exclusive Pricing</a>
+		</div>
+		<!-- /Site Header Exclusive Price -->
+
+		<div class="site-header-search search-box">
+			<div class="svg-icon-container"><svg class="svg-icon svg-icon-search"><use xlink:href="#svg-icon-search"></use></svg></div>
+			<span class="text-label">Search</span>
+		</div>
+		<!-- /Site Header Search -->
+	</div>
+	<!-- /Site Header Container -->
+
+
+</header>
+<!-- HEADER SEARCH TEMPLATE -->
+<!--<div class="search expanding-search" id="header-search">
+	<input type="text" 
+	class="autocomplete" value="" />
+	<button class="search-button svg-icon-container">
+		<div id="svg_icon_search_header" class="svg_icon svg_search" data-type="search" data-fill="000000" data-hover-fill="000000" data-width="18" data-height="18"></div>
+	</button>
+</div>-->
+
+<div id="search-body-holder" class="search-body-holder search" id="header-search">
+	<div class="text-box-wrap">
+		<label for="header-search-box">Search Driving</label>
+		<input type="search" 
+		class="autocomplete" placeholder="Start typing to search" id="header-search-box" value="">
+		<div class="svg-container close-search">
+			<svg class="svg-icon svg-icon-close"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-icon-close"></use></svg>
+		</div>
+	</div>
+</div>
+<!-- HEADER SEARCH TEMPLATE ENDS -->
+
+
+	<div class="popular-now-sticky">
+			<div class="popular-now-sticky-container">
+			<div class="popular-now-sticky-arrow arrow-left"></div>
+		<div class="widget pn_chartbeat_top_stories">	<div class="popular-now outfit">
+		<ul class="posts-list">
+			</ul>
+	</div>
+	</div>			<div class="popular-now-sticky-arrow arrow-right"></div>
+			<div class="popular-now-sticky-footer"></div>
+		</div>
+	</div>
+	
+
+			<!-- Out of Page Ad -->
+		<div class="out-of-page">
+						<div id="gpt-oop" class="pn_dfpads adslot"
+				 data-ad data-ad-oop data-ad-loc="top" data-ad-ref="off">			<script type="text/javascript">
+
+						jQuery( document ).ready( function() {
+			apstag.fetchBids({
+				slots: [{
+					slotID: 'gpt-oop',
+					sizes: []				}]
+			}, function( bids ) {
+				/* trigger the first request to DFP */
+				googletag.cmd.push( function() {
+		
+				var gpt_oop = googletag.
+
+								defineOutOfPageSlot
+							("/3081/driving.ca/auto-news/news/story"
+						 , 'gpt-oop');
+			gpt_oop			.addService( googletag.pubads() )
+								.setTargeting(
+						'loc'
+						, "top"					)
+								 ;
+							apstag.setDisplayBids();
+				pnJustInTime.route(
+		{
+						ad_id: '"#gpt-oop"',
+						pixels_away:100,
+						pixels_away_count:1,
+						mode:'down',
+						lazy_loading_enabled:'"on"',
+						refresh_enabled:'"on"',
+						refresh_count:5,
+						refresh_time:30,
+						block_these_ads:'"#gpt-impulse, #gpt-oop, #gpt-build-and-price, #gpt-build-and-price-mobile, #featured_vehicle_ad_id, #gpt-wallpaper, #gpt-bigboxtop, #gpt-leaderboard, #triplelift-ads, #triplelift-ads-mobile, #triplelift-ads-1, #triplelift-ads-1-mobile"',
+						correlator_sync:"off",
+						admode:'""',
+						ad_data:'null',
+						adslot: gpt_oop,
+						ias_targeting: ["on",928934,"2000","\/3081\/driving.ca\/auto-news\/news\/story"],
+				}					);
+				});
+			});
+		});
+						</script>
+						</div>
+						</div>
+		<!-- Out of Page ends -->
+	
+	
+	<section class="top-content">
+	<div class="adunit">
+		<div class="leaderboard pnLeaderboard">
+			<div id="pnLeaderBoardStickyBG">
+				<div>
+				<script type="text/javascript">
+					if ( window.screen.width >= 768 && window.screen.width <= 1024 ) {
+						googletag.cmd.push(function() {
+							googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+								if ( event.slot.getSlotElementId() == "gpt-leaderboard" ) {
+									var adunit = document.getElementById( event.slot.getSlotElementId() );
+									adunit.parentNode.parentNode.className += ' s-'+ event.size.join('X');
+								}
+							});
+						});
+					}
+				</script>
+							<div id="gpt-leaderboard" class="pn_dfpads adslot"
+				 data-ad="[[728,90],[970,90],[970,250]]" data-ad-loc="top" data-ad-ref="off">			<script type="text/javascript">
+
+						jQuery( document ).ready( function() {
+			apstag.fetchBids({
+				slots: [{
+					slotID: 'gpt-leaderboard',
+					sizes: [[728,90],[970,90],[970,250]]				}]
+			}, function( bids ) {
+				/* trigger the first request to DFP */
+				googletag.cmd.push( function() {
+		
+				var gpt_leaderboard = googletag.
+
+								defineSlot
+							("/3081/driving.ca/auto-news/news/story"
+							,
+				[[728,90],[970,90],[970,250]]			 , 'gpt-leaderboard');
+							 adSlots.push( gpt_leaderboard );
+				gpt_leaderboard			.addService( googletag.pubads() )
+								.setTargeting(
+						'loc'
+						, "top"					)
+								 ;
+							apstag.setDisplayBids();
+				pnJustInTime.route(
+		{
+						ad_id: '"#gpt-leaderboard"',
+						pixels_away:100,
+						pixels_away_count:1,
+						mode:'down',
+						lazy_loading_enabled:'"on"',
+						refresh_enabled:'"on"',
+						refresh_count:5,
+						refresh_time:30,
+						block_these_ads:'"#gpt-impulse, #gpt-oop, #gpt-build-and-price, #gpt-build-and-price-mobile, #featured_vehicle_ad_id, #gpt-wallpaper, #gpt-bigboxtop, #gpt-leaderboard, #triplelift-ads, #triplelift-ads-mobile, #triplelift-ads-1, #triplelift-ads-1-mobile"',
+						correlator_sync:"off",
+						admode:'""',
+						ad_data:'null',
+						adslot: gpt_leaderboard,
+						ias_targeting: ["on",928934,"2000","\/3081\/driving.ca\/auto-news\/news\/story"],
+				}					);
+				});
+			});
+		});
+						</script>
+						</div>
+								</div>
+			</div>
+		</div>
+	</div>
+</section>
+	<div class="wallpaper-container" style="position:absolute">
+				<div id="gpt-wallpaper" class="pn_dfpads adslot"
+				 data-ad="[4,4]" data-ad-loc="top" data-ad-ref="off">			<script type="text/javascript">
+
+						jQuery( document ).ready( function() {
+			apstag.fetchBids({
+				slots: [{
+					slotID: 'gpt-wallpaper',
+					sizes: [[4,4]]				}]
+			}, function( bids ) {
+				/* trigger the first request to DFP */
+				googletag.cmd.push( function() {
+		
+				var gpt_wallpaper = googletag.
+
+								defineSlot
+							("/3081/driving.ca/auto-news/news/story"
+							,
+				[[4,4]]			 , 'gpt-wallpaper');
+							 adSlots.push( gpt_wallpaper );
+				gpt_wallpaper			.addService( googletag.pubads() )
+								.setTargeting(
+						'loc'
+						, "top"					)
+								 ;
+							apstag.setDisplayBids();
+				pnJustInTime.route(
+		{
+						ad_id: '"#gpt-wallpaper"',
+						pixels_away:100,
+						pixels_away_count:1,
+						mode:'down',
+						lazy_loading_enabled:'"on"',
+						refresh_enabled:'"on"',
+						refresh_count:5,
+						refresh_time:30,
+						block_these_ads:'"#gpt-impulse, #gpt-oop, #gpt-build-and-price, #gpt-build-and-price-mobile, #featured_vehicle_ad_id, #gpt-wallpaper, #gpt-bigboxtop, #gpt-leaderboard, #triplelift-ads, #triplelift-ads-mobile, #triplelift-ads-1, #triplelift-ads-1-mobile"',
+						correlator_sync:"off",
+						admode:'""',
+						ad_data:'null',
+						adslot: gpt_wallpaper,
+						ias_targeting: ["on",928934,"2000","\/3081\/driving.ca\/auto-news\/news\/story"],
+				}					);
+				});
+			});
+		});
+						</script>
+						</div>
+					</div>
+	<!-- Sticky Headline -->
+<div class="headline-sticky">
+	<div class="headline-sticky-container">
+		<div class="headline-sticky-category">News</div>
+		<h2 class="headline-sticky-title">New international regulations could pave the way for self-driving cars</h2>
+		<div class="headline-sticky-share share-this">
+			<ul class="social-media-links">
+					<li class="facebook svg-icon-container">
+		<a onclick="Postmedia.Analytics.SocialLink(Postmedia.Analytics.SocialTypes.FACEBOOK_SHARE, 'top'); popupwindow('https://www.facebook.com/dialog/share?app_id=199800443522415&amp;href=https://driving.ca/auto-news/news/new-international-regulations-could-pave-the-way-for-self-driving-cars', 'Facebook', this);" data-url="" href="javascript:void(0)" title="Facebook">
+			<div id="svg_story_facebook_1" class="svg_icon svg_facebook" data-type="facebook" data-fill="ffffff" data-width="31" data-height="30"></div>
+		</a>
+	</li>
+		<li class="twitter svg-icon-container">
+		<a onclick="Postmedia.Analytics.SocialLink(Postmedia.Analytics.SocialTypes.TWITTER_TWEET, 'top'); popupwindow('https://twitter.com/intent/tweet?text=New+international+regulations+could+pave+the+way+for+self-driving+cars%20-%20https://driving.ca/auto-news/news/new-international-regulations-could-pave-the-way-for-self-driving-cars%20-%20via%20@drivingdotca', 'Twitter', this);" data-url="" href="javascript:void(0)" title="twitter">
+			<div id="svg_story_twitter_1" class="svg_icon svg_twitter" data-type="twitter" data-fill="ffffff" data-width="31" data-height="30"></div>
+		</a>
+	</li>
+					<li data-toggle="modal" data-target="#shareThisModal">
+					<svg class="svg-icon share-icon svg-share"></svg>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+<div class="story page" id="page">
+
+	<div class="story-nav">
+			<a href="https://driving.ca/audi/q5/reviews/preview/first-look-2021-audi-q5">
+			<button onclick="Postmedia.Analytics.Driving.drv_next_prev_story_click('Story Page Button - Left')" class="previous" title="Previous Story">
+				<label><figure> <img width="120" height="80" src="https://postmediadriving.files.wordpress.com/2020/06/q5stock4-1.jpg?quality=100&amp;strip=all&amp;w=120" class="attachment-125x80 size-125x80 wp-post-image" alt="2021 Audi Q5" srcset="https://postmediadriving.files.wordpress.com/2020/06/q5stock4-1.jpg?quality=100&amp;strip=all&amp;w=120 120w, https://postmediadriving.files.wordpress.com/2020/06/q5stock4-1.jpg?quality=100&amp;strip=all&amp;w=240 240w, https://postmediadriving.files.wordpress.com/2020/06/q5stock4-1.jpg?quality=100&amp;strip=all&amp;w=150 150w" sizes="(max-width: 120px) 100vw, 120px" /> </figure><div><span> First Look: 2021 Audi Q5 </span></div></label>
+				<svg class="svg-icon bootstrap-glyphicon svg-icon-menu-left"><use xmlns:xlink="https://www.w3.org/1999/xlink" xlink:href="#svg-icon-menu-left"></use></svg>
+			</button>
+		</a>
+				<a href="https://driving.ca/jeep/wrangler/auto-news/news/jeep-reportedly-ditching-etorque-engine-for-2021-wrangler">
+			<button onclick="Postmedia.Analytics.Driving.drv_next_prev_story_click('Story Page Button - Right')" class="next" title="Next Story">
+				<label><figure> <img width="120" height="80" src="https://postmediadriving.files.wordpress.com/2020/06/jp020_175wrm3pr545ob0qs7h43aj0gk2uno7.jpg?quality=100&amp;strip=all&amp;w=120" class="attachment-125x80 size-125x80 wp-post-image" alt="" srcset="https://postmediadriving.files.wordpress.com/2020/06/jp020_175wrm3pr545ob0qs7h43aj0gk2uno7.jpg?quality=100&amp;strip=all&amp;w=120 120w, https://postmediadriving.files.wordpress.com/2020/06/jp020_175wrm3pr545ob0qs7h43aj0gk2uno7.jpg?quality=100&amp;strip=all&amp;w=240 240w, https://postmediadriving.files.wordpress.com/2020/06/jp020_175wrm3pr545ob0qs7h43aj0gk2uno7.jpg?quality=100&amp;strip=all&amp;w=150 150w" sizes="(max-width: 120px) 100vw, 120px" /> </figure><div><span> Jeep reportedly ditching eTorque engine for 2021 Wrangler </span></div></label>
+				<svg class="svg-icon bootstrap-glyphicon svg-icon-menu-right"><use xmlns:xlink="https://www.w3.org/1999/xlink" xlink:href="#svg-icon-menu-right"></use></svg>
+			</button>
+		</a>
+	</div>
+
+	<!-- main page content begins -->
+	
+	<article id="post-1cf6dd39-34ac-45a2-a518-d7a205a49821" class="main-content">
+		<header>
+					<ul class="crumb-trail" itemscope itemtype="https://schema.org/BreadcrumbList">
+			<li><a href="https://postmediadriving.wordpress.com">HOME</a></li>
+			<li class="crumb-spacer">/</li>
+					<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+				<a itemprop="item" href="https://driving.ca/category/auto-news">
+					<span itemprop="name">Auto News</span>
+				</a>
+			</li>
+			<li class="crumb-spacer">/</li>
+						<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+				<a itemprop="item" href="https://driving.ca/category/auto-news/news">
+					<span itemprop="name">News</span>
+				</a>
+			</li>
+			<li class="crumb-spacer">/</li>
+					</ul>
+	<h1 itemprop="headline">New international regulations could pave the way for self-driving cars</h1><h2 itemprop="alternativeheadline"> More than 50 countries have signed on to framework that will govern where and under what conditions autonomous vehicles are permitted. </h2>			<div class="expert-author-wrap">
+							<div itemprop="author" itemscope itemtype="https://schema.org/Person">
+				<div class="expert-author">
+					<div class="by-line text-uppercase">
+						<span class="text-lowercase">by</span>
+						<span itemprop="name" class="name "><a href="https://driving.ca/author/motocanada">David Booth</a></span>&nbsp;						<time itemprop="datePublished" class="gray text-uppercase published pubdate" datetime="2020-06-29T10:58:46-04:00" >
+							<span>&nbsp;|&nbsp;</span><span class="byline-date">June 29, 2020</span>
+						</time>
+					</div>
+				</div>
+			</div>
+							<div data-toggle="modal" data-target="#shareThisModal" class="alt-share-this visible-xs-block">
+					<div class="alt-share-vehicle">SHARE STORY</div><div class="share-icon svg-share"><svg class="svg-icon"><use xmlns:xlink="https://www.w3.org/1999/xlink" xlink:href="#svg-share"></use></svg></div>
+				</div>
+			</div>
+		</header>
+
+		<div class="story-content-wrap l-constrained">
+			<div class="left">
+				<div class="featured-media">	<figure class="entry-featured-media align-none wp-caption post-img featured-image" id="post-383658media-383658" itemprop="associatedMedia" itemscope itemid="https://postmediadriving.files.wordpress.com/2020/01/plaza_festival-scaled-1.jpg?quality=80&#038;strip=all&#038;w=960&#038;h=480&#038;crop=1" itemtype="https://schema.org/ImageObject">
+		<img itemprop="url" scale="0" class="wp-post-image" alt="" src="https://postmediadriving.files.wordpress.com/2020/01/plaza_festival-scaled-1.jpg?quality=80&#038;strip=all&#038;w=960&#038;h=480&#038;crop=1" width="960" height="480" />
+					<figcaption class="wp-caption-text" itemprop="description">
+				<span class="img-caption">Toyota&#039;s autonomous e-Palette figures prominently in renderings of Woven City, as both a people mover and a delivery vehicle.</span><span class="img-author"><span itemprop="creator">Toyota</span></span>			</figcaption>
+			</figure>
+	</div>
+				<div class="story-text-content">
+					<div class="content">
+					<div class="story-text" itemprop="articleBody">
+							<div class="big-box-ad native-box-ad">			<div id="gpt-bigboxmid" class="pn_dfpads adslot"
+				 data-ad="[[300,250],[300,252]]" data-ad-loc="mid">			<script type="text/javascript">
+
+						jQuery( document ).ready( function() {
+			apstag.fetchBids({
+				slots: [{
+					slotID: 'gpt-bigboxmid',
+					sizes: [[300,250],[300,252]]				}]
+			}, function( bids ) {
+				/* trigger the first request to DFP */
+				googletag.cmd.push( function() {
+		
+				var gpt_bigboxmid = googletag.
+
+								defineSlot
+							("/3081/driving.ca/auto-news/news/story"
+							,
+				[[300,250],[300,252]]			 , 'gpt-bigboxmid');
+							 adSlots.push( gpt_bigboxmid );
+				gpt_bigboxmid			.addService( googletag.pubads() )
+								.setTargeting(
+						'loc'
+						, "mid"					)
+								 ;
+							apstag.setDisplayBids();
+				pnJustInTime.route(
+		{
+						ad_id: '"#gpt-bigboxmid"',
+						pixels_away:100,
+						pixels_away_count:1,
+						mode:'down',
+						lazy_loading_enabled:'"on"',
+						refresh_enabled:'"on"',
+						refresh_count:5,
+						refresh_time:30,
+						block_these_ads:'"#gpt-impulse, #gpt-oop, #gpt-build-and-price, #gpt-build-and-price-mobile, #featured_vehicle_ad_id, #gpt-wallpaper, #gpt-bigboxtop, #gpt-leaderboard, #triplelift-ads, #triplelift-ads-mobile, #triplelift-ads-1, #triplelift-ads-1-mobile"',
+						correlator_sync:"off",
+						admode:'""',
+						ad_data:'null',
+						adslot: gpt_bigboxmid,
+						ias_targeting: ["on",928934,"2000","\/3081\/driving.ca\/auto-news\/news\/story"],
+				}					);
+				});
+			});
+		});
+						</script>
+						</div>
+				</div><p class="p2"><span class="s1">One of the greatest impediments to proliferation of the self-driving cars we’ve all been promised are just around the corner has been a dearth of safety regulations that they will have to meet. It’s kinda’ hard to design something as complicated as a car that drives itself when you don’t know the rules it would have to meet.</span></p><p class="p2"><span class="s1">Well that may soon change. More than 50 countries — including Japan, the EU and Canada — recently agreed to implement regulations for semi-autonomous automobiles. The Automated Lane Keeping Systems (ALKS) rules were recently adopted by the United Nations Economic Commission for Europe (UNECE) World Forum for Harmonization of Vehicle Regulations and apply to Level 3 autonomous automobiles, cars that can drive themselves completely in some situations, but need to be monitored by a driver in case of unforeseen emergencies. For context, current self-driving systems, which require drivers to always maintain control of the steering wheel, are Level 2.</span></p><div class="lead-ad">			<div id="gpt-lead-ad" class="pn_dfpads adslot"
+				 data-ad="[720,185]" data-ad-loc="top">			<script type="text/javascript">
+
+						jQuery( document ).ready( function() {
+			apstag.fetchBids({
+				slots: [{
+					slotID: 'gpt-lead-ad',
+					sizes: [[720,185]]				}]
+			}, function( bids ) {
+				/* trigger the first request to DFP */
+				googletag.cmd.push( function() {
+		
+				var gpt_lead_ad = googletag.
+
+								defineSlot
+							("/3081/driving.ca/auto-news/news/story"
+							,
+				[[720,185]]			 , 'gpt-lead-ad');
+							 adSlots.push( gpt_lead_ad );
+				gpt_lead_ad			.addService( googletag.pubads() )
+								.setTargeting(
+						'loc'
+						, "top"					)
+								 ;
+							apstag.setDisplayBids();
+				pnJustInTime.route(
+		{
+						ad_id: '"#gpt-lead-ad"',
+						pixels_away:100,
+						pixels_away_count:1,
+						mode:'down',
+						lazy_loading_enabled:'"on"',
+						refresh_enabled:'"on"',
+						refresh_count:5,
+						refresh_time:30,
+						block_these_ads:'"#gpt-impulse, #gpt-oop, #gpt-build-and-price, #gpt-build-and-price-mobile, #featured_vehicle_ad_id, #gpt-wallpaper, #gpt-bigboxtop, #gpt-leaderboard, #triplelift-ads, #triplelift-ads-mobile, #triplelift-ads-1, #triplelift-ads-1-mobile"',
+						correlator_sync:"off",
+						admode:'""',
+						ad_data:'null',
+						adslot: gpt_lead_ad,
+						ias_targeting: ["on",928934,"2000","\/3081\/driving.ca\/auto-news\/news\/story"],
+				}					);
+				});
+			});
+		});
+						</script>
+						</div>
+				</div><div class="related-stories">  <div class="bdg">RELATED</div>  <div class="lf" style="background-image:url('https://postmediadriving.files.wordpress.com/2200/09/attic-kia-1.jpg?w=400&quality=100&strip=all');">  <a href="https://driving.ca/tesla/column/lorraine/lorraine-complains-get-your-self-driving-cars-off-my-roads"><div class="bdy"><div class="ovly"></div><div class="txt truncate" title="Lorraine Complains: Get your self-driving cars off my roads">Lorraine Complains: Get your self-driving cars off my roads</div></div></a>  </div>  <div class="rg" style="background-image:url('https://postmediadriving.files.wordpress.com/2200/09/attic-kia-1.jpg?w=400&quality=100&strip=all');">  <a href="https://driving.ca/features/feature-story/motor-mouth-self-driving-cars-wont-prevent-most-collisions"><div class="bdy"><div class="ovly"></div><div class="txt truncate" title="Motor Mouth: Self-driving cars won't prevent most collisions">Motor Mouth: Self-driving cars won&#8217;t prevent most collisions</div></div></a>  </div>  </div><p class="p2"><span class="s1">According to the resolution, the where and how Level 3 will be allowed is spelled out in detailed specificity. Any self-driving car will require a data-collecting “black box” for the ALKS system. They will operate only in lanes without pedestrians or cyclists, there will have to be a physical “separation” between traffic moving in opposite directions and the cars will be limited to a maximum of 60 kilometres an hour while in self-driving mode. These last two might require some deft stickhandling since low speed often means urban centres with both pedestrian and cyclists. The cars will also have to be equipped with Driver Availability Recognition Systems which test whether the human seated at the wheel could take over if need be. The system would also have to be programmed with a protocol to determine what actions should be taken should they not be able to take control in an emergency, </span></p><p class="p2"><span class="s1">Japan, which co-authored the regulations, says it ill implement the rules as soon as they come into force in January 2021. The EU also says it will implement the regulations. There’s no word when Canada will implement the new standards. As with most things globalist these days, the United States is not part of the agreement.</span></p>													</div>
+					</div>
+
+										
+					<!-- related tags begins -->
+					<div class="related-tags story-section"><div class="tags"><h2 class="related-tags-title">RELATED <strong>TAGS</strong></h2><ul><li><a href="https://driving.ca/classification/flex" onclick="Postmedia.Analytics.Driving.drv_related_tags_click('Flex')">Flex</a></li><li><a href="https://driving.ca/category/auto-news/news" onclick="Postmedia.Analytics.Driving.drv_related_tags_click('News')">News</a></li></ul></div></div>
+					<input type="hidden" id="_drv_comments_nonce" name="_drv_comments_nonce" value="77e12f17f9" /><input type="hidden" name="_wp_http_referer" value="/auto-news/news/new-international-regulations-could-pave-the-way-for-self-driving-cars" /><div class="comments">
+	<header class="tap-to-load collapsed" data-url="https://driving.ca/auto-news/news/new-international-regulations-could-pave-the-way-for-self-driving-cars" data-toggle="collapse" data-target="#cmt-body">
+		<div class="svg-icon-container svg-comments"><svg class="svg-icon"><use xmlns:xlink="https://www.w3.org/1999/xlink" xlink:href="#svg-speech-bubble"></use></svg></div>
+		<div class="cmt-header"><div class="cmt-txt">COMMENTS</div><div class="cmt-subtxt">SHARE YOUR THOUGHTS</div></div>
+		<div class="svg-icon-container svg-icon-chevron"><svg class="svg-icon up"><use xmlns:xlink="https://www.w3.org/1999/xlink" xlink:href="#svg-up-chevron"></use></svg><svg class="svg-icon down"><use xmlns:xlink="https://www.w3.org/1999/xlink" xlink:href="#svg-down-chevron"></use></svg></div>
+		<div class="section-line"></div>
+	</header>
+	<div id="cmt-body" class="collapse"><div class="facebook-comments"></div><div class="cmt-intro">We encourage all readers to share their views on our articles using Facebook commenting <a href="/fb-faq">Visit our FAQ page for more information.</a></div></div>
+</div>
+				</div>
+			</div>
+			<div class="right visible-lg-block visible-md-block visible-sm-block l-sidebar">
+				<!--Begin: Social Share-->
+				<div class="share-this story-tools desktop"><ul class="social-media-links">	<li class="facebook svg-icon-container">
+		<a onclick="Postmedia.Analytics.SocialLink(Postmedia.Analytics.SocialTypes.FACEBOOK_SHARE, 'top'); popupwindow('https://www.facebook.com/dialog/share?app_id=199800443522415&amp;href=https://driving.ca/auto-news/news/new-international-regulations-could-pave-the-way-for-self-driving-cars', 'Facebook', this);" data-url="" href="javascript:void(0)" title="Facebook">
+			<div id="svg_story_facebook_2" class="svg_icon svg_facebook" data-type="facebook" data-fill="ffffff" data-width="31" data-height="30"></div>
+		</a>
+	</li>
+		<li class="twitter svg-icon-container">
+		<a onclick="Postmedia.Analytics.SocialLink(Postmedia.Analytics.SocialTypes.TWITTER_TWEET, 'top'); popupwindow('https://twitter.com/intent/tweet?text=New+international+regulations+could+pave+the+way+for+self-driving+cars%20-%20https://driving.ca/auto-news/news/new-international-regulations-could-pave-the-way-for-self-driving-cars%20-%20via%20@drivingdotca', 'Twitter', this);" data-url="" href="javascript:void(0)" title="twitter">
+			<div id="svg_story_twitter_2" class="svg_icon svg_twitter" data-type="twitter" data-fill="ffffff" data-width="31" data-height="30"></div>
+		</a>
+	</li>
+		<li class="googleplus svg-icon-container">
+		<a onclick="Postmedia.Analytics.SocialLink(Postmedia.Analytics.SocialTypes.GOOGLE_SHARE, 'top'); popupwindow('https://plus.google.com/share?url=https%3A%2F%2Fdriving.ca%2Fauto-news%2Fnews%2Fnew-international-regulations-could-pave-the-way-for-self-driving-cars', 'Google Plus', this);" data-url="" href="javascript:void(0)" title="google plus">
+			<div id="svg_story_googleplus_1" class="svg_icon svg_googleplus" data-type="googleplus" data-fill="ffffff" data-width="23" data-height="23"></div>
+		</a>
+	</li>
+		<li class="pinterest svg-icon-container">
+		<a data-pin-do="buttonPin" href="javascript:void(0)" data-pin-custom="true" onclick="Postmedia.Analytics.SocialLink(Postmedia.Analytics.SocialTypes.PINTEREST_PIN, 'top'); popupwindow('https://www.pinterest.com/pin/create/button/?url=https://driving.ca/auto-news/news/new-international-regulations-could-pave-the-way-for-self-driving-cars&media=https://postmediadriving.files.wordpress.com/2020/01/plaza_festival-scaled-1.jpg?quality=80&description=New international regulations could pave the way for self-driving cars | Credit: Toyota', 'Pinterest', this);" data-url="">
+			<div id="svg_story_pinterest_1" class="svg_icon svg_pinterest" data-type="pinterest" data-fill="ffffff" data-width="31" data-height="30"></div>
+		</a>
+	</li>
+		<li class="email svg-icon-container">
+		<a onclick="Postmedia.Analytics.SocialLink(Postmedia.Analytics.SocialTypes.EMAIL, 'top'); openmail('New international regulations could pave the way for self-driving cars','Check out this story from Driving.ca!\n\nNew international regulations could pave the way for self-driving cars\n\nMore than 50 countries have signed on to framework that will govern where and under what conditions autonomous vehicles are permitted.\nhttps://driving.ca/auto-news/news/new-international-regulations-could-pave-the-way-for-self-driving-cars');" href="javascript:void(0)">
+			<div id="svg_story_email_1" class="svg_icon svg_email" data-type="email" data-fill="ffffff" data-width="31" data-height="30"></div>
+		</a>
+	</li>
+	</ul></div>
+				<!-- big box ad begins -->
+				<div class="big-box-ad">			<div id="gpt-bigboxtop" class="pn_dfpads adslot"
+				 data-ad="[[300,250],[300,251],[300,600],[300,1050],[300,601]]" data-ad-loc="top" data-ad-ref="off">			<script type="text/javascript">
+
+						jQuery( document ).ready( function() {
+			apstag.fetchBids({
+				slots: [{
+					slotID: 'gpt-bigboxtop',
+					sizes: [[300,250],[300,251],[300,600],[300,1050],[300,601]]				}]
+			}, function( bids ) {
+				/* trigger the first request to DFP */
+				googletag.cmd.push( function() {
+		
+				var gpt_bigboxtop = googletag.
+
+								defineSlot
+							("/3081/driving.ca/auto-news/news/story"
+							,
+				[[300,250],[300,251],[300,600],[300,1050],[300,601]]			 , 'gpt-bigboxtop');
+							 adSlots.push( gpt_bigboxtop );
+				gpt_bigboxtop			.addService( googletag.pubads() )
+								.setTargeting(
+						'loc'
+						, "top"					)
+								 ;
+							apstag.setDisplayBids();
+				pnJustInTime.route(
+		{
+						ad_id: '"#gpt-bigboxtop"',
+						pixels_away:100,
+						pixels_away_count:1,
+						mode:'down',
+						lazy_loading_enabled:'"on"',
+						refresh_enabled:'"on"',
+						refresh_count:5,
+						refresh_time:30,
+						block_these_ads:'"#gpt-impulse, #gpt-oop, #gpt-build-and-price, #gpt-build-and-price-mobile, #featured_vehicle_ad_id, #gpt-wallpaper, #gpt-bigboxtop, #gpt-leaderboard, #triplelift-ads, #triplelift-ads-mobile, #triplelift-ads-1, #triplelift-ads-1-mobile"',
+						correlator_sync:"off",
+						admode:'""',
+						ad_data:'null',
+						adslot: gpt_bigboxtop,
+						ias_targeting: ["on",928934,"2000","\/3081\/driving.ca\/auto-news\/news\/story"],
+				}					);
+				});
+			});
+		});
+						</script>
+						</div>
+				</div>
+				<!--Begin: Rating & Specs-->
+								<!--Begin: Pricing Widget-->
+					<div class="unhaggle inactive adaptive-no-display-320-767 compact pricing_widget">
+		<h3 class="section-header-large">Local Pricing &amp; <strong>Incentives</strong></h3>
+		<div class="content-body">
+			<div class="dropdowns">
+				<input type="hidden" id="dd-trim" value="" />
+				<div class="filter as-dropdown dd-year" data-value="" data-default-selection="Choose a Make" data-sort="make:asc" data-search-field="make" data-limit="50" data-target="unhaggle_make" name="dd-year" id="unhaggle_year">
+					<button>
+						<div class="dd-text">Year</div>
+						<div class="menu-arrow">
+							<svg class="svg-icon bootstrap-glyphicon svg-icon-triangle-down"><use xmlns:xlink="https://www.w3.org/1999/xlink" xlink:href="#svg-icon-triangle-down"></use></svg>
+						</div>
+					</button>
+					<ul data-type="year">
+					<li data-value="2020">2020</li><li data-value="2019">2019</li><li data-value="2018">2018</li>					</ul>
+				</div>
+				<div class="filter as-dropdown dd-make" data-value="" data-default-selection="Choose A Make" data-sort="model:asc" data-search-field="model" data-limit="50" data-target="unhaggle_model" name="dd-make" id="unhaggle_make">
+					<button>
+						<div class="dd-text">Choose A Make</div>
+						<div class="menu-arrow">
+							<svg class="svg-icon bootstrap-glyphicon svg-icon-triangle-down"><use xmlns:xlink="https://www.w3.org/1999/xlink" xlink:href="#svg-icon-triangle-down"></use></svg>
+						</div>
+					</button>
+					<ul data-type="make">
+
+					</ul>
+				</div>
+				<div data-id="dd-model" class="filter as-dropdown dd-model" data-value="" data-default-selection="Choose a Model" data-sort="model:asc" data-search-field="bodystyle,stylenamewotrim,trim,styleid,msrp" data-limit="50" data-target="unhaggle_trim" name="dd-make" id="unhaggle_model">
+					<button>
+						<div class="dd-text">Choose A Model</div>
+						<div class="menu-arrow">
+							<svg class="svg-icon bootstrap-glyphicon svg-icon-triangle-down"><use xmlns:xlink="https://www.w3.org/1999/xlink" xlink:href="#svg-icon-triangle-down"></use></svg>
+						</div>
+					</button>
+					<ul data-type="model">
+
+					</ul>
+				</div>
+				<div data-id="dd-trim" class="filter as-dropdown dd-trim " data-value="" data-default-selection="Choose A Trim" data-sort="trim:asc" data-search-field="" data-limit="50" data-target="unhaggle_trim" name="dd-trim" id="unhaggle_trim">
+					<button>
+						<div class="dd-text">Choose A Trim</div>
+						<div class="menu-arrow">
+							<svg class="svg-icon bootstrap-glyphicon svg-icon-triangle-down"><use xmlns:xlink="https://www.w3.org/1999/xlink" xlink:href="#svg-icon-triangle-down"></use></svg>
+						</div>
+					</button>
+					<ul data-type="trim">
+
+					</ul>
+				</div>
+			</div>
+			<div class="details">
+				<figure>
+					<span>Please select a vehicle</span>
+					<img alt="2014 Mercedes-Benz Sprinter Passenger Vans" pm-lazy-src="https://app.canada.com/chrome/get.svc/image/0?resize=compare:search" src="https://app.canada.com/chrome/get.svc/image/0?resize=compare:search">
+				</figure>
+				<div class="msrp">
+					<h3>MSRP</h3>
+					<a href="javascript:void(0)" title="Manufacturer's Suggested Retail Price (MSRP) is a recommended sale price provided by the automaker. Where presented on its own, the price is for a base model without options and before taxes, rebates or fees. Where presented as a range, it represents the prices of multiple trim lines available for the model without options and before taxes, rebates or fees. Actual prices may vary." class="tooltip-icon svg-container">
+						<svg class="svg-icon bootstrap-glyphicon svg-icon-info-sign"><use xmlns:xlink="https://www.w3.org/1999/xlink" xlink:href="#svg-icon-info-sign"></use></svg>
+					</a>
+					<h2>$---</h2>
+				</div>
+				<div class="link-blocker"></div>
+				<div class="cta">
+					<div class="price"></div>
+					<a href="javascript:void(0)" onclick="Postmedia.Analytics.Driving.drv_unhaggle_go_button_click('Story Page')" class="gradient-btn pricing-link">See what your neighbours are paying</a>
+				</div>
+			</div>
+		</div>
+	</div>
+					<div class="native-ads delta-spot" data-ad-spot="delta-spot"><div class="single-item"><span></span></div></div>
+				<!--Resource Center-->
+								<!-- big box ad begins -->
+
+						<!-- comparison-list starts -->
+		<div class="comparison-list">
+			<h3>Comparison links</h3>
+			<ul>
+										<li>
+							<span class="suv"></span>
+							<a href="https://driving.ca/car-comparison-results/407998-411453-411754/2020-Ford-Escape-vs-2020-Toyota-RAV4-vs-2020-Honda-CR-V">
+								Compact crossovers without compromise							</a>
+						</li>
+											<li>
+							<span class="pickup"></span>
+							<a href="https://driving.ca/car-comparison-results/407113-409394-409262/2020-Chevrolet-Silverado-1500-vs-2020-Ford-F-150-vs-2020-Ram-1500">
+								Go big and go home with new pickups							</a>
+						</li>
+											<li>
+							<span class="sedan"></span>
+							<a href="https://driving.ca/car-comparison-results/410930-410176-408707/2020-Toyota--Prius-vs-2020-Honda-Insight-vs-2020-Mitsubishi-Outlander-PHEV">
+								Hybrids making it easier to go green							</a>
+						</li>
+											<li>
+							<span class="suv"></span>
+							<a href="https://driving.ca/car-comparison-results/406033-411444-411809-407242-411780/2020-Kia--Soul-vs-2020-Subaru-Crosstrek-vs-2020-Honda-HR-V-vs-2020-Nissan-Qashqai-vs-2020-Mazda-CX-30">
+								Affordable, economical and practical							</a>
+						</li>
+											<li>
+							<span class="coup"></span>
+							<a href="https://driving.ca/car-comparison-results/407641-407835-411871-411873-409145-407643/2020-Chevrolet-Camaro-vs-2020-Ford-Mustang-vs-2020-Dodge-Challenger-vs-2020-Dodge-Challenger-vs-2020-Ford-Mustang-vs-2020-Chevrolet-Camaro">
+								Age old rivalry between muscle cars							</a>
+						</li>
+											<li>
+							<span class="suv"></span>
+							<a href="https://driving.ca/car-comparison-results/406982-411349-412314-408637-408555/2020-Ford-Explorer-vs-2020-Honda-Pilot-vs-2020-Toyota-Highlander-vs-2020-Subaru-Ascent-vs-2020-Nissan-Pathfinder">
+								SUVs for the whole family							</a>
+						</li>
+											<li>
+							<span class="wagon"></span>
+							<a href="https://driving.ca/car-comparison-results/411586-404512-408659-410910/2020-Volkswagen-Golf-GTI-vs-2019-Honda-Civic-Type-R-vs-2020-MINI-3-Door-vs-2020-Subaru-WRX">
+								Hot hatchbacks to spice things up							</a>
+						</li>
+								</ul>
+		</div>
+		<!-- comparison-list ends -->
+						<div class="big-box-ad">			<div id="gpt-bigboxbot" class="pn_dfpads adslot"
+				 data-ad="[[300,250],[300,253]]" data-ad-loc="bot">			<script type="text/javascript">
+
+						jQuery( document ).ready( function() {
+			apstag.fetchBids({
+				slots: [{
+					slotID: 'gpt-bigboxbot',
+					sizes: [[300,250],[300,253]]				}]
+			}, function( bids ) {
+				/* trigger the first request to DFP */
+				googletag.cmd.push( function() {
+		
+				var gpt_bigboxbot = googletag.
+
+								defineSlot
+							("/3081/driving.ca/auto-news/news/story"
+							,
+				[[300,250],[300,253]]			 , 'gpt-bigboxbot');
+							 adSlots.push( gpt_bigboxbot );
+				gpt_bigboxbot			.addService( googletag.pubads() )
+								.setTargeting(
+						'loc'
+						, "bot"					)
+								 ;
+							apstag.setDisplayBids();
+				pnJustInTime.route(
+		{
+						ad_id: '"#gpt-bigboxbot"',
+						pixels_away:100,
+						pixels_away_count:1,
+						mode:'down',
+						lazy_loading_enabled:'"on"',
+						refresh_enabled:'"on"',
+						refresh_count:5,
+						refresh_time:30,
+						block_these_ads:'"#gpt-impulse, #gpt-oop, #gpt-build-and-price, #gpt-build-and-price-mobile, #featured_vehicle_ad_id, #gpt-wallpaper, #gpt-bigboxtop, #gpt-leaderboard, #triplelift-ads, #triplelift-ads-mobile, #triplelift-ads-1, #triplelift-ads-1-mobile"',
+						correlator_sync:"off",
+						admode:'""',
+						ad_data:'null',
+						adslot: gpt_bigboxbot,
+						ias_targeting: ["on",928934,"2000","\/3081\/driving.ca\/auto-news\/news\/story"],
+				}					);
+				});
+			});
+		});
+						</script>
+						</div>
+				</div>
+			</div>
+		</div>
+	</article>
+
+		<section>
+	<div class="right">
+		<!-- Popular Now begins -->
+		<div class="widget pn_chartbeat_top_stories">	<div class="popular-now outfit">
+		<ul class="posts-list">
+			</ul>
+	</div>
+	</div>	</div>
+		<div class="left">
+		<h2 class="text-uppercase you-may-also-like-title"><span class="section-title"> You may <strong>also like</strong> </span><span class="section-line"></span></h2>
+		<!-- you may also like begins-->
+		<div id="you-may-also-like" class="you-may-also-like story-section"><div class="outfit"><ul class="posts-list"><li class=""><article itemscope itemtype="http://schema.org/NewsArticle"
+class=" post post-excerpt hentry track_event news"
+data-event-tracking="Sidebar Outfit|0||0||||||David Booth||" ><figure class=thumbnail><a title="2021 BMW M3 and M4 will get up to 510 hp, automaker confirms" href="https://driving.ca/bmw/auto-news/news/2021-bmw-m3-and-m4-will-get-up-to-510-hp-automaker-confirms"
+onclick="Postmedia.Analytics.Driving.drv_you_may_also_like(&#039;&#039;)" ><img itemprop=image class="img-responsive attachment-post-thumbnail wp-post-image" src="https://postmediadriving.files.wordpress.com/2020/06/2021-bmw-4-series-8.jpg" id=img-398009 title="2021 BMW M440i xDrive Coupe" alt="2021 BMW M440i xDrive Coupe" width=1800 height=1200 pm-lazy-src="" /></a></figure><header><span class=cat-label>News<span class=nowrap><span class=yellow-line-short>&nbsp;</span></span></span><div class=title-5><a title="2021 BMW M3 and M4 will get up to 510 hp, automaker confirms" href="https://driving.ca/bmw/auto-news/news/2021-bmw-m3-and-m4-will-get-up-to-510-hp-automaker-confirms"
+onclick="Postmedia.Analytics.Driving.drv_you_may_also_like(\'\')" >2021 BMW M3 and M4 will get up to 510 hp, automaker confirms</a></div></header></article></li><li class=""><article itemscope itemtype="http://schema.org/NewsArticle"
+class=" post post-excerpt hentry track_event news"
+data-event-tracking="Sidebar Outfit|0||0||||||David Booth||" ><figure class=thumbnail><a title="Tesla beats sales estimates for second quarter of 2020" href="https://driving.ca/tesla/auto-news/news/tesla-beats-sales-estimates-for-second-quarter-of-2020"
+onclick="Postmedia.Analytics.Driving.drv_you_may_also_like(&#039;&#039;)" ><img itemprop=image class="img-responsive attachment-post-thumbnail wp-post-image" src="https://postmediadriving.files.wordpress.com/2020/03/tesla-model-s.jpg" id=img-390485 title=tesla-model-s alt=tesla-model-s width=1000 height=750 pm-lazy-src="" /></a></figure><header><span class=cat-label>News<span class=nowrap><span class=yellow-line-short>&nbsp;</span></span></span><div class=title-5><a title="Tesla beats sales estimates for second quarter of 2020" href="https://driving.ca/tesla/auto-news/news/tesla-beats-sales-estimates-for-second-quarter-of-2020"
+onclick="Postmedia.Analytics.Driving.drv_you_may_also_like(\'\')" >Tesla beats sales estimates for second quarter of 2020</a></div></header></article></li><li class=""><article itemscope itemtype="http://schema.org/NewsArticle"
+class=" post post-excerpt hentry track_event news"
+data-event-tracking="Sidebar Outfit|0||0||||||David Booth||" ><figure class=thumbnail><a title="Lincoln is killing off its flagship Continental sedan again" href="https://driving.ca/lincoln/auto-news/news/lincoln-is-killing-off-its-flagship-continental-sedan-again"
+onclick="Postmedia.Analytics.Driving.drv_you_may_also_like(&#039;&#039;)" ><img itemprop=image class="img-responsive attachment-post-thumbnail wp-post-image" src="https://postmediadriving.files.wordpress.com/2018/01/1341810_17_lnc_ctn_200035_highres_rgb_151222.jpg" id=img-313621 title="2017 Lincoln Continental" alt="2017 Lincoln Continental" width=2480 height=1600 pm-lazy-src="" /></a></figure><header><span class=cat-label>News<span class=nowrap><span class=yellow-line-short>&nbsp;</span></span></span><div class=title-5><a title="Lincoln is killing off its flagship Continental sedan again" href="https://driving.ca/lincoln/auto-news/news/lincoln-is-killing-off-its-flagship-continental-sedan-again"
+onclick="Postmedia.Analytics.Driving.drv_you_may_also_like(\'\')" >Lincoln is killing off its flagship Continental sedan again</a></div></header></article></li><li class=""><article itemscope itemtype="http://schema.org/NewsArticle"
+class=" post post-excerpt hentry track_event news"
+data-event-tracking="Sidebar Outfit|0||0||||||David Booth||" ><figure class=thumbnail><a title="BMW to make owners pay for features like heated seats via subscription" href="https://driving.ca/bmw/auto-news/news/bmw-to-make-owners-pay-for-features-like-heated-seats-via-subscription"
+onclick="Postmedia.Analytics.Driving.drv_you_may_also_like(&#039;&#039;)" ><img itemprop=image class="img-responsive attachment-post-thumbnail wp-post-image" src="https://postmediadriving.files.wordpress.com/2020/06/2021-bmw-4-series-11.jpg" id=img-398012 title="Fabian Kirchbauer Photography" alt="Fabian Kirchbauer Photography" width=1858 height=1200 pm-lazy-src="" /></a></figure><header><span class=cat-label>News<span class=nowrap><span class=yellow-line-short>&nbsp;</span></span></span><div class=title-5><a title="BMW to make owners pay for features like heated seats via subscription" href="https://driving.ca/bmw/auto-news/news/bmw-to-make-owners-pay-for-features-like-heated-seats-via-subscription"
+onclick="Postmedia.Analytics.Driving.drv_you_may_also_like(\'\')" >BMW to make owners pay for features like heated seats via subscription</a></div></header></article></li><li class=""><article itemscope itemtype="http://schema.org/NewsArticle"
+class=" post post-excerpt hentry track_event news"
+data-event-tracking="Sidebar Outfit|0||0||||||David Booth||" ><figure class=thumbnail><a title="Dodge getting Durango Hellcat, Charger Redeye and 807-hp Challenger for 2021" href="https://driving.ca/dodge/auto-news/news/dodge-getting-durango-hellcat-charger-redeye-and-807-hp-challenger-for-2021"
+onclick="Postmedia.Analytics.Driving.drv_you_may_also_like(&#039;&#039;)" ><img itemprop=image class="img-responsive attachment-post-thumbnail wp-post-image" src="https://postmediadriving.files.wordpress.com/2020/07/dg021_004mmc1mf3c23h9ctck6g4ikmm1ojc.jpg" id=img-400763 title="Dodge SRT lineup" alt="Dodge SRT lineup" width=1800 height=1200 pm-lazy-src="" /></a></figure><header><span class=cat-label>News<span class=nowrap><span class=yellow-line-short>&nbsp;</span></span></span><div class=title-5><a title="Dodge getting Durango Hellcat, Charger Redeye and 807-hp Challenger for 2021" href="https://driving.ca/dodge/auto-news/news/dodge-getting-durango-hellcat-charger-redeye-and-807-hp-challenger-for-2021"
+onclick="Postmedia.Analytics.Driving.drv_you_may_also_like(\'\')" >Dodge getting Durango Hellcat, Charger Redeye and 807-hp Challenger for 2021</a></div></header></article></li><li class=""><article itemscope itemtype="http://schema.org/NewsArticle"
+class=" post post-excerpt hentry track_event news"
+data-event-tracking="Sidebar Outfit|0||0||||||David Booth||" ><figure class=thumbnail><a title="Maserati puts an F1 spin on old tech to make 621 hp from a 3.0L engine" href="https://driving.ca/maserati/auto-news/news/maserati-puts-an-f1-spin-on-old-tech-to-make-621-hp-from-a-3-0l-engine"
+onclick="Postmedia.Analytics.Driving.drv_you_may_also_like(&#039;&#039;)" ><img itemprop=image class="img-responsive attachment-post-thumbnail wp-post-image" src="https://postmediadriving.files.wordpress.com/2020/07/maserati-nettuno-v6-f1-racing-engine.jpg" id=img-400771 title=maserati-nettuno-V6-F1-racing-engine alt="The new Maserati-developed 3.0-litre &#039;Nettuno&#039; V6" width=1800 height=1200 pm-lazy-src="" /></a></figure><header><span class=cat-label>News<span class=nowrap><span class=yellow-line-short>&nbsp;</span></span></span><div class=title-5><a title="Maserati puts an F1 spin on old tech to make 621 hp from a 3.0L engine" href="https://driving.ca/maserati/auto-news/news/maserati-puts-an-f1-spin-on-old-tech-to-make-621-hp-from-a-3-0l-engine"
+onclick="Postmedia.Analytics.Driving.drv_you_may_also_like(\'\')" >Maserati puts an F1 spin on old tech to make 621 hp from a 3.0L engine</a></div></header></article></li></ul></div></div>
+	</div>
+</section>
+</div>
+<!-- story page ends -->
+
+<!-- Begin: Share This Modal -->
+<div id="shareThisModal" class="modal fade modal-share-this" role="dialog">
+	<div class="modal-dialog">
+		<div class="modal-body">
+			<div class="share-this">
+				<h2 class="share-this-title">Share This <span>Story</span></h2>
+				<ul class="social-media-links">
+						<li class="facebook svg-icon-container">
+		<a onclick="Postmedia.Analytics.SocialLink(Postmedia.Analytics.SocialTypes.FACEBOOK_SHARE, 'top'); popupwindow('https://www.facebook.com/dialog/share?app_id=199800443522415&amp;href=https://driving.ca/auto-news/news/new-international-regulations-could-pave-the-way-for-self-driving-cars', 'Facebook', this);" data-url="" href="javascript:void(0)" title="Facebook">
+			<div id="svg_story_facebook_3" class="svg_icon svg_facebook" data-type="facebook" data-fill="ffffff" data-width="31" data-height="30"></div>
+		</a>
+	</li>
+		<li class="twitter svg-icon-container">
+		<a onclick="Postmedia.Analytics.SocialLink(Postmedia.Analytics.SocialTypes.TWITTER_TWEET, 'top'); popupwindow('https://twitter.com/intent/tweet?text=New+international+regulations+could+pave+the+way+for+self-driving+cars%20-%20https://driving.ca/auto-news/news/new-international-regulations-could-pave-the-way-for-self-driving-cars%20-%20via%20@drivingdotca', 'Twitter', this);" data-url="" href="javascript:void(0)" title="twitter">
+			<div id="svg_story_twitter_3" class="svg_icon svg_twitter" data-type="twitter" data-fill="ffffff" data-width="31" data-height="30"></div>
+		</a>
+	</li>
+		<li class="googleplus svg-icon-container">
+		<a onclick="Postmedia.Analytics.SocialLink(Postmedia.Analytics.SocialTypes.GOOGLE_SHARE, 'top'); popupwindow('https://plus.google.com/share?url=https%3A%2F%2Fdriving.ca%2Fauto-news%2Fnews%2Fnew-international-regulations-could-pave-the-way-for-self-driving-cars', 'Google Plus', this);" data-url="" href="javascript:void(0)" title="google plus">
+			<div id="svg_story_googleplus_2" class="svg_icon svg_googleplus" data-type="googleplus" data-fill="ffffff" data-width="23" data-height="23"></div>
+		</a>
+	</li>
+		<li class="pinterest svg-icon-container">
+		<a data-pin-do="buttonPin" href="javascript:void(0)" data-pin-custom="true" onclick="Postmedia.Analytics.SocialLink(Postmedia.Analytics.SocialTypes.PINTEREST_PIN, 'top'); popupwindow('https://www.pinterest.com/pin/create/button/?url=https://driving.ca/auto-news/news/new-international-regulations-could-pave-the-way-for-self-driving-cars&media=https://postmediadriving.files.wordpress.com/2020/01/plaza_festival-scaled-1.jpg?quality=80&description=New international regulations could pave the way for self-driving cars | Credit: Toyota', 'Pinterest', this);" data-url="">
+			<div id="svg_story_pinterest_2" class="svg_icon svg_pinterest" data-type="pinterest" data-fill="ffffff" data-width="31" data-height="30"></div>
+		</a>
+	</li>
+		<li class="youtube svg-icon-container">
+		<a onclick="Postmedia.Analytics.SocialLink(Postmedia.Analytics.SocialTypes.YOUTUBE_FOLLOW, 'top');" href="http://www.youtube.com/user/drivingdotca" target="_blank" title="Youtube" class="youtube">
+			<div id="svg_story_youtube_1" class="svg_icon svg-icon-youtube" data-type="youtube" data-fill="ffffff" data-width="28" data-height="23"></div>
+		</a>
+	</li>
+					</ul>
+			</div>
+		</div>
+		<div data-dismiss="modal" class="svg-container close-modal"><svg class="svg-icon svg-icon-close"><use xmlns:xlink="https://www.w3.org/1999/xlink" xlink:href="#svg-icon-close"></use></svg></div>
+	</div>
+</div>
+<!-- End: Share This Modal -->
+<footer class="site-footer">
+	<section class="top-footer">
+		<div class="container">
+			<div class="btn-wrap">
+				<div id="all-car-brands-btn" class="all-car-brands-btn">
+					<svg class="svg-logo svg-logo-all-car-brand-ellipse"><use xmlns:xlink="https://www.w3.org/1999/xlink" xlink:href="#svg-logo-all-car-brand-ellipse"></use></svg>
+					<span class="btn-text">All <strong>Car Brands</strong></span>
+				</div>
+			</div>
+		</div>
+		<div class="all-car-brands-widget">
+			<div class="container">
+				<div id="brand-logos" class="brand-logos">
+					<div class="logo-window">
+						<div class="all-brand-nav-arrow left hide">
+							<svg class="svg-icon bootstrap-glyphicon svg-icon-menu-left"><use xmlns:xlink="https://www.w3.org/1999/xlink" xlink:href="#svg-icon-menu-left"></use></svg>
+						</div>
+						<ul class="logo-slot" id="logo-slot">
+							<li class="acura" data-brand="acura"><a href="/acura" title="Acura"><span>Acura</span></a></li>
+<li class="alfa-romeo" data-brand="alfa-romeo"><a href="/alfa-romeo" title="Alfa Romeo"><span>Alfa Romeo</span></a></li>
+<li class="aston-martin" data-brand="aston-martin"><a href="/aston-martin" title="Aston Martin"><span>Aston Martin</span></a></li>
+<li class="audi" data-brand="audi"><a href="/audi" title="Audi"><span>Audi</span></a></li>
+<li class="bentley" data-brand="bentley"><a href="/bentley" title="Bentley"><span>Bentley</span></a></li>
+<li class="bmw" data-brand="bmw"><a href="/bmw" title="BMW"><span>BMW</span></a></li>
+<li class="bugatti" data-brand="bugatti"><a href="/bugatti" title="Bugatti"><span>Bugatti</span></a></li>
+<li class="buick" data-brand="buick"><a href="/buick" title="Buick"><span>Buick</span></a></li>
+<li class="cadillac" data-brand="cadillac"><a href="/cadillac" title="Cadillac"><span>Cadillac</span></a></li>
+<li class="chevrolet" data-brand="chevrolet"><a href="/chevrolet" title="Chevrolet"><span>Chevrolet</span></a></li>
+<li class="chrysler" data-brand="chrysler"><a href="/chrysler" title="Chrysler"><span>Chrysler</span></a></li>
+<li class="daewoo" data-brand="daewoo"><a href="/daewoo" title="Daewoo"><span>Daewoo</span></a></li>
+<li class="dodge" data-brand="dodge"><a href="/dodge" title="Dodge"><span>Dodge</span></a></li>
+<li class="eagle" data-brand="eagle"><a href="/eagle" title="Eagle"><span>Eagle</span></a></li>
+<li class="ferrari" data-brand="ferrari"><a href="/ferrari" title="Ferrari"><span>Ferrari</span></a></li>
+<li class="fiat" data-brand="fiat"><a href="/fiat" title="FIAT"><span>FIAT</span></a></li>
+<li class="fisker" data-brand="fisker"><a href="/fisker" title="Fisker"><span>Fisker</span></a></li>
+<li class="ford" data-brand="ford"><a href="/ford" title="Ford"><span>Ford</span></a></li>
+<li class="genesis" data-brand="genesis"><a href="/genesis" title="Genesis"><span>Genesis</span></a></li>
+<li class="gmc" data-brand="gmc"><a href="/gmc" title="GMC"><span>GMC</span></a></li>
+<li class="honda" data-brand="honda"><a href="/honda" title="Honda"><span>Honda</span></a></li>
+<li class="hummer" data-brand="hummer"><a href="/hummer" title="HUMMER"><span>HUMMER</span></a></li>
+<li class="hyundai" data-brand="hyundai"><a href="/hyundai" title="Hyundai"><span>Hyundai</span></a></li>
+<li class="infiniti" data-brand="infiniti"><a href="/infiniti" title="Infiniti"><span>Infiniti</span></a></li>
+<li class="isuzu" data-brand="isuzu"><a href="/isuzu" title="Isuzu"><span>Isuzu</span></a></li>
+<li class="jaguar" data-brand="jaguar"><a href="/jaguar" title="Jaguar"><span>Jaguar</span></a></li>
+<li class="jeep" data-brand="jeep"><a href="/jeep" title="Jeep"><span>Jeep</span></a></li>
+<li class="kia" data-brand="kia"><a href="/kia" title="Kia"><span>Kia</span></a></li>
+<li class="lamborghini" data-brand="lamborghini"><a href="/lamborghini" title="Lamborghini"><span>Lamborghini</span></a></li>
+<li class="land-rover" data-brand="land-rover"><a href="/land-rover" title="Land Rover"><span>Land Rover</span></a></li>
+<li class="lexus" data-brand="lexus"><a href="/lexus" title="Lexus"><span>Lexus</span></a></li>
+<li class="lincoln" data-brand="lincoln"><a href="/lincoln" title="Lincoln"><span>Lincoln</span></a></li>
+<li class="lotus" data-brand="lotus"><a href="/lotus" title="Lotus"><span>Lotus</span></a></li>
+<li class="maserati" data-brand="maserati"><a href="/maserati" title="Maserati"><span>Maserati</span></a></li>
+<li class="maybach" data-brand="maybach"><a href="/maybach" title="Maybach"><span>Maybach</span></a></li>
+<li class="mazda" data-brand="mazda"><a href="/mazda" title="Mazda"><span>Mazda</span></a></li>
+<li class="mclaren" data-brand="mclaren"><a href="/mclaren" title="McLaren"><span>McLaren</span></a></li>
+<li class="mercedes-benz" data-brand="mercedes-benz"><a href="/mercedes-benz" title="Mercedes-Benz"><span>Mercedes-Benz</span></a></li>
+<li class="mercury" data-brand="mercury"><a href="/mercury" title="Mercury"><span>Mercury</span></a></li>
+<li class="mini" data-brand="mini"><a href="/mini" title="MINI"><span>MINI</span></a></li>
+<li class="mitsubishi" data-brand="mitsubishi"><a href="/mitsubishi" title="Mitsubishi"><span>Mitsubishi</span></a></li>
+<li class="nissan" data-brand="nissan"><a href="/nissan" title="Nissan"><span>Nissan</span></a></li>
+<li class="oldsmobile" data-brand="oldsmobile"><a href="/oldsmobile" title="Oldsmobile"><span>Oldsmobile</span></a></li>
+<li class="peugeot" data-brand="peugeot"><a href="/peugeot" title="Peugeot"><span>Peugeot</span></a></li>
+<li class="plymouth" data-brand="plymouth"><a href="/plymouth" title="Plymouth"><span>Plymouth</span></a></li>
+<li class="pontiac" data-brand="pontiac"><a href="/pontiac" title="Pontiac"><span>Pontiac</span></a></li>
+<li class="porsche" data-brand="porsche"><a href="/porsche" title="Porsche"><span>Porsche</span></a></li>
+<li class="ram" data-brand="ram"><a href="/ram" title="Ram"><span>Ram</span></a></li>
+<li class="renault" data-brand="renault"><a href="/renault" title="Renault"><span>Renault</span></a></li>
+<li class="rolls-royce" data-brand="rolls-royce"><a href="/rolls-royce" title="Rolls-Royce"><span>Rolls-Royce</span></a></li>
+<li class="saab" data-brand="saab"><a href="/saab" title="Saab"><span>Saab</span></a></li>
+<li class="saturn" data-brand="saturn"><a href="/saturn" title="Saturn"><span>Saturn</span></a></li>
+<li class="scion" data-brand="scion"><a href="/scion" title="Scion"><span>Scion</span></a></li>
+<li class="smart" data-brand="smart"><a href="/smart" title="Smart"><span>Smart</span></a></li>
+<li class="spyker" data-brand="spyker"><a href="/spyker" title="Spyker"><span>Spyker</span></a></li>
+<li class="subaru" data-brand="subaru"><a href="/subaru" title="Subaru"><span>Subaru</span></a></li>
+<li class="suzuki" data-brand="suzuki"><a href="/suzuki" title="Suzuki"><span>Suzuki</span></a></li>
+<li class="tesla" data-brand="tesla"><a href="/tesla" title="Tesla"><span>Tesla</span></a></li>
+<li class="toyota" data-brand="toyota"><a href="/toyota" title="Toyota"><span>Toyota</span></a></li>
+<li class="volkswagen" data-brand="volkswagen"><a href="/volkswagen" title="Volkswagen"><span>Volkswagen</span></a></li>
+<li class="volvo" data-brand="volvo"><a href="/volvo" title="Volvo"><span>Volvo</span></a></li>
+						</ul>
+						<div class="all-brand-nav-arrow right">
+							<svg class="svg-icon bootstrap-glyphicon svg-icon-menu-right"><use xmlns:xlink="https://www.w3.org/1999/xlink" xlink:href="#svg-icon-menu-right"></use></svg>
+						</div>
+					</div>
+					<ul id="brand-index" class="brand-index">
+						<li><span data-letter="a" class="active">A</span></li>
+						<li><span data-letter="b">B</span></li>
+<li><span data-letter="c">C</span></li>
+<li><span data-letter="d">D</span></li>
+<li><span data-letter="e">E</span></li>
+<li><span data-letter="f">F</span></li>
+<li><span data-letter="g">G</span></li>
+<li><span data-letter="h">H</span></li>
+<li><span data-letter="i">I</span></li>
+<li><span data-letter="j">J</span></li>
+<li><span data-letter="k">K</span></li>
+<li><span data-letter="l">L</span></li>
+<li><span data-letter="m">M</span></li>
+<li><span data-letter="n">N</span></li>
+<li><span data-letter="o">O</span></li>
+<li><span data-letter="p">P</span></li>
+<li><span data-letter="q" class="text-muted">Q</span></li>
+<li><span data-letter="r">R</span></li>
+<li><span data-letter="s">S</span></li>
+<li><span data-letter="t">T</span></li>
+<li><span data-letter="u" class="text-muted">U</span></li>
+<li><span data-letter="v">V</span></li>
+<li><span data-letter="w" class="text-muted">W</span></li>
+<li><span data-letter="x" class="text-muted">X</span></li>
+<li><span data-letter="y" class="text-muted">Y</span></li>
+<li><span data-letter="z" class="text-muted">Z</span></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="mid-footer">
+		<div class="container">
+			<div class="row">
+				<div class="footer-newsletter col-sm-6 col-xs-12">
+					<iframe name="footer-newsletter-submit" class="hide"></iframe>
+					<form id="footer-newsletter-form" method="post" action="https://link.calgaryherald.com/s/Driving_HeadlineNews" target="footer-newsletter-submit">
+						<div class="footer-newsletter-text">
+							<label for="email">
+								<span class="footer-newsletter-text-txt">
+									Subscribe to the Driving newsletter
+								</span>
+								<span class="footer-newsletter-text-thank-you hide">
+									Thank you for subscribing! 
+								</span>
+							</label>
+						</div>
+						<div class="footer-newsletter-data">
+							<div class="footer-newsletter-error hide">Please input a valid e-mail address</div>
+							<input id="footer-newsletter-email" type="email" name="email" placeholder="Your e-mail here"  required/>
+							<button id="footer-newsletter-btn" class="btn">Sign me up!</button>
+						</div>
+					</form>
+				</div>
+				<div class="footer-social col-sm-6 col-xs-12">
+					<span class="text-label">Follow Driving</span>
+					<ul class="driving-social">
+					<!-- social media tools begins -->
+						
+	<!-- social media tools begins -->
+		<li>
+			<a onclick="Postmedia.Analytics.SocialLink(Postmedia.Analytics.SocialTypes.FACEBOOK_FOLLOW, 'top');" href="http://www.facebook.com/drivingdotca" target="_blank" title="Facebook" class="facebook">
+				<svg class="svg-icon svg-icon-facebook"><use xmlns:xlink="https://www.w3.org/1999/xlink" xlink:href="#svg-icon-facebook"></use></svg>
+			</a>
+		</li>
+		<li>
+			<a onclick="Postmedia.Analytics.SocialLink(Postmedia.Analytics.SocialTypes.TWITTER_FOLLOW, 'top');" href="https://twitter.com/drivingdotca" target="_blank" title="Twitter" class="twitter">
+				<svg class="svg-icon svg-icon-twitter"><use xmlns:xlink="https://www.w3.org/1999/xlink" xlink:href="#svg-icon-twitter"></use></svg>
+			</a>
+		</li>
+		<li>
+			<a onclick="Postmedia.Analytics.SocialLink(Postmedia.Analytics.SocialTypes.GOOGLE_FOLLOW, 'top');" href="https://plus.google.com/+drivingca" target="_blank" title="Google Plus" class="googleplus">
+				<svg class="svg-icon svg-icon-googleplus"><use xmlns:xlink="https://www.w3.org/1999/xlink" xlink:href="#svg-icon-googleplus"></use></svg>
+			</a>
+		</li>
+		<li>
+			<a onclick="Postmedia.Analytics.SocialLink(Postmedia.Analytics.SocialTypes.PINEREST_FOLLOW, 'top');" href="" target="_blank" title="Pinterest" class="pinterest">
+				<svg class="svg-icon svg-icon-pinterest-round"><use xmlns:xlink="https://www.w3.org/1999/xlink" xlink:href="#svg-icon-pinterest-round"></use></svg>
+			</a>
+		</li>
+		<li>
+			<a onclick="Postmedia.Analytics.SocialLink(Postmedia.Analytics.SocialTypes.INSTAGRAM_FOLLOW, 'top');" href="http://instagram.com/drivingca" target="_blank" title="Instagram" class="instagram">
+				<svg class="svg-icon svg-icon-instagram"><use xmlns:xlink="https://www.w3.org/1999/xlink" xlink:href="#svg-icon-instagram"></use></svg>
+			</a>
+		</li>
+		<li>
+			<a onclick="Postmedia.Analytics.SocialLink(Postmedia.Analytics.SocialTypes.YOUTUBE_FOLLOW, 'top');" href="http://www.youtube.com/user/drivingdotca" target="_blank" title="Youtube" class="youtube">
+				<svg class="svg-icon svg-icon-youtube"><use xmlns:xlink="https://www.w3.org/1999/xlink" xlink:href="#svg-icon-youtube"></use></svg>
+			</a>
+		</li>
+	<!-- social media tools ends -->
+					<!-- social media tools ends -->
+					</ul>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="bot-footer">
+		<div class="container">
+			<div class="row">
+				<div class="about-driving col-sm-6 col-xs-12">
+					<div class="svg-container">
+						<a href="https://postmediadriving.wordpress.com" title="Driving.ca">
+							<svg class="svg-logo svg-logo-driving"><use xmlns:xlink="https://www.w3.org/1999/xlink" xlink:href="#svg-logo-driving"></use></svg>
+						</a>
+						<span>is a part of Postmedia Network Inc.</span>
+					</div>
+					<div class="footer-links">
+						<span><a href="/about-us">About Driving</a></span>
+						<span><a class="drv-contact-us" href="/contact">Contact Us</a></span>
+						<span><a href="/editorial-faqs">FAQ</a></span>
+						<span><a class="drv-advertiser-inquiries" href="/advertiser-inquiries">Advertiser Inquiries</a></span>
+						<span><a href="/sitemap">Sitemap</a></span>
+					</div>
+				</div>
+				<div class="about-postmedia col-sm-6 col-xs-12 text-right">
+					<div class="svg-container">
+						<a href="https://www.postmedia.com" title="Postmedia">
+							<svg class="svg-logo svg-logo-postmedia"><use xlink:href="#svg-logo-postmedia"></use></svg>
+						</a>
+					</div>
+					<p>365 Bloor St East, Toronto, ON, M4W3L4, www.postmedia.com</p>
+					<p>&copy; 2020 Postmedia Network Inc. All rights reserved.</p>
+					<p>Unauthorized distrbution, transmission or republication strictly prohibited.</p>
+					<div class="footer-links">
+						<span><a href="https://www.postmediaadvertising.com/privacy-statement/">Privacy</a></span>
+						<span><a href="https://secure.canada.com/aboutus/termsofservice.html">Terms</a></span>
+						<span><a href="https://secure.canada.com/aboutus/copyright.html">Copyright & Permissions</a></span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+</footer>
+
+<!-- Begin wp_footer -->
+<style>img#wpstats{display:none}</style>
+<!-- wpcom_wp_footer -->
+	<div style="display:none">
+	</div>
+<script>
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/postmediadriving.wordpress.com\/public.api\/connect\/?action=request&domain=driving.ca","logoutURL":"https:\/\/postmediadriving.wordpress.com\/wp-login.php?action=logout&_wpnonce=7a9ed0aa22","homeURL":"https:\/\/driving.ca\/","postID":"79938500175854006","gravDefault":"mystery","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"","userIsLoggedIn":"","isJetpack":"","text_direction":"ltr"};
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1573483029j'></script>
+<link rel='stylesheet' id='all-css-0-3' href='https://s2.wp.com/_static/??-eJydzEEKAjEMheELWWNFERfiUYbQCW2k7YQmjnh7W3UvuEv+Bx88xIWlGlUDS1RIYWUBWdQKzYxO8j1yVZDiSJ0StpAg6AgT6STYVzRe6rbHDfzi5sYr1whGRTJa3zVhG2WY3/tvqqJEzJka9+8N9uI+6TnUa7n442nn/Xl/8LcXH0ZfYg==?cssminify=yes' type='text/css' media='all' />
+<script>
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+</script>
+<script>
+var wpcomVipAnalytics = {"is_404":"0","is_home":"0","is_single":"1","is_front_page":"0","is_archive":"0","percentToTrack":"1"};
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJzFVttu2zAM/aEpanYptodh6HsHBOiGPdMSbdPVbbo4875+dJYmWYc2tYpub6Z0DnloUpTkNgjlXUaX5ZCkxpEUhh+rIb2SJ1u5R4tJjhRk8Clb1AQimNKRSycrhpoIcZLKQEqM39ztyG/YyM0ef+XATJlUmiPCnfHvQtoNRP42+CIhv8xO5E3vY1Ze4y5ixBS8SzSioDaCfW5kdtk2AkemvmQOmDO5LsnPXhdzCrqGn9O1Bz0LGb4XjNMqeQdxZcn9d0HBGrYMW6dyyClT9uX4LVkWkspHPI/aku4wn8dxNpTJu/NIi648hNKUsuTSah/nreDN1JIxj8K1tyIi6OlRFKzXDwKO2qBkr7wNBjM+uaA60silOXoSCIkXlpIb73PKEcJSIlN6QLOUtoUpeHI51WR6IIvE8+R2qvGxPwk1VB1HsWx83iNzla1fHNZCndQ0Lu6GHQ2NEQG6p83M+7+nZB7ENcymE5bHd33opkwYU1dIV9GTYWKV8pQ9H78a2YdxKr5mMotb6ki/0jcYx+XyGcovkKqktxRQdGDMfBlVtRlE1dcwQyTFZnWjFNdD1xkUyFcfH2WhOIsG1O1znNVw9/FrqD3fPRhFy9O7rml9yS3lv1rOlsNT4bWYHQw7P3+MvU/24/rdh4vLizeX798OvwCA6Rbv'></script>
+<script type='text/javascript'>
+( 'fetch' in window ) || document.write( '<script src="https://s0.wp.com/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?m=1573572739h&#038;ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://s1.wp.com/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?m=1540208548h&#038;ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://s0.wp.com/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?m=1585663916h&#038;ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://s2.wp.com/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?m=1585663916h&#038;ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://s1.wp.com/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?m=1550600082h&#038;ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://s2.wp.com/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?m=1540208548h&#038;ver=2.0.2"></scr' + 'ipt>' );
+</script>
+<script type="text/javascript" src="https://static.freeskreen.com/publisher/220/freeskreen.min.js?ver=5.4.2" async="async"></script>
+<script>
+var cat_scat = {"category":"new-international-regulations-could-pave-the-way-for-self-driving-cars","subcategory":"","post":{"ID":79938500175854006,"post_author":53516326,"post_date":"2020-06-29 10:58:46","post_date_gmt":"2020-06-29 14:58:46","post_content":"<p class=\"p2\"><span class=\"s1\">One of the greatest impediments to proliferation of the self-driving cars we\u2019ve all been promised are just around the corner has been a dearth of safety regulations that they will have to meet. It\u2019s kinda\u2019 hard to design something as complicated as a car that drives itself when you don\u2019t know the rules it would have to meet.<\/span><\/p><p class=\"p2\"><span class=\"s1\">Well that may soon change. More than 50 countries \u2014 including Japan, the EU and Canada \u2014 recently agreed to implement regulations for semi-autonomous automobiles. The Automated Lane Keeping Systems (ALKS) rules were recently adopted by the United Nations Economic Commission for Europe (UNECE) World Forum for Harmonization of Vehicle Regulations and apply to Level 3 autonomous automobiles, cars that can drive themselves completely in some situations, but need to be monitored by a driver in case of unforeseen emergencies. For context, current self-driving systems, which require drivers to always maintain control of the steering wheel, are Level 2.<\/span><\/p><div class=\"related-stories\">  <div class=\"bdg\">RELATED<\/div>  <div class=\"lf\" style=\"background-image:url('https:\/\/postmediadriving.files.wordpress.com\/2200\/09\/attic-kia-1.jpg?w=400&h=260');\">  <a href=\"https:\/\/driving.ca\/tesla\/column\/lorraine\/lorraine-complains-get-your-self-driving-cars-off-my-roads\"><div class=\"bdy\"><div class=\"ovly\"><\/div><div class=\"txt truncate\" title=\"Lorraine Complains: Get your self-driving cars off my roads\">Lorraine Complains: Get your self-driving cars off my roads<\/div><\/div><\/a>  <\/div>  <div class=\"rg\" style=\"background-image:url('https:\/\/postmediadriving.files.wordpress.com\/2200\/09\/attic-kia-1.jpg?w=400&h=260');\">  <a href=\"https:\/\/driving.ca\/features\/feature-story\/motor-mouth-self-driving-cars-wont-prevent-most-collisions\"><div class=\"bdy\"><div class=\"ovly\"><\/div><div class=\"txt truncate\" title=\"Motor Mouth: Self-driving cars won't prevent most collisions\">Motor Mouth: Self-driving cars won't prevent most collisions<\/div><\/div><\/a>  <\/div>  <\/div><p class=\"p2\"><span class=\"s1\">According to the resolution, the where and how Level 3 will be allowed is spelled out in detailed specificity. Any self-driving car will require a data-collecting \u201cblack box\u201d for the ALKS system. They will operate only in lanes without pedestrians or cyclists, there will have to be a physical \u201cseparation\u201d between traffic moving in opposite directions and the cars will be limited to a maximum of 60 kilometres an hour while in self-driving mode. These last two might require some deft stickhandling since low speed often means urban centres with both pedestrian and cyclists. The cars will also have to be equipped with Driver Availability Recognition Systems which test whether the human seated at the wheel could take over if need be. The system would also have to be programmed with a protocol to determine what actions should be taken should they not be able to take control in an emergency, <\/span><\/p><p class=\"p2\"><span class=\"s1\">Japan, which co-authored the regulations, says it ill implement the rules as soon as they come into force in January 2021. The EU also says it will implement the regulations. There\u2019s no word when Canada will implement the new standards. As with most things globalist these days, the United States is not part of the agreement.<\/span><\/p>","post_title":"New international regulations could pave the way for self-driving cars","post_excerpt":"","post_status":"publish","comment_status":"open","ping_status":"open","post_password":"","post_name":"new-international-regulations-could-pave-the-way-for-self-driving-cars","to_ping":"","pinged":"","post_modified":"2020-06-29 10:58:46","post_modified_gmt":"2020-06-29 14:58:46","post_content_filtered":"","post_parent":0,"guid":"http:\/\/driving.ca\/auto-news\/news\/new-international-regulations-could-pave-the-way-for-self-driving-cars","menu_order":0,"post_type":"post","post_mime_type":"","comment_count":0,"filter":"raw"}};
+var taxonomy_obj = {"parent":""};
+var PM_Search = {"ajaxurl":"https:\/\/postmediadriving.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"427ba216f7"};
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJylj9FuwzAIRX9ojrVGW7WHad9CHZqQGuwBybS/n6uuqtqnVn0CAffcS/ypIRVxFI+8hJqXkcQiDEwSdqCRwRy1daGsqEoD2mXWzfYS7ye4QjrYrcgn5AZdqcZazBkHgjAorSRjnC3uIeGulEMgIT+LSVJejlnawfy9oP7+l25flLvmfZfNOW3lgBYMQdN0RJ66pxACTiuGicxLi/XI045cM3jbm0AdIWdUOv16NWjQL/58fdtu3jd933/Mf2OireE='></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="//stats.wp.com/w.js?61" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'55732723','blog_tz':'-4','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'55732723','v':'wpcom','tz':'-4','user_id':'0','post':'79938500175854006','subd':'postmediadriving'}]);
+function st_vt() {var x=document.createElement("img");x.src="https://pixel.wp.com/g.gif?blog=55732723&v=wpcomvt&tz=-4&user_id=0&post=79938500175854006&subd=postmediadriving&rand="+Math.random();}
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTc/MUhXW11WSmguVWwxL3VndlBzcFE3aUFOUjg2Z2tiMyUxW3ctJXw/UEVRbmhzLnEmW2R0X0VGK1NydSxpNTZhJm9yVmN4aV1ffD1WZUR1dzZIUXJLcE9iW3lYVUwyM25KNlRocURZW3glYUNQMl0lNm9dWDFJWjVBbFEzR1hfd19fbXByfFI2Z0wtNXo0S0pDMTNET3prfj18b11WX0c/OW1dRkgwclgwWlhwJnFNdSYz'}]);
+_stq.push([ 'clickTrackerInit', '55732723', '79938500175854006' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+		<script defer src="data:text/javascript,%21function%28%29%7B%22use%20strict%22%3Bvar%20e%3D%5B%5D%2Ct%3D%22wpcom.simple.ttfb.batcache.%22%3Btry%7Bfor%28var%20n%3Dperformance.getEntriesByType%28%22navigation%22%29%5B0%5D%7C%7C%7B%7D%2Co%3D0%2Cs%3Ddocument.body.childNodes%2Cc%3Ds.length-1%3Bc%3E%3D0%3Bc--%29s%5Bc%5D.nodeType%3D%3D%3DNode.COMMENT_NODE%26%26s%5Bc%5D.textContent.indexOf%28%22served%20from%20batcache%22%29%3E0%26%26%28o%3D1%29%3Bvar%20r%3DMath.round%28n.responseStart%7C%7C0%29%3Bif%28r%3E0%26%26%28o%3Fe.push%28t%2B%22hit%3A%22%2Br%2B%22%7Cms%22%29%3Ae.push%28t%2B%22miss%3A%22%2Br%2B%22%7Cms%22%29%29%2Ce.length%29document.createElement%28%22img%22%29.src%3D%22https%3A%2F%2Fpixel.wp.com%2Fboom.gif%3Fjson%3D%22%2BencodeURIComponent%28JSON.stringify%28%7Bbeacons%3Ae%7D%29%29%7Dcatch%28e%29%7B%7D%7D%28%29%3B"></script>
+				<!-- Google Code for Remarketing Tag -->	
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			var google_conversion_id = 990309138;
+			var google_custom_params = window.google_tag_params;
+			var google_remarketing_only = true;
+			/* ]]> */
+		</script>
+				<noscript>
+			<div style="display:inline;">
+			<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/990309138/?value=0&amp;guid=ON&amp;script=0"/>
+			</div>
+		</noscript>		
+				<script>
+			var distroScaleScript = document.createElement('script');
+			distroScaleScript.setAttribute('async', '');
+			distroScaleScript.setAttribute('type', 'text/javascript');
+			distroScaleScript.setAttribute('src', '//c.jsrdn.com/s/cs.js?p=22507');
+			document.body.appendChild(distroScaleScript);
+		</script>
+		<div id="ds_default_anchor"></div>
+		<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script><!-- End wp_footer -->
+
+</body>
+</html>
+<!--
+	generated in 0.236 seconds
+	109384 bytes batcached for 300 seconds
+-->
