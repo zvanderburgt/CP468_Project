@@ -2,10 +2,10 @@ What are Self-Driving Cars and How Do They Work?
   Begin Google Tag Manager  
   End Google Tag Manager  
  
-  PinnedNavBarController, generated at 15:28:46 Thu Jul 30, 2020, by cds4  
-  AdsController, generated at 15:28:46 Thu Jul 30, 2020, by cds4  
+  PinnedNavBarController, generated at 15:46:47 Thu Jul 30, 2020, by cds2  
+  AdsController, generated at 15:46:47 Thu Jul 30, 2020, by cds2  
  
-  AdsController, generated at 15:28:46 Thu Jul 30, 2020, by cds4  
+  AdsController, generated at 15:46:47 Thu Jul 30, 2020, by cds2  
  
  
  SearchEnterpriseAI 
@@ -97,9 +97,9 @@ What are Self-Driving Cars and How Do They Work?
  
  
  
-  AdsController, generated at 15:28:46 Thu Jul 30, 2020, by cds4  
+  AdsController, generated at 15:46:47 Thu Jul 30, 2020, by cds2  
  
-  BreadcrumbsController, generated at 11:22:34 Thu Jul 30, 2020, by cds4  
+  BreadcrumbsController, generated at 11:30:42 Thu Jul 30, 2020, by cds2  
  
  
  
@@ -112,7 +112,7 @@ What are Self-Driving Cars and How Do They Work?
  
  
  
-  ContentItemController, generated at 11:22:34 Thu Jul 30, 2020, by cds4  
+  ContentItemController, generated at 11:30:42 Thu Jul 30, 2020, by cds2  
  
  Definition self-driving car (autonomous car or driverless car)  
  
@@ -140,10 +140,10 @@ What are Self-Driving Cars and How Do They Work?
  
  Contributor(s):  Ben Lutkevich  and  Bridget Botelho 
  
-  AdsController, generated at 11:22:34 Thu Jul 30, 2020, by cds4  
+  AdsController, generated at 11:30:42 Thu Jul 30, 2020, by cds2  
  
  
-  SocialMediaShareBarController, generated at 15:28:46 Thu Jul 30, 2020, by cds4  
+  SocialMediaShareBarController, generated at 15:35:48 Thu Jul 30, 2020, by cds2  
  
  
  
@@ -175,7 +175,7 @@ What are Self-Driving Cars and How Do They Work?
  
  
  
-  ContentItemController, generated at 11:22:34 Thu Jul 30, 2020, by cds4  
+  ContentItemController, generated at 11:30:42 Thu Jul 30, 2020, by cds2  
  
  
  
@@ -399,9 +399,9 @@ What are Self-Driving Cars and How Do They Work?
  
  
  
-  AdsController, generated at 11:22:34 Thu Jul 30, 2020, by cds4  
+  AdsController, generated at 11:30:42 Thu Jul 30, 2020, by cds2  
  
-  RelatedTermsController, generated at 12:54:03 Thu Jul 30, 2020, by cds4  
+  RelatedTermsController, generated at 12:53:43 Thu Jul 30, 2020, by cds2  
  
  
  
@@ -431,7 +431,7 @@ What are Self-Driving Cars and How Do They Work?
  
  
  
-  DigDeeperController, generated at 15:28:46 Thu Jul 30, 2020, by cds4  
+  DigDeeperController, generated at 15:39:31 Thu Jul 30, 2020, by cds2  
  
  
  Dig Deeper on Robotics in business 
@@ -474,7 +474,7 @@ What are Self-Driving Cars and How Do They Work?
  
  
  
-  DiscussionsController, generated at 15:28:46 Thu Jul 30, 2020, by cds4  
+  DiscussionsController, generated at 09:26:33 Thu Jul 30, 2020, by cds2  
  
  
  
@@ -495,7 +495,7 @@ What are Self-Driving Cars and How Do They Work?
  
  
  
-  VendorResourcesController, generated at 11:22:34 Thu Jul 30, 2020, by cds4  
+  VendorResourcesController, generated at 11:30:42 Thu Jul 30, 2020, by cds2  
  Sponsored News 
  
  
@@ -525,7 +525,7 @@ What are Self-Driving Cars and How Do They Work?
  
  
  
-  CommentingController, generated at 15:28:46 Thu Jul 30, 2020, by cds4  
+  CommentingController, generated at 15:46:47 Thu Jul 30, 2020, by cds2  
  
  
  
@@ -864,7 +864,7 @@ mobility.
  
  
  
-  GoogleAdSenseController, generated at 15:27:59 Thu Jul 30, 2020, by cds4  
+  GoogleAdSenseController, generated at 15:35:49 Thu Jul 30, 2020, by cds2  
  
  -ADS BY GOOGLE 
  
@@ -872,7 +872,7 @@ mobility.
  
  
  
-  FileExtensionsController, generated at 12:44:41 Thu Jul 30, 2020, by cds4  
+  FileExtensionsController, generated at 12:45:09 Thu Jul 30, 2020, by cds2  
  
  File Extensions and File Formats 
  
@@ -911,7 +911,7 @@ mobility.
  
  
  
-  NetworkCoverageController, generated at 15:28:00 Thu Jul 30, 2020, by cds4  
+  NetworkCoverageController, generated at 15:35:49 Thu Jul 30, 2020, by cds2  
  
  
  Latest TechTarget  resources 
@@ -1039,7 +1039,7 @@ mobility.
  
  
  
-  FooterLinksController, generated at 15:28:00 Thu Jul 30, 2020, by cds4  
+  FooterLinksController, generated at 15:35:49 Thu Jul 30, 2020, by cds2  
  
  
   Plug in TechTarget Logo inside the anchor tag here.  
@@ -1101,15 +1101,12 @@ mobility.
  
 Component Load Times
 ====================
-DefaultPageController=120 ms
-PinnedNavBarController=39 ms
+DefaultPageController=84 ms
+PinnedNavBarController=47 ms
 AdsController=0 ms
-SocialMediaShareBarController=0 ms
-DigDeeperController=149 ms
-DiscussionsController=11 ms
-CommentingController=20 ms
+CommentingController=23 ms
 
-Total time=339 ms
-Request Serving Server: cds4
+Total time=154 ms
+Request Serving Server: cds2
  
  

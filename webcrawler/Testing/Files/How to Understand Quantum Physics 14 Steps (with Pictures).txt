@@ -1,0 +1,1198 @@
+How to Understand Quantum Physics: 14 Steps (with Pictures) MESSAGES LOG IN 
+ 
+ Log in 
+ 
+ 
+ 
+ 
+ Facebook 
+ 
+ 
+ 
+ 
+ 
+ Google 
+ 
+ 
+ 
+ 
+ wikiHow Account 
+ 
+ 
+		No account yet?		 Create an account 
+ 
+ 
+ 
+ EXPLORE 
+ Community Dashboard 
+ Random Article 
+ About Us 
+ Categories 
+ 
+ HELP US 
+ Write an Article 
+ Request a New Article 
+ More Ideas... 
+ 
+ EDIT 
+ Edit this Article 
+ 
+ Home Random Browse Articles About wikiHow Easy Ways to Help Approve Questions Review Tech Feedback Fix Spelling Quiz App More Things to Try... Log in / Sign up Terms of Use We use cookies to make wikiHow great. By using our site, you agree to our  cookie policy . Okay ✖ 
+ 
+ 
+ wikiHow is where trusted research and expert knowledge come together.  Learn why people  trust wikiHow 
+ 
+ 
+ Categories Education and Communications Studying Subjects Science Physics Quantum Mechanics How to Understand Quantum Physics 
+ 
+ 
+ 
+ 
+ 
+ Explore this Article 
+ 
+ parts 
+ 
+ 
+ 1 
+					Planck Constant
+					
+				 
+ 
+ 
+ 
+ 2 
+					Novel Ideas
+					
+				 
+ 
+ 
+ 
+ 3 
+					Particle and wave duality
+					
+				 
+ 
+ 
+ 
+ 4 
+					Uncertainty
+					
+				 
+ 
+ 
+ 
+ 5 
+					Wave function
+					
+				 
+ 
+ 
+ 
+ 6 
+					Schrödinger Equation
+					
+				 
+ 
+ 
+ 
+ 7 
+					Quantum Superposition
+					
+				 
+ 
+ 
+ 
+ 8 
+					Ignoring the Classical Picture
+					
+				 
+ 
+ 
+ 
+ + 
+					Show 5 more...
+					
+				 
+ 
+ 
+ 
+ - 
+					Show less...
+					
+				 
+ 
+ Other Sections 
+ 
+ 
+						Questions & Answers
+						
+					 
+ 
+ 
+ 
+						Tips and Warnings
+						
+					 
+ 
+ 
+ 
+						Related Articles
+						
+					 
+ 
+ 
+ 
+						References
+						
+					 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Co-authored by 
+ 20 contributors 
+ Community of editors, researchers, and specialists 
+ 
+ November 22, 2019 
+ References 
+ 
+ 
+ 
+ 
+ X 
+ 
+ 
+		wikiHow is a “wiki,” similar to Wikipedia, which means that many of our articles are co-written by multiple authors. To create this article, 20 people, some anonymous, worked to edit and improve it over time.
+
+
+
+			 
+			 This article has been viewed 127,915 times.
+
+			 Learn more... 
+ 
+ 
+ 
+ 
+ Quantum physics (also known as quantum theory or quantum mechanics) is a branch of physics providing a description of the behaviour and interaction of matter and energy on the scale of subatomic particles, photons and certain materials at very low temperature. The quantum realm is defined as being where the "action" (or sometimes the angular momentum) of the particle is  within a few orders of magnitude of a very tiny physical constant called the Plank constant.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Steps 
+ 
+ 
+ 
+ 
+ Part  1  of 8: 
+ 
+ 
+ Planck Constant 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {"smallUrl":"https:\/\/www.wikihow.com\/images\/thumb\/b\/bf\/Understand-Quantum-Physics-Step-1-Version-2.jpg\/v4-460px-Understand-Quantum-Physics-Step-1-Version-2.jpg","bigUrl":"\/images\/thumb\/b\/bf\/Understand-Quantum-Physics-Step-1-Version-2.jpg\/aid1270408-v4-728px-Understand-Quantum-Physics-Step-1-Version-2.jpg","smallWidth":460,"smallHeight":345,"bigWidth":"728","bigHeight":"546","licensing":"<div class=\"mw-parser-output\"><p>License: <a rel=\"nofollow\" class=\"external text\" href=\"https:\/\/creativecommons.org\/licenses\/by-nc-sa\/3.0\/\">Creative Commons<\/a><br>\n<\/p><p><br \/>\n<\/p><\/div>"} 
+ 1 
+ Start with learning about the physical significance of the Planck constant.  In quantum mechanics, the quantum of action is the Planck constant, usually denoted as  h . Likewise, for interacting subatomic particles, the quantum of  angular momentum  is the reduced Planck constant (the Planck constant divided by 2π) denoted by  ħ  and called "h-bar". The value of the Planck constant is extremely small, its units are those of angular momentum, and the notion of action is the more general mathematical concept. As the name  quantum mechanics  implies, certain physical quantities such as angular momentum can change only in  discrete  amounts, and not in a continuous ( cf.  analog) way. [1] 
+ X 
+ Research source 
+ 
+ 
+ 
+ 
+ For example, the angular momentum of an electron bound to an atom or molecule is quantized and can only have values that are multiples of the reduced Planck constant. This quantization gives rise to electron orbitals of a series of integer primary quantum number. In contrast, the angular momentum of a nearby unbound electron is not quantized. The Planck constant also plays a role in the quantum theory of light, where the quantum of light is the photon and where matter and energy interact via the atomic electron transition or "quantum leap" of the bound electron. 
+ The units of the Planck constant can also be viewed as energy times time. For example, in the subject area of particle physics, the notion of virtual particles are messy particles that spontaneously appear out of the vacuum for a tiny fraction of a section and play a role in a particle interaction. The limit to the lifetime of these virtual particles is the energy (mass) of the particle times that lifetime. Quantum mechanics is a large subject area but every part of its mathematics involves the Planck constant. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {"smallUrl":"https:\/\/www.wikihow.com\/images\/thumb\/e\/e3\/Understand-Quantum-Physics-Step-2-Version-2.jpg\/v4-460px-Understand-Quantum-Physics-Step-2-Version-2.jpg","bigUrl":"\/images\/thumb\/e\/e3\/Understand-Quantum-Physics-Step-2-Version-2.jpg\/aid1270408-v4-728px-Understand-Quantum-Physics-Step-2-Version-2.jpg","smallWidth":460,"smallHeight":345,"bigWidth":"728","bigHeight":"546","licensing":"<div class=\"mw-parser-output\"><p>License: <a rel=\"nofollow\" class=\"external text\" href=\"https:\/\/creativecommons.org\/licenses\/by-nc-sa\/3.0\/\">Creative Commons<\/a><br>\n<\/p><p><br \/>\n<\/p><\/div>"} 
+ 2 
+ Learn about massy particles.  Massy particles go through a classical-to-quantum transition. Even though the free electron displays some quantum properties (such as spin), as the unbound electron approaches the atom and slows down (perhaps by emitting photons), it undergoes a transition from classical to quantum behavior as its energy goes below the ionization energy. The electron is then bound to the atom and its angular momentum with respect to the atomic nucleus is restricted to quantized values of the orbitals it can occupy. The transition is sudden. One might compare this transition with that of a mechanical system that changes from displaying unstable to stable behavior or from displaying simple to chaotic behavior, or even a rocket ship slowing and going below escape velocity and entering orbit around some star or other celestial object. In contrast photons (which are massless) do not go through such a transition: photons just travel through space unchanged until they interact with other particles and then disappear. As you look into the night sky, the photons from some star traveled through light years of space unchanged then interacted with an electron in a molecule of your retina, transferred its energy and then otherwise disappeared. [2] 
+ X 
+ Research source 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Advertisement 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Part  2  of 8: 
+ 
+ 
+ Novel Ideas 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {"smallUrl":"https:\/\/www.wikihow.com\/images\/thumb\/d\/df\/Understand-Quantum-Physics-Step-3-Version-2.jpg\/v4-460px-Understand-Quantum-Physics-Step-3-Version-2.jpg","bigUrl":"\/images\/thumb\/d\/df\/Understand-Quantum-Physics-Step-3-Version-2.jpg\/aid1270408-v4-728px-Understand-Quantum-Physics-Step-3-Version-2.jpg","smallWidth":460,"smallHeight":345,"bigWidth":"728","bigHeight":"546","licensing":"<div class=\"mw-parser-output\"><p>License: <a rel=\"nofollow\" class=\"external text\" href=\"https:\/\/creativecommons.org\/licenses\/by-nc-sa\/3.0\/\">Creative Commons<\/a><br>\n<\/p><p><br \/>\n<\/p><\/div>"} 
+ 1 
+ Be across the novel ideas presented in Quantum Theory.  You'll need to be familiar with these, among them being: [3] 
+ X 
+ Research source 
+ 
+ 
+ 
+ 
+ The quantum realm follows rules quite different from the everyday world we experience. 
+ Action (or angular momentum) is not continuous, but comes in small but discrete units. 
+ The elementary particles behave both like particles and like waves. 
+ The movement of a specific particle is inherently random and can only be predicted in terms of probabilities. 
+ It is physically impossible to simultaneously measure both the position and the momentum of a particle beyond the accuracy allowed by the Planck constant. The more precisely one is known, the less precise the measurement of the other is. 
+ 
+ 
+ 
+ 
+ 
+ Advertisement 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Part  3  of 8: 
+ 
+ 
+ Particle and wave duality 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {"smallUrl":"https:\/\/www.wikihow.com\/images\/thumb\/a\/af\/Understand-Quantum-Physics-Step-4-Version-2.jpg\/v4-460px-Understand-Quantum-Physics-Step-4-Version-2.jpg","bigUrl":"\/images\/thumb\/a\/af\/Understand-Quantum-Physics-Step-4-Version-2.jpg\/aid1270408-v4-728px-Understand-Quantum-Physics-Step-4-Version-2.jpg","smallWidth":460,"smallHeight":345,"bigWidth":"728","bigHeight":"546","licensing":"<div class=\"mw-parser-output\"><p>License: <a rel=\"nofollow\" class=\"external text\" href=\"https:\/\/creativecommons.org\/licenses\/by-nc-sa\/3.0\/\">Creative Commons<\/a><br>\n<\/p><p><br \/>\n<\/p><\/div>"} 
+ 1 
+ Study the concept of particle and wave duality.  This postulates that all matter exhibits both wave and particle properties. A central concept of quantum mechanics, this duality addresses the inability of classical concepts like "particle" and "wave" to fully describe the behavior of quantum-scale objects. [4] 
+ X 
+ Research source 
+ 
+ 
+ 
+ 
+ For complete knowledge of matter duality, one must have concepts of Compton effect, photoelectric effect,de Broglie wavelength, and Planck's formula for black-body radiation. All these effects and theories proves the dual nature of matter. 
+ There are different experiments for light set by scientists proves that light have dual nature i.e. particle as well as wave nature... In 1901, Max Planck published an analysis that succeeded in reproducing the observed spectrum of light emitted by a glowing object. To accomplish this, Planck had to make an  ad hoc  mathematical assumption of quantized action of the oscillators (atoms of the black body) that emit radiation. It was Einstein who later proposed that it is the electromagnetic radiation itself that is quantized into photons. 
+ 
+ 
+ 
+ 
+ 
+ Advertisement 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Part  4  of 8: 
+ 
+ 
+ Uncertainty 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {"smallUrl":"https:\/\/www.wikihow.com\/images\/thumb\/a\/aa\/Understand-Quantum-Physics-Step-5-Version-2.jpg\/v4-460px-Understand-Quantum-Physics-Step-5-Version-2.jpg","bigUrl":"\/images\/thumb\/a\/aa\/Understand-Quantum-Physics-Step-5-Version-2.jpg\/aid1270408-v4-728px-Understand-Quantum-Physics-Step-5-Version-2.jpg","smallWidth":460,"smallHeight":345,"bigWidth":"728","bigHeight":"546","licensing":"<div class=\"mw-parser-output\"><p>License: <a rel=\"nofollow\" class=\"external text\" href=\"https:\/\/creativecommons.org\/licenses\/by-nc-sa\/3.0\/\">Creative Commons<\/a><br>\n<\/p><p><br \/>\n<\/p><\/div>"} 
+ 1 
+ Study the uncertainty principle.  The uncertainty principle states that certain pairs of physical properties, such as position and momentum, cannot be simultaneously known to arbitrarily high precision.In quantum physics, a particle is described by a wave packet, which gives rise to this phenomenon. Consider the measurement of the position of a particle. It could be anywhere. The particle's wave packet has non-zero amplitude, meaning the position is uncertain – it could be almost anywhere along the wave packet. To obtain an accurate reading of position, this wave packet must be 'compressed' as much as possible, meaning it must be made up of increasing numbers of sine waves added together. The momentum of the particle is proportional to the wave number of one of these waves, but it could be any of them. So a more precise position measurement – by adding together more waves – means the momentum measurement becomes less precise(and vice versa). [5] 
+ X 
+ Research source 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Advertisement 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Part  5  of 8: 
+ 
+ 
+ Wave function 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {"smallUrl":"https:\/\/www.wikihow.com\/images\/thumb\/8\/86\/Understand-Quantum-Physics-Step-6-Version-2.jpg\/v4-460px-Understand-Quantum-Physics-Step-6-Version-2.jpg","bigUrl":"\/images\/thumb\/8\/86\/Understand-Quantum-Physics-Step-6-Version-2.jpg\/aid1270408-v4-728px-Understand-Quantum-Physics-Step-6-Version-2.jpg","smallWidth":460,"smallHeight":345,"bigWidth":"728","bigHeight":"546","licensing":"<div class=\"mw-parser-output\"><p>License: <a rel=\"nofollow\" class=\"external text\" href=\"https:\/\/creativecommons.org\/licenses\/by-nc-sa\/3.0\/\">Creative Commons<\/a><br>\n<\/p><p><br \/>\n<\/p><\/div>"} 
+ 1 
+ Learn about wave function.  A wave function or wave function is a mathematical tool in quantum mechanics that describes the quantum state of a particle or system of particles. It is commonly applied as a property of particles relating to their wave-particle duality, where it is denoted ψ(position,time) and where |ψ| 2  is equal to the chance of finding the subject at a certain time and position. [6] 
+ X 
+ Research source 
+ 
+ 
+ 
+ 
+ For example, in an atom with a single electron, such as hydrogen or ionized helium, the wave function of the electron provides a complete description of how the electron behaves. It can be decomposed into a series of atomic orbitals which form a basis for the possible wave functions. For atoms with more than one electron (or any system with multiple particles), the underlying space is the possible configurations of all the electrons and the wave function describes the probabilities of those configurations. 
+ In solving homework problems involving the wave function, familiarity with complex numbers is a prerequisite. Other prerequisites include the math of  linear algebra , Euler's formula from complex analysis and the bra–ket notation. 
+ 
+ 
+ 
+ 
+ 
+ Advertisement 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Part  6  of 8: 
+ 
+ 
+ Schrödinger Equation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {"smallUrl":"https:\/\/www.wikihow.com\/images\/thumb\/5\/59\/Understand-Quantum-Physics-Step-7-Version-2.jpg\/v4-460px-Understand-Quantum-Physics-Step-7-Version-2.jpg","bigUrl":"\/images\/thumb\/5\/59\/Understand-Quantum-Physics-Step-7-Version-2.jpg\/aid1270408-v4-728px-Understand-Quantum-Physics-Step-7-Version-2.jpg","smallWidth":460,"smallHeight":345,"bigWidth":"728","bigHeight":"546","licensing":"<div class=\"mw-parser-output\"><p>License: <a rel=\"nofollow\" class=\"external text\" href=\"https:\/\/creativecommons.org\/licenses\/by-nc-sa\/3.0\/\">Creative Commons<\/a><br>\n<\/p><p><br \/>\n<\/p><\/div>"} 
+ 1 
+ Understand the Schrödinger equation.  It is an equation that describes how the quantum state of a physical system changes in time. It is as central to quantum mechanics as Newton's laws are to classical mechanics. Solutions to the Schrödinger equation describes not only molecular, atomic and subatomic systems, but also macroscopic systems, possibly even the whole universe. [7] 
+ X 
+ Research source 
+ 
+ 
+ 
+ 
+ The most general form is the time-dependent Schrödinger equation which gives a description of a system evolving with time. 
+ For systems in a stationary state, the time-independent Schrödinger equation is sufficient. Approximate solutions to the time-independent. Schrödinger  equations are commonly used to calculate the energy levels and other properties of atoms and molecules. 
+ 
+ 
+ 
+ 
+ 
+ Advertisement 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Part  7  of 8: 
+ 
+ 
+ Quantum Superposition 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {"smallUrl":"https:\/\/www.wikihow.com\/images\/thumb\/b\/b9\/Understand-Quantum-Physics-Step-8-Version-2.jpg\/v4-460px-Understand-Quantum-Physics-Step-8-Version-2.jpg","bigUrl":"\/images\/thumb\/b\/b9\/Understand-Quantum-Physics-Step-8-Version-2.jpg\/aid1270408-v4-728px-Understand-Quantum-Physics-Step-8-Version-2.jpg","smallWidth":460,"smallHeight":345,"bigWidth":"728","bigHeight":"546","licensing":"<div class=\"mw-parser-output\"><p>License: <a rel=\"nofollow\" class=\"external text\" href=\"https:\/\/creativecommons.org\/licenses\/by-nc-sa\/3.0\/\">Creative Commons<\/a><br>\n<\/p><p><br \/>\n<\/p><\/div>"} 
+ 1 
+ Understand Quantum superposition.  Quantum superposition refers to the quantum mechanical property of solutions to the Schrödinger equation. Since the Schrödinger equation is linear, any linear combination of solutions to a particular equation will also be a solution of it. This mathematical property of linear equations is known as the superposition principle. In quantum mechanics such solutions are often made to be orthogonal, such as the energy levels of an electron. By doing so the overlap energy of the states is nullified, and the expectation value of an operator (any superposition state) is the expectation value of the operator in the individual states, multiplied by the fraction of the superposition state that is "in" that state. [8] 
+ X 
+ Research source 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Advertisement 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Part  8  of 8: 
+ 
+ 
+ Ignoring the Classical Picture 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {"smallUrl":"https:\/\/www.wikihow.com\/images\/thumb\/6\/68\/Understand-Quantum-Physics-Step-9.jpg\/v4-460px-Understand-Quantum-Physics-Step-9.jpg","bigUrl":"\/images\/thumb\/6\/68\/Understand-Quantum-Physics-Step-9.jpg\/aid1270408-v4-728px-Understand-Quantum-Physics-Step-9.jpg","smallWidth":460,"smallHeight":345,"bigWidth":"728","bigHeight":"546","licensing":"<div class=\"mw-parser-output\"><p>License: <a rel=\"nofollow\" class=\"external text\" href=\"https:\/\/creativecommons.org\/licenses\/by-nc-sa\/3.0\/\">Creative Commons<\/a><br>\n<\/p><p><br \/>\n<\/p><\/div>"} 
+ 1 
+ Let go of classical notions of physics.  In quantum mechanics, the path of the particle is idealized totally in a different manner and the old quantum theory is just a toy model to understand the atomic hypothesis. [9] 
+ X 
+ Research source 
+ 
+ 
+ 
+ 
+ In Q.M., the path of the particle is imagined as if it has gone through many paths,in classical mechanics the path of particle is determined by its trajectory but, in Q.M there are multiple paths in which the particle can travel. This truth is hidden in the double slit experiment and in which the electron behaves as wave particle duality and this idea is clearly explained by Feynman`s path integral. 
+ In Q.M., the normalization constant ensures the probability of finding the particle is 1. 
+ Completely ignore the "toy model" (Bohr's model) to understand the higher level of Q.M. The reason is simple––you can't determine the exact path of the electron in various orbital level. 
+ If the Q.M approaches the classical limit (i.e) h tends to zero, the Q.M results somewhat approaches the results which are nearer to classical. 
+ In Q.M., the classical result are obtained using the expectation value and the best example is Ehrenfest's theorem. It is derived using the operator method. 
+ 
+ 
+ 
+ 
+ 
+ Advertisement 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Community Q&A 
+ 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ Add New Question 
+ 
+ 
+ 
+ 
+ Question 
+ I really want to learn Quantum Mechanics. How can I learn it by myself? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Community Answer 
+ 
+ 
+ 
+								Find the most highly recommended texts on the subject at a library or bookstore, select the ones that look best to you, and attempt to read them. 
+							 
+ 
+ 
+ Thanks! 
+ 
+ Yes 
+ No 
+ 
+ 
+ Not Helpful  3 
+ Helpful  12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Question 
+ What are eigenvalues? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Community Answer 
+ 
+ 
+ 
+								Whenever we make a measurement on an observable in a particular state, the eigenvalues are the possible results of the measurement. Having an eigenvalue implies that the observable can exist in that particular state with zero uncertainty.
+							 
+ 
+ 
+ Thanks! 
+ 
+ Yes 
+ No 
+ 
+ 
+ Not Helpful  0 
+ Helpful  11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Question 
+ Does a single electron split into multiple pseudo-particles which create a wavelike shape and then go through double slit? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Henry Sheehy 
+ Community Answer 
+ 
+ 
+ 
+								No. Electrons cannot split, as far as we can tell. There is an analogous statement to the one which you describe, but for waves. It's called Huygens Principle. To really understand interference, think about the electron's wavefunction as a measure of its probability. It tells you where you may find the electron. Then when you measure you collapse the wavefunction to be in one of its many possibilities, and that's where you see an electron particle.
+							 
+ 
+ 
+ Thanks! 
+ 
+ Yes 
+ No 
+ 
+ 
+ Not Helpful  2 
+ Helpful  12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Question 
+ Who invented quantum physics? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RBXII3 
+ Community Answer 
+ 
+ 
+ 
+								Max Planck is often called "the Father of Quantum Physics." He "created" black body radiation (or the equation for it) and has an entire unitary system named after him (Planck units), which define the smallest sizes at which our current laws of physics are known to operate.
+							 
+ 
+ 
+ Thanks! 
+ 
+ Yes 
+ No 
+ 
+ 
+ Not Helpful  1 
+ Helpful  9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Question 
+ What is the Schrodinger equation? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Community Answer 
+ 
+ 
+ 
+								It is an equation that describes how the quantum state of a physical system changes in time.
+							 
+ 
+ 
+ Thanks! 
+ 
+ Yes 
+ No 
+ 
+ 
+ Not Helpful  4 
+ Helpful  13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Question 
+ What is the best way to understand quantum physics? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Community Answer 
+ 
+ 
+ 
+								Start from scratch. Pretend classical mechanics do not exist. Also, remember that quantum physics is not intuitive, and you will have to train your brain to think in a quantized way. As a quantum physicist, I can tell you that there will be things that you will not "get," but that doesn't mean you don't understand it. You just have to accept certain things, even if they seem wonky.
+							 
+ 
+ 
+ Thanks! 
+ 
+ Yes 
+ No 
+ 
+ 
+ Not Helpful  0 
+ Helpful  3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Unanswered Questions 
+ 
+ 
+ 
+ 
+ 
+ 
+ How does a Power greater than ourselves play a role in this? 
+ 
+ Answer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Is quantum physics hard? 
+ 
+ Answer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ask a Question 
+ 
+ 200 characters left 
+ Include your email address to get a message when this question is answered. 
+ Submit 
+ 
+   Template for rendering a submitted question  
+   Template for answer confirmation     Template form for creating/updating a curated question     Template for the social login/signup form     Template for social login/signup confirmation   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Template for rendering a desktop ArticleQuestion  
+  Template for rendering an unpatrolled QA    Template form for desktop thumbs up/down functionality     Template for rendering a Top Answerers data  
+ 
+ 
+ Advertisement 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tips 
+ 
+ 
+ Solve the numerical problems of high school physics as a practice for the work required to solve the math in Quantum physics. 
+ 
+ 
+ Thanks! 
+ 
+ 
+			Helpful
+			 0 
+ 
+ 
+			Not Helpful
+			 0 
+ 
+ 
+ 
+ 
+ 
+ Some of the prerequisites of Quantum Physics include the concepts of Classical mechanics, Hamiltonian and different properties of waves like interference, diffraction etc. Consult appropriate text books and reference books or ask your physics teacher. One should gain a strong understanding of high school physics and the prerequisites of high school physics. You will need to learn quite a bit college-level math. 
+ 
+ 
+ Thanks! 
+ 
+ 
+			Helpful
+			 0 
+ 
+ 
+			Not Helpful
+			 0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Advertisement 
+ 
+   
+ 
+ 
+		Submit a Tip
+		 All tip submissions are carefully reviewed before being published 
+ 
+ 
+ Submit 
+ 
+ 
+ 
+		Thanks for submitting a tip for review!
+	 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ link 
+ 
+ 
+ Recipe Ratings and Stories 
+ 
+ x 
+ 
+ 
+ 
+ 
+ 
+ Did you make this recipe? 
+ Share your success story 
+ 
+ Reader Success Stories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Related wikiHows 
+ 
+ 
+ 
+ 
+ How to Study the Quantum Mechanical Equation of Schroedinger 
+ 
+ 
+ 
+ 
+ How to Study the Spin Concept in Quantum Theory 
+ 
+ 
+ 
+ 
+ 
+ 
+ Advertisement 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ References 
+ 
+ 
+ 
+ ↑   https://www.pbs.org/wgbh/nova/article/plancks-constant/ 
+ 
+ 
+ ↑   https://www.forbes.com/sites/startswithabang/2018/02/27/quantum-uncertainty-extends-even-to-mass-as-particle-physics-demonstrates/#71e1f5ca3edf 
+ 
+ 
+ ↑   https://www.forbes.com/sites/chadorzel/2015/07/08/six-things-everyone-should-know-about-quantum-physics/#598622407d46 
+ 
+ 
+ ↑   https://www.forbes.com/sites/chadorzel/2015/07/08/six-things-everyone-should-know-about-quantum-physics/#598622407d46 
+ 
+ 
+ ↑   https://www.forbes.com/sites/startswithabang/2018/02/27/quantum-uncertainty-extends-even-to-mass-as-particle-physics-demonstrates/#72b7460d3edf 
+ 
+ 
+ ↑   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/lecture-notes/MIT8_04S13_Lec03.pdf 
+ 
+ 
+ ↑   http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/schr.html 
+ 
+ 
+ ↑   https://www.scientificamerican.com/article/quantum-physics-may-be-even-spookier-than-you-think/ 
+ 
+ 
+ ↑   https://pdfs.semanticscholar.org/fcfb/43bdc22feb84050a364f851a93f97deae38d.pdf 
+ 
+ 
+ 
+ 
+ About This Article 
+ 
+ 
+ 
+ 
+			wikiHow is a “wiki,” similar to Wikipedia, which means that many of our articles are co-written by multiple authors. To create this article, 20 people, some anonymous, worked to edit and improve it over time.  This article has been viewed 127,915 times.
+			 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 314 votes - 84% 
+ 
+ 
+ 
+ 
+ 
+						Co-authors:   20 
+ 
+ 
+ Updated:  November 22, 2019 
+ 
+ 
+						Views:  127,915 
+ 
+ 
+ 
+					Categories:  Quantum Mechanics 
+ 
+ 
+ 
+ 
+ 
+ In other languages 
+ 
+ Español: entender física cuántica 
+ 
+ 
+ Português: Entender a Física Quântica 
+ 
+ 
+ Italiano: Capire la Fisica Quantistica 
+ 
+ 
+ Русский: разобраться в квантовой физике 
+ 
+ 
+ 
+ 
+ Print 
+ Send fan mail to authors 
+ 
+ 
+ Thanks to all authors for creating a page that has been read 127,915 times. 
+ 
+ 
+ 
+ Did this article help you? 
+ 
+ Yes 
+ No 
+ 
+ 
+ 
+ 
+ 
+ 
+ Advertisement 
+ 
+ 
+ 
+ Cookies make wikiHow better. By continuing to use our site, you agree to our  cookie policy . 
+ 
+ 
+ 84%  of readers found this article  helpful . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 314 votes - 84% 
+ 
+ Click a star to add your vote 
+ 
+ % of people told us that this article helped them. 
+ 
+ 
+ 
+ 
+ 
+ 
+			Co-authors:   20 
+ 
+ 
+ Updated:  November 22, 2019 
+ 
+ 
+			Views:  127,915 
+ 
+ 
+ 
+ 
+ Related Articles How to Study the Quantum Mechanical Equation of Schroedinger How to Study the Spin Concept in Quantum Theory How to Learn and Understand Limitations of General Scientific Theories and Quantum Theory 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Categories Education and Communications Studying Subjects Science Physics Quantum Mechanics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ end search 
+ 
+ 
+ Home 
+ About wikiHow 
+ Experts 
+ Jobs 
+ Contact Us 
+ Site Map 
+ Terms of Use 
+ Do Not Sell My Info 
+ Not Selling Info 
+ Contribute 
+ 
+ 
+ 
+ 
+ wikiHow Newsletter 
+ Helpful how-tos delivered to your inbox every week! 
+ Sign me up! 
+ 
+ 
+ 
+ × 
+ 
+ 
+ 
+ 
+ 
+ Follow Us 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ × 
+ 
+ 
+ Don’t miss out! Sign up for 
+ wikiHow’s newsletter 
+ Subscribe 
+ 
+ 
+ 
+ 
+ 
+ X 
+ 
+ We noticed you’re using an ad blocker. 
+ We know ads can be annoying, but they’re what allow us to make all of wikiHow available for free. Please help us continue to provide you with our trusted how-to guides and videos for free by whitelisting wikiHow on your ad blocker. If you really can’t stand to see another ad again, then please  consider supporting our work with a contribution to wikiHow . 
+ Let's do this! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 468 
+ 
+ 

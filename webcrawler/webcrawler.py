@@ -187,22 +187,22 @@ def main():
         saveFiles(links, word, "Dataset")
         allLinks.clear()
 
-    #keywords = ["tesla", "quantum+physics"]
-    #for word in keywords:
-    #    # header for what its about to print
-    #    print("getting files for: " + word)
-    #    links = getResultLinks(masterUrl+word)
+    keywords = ["tesla", "quantum+physics"]
+    for word in keywords:
+        # header for what its about to print
+        print("getting files for: " + word)
+        links = getResultLinks(masterUrl+word)
 
-    #    output.write(masterUrl+word +
-    #                 '\n\n=====================================\n')
-    #    for item in links:
-    #        output.write(item+'\n')
-    #    # clears allLinks, so that links from the previous keyword aren't inluded in the next set
+        output.write(masterUrl+word +
+                     '\n\n=====================================\n')
+        for item in links:
+            output.write(item+'\n')
+        # clears allLinks, so that links from the previous keyword aren't inluded in the next set
 
-    #    # runs the save files method to save the html files found at each link
+        # runs the save files method to save the html files found at each link
 
-    #    saveFiles(links, word, "Testing")
-    #    allLinks.clear()
+        saveFiles(links, word, "Testing")
+        allLinks.clear()
     output.close()
 
 

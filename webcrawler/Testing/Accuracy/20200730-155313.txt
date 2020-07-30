@@ -1,0 +1,64 @@
+NB, WordLevel TF-IDF:  0.5
+Classification Results :
+BBC - Earth - The strange link between the human mind and quantum physics.txt: self+driving+cars
+BBC - Earth - The strange link between the human mind and quantum physics.txt: self+driving+cars
+How to Understand Quantum Physics 14 Steps (with Pictures).txt: self+driving+cars
+Model S  Tesla Canada.txt: self+driving+cars
+Quantum entanglement - Wikipedia.txt: self+driving+cars
+quantum mechanics  Definition Development  Equations  Britannica.txt: self+driving+cars
+Quantum mechanics - Wikipedia.txt: self+driving+cars
+Quantum Physics News.txt: self+driving+cars
+Quantum Physics Spirituality And Your Thoughts Beliefs and Emotions.txt: self+driving+cars
+soft question - What is a correct and simple definition of quantum physics - Physics Stack Exchange.txt: self+driving+cars
+Tesla Inc. - Wikipedia.txt: self+driving+cars
+Tesla is a SCAM - BMW Dealership  Tesla Motors Club.txt: self+driving+cars
+TSLA Tesla Inc - Stock Price Quote and News - CNBC.txt: self+driving+cars
+Understanding the Four Types of Artificial Intelligence.txt: self+driving+cars
+Volkswagen CEO praises Tesla and Elon Musks record profit - Business Insider.txt: self+driving+cars
+What is Artificial Intelligence (AI) - Definition from Techopedia.txt: self+driving+cars
+What is Artificial Intelligence How Does AI Work  Built In.txt: self+driving+cars
+What Is Quantum Mechanics Quantum Physics Defined Explained  Live Science.txt: self+driving+cars
+Which Cars Have Self-Driving Features for 2020  News  Cars.com.txt: artificial+intelligence
+Why Are Tesla Cars So Expensive.txt: self+driving+cars
+NB, N-Gram Vectors:  0.625
+Classification Results :
+BBC - Earth - The strange link between the human mind and quantum physics.txt: self+driving+cars
+How to Understand Quantum Physics 14 Steps (with Pictures).txt: self+driving+cars
+Model S  Tesla Canada.txt: self+driving+cars
+Quantum entanglement - Wikipedia.txt: self+driving+cars
+quantum mechanics  Definition Development  Equations  Britannica.txt: self+driving+cars
+Quantum mechanics - Wikipedia.txt: self+driving+cars
+Quantum Physics News.txt: self+driving+cars
+Quantum Physics Spirituality And Your Thoughts Beliefs and Emotions.txt: self+driving+cars
+soft question - What is a correct and simple definition of quantum physics - Physics Stack Exchange.txt: self+driving+cars
+Tesla Inc. - Wikipedia.txt: self+driving+cars
+Tesla is a SCAM - BMW Dealership  Tesla Motors Club.txt: self+driving+cars
+TSLA Tesla Inc - Stock Price Quote and News - CNBC.txt: self+driving+cars
+Understanding the Four Types of Artificial Intelligence.txt: self+driving+cars
+Volkswagen CEO praises Tesla and Elon Musks record profit - Business Insider.txt: self+driving+cars
+What is Artificial Intelligence (AI) - Definition from Techopedia.txt: self+driving+cars
+What is Artificial Intelligence How Does AI Work  Built In.txt: self+driving+cars
+What Is Quantum Mechanics Quantum Physics Defined Explained  Live Science.txt: self+driving+cars
+Which Cars Have Self-Driving Features for 2020  News  Cars.com.txt: artificial+intelligence
+Why Are Tesla Cars So Expensive.txt: self+driving+cars
+NB, CharLevel Vectors:  0.375
+Classification Results :
+BBC - Earth - The strange link between the human mind and quantum physics.txt: self+driving+cars
+How to Understand Quantum Physics 14 Steps (with Pictures).txt: self+driving+cars
+Model S  Tesla Canada.txt: self+driving+cars
+Quantum entanglement - Wikipedia.txt: self+driving+cars
+quantum mechanics  Definition Development  Equations  Britannica.txt: self+driving+cars
+Quantum mechanics - Wikipedia.txt: self+driving+cars
+Quantum Physics News.txt: self+driving+cars
+Quantum Physics Spirituality And Your Thoughts Beliefs and Emotions.txt: self+driving+cars
+soft question - What is a correct and simple definition of quantum physics - Physics Stack Exchange.txt: self+driving+cars
+Tesla Inc. - Wikipedia.txt: self+driving+cars
+Tesla is a SCAM - BMW Dealership  Tesla Motors Club.txt: self+driving+cars
+TSLA Tesla Inc - Stock Price Quote and News - CNBC.txt: self+driving+cars
+Understanding the Four Types of Artificial Intelligence.txt: self+driving+cars
+Volkswagen CEO praises Tesla and Elon Musks record profit - Business Insider.txt: self+driving+cars
+What is Artificial Intelligence (AI) - Definition from Techopedia.txt: self+driving+cars
+What is Artificial Intelligence How Does AI Work  Built In.txt: self+driving+cars
+What Is Quantum Mechanics Quantum Physics Defined Explained  Live Science.txt: self+driving+cars
+Which Cars Have Self-Driving Features for 2020  News  Cars.com.txt: self+driving+cars
+Why Are Tesla Cars So Expensive.txt: self+driving+cars
