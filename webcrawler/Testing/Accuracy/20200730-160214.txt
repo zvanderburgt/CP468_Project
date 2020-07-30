@@ -1,0 +1,63 @@
+NB, WordLevel TF-IDF:  0.625
+Classification Results :
+BBC - Earth - The strange link between the human mind and quantum physics.txt: artificial+intelligence
+How to Understand Quantum Physics 14 Steps (with Pictures).txt: artificial+intelligence
+Model S  Tesla Canada.txt: artificial+intelligence
+Quantum entanglement - Wikipedia.txt: self+driving+cars
+quantum mechanics  Definition Development  Equations  Britannica.txt: artificial+intelligence
+Quantum mechanics - Wikipedia.txt: artificial+intelligence
+Quantum Physics News.txt: artificial+intelligence
+Quantum Physics Spirituality And Your Thoughts Beliefs and Emotions.txt: artificial+intelligence
+soft question - What is a correct and simple definition of quantum physics - Physics Stack Exchange.txt: artificial+intelligence
+Tesla Inc. - Wikipedia.txt: artificial+intelligence
+Tesla is a SCAM - BMW Dealership  Tesla Motors Club.txt: artificial+intelligence
+TSLA Tesla Inc - Stock Price Quote and News - CNBC.txt: self+driving+cars
+Understanding the Four Types of Artificial Intelligence.txt: artificial+intelligence
+Volkswagen CEO praises Tesla and Elon Musks record profit - Business Insider.txt: artificial+intelligence
+What is Artificial Intelligence (AI) - Definition from Techopedia.txt: self+driving+cars
+What is Artificial Intelligence How Does AI Work  Built In.txt: self+driving+cars
+What Is Quantum Mechanics Quantum Physics Defined Explained  Live Science.txt: artificial+intelligence
+Which Cars Have Self-Driving Features for 2020  News  Cars.com.txt: artificial+intelligence
+Why Are Tesla Cars So Expensive.txt: artificial+intelligence
+NB, N-Gram Vectors:  0.875
+Classification Results :
+BBC - Earth - The strange link between the human mind and quantum physics.txt: artificial+intelligence
+How to Understand Quantum Physics 14 Steps (with Pictures).txt: self+driving+cars
+Model S  Tesla Canada.txt: artificial+intelligence
+Quantum entanglement - Wikipedia.txt: self+driving+cars
+quantum mechanics  Definition Development  Equations  Britannica.txt: artificial+intelligence
+Quantum mechanics - Wikipedia.txt: self+driving+cars
+Quantum Physics News.txt: quantum+computing
+Quantum Physics Spirituality And Your Thoughts Beliefs and Emotions.txt: artificial+intelligence
+soft question - What is a correct and simple definition of quantum physics - Physics Stack Exchange.txt: self+driving+cars
+Tesla Inc. - Wikipedia.txt: artificial+intelligence
+Tesla is a SCAM - BMW Dealership  Tesla Motors Club.txt: artificial+intelligence
+TSLA Tesla Inc - Stock Price Quote and News - CNBC.txt: artificial+intelligence
+Understanding the Four Types of Artificial Intelligence.txt: artificial+intelligence
+Volkswagen CEO praises Tesla and Elon Musks record profit - Business Insider.txt: artificial+intelligence
+What is Artificial Intelligence (AI) - Definition from Techopedia.txt: self+driving+cars
+What is Artificial Intelligence How Does AI Work  Built In.txt: self+driving+cars
+What Is Quantum Mechanics Quantum Physics Defined Explained  Live Science.txt: artificial+intelligence
+Which Cars Have Self-Driving Features for 2020  News  Cars.com.txt: artificial+intelligence
+Why Are Tesla Cars So Expensive.txt: artificial+intelligence
+NB, CharLevel Vectors:  0.5
+Classification Results :
+BBC - Earth - The strange link between the human mind and quantum physics.txt: artificial+intelligence
+How to Understand Quantum Physics 14 Steps (with Pictures).txt: artificial+intelligence
+Model S  Tesla Canada.txt: artificial+intelligence
+Quantum entanglement - Wikipedia.txt: self+driving+cars
+quantum mechanics  Definition Development  Equations  Britannica.txt: artificial+intelligence
+Quantum mechanics - Wikipedia.txt: self+driving+cars
+Quantum Physics News.txt: self+driving+cars
+Quantum Physics Spirituality And Your Thoughts Beliefs and Emotions.txt: artificial+intelligence
+soft question - What is a correct and simple definition of quantum physics - Physics Stack Exchange.txt: artificial+intelligence
+Tesla Inc. - Wikipedia.txt: artificial+intelligence
+Tesla is a SCAM - BMW Dealership  Tesla Motors Club.txt: artificial+intelligence
+TSLA Tesla Inc - Stock Price Quote and News - CNBC.txt: artificial+intelligence
+Understanding the Four Types of Artificial Intelligence.txt: artificial+intelligence
+Volkswagen CEO praises Tesla and Elon Musks record profit - Business Insider.txt: artificial+intelligence
+What is Artificial Intelligence (AI) - Definition from Techopedia.txt: self+driving+cars
+What is Artificial Intelligence How Does AI Work  Built In.txt: self+driving+cars
+What Is Quantum Mechanics Quantum Physics Defined Explained  Live Science.txt: artificial+intelligence
+Which Cars Have Self-Driving Features for 2020  News  Cars.com.txt: artificial+intelligence
+Why Are Tesla Cars So Expensive.txt: artificial+intelligence

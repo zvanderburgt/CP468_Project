@@ -132,6 +132,7 @@ tfidf_vect_ngram.fit(trainDF['text'])
 xtrain_tfidf_ngram =  tfidf_vect_ngram.transform(train_x)
 xvalid_tfidf_ngram =  tfidf_vect_ngram.transform(valid_x)
 xtest_tfidf_ngram = tfidf_vect_ngram.transform(testDF['text'])
+#saves the data in a human readable way
 subDir = os.path.join(here, dir, "Ngram Level")
 if not os.path.exists(subDir):
     os.makedirs(subDir)
