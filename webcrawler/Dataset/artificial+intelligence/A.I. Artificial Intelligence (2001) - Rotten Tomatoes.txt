@@ -1,0 +1,5341 @@
+A.I. Artificial Intelligence (2001) - Rotten Tomatoes 
+ 
+ 
+ 
+ 
+  JSON+LD  
+ 
+  Google webmaster tools  
+ 
+ 
+  BEGIN: critical 
+ 
+  /END: critical 
+ 
+ 
+ 
+ 
+ 
+ 
+  Make dataLayer (GTM) available  
+ 
+ 
+  Google Tag Manager  
+  Preinitialize dataLayer before loading GTM to avoid race condition 
+ 
+ 
+  End Google Tag Manager  
+ 
+ 
+ 
+ 
+ 
+ 
+  mobile menu  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                            Home
+                         
+ 
+ 
+ 
+                            Top Box Office
+                         
+ 
+ 
+ 
+                            Tickets & Showtimes
+                         
+ 
+ 
+ 
+                            DVD & Streaming
+                         
+ 
+  <c:if test="${'us' eq headerInfo.i18nHeader or 'US' eq headerInfo.i18nHeader or '' eq headerInfo.i18nHeader}">  
+ 
+ 
+                                TV
+                             
+ 
+  </c:if>  
+ 
+ 
+                            News
+                         
+ 
+ 
+                    <div class="item">
+                        <a class="newsletterTab unstyled navLink fullLink" href="/newsletter/">
+                            <%--Join Newsletter--%>
+                        </a>
+                    </div>
+                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  global header  
+ 
+ 
+ 
+ 
+ What's the Tomatometer®? 
+ Critics 
+ 
+ SIGN UP 
+                    
+                    |
+                     LOG IN 
+ 
+ 
+ 
+ 
+ 
+  Logo  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Movies / TV 
+ 
+ 
+ 
+ Celebrity 
+ 
+ 
+ 
+ No Results Found 
+ 
+ View All 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Logo  
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ Home 
+ 
+ 
+ Box Office 
+ 
+ 
+ TV 
+ 
+ 
+ DVD 
+ 
+ 
+ 
+ MORE
+                                 
+ 
+ 
+ 
+ 
+ mobile dropdown 
+ 
+ News 
+ My Account 
+ 
+ 
+ SIGN UP 
+ LOG IN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ mobile dropdown end 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                        Movies & DVDs 
+ 
+ 
+ 
+ 
+ 
+ Movies in Theaters 
+ 
+ 
+ Opening This Week 
+ 
+ 
+ Top Box Office 
+ 
+ 
+ Coming Soon to Theaters 
+ 
+ 
+ Weekend Earnings 
+ 
+ 
+ Certified Fresh Movies 
+ 
+ 
+ 
+ 
+ 
+ 
+ On Dvd & Streaming 
+ 
+ 
+ FandangoNOW 
+ 
+ 
+ Netflix Streaming 
+ 
+ 
+ iTunes 
+ 
+ 
+ Amazon and Amazon Prime 
+ 
+ 
+ Top DVD & Streaming 
+ 
+ 
+ New Releases 
+ 
+ 
+ Coming Soon to DVD 
+ 
+ 
+ Certified Fresh Movies 
+ 
+ 
+ Browse All 
+ 
+ 
+ 
+ 
+ 
+ 
+ More 
+ 
+ Top Movies 
+ Trailers 
+ 
+ 
+ 
+ 
+ Certified Fresh Picks 
+ 
+ 
+  Hardcorded rt url so pageheader on editorial routes to rt too  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 88% 
+ 
+ Shirley 
+ 
+ 
+ 
+  Hardcorded rt url so pageheader on editorial routes to rt too  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 92% 
+ 
+ Da 5 Bloods 
+ 
+ 
+ 
+  Hardcorded rt url so pageheader on editorial routes to rt too  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100% 
+ 
+ On the Record 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  TV 
+ 
+ 
+ 
+ 
+ New TV Tonight 
+ 
+ 
+ 
+ 
+ 
+ 100% 
+ 
+ 
+ 
+ 
+            
+                In My Skin
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 96% 
+ 
+ 
+ 
+ 
+            
+                Doom Patrol
+            
+         
+ 
+ 
+ 
+ 
+ 
+ No Score Yet 
+ 
+ 
+ 
+ 
+            
+                Idiomatic
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 80% 
+ 
+ 
+ 
+ 
+            
+                Frayed
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 100% 
+ 
+ 
+ 
+ 
+            
+                Transformers: War for Cybertron Trilogy
+            
+         
+ 
+ 
+ 
+ 
+ 
+ No Score Yet 
+ 
+ 
+ 
+ 
+            
+                Alone
+            
+         
+ 
+ 
+ 
+ 
+ 
+ No Score Yet 
+ 
+ 
+ 
+ 
+            
+                Cannonball
+            
+         
+ 
+ 
+ 
+ 
+ 
+ No Score Yet 
+ 
+ 
+ 
+ 
+            
+                Cake
+            
+         
+ 
+ 
+ 
+ 
+ 
+ No Score Yet 
+ 
+ 
+ 
+ 
+            
+                Chrisley Knows Best
+            
+         
+ 
+ 
+ 
+ 
+ 
+ No Score Yet 
+ 
+ 
+ 
+ 
+            
+                The Real Housewives of New York City
+            
+         
+ 
+ 
+ 
+ 
+ 
+ No Score Yet 
+ 
+ 
+ 
+ 
+            
+                Tacoma FD
+            
+         
+ 
+ 
+ 
+ 
+ 
+ No Score Yet 
+ 
+ 
+ 
+ 
+            
+                Holey Moley
+            
+         
+ 
+ 
+ 
+ 
+ View All 
+ 
+ 
+ 
+ 
+ 
+ Most Popular TV on RT 
+ 
+ 
+ 
+ 
+ 
+ 92% 
+ 
+ 
+ 
+ 
+            
+                The Umbrella Academy
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 100% 
+ 
+ 
+ 
+ 
+            
+                P-Valley
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 71% 
+ 
+ 
+ 
+ 
+            
+                Cursed
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 95% 
+ 
+ 
+ 
+ 
+            
+                Watchmen
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 96% 
+ 
+ 
+ 
+ 
+            
+                Dark
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 68% 
+ 
+ 
+ 
+ 
+            
+                Black Mirror
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 95% 
+ 
+ 
+ 
+ 
+            
+                I'll Be Gone in the Dark
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 67% 
+ 
+ 
+ 
+ 
+            
+                The Witcher
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 100% 
+ 
+ 
+ 
+ 
+            
+                The Woods
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 100% 
+ 
+ 
+ 
+ 
+            
+                Kingdom
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 97% 
+ 
+ 
+ 
+ 
+            
+                I May Destroy You
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 98% 
+ 
+ 
+ 
+ 
+            
+                Mindhunter
+            
+         
+ 
+ 
+ 
+ 
+ View All 
+ 
+ 
+ 
+ 
+ 
+ More 
+ 
+ Top TV Shows 
+ Certified Fresh TV 
+ 
+ Episodic Reviews 
+ 
+ 
+  Atlanta: Robbin' Season  
+ 
+ 
+  Fargo: Season 3  
+ 
+ 
+  The Flash: Season 6  
+ 
+ 
+  Into The Dark: Season 2  
+ 
+ 
+  Game of Thrones: Season 8  
+ 
+ 
+  Killing Eve: Season 3  
+ 
+ 
+  Orphan Black: Season 5  
+ 
+ 
+  Watchmen: Season 1  
+ 
+ 
+  The Mandalorian: Season 1  
+ 
+ 
+  Black Mirror: Season 5  
+ 
+ 
+ 
+ 
+ 
+ 
+ Certified Fresh Pick 
+ 
+  Hardcorded rt url so pageheader on editorial routes to rt too  
+ 
+ 
+ 
+ 
+ 
+ 
+ 97% 
+ 
+ I May Destroy You 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                        News 
+ 
+ 
+ 
+ 
+ 
+ Columns 
+ 
+ 24 Frames 
+ All-Time Lists 
+ Binge Guide 
+ Comics on TV 
+ Countdown 
+ Critics Consensus 
+ Five Favorite Films 
+ Now Streaming 
+ Parental Guidance 
+ Red Carpet Roundup 
+ Scorecards 
+ Sub-Cult 
+ Total Recall 
+ Video Interviews 
+ Weekend Box Office 
+ Weekly Ketchup 
+ What to Watch 
+ The Zeros 
+ 
+ 
+ 
+ 
+ 
+ 
+ View All  
+ 
+ Best and Worst 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                    Sidney Poitier’s 7 Most Memorable Performances
+                                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                    All Harry Potter Movies Ranked Worst to Best by Tomatometer
+                                                                 
+ 
+ 
+ 
+ 
+ View All  
+ 
+ Guides 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                    Pride
+                                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                    Binge Central
+                                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ View All  
+ 
+ RT News 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                    New on Amazon Prime Video in August 2020
+                                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                    TV Premiere Dates 2020
+                                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Tickets & Showtimes  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Trending on RT 
+  TV Premiere Dates  
+  Best Shows on Disney+  
+  Binge Central  
+  Renewed & Cancelled TV  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ × Close 
+ 
+ Sign In 
+ 
+ 
+ 
+ 
+ 
+ 
+                        Log in with Facebook
+                     
+ 
+ 
+ OR 
+ 
+ 
+ 
+ Email address 
+ 
+ 
+ 
+ 
+ Password 
+ 
+ 
+ 
+ 
+ 
+ Log In 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Forgot your password? 
+                    Don't have an account?  Sign up here 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ × Close 
+ 
+ Sign up for Rotten Tomatoes 
+ 
+ 
+ 
+ 
+ Sign up with Facebook
+                 
+ 
+                    or
+                 
+ 
+ 
+                        First Name
+                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                        Last Name
+                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                        Email
+                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                        Password
+                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                          By signing up, you agree to receiving newsletters from Rotten Tomatoes. You may later unsubscribe.
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Create your account 
+ 
+ Already have an account?  Log in here 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                    By creating an account, you agree to the  Privacy Policy 
+                    and the  Terms and Policies ,
+                    and to receive email from Rotten Tomatoes and Fandango.
+                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ × Close 
+ 
+ Forgot your password 
+ 
+ 
+ 
+ 
+                    Please enter your email address and we will email you a new password.
+                 
+ 
+ 
+                        Email Address
+                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Submit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Real Quick 
+ 
+ 
+                    We want to hear what you have to say but need to verify your email. Don’t worry, it won’t take long. Please click the link below to receive your verification email.
+             
+ 
+ We want to hear what you have to say but need to verify your account. Just leave us a message  here  and we will work on getting you verified.  
+ Please reference “Error Code 2121” when contacting customer service. 
+ 
+ 
+ Cancel 
+ Resend Email 
+ 
+ 
+ 
+ 
+  salt=movie-atomic-unicorn-77  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                    In  Theaters
+                 
+ 
+ 
+ 
+                    Streaming Movies
+                 
+ 
+ 
+ 
+                    TV   Shows
+                 
+ 
+ 
+ 
+ 
+ Opening 
+ 
+ 
+ 
+ 
+ 
+ 56% 
+ 
+ 
+ 
+ The Informer 
+ 
+ 
+ 
+                
+                    —
+                
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 94% 
+ 
+ 
+ 
+ Calm With Horses 
+ 
+ 
+ 
+                
+                    —
+                
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 81% 
+ 
+ 
+ 
+ Summerland 
+ 
+ 
+ 
+                
+                    —
+                
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 100% 
+ 
+ 
+ 
+ The Fight 
+ 
+ 
+ 
+                
+                    —
+                
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 85% 
+ 
+ 
+ 
+ Save Yourselves! 
+ 
+ 
+ 
+                
+                    —
+                
+             
+ 
+ 
+ 
+ 
+ 
+        View All 
+ 
+ 
+ Top Box Office 
+ 
+ 
+ 
+ 
+ No Score Yet 
+ 
+ 
+ 
+ Bungalow 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 58% 
+ 
+ 
+ 
+ Game of Death 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 98% 
+ 
+ 
+ 
+ Beats 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 92% 
+ 
+ 
+ 
+ Yes, God, Yes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 85% 
+ 
+ 
+ 
+ Retaliation (Romans) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 94% 
+ 
+ 
+ 
+ We Are Little Zombies 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 98% 
+ 
+ 
+ 
+ The Last Tree 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100% 
+ 
+ 
+ 
+ House of Hummingbird (Beolsae) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 50% 
+ 
+ 
+ 
+ Four Kids and It 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9% 
+ 
+ 
+ 
+ Force of Nature 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        View All 
+ 
+ 
+ Coming Soon 
+ 
+ 
+ 
+ 
+ No Score Yet 
+ 
+ 
+ 
+ Trump Card 
+ 
+ 
+ 
+                
+                    Aug 07
+                
+             
+ 
+ 
+ 
+ 
+ 
+ No Score Yet 
+ 
+ 
+ 
+ The Tax Collector 
+ 
+ 
+ 
+                
+                    —
+                
+             
+ 
+ 
+ 
+ 
+ 
+ No Score Yet 
+ 
+ 
+ 
+ Made in Italy 
+ 
+ 
+ 
+                
+                    —
+                
+             
+ 
+ 
+ 
+ 
+ 
+ No Score Yet 
+ 
+ 
+ 
+ Max Reload and the Nether Blasters 
+ 
+ 
+ 
+                
+                    —
+                
+             
+ 
+ 
+ 
+ 
+ 
+ No Score Yet 
+ 
+ 
+ 
+ Paydirt 
+ 
+ 
+ 
+                
+                    —
+                
+             
+ 
+ 
+ 
+ 
+ 
+        View All 
+ 
+ 
+ 
+ 
+ Most Popular 
+ 
+ 
+ 
+ 
+ 
+ 92% 
+ 
+ 
+ 
+ Yes, God, Yes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 94% 
+ 
+ 
+ 
+ The Shadow of Violence 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 56% 
+ 
+ 
+ 
+ Animal Crackers 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 65% 
+ 
+ 
+ 
+ Fisherman's Friends 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 85% 
+ 
+ 
+ 
+ Retaliation (Romans) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 75% 
+ 
+ 
+ 
+ Babysplitters 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 58% 
+ 
+ 
+ 
+ Game of Death 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 14% 
+ 
+ 
+ 
+ MILF 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 34% 
+ 
+ 
+ 
+ The Sunlit Night 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 79% 
+ 
+ 
+ 
+ Greyhound 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        View All 
+ 
+ 
+ 
+ 
+ New TV Tonight 
+ 
+ 
+ 
+ 
+ 
+ 100% 
+ 
+ 
+ 
+ 
+            
+                In My Skin
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 96% 
+ 
+ 
+ 
+ 
+            
+                Doom Patrol
+            
+         
+ 
+ 
+ 
+ 
+ 
+ No Score Yet 
+ 
+ 
+ 
+ 
+            
+                Idiomatic
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 80% 
+ 
+ 
+ 
+ 
+            
+                Frayed
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 100% 
+ 
+ 
+ 
+ 
+            
+                Transformers: War for Cybertron Trilogy
+            
+         
+ 
+ 
+ 
+ 
+ 
+            View All 
+ 
+ 
+ Most Popular TV on RT 
+ 
+ 
+ 
+ 
+ 
+ 92% 
+ 
+ 
+ 
+ 
+            
+                The Umbrella Academy
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 100% 
+ 
+ 
+ 
+ 
+            
+                P-Valley
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 71% 
+ 
+ 
+ 
+ 
+            
+                Cursed
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 95% 
+ 
+ 
+ 
+ 
+            
+                Watchmen
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 96% 
+ 
+ 
+ 
+ 
+            
+                Dark
+            
+         
+ 
+ 
+ 
+ 
+ 
+            View All 
+ 
+ 
+ Certified Fresh TV 
+ 
+ 
+ 
+ 
+ 
+ 100% 
+ 
+ 
+ 
+ 
+            
+                P-Valley
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 90% 
+ 
+ 
+ 
+ 
+            
+                Legendary
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 100% 
+ 
+ 
+ 
+ 
+            
+                The Baby-Sitters Club
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 97% 
+ 
+ 
+ 
+ 
+            
+                I May Destroy You
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 86% 
+ 
+ 
+ 
+ 
+            
+                High Fidelity
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 76% 
+ 
+ 
+ 
+ 
+            
+                Stateless
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 95% 
+ 
+ 
+ 
+ 
+            
+                Insecure
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 93% 
+ 
+ 
+ 
+ 
+            
+                Love, Victor
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 78% 
+ 
+ 
+ 
+ 
+            
+                Perry Mason
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 96% 
+ 
+ 
+ 
+ 
+            
+                The Last Dance
+            
+         
+ 
+ 
+ 
+ 
+ 
+            View All 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Add Article 
+ 
+ 
+ 
+  salt=Thranduil-91031  
+ 
+ 
+ 
+ A.I. Artificial Intelligence 
+ 
+ Critics Consensus 
+ A curious, not always seamless, amalgamation of Kubrick's chilly bleakness and Spielberg's warm-hearted optimism, A.I. is, in a word, fascinating. 
+ 
+ 
+ 
+ 
+ 
+ 
+                    74%
+                 
+ 
+ 
+ 
+ 
+            TOMATOMETER
+         
+ Total Count:  
+ 
+            
+                193
+            
+         
+ 
+ 
+  salt=kilowattjuno-7207218a  
+ 
+ 
+ 
+ 
+ 
+                    64%
+                 
+ 
+ 
+ 
+ Audience Score 
+ User Ratings: 414,009 
+ 
+ 
+ 
+ 
+ 
+  salt=POP_OVER-41552  
+ 
+ 
+ A.I. Artificial Intelligence Ratings & Reviews Explanation 
+ 
+ 
+ 
+  END POP OVER 
+ 
+ 
+ See score details 
+ 
+ 
+ 
+ 
+ 
+ Where to watch 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Rent/buy from $2.99 
+ Rent/buy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Rent/buy from $2.99 
+ Rent/buy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Rent/buy from $2.99 
+ Rent/buy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Rent/buy from $2.99 
+ Rent/buy 
+ 
+ 
+ 
+ 
+ 
+        Show all services  
+ 
+ 
+ 
+ Other Movies 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Avengers: Endgame 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Alien 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Eternal Sunshine of the Spotless Mind 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Iron Man 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Metropolis 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Rate And Review 
+ 
+ Submit review 
+ 
+ 
+                Want to see
+                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Edit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Submit review 
+ 
+ 
+ 
+ 
+ 
+ 
+ Super Reviewer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Verified 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Super Reviewer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Verified 
+ 
+ 
+ 
+ 
+ 
+                        Edit
+                   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Super Reviewer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Rate this movie 
+ Oof, that was Rotten. 
+ Meh, it passed the time. 
+ It’s good – I’d recommend it. 
+ Awesome! 
+ So Fresh: Absolute Must See! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What did you think of the movie?  (optional) 
+ 
+ 
+ 
+ 
+ 
+ Submit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ You're almost there! Just confirm how you got your ticket. 
+ 
+ 
+ Continue 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Super Reviewer 
+ 
+ 
+ 
+ 
+ 
+ Step 2 of 2 
+ How did you buy your ticket? 
+ Let's get your review verified. 
+ 
+ 
+ 
+ Fandango
+                                    
+                                 
+ 
+ 
+ AMCTheatres.com or AMC App New 
+ 
+ Enter your Ticket Confirmation# located in your email. More Info 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cinemark
+                                    
+                                         Coming Soon 
+ 
+ We won’t be able to verify your ticket today, but it’s great to know for the future. 
+ 
+ 
+ 
+ 
+ Regal
+                              
+                                   Coming Soon 
+ 
+ We won’t be able to verify your ticket today, but it’s great to know for the future. 
+ 
+ 
+ Theater box office or somewhere else
+                              
+                           
+ 
+ 
+ 
+ 
+ 
+ Submit 
+ By opting to have your ticket verified for this movie, you are allowing us to check the email address associated with your Rotten Tomatoes account against an email address associated with a Fandango ticket purchase for the same movie. 
+ 
+ 
+ 
+ You're almost there! Just confirm how you got your ticket. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Super Reviewer 
+ 
+ 
+ 
+ 
+ 
+ 
+ Rate this movie 
+ Oof, that was Rotten. 
+ Meh, it passed the time. 
+ It’s good – I’d recommend it. 
+ Awesome! 
+ So Fresh: Absolute Must See! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What did you think of the movie?  (optional) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Submit 
+ 
+ 
+ 
+ 
+ 
+ 
+ How did you buy your ticket? 
+ 
+ 
+ Fandango
+                          
+                       
+ 
+ 
+ AMCTheatres.com or AMC App New 
+ 
+ Enter your Ticket Confirmation# located in your email. More Info 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cinemark
+                          
+                               Coming Soon 
+ 
+ We won’t be able to verify your ticket today, but it’s great to know for the future. 
+ 
+ 
+ Regal
+                          
+                               Coming Soon 
+ 
+ We won’t be able to verify your ticket today, but it’s great to know for the future. 
+ 
+ 
+ Theater box office or somewhere else
+                          
+                       
+ 
+ 
+ 
+ 
+ Submit 
+ By opting to have your ticket verified for this movie, you are allowing us to check the email address associated with your Rotten Tomatoes account against an email address associated with a Fandango ticket purchase for the same movie. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ You haven’t finished your review yet, want to submit as-is? 
+ You can always edit your review after. 
+ 
+ 
+ Submit & exit 
+ Remove review 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Are you sure? 
+ Verified reviews are considered more trustworthy by fellow moviegoers. 
+ 
+ 
+ Submit & exit 
+ Verify Ticket 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Want to submit changes to your review before closing? 
+ 
+ 
+ Submit 
+ Discard changes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Done Already? A few more words can help others decide if it's worth watching 
+ They won't be able to see your review if you only submit your rating. 
+ 
+ 
+ Submit only my rating 
+ Keep writing 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Done Already? A few more words can help others decide if it's worth watching 
+ They won't be able to see your review if you only submit your rating. 
+ 
+ 
+ Discard changes & exit 
+ Submit only my rating 
+ Keep writing 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share with Facebook 
+ 
+ 
+ 
+ Share with Twitter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                The image is an example of a ticket confirmation email that AMC sent you when you purchased your ticket. Your Ticket Confirmation # is located under the header in your email that reads "Your Ticket Reservation Details". Just below that it reads "Ticket Confirmation#:" followed by a 10-digit number. This 10-digit number is your confirmation number.
+             
+ 
+                Your AMC Ticket Confirmation# can be found in your order confirmation email.
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A.I. Artificial Intelligence 
+        
+
+        
+        Videos
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            1:36
+                                         
+ 
+ A.I.: Artificial Intelligence: Trailer 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                    View All Videos (1)
+                     
+ 
+ A.I. Artificial Intelligence 
+                
+            
+
+            
+            Photos
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  pswp__ui--fit   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                        
+                            View All Photos (40)
+                        
+                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Movie Info 
+ 
+ 
+ 
+                Based on the 1969 short story "Super-Toys Last All Summer Long" by Brian Aldiss, this science fiction fantasy bears similarities to Pinocchio (1940) and originated as a long-gestating project of director Stanley Kubrick that passed to his friend Steven Spielberg after Kubrick's death. Haley Joel Osment stars as David Swinton, a young boy of the future, living in a time when the polar ice caps have melted and submerged many coastal cities. It's also a time when humans live side by side with "mechas," or sentient robots. When David discovers that he is not the biological son of his parents Henry (Sam Robards) and Monica (Frances O'Connor), but a cutting-edge robotic child meant to replace a natural son who died, he sets out to learn what he can of his true nature. Along the way, David is mentored by an entertainment and pleasure-providing mecha named Gigolo Joe (Jude Law). William Hurt, Brendan Gleeson, and narrator Ben Kingsley co-star in A.I., which was adapted from Kubrick's treatment by Spielberg, who takes his first crack at screenwriting since Close Encounters of the Third Kind (1977).
+             
+ 
+ 
+ Rating: 
+ PG-13 (for some sexual content and violent images)
+                     
+ 
+ 
+ Genre: 
+ 
+                        
+                        Drama, 
+                        
+                        Science Fiction & Fantasy
+                        
+                     
+ 
+ 
+ Directed By: 
+ 
+ Steven Spielberg 
+ 
+ 
+ 
+ Written By: 
+ 
+ Ian Watson , 
+                        
+                         Steven Spielberg 
+ 
+ 
+ 
+ In Theaters: 
+ 
+ Jun 29, 2001
+                         
+  wide 
+ 
+ 
+ 
+ On Disc/Streaming: 
+ 
+ Mar 5, 2002
+                         
+ 
+ 
+ 
+ Runtime: 
+ 
+ 
+                            145 minutes
+                         
+ 
+ 
+ 
+ Studio: 
+ 
+                        Dreamworks
+                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cast 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Haley Joel Osment
+             
+ 
+ 
+ as
+                
+                    David
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Frances O'Connor (II) 
+             
+ 
+ 
+ as
+                
+                    Monica
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Jude Law
+             
+ 
+ 
+ as
+                
+                    Gigolo Joe
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Sam Robards
+             
+ 
+ 
+ as
+                
+                    Henry
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Jake Thomas
+             
+ 
+ 
+ as
+                
+                    Martin
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                William Hurt
+             
+ 
+ 
+ as
+                
+                    Prof. Hobby
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Ken Leung
+             
+ 
+ 
+ as
+                
+                    Syatyoo-Sama
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Brendan Gleeson
+             
+ 
+ 
+ as
+                
+                    Lord Johnson-Johnson
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Jack Angel
+             
+ 
+ 
+ as
+                
+                    Teddy
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Michael Mantell
+             
+ 
+ 
+ as
+                
+                    Dr. Frazier
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Michael Berresse
+             
+ 
+ 
+ as
+                
+                    Stage Manager
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Kathryn Morris
+             
+ 
+ 
+ as
+                
+                    Teenage Honey
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Adrian Grenier
+             
+ 
+ 
+ as
+                
+                    Teen in Van
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                April Grace
+             
+ 
+ 
+ as
+                
+                    Female Colleague
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Enrico Colantoni
+             
+ 
+ 
+ as
+                
+                    The Murderer
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Paula Malcomson
+             
+ 
+ 
+ as
+                
+                    Patricia in Mirrored Room
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Ashley Scott
+             
+ 
+ 
+ as
+                
+                    Gigolo Jane
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Clara Bellar
+             
+ 
+ 
+ as
+                
+                    FemMecha Nanny
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Robin Williams
+             
+ 
+ 
+ as
+                
+                    Dr. Know
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Ben Kingsley
+             
+ 
+ 
+ as
+                
+                    Specialist, 
+                
+                    Specialist/Narrator
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Meryl Streep
+             
+ 
+ 
+ as
+                
+                    Blue Mecha
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Chris Rock
+             
+ 
+ 
+ as
+                
+                    Comedian
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Keith Campbell
+             
+ 
+ 
+ as
+                
+                    Roadworker
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Vito Carenzo
+             
+ 
+ 
+ as
+                
+                    Big Man
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Clark Gregg
+             
+ 
+ 
+ as
+                
+                    Supernerd
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Jim Jansen
+             
+ 
+ 
+ as
+                
+                    Chef
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Lily Knight
+             
+ 
+ 
+ as
+                
+                    Voice in the Crowd
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Matt Malloy
+             
+ 
+ 
+ as
+                
+                    Robot Repairman
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Adam Scott
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Emmanuelle Chriqui
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                John Prosky
+             
+ 
+ 
+ as
+                
+                    Mr. Williamson the Bellman
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                R. David Smith
+             
+ 
+ 
+ as
+                
+                    Welder
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Michael Shamus Wiles
+             
+ 
+ 
+ as
+                
+                    Cop
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Diane Fletcher
+             
+ 
+ 
+ as
+                
+                    Sentient Machine Security
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Eliza Coleman
+             
+ 
+ 
+ as
+                
+                    General Circuita
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Miguel Pérez
+             
+ 
+ 
+ as
+                
+                    Robot Repairman
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Matt Winston
+             
+ 
+ 
+ as
+                
+                    Executive
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Sabrina Grdevich
+             
+ 
+ 
+ as
+                
+                    Secretary
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Jeremy James Kissner
+             
+ 
+ 
+ as
+                
+                    Kid
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Rena Owen
+             
+ 
+ 
+ as
+                
+                    Ticket Taker
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Kevin Sussman
+             
+ 
+ 
+ as
+                
+                    Supernerd
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Adam Alexi-Malle
+             
+ 
+ 
+ as
+                
+                    Crowd Member
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Duane Buford
+             
+ 
+ 
+ as
+                
+                    The Flesh Fair Band
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Bobby Harwell
+             
+ 
+ 
+ as
+                
+                    TV Face
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Brent Sexton
+             
+ 
+ 
+ as
+                
+                    Russell
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Daveigh Chase
+             
+ 
+ 
+ as
+                
+                    Child Singer
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Tim Rigby
+             
+ 
+ 
+ as
+                
+                    Yeoman
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Erik Bauersfeld
+             
+ 
+ 
+ as
+                
+                    Gardener
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Michael Fishman
+             
+ 
+ 
+ as
+                
+                    Teen in Van
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Tom Gallop
+             
+ 
+ 
+ as
+                
+                    Supernerd
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Claude Gilbert
+             
+ 
+ 
+ as
+                
+                    Cybertronics-Room 93056
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Theo Greenly
+             
+ 
+ 
+ as
+                
+                    Todd
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Haley King
+             
+ 
+ 
+ as
+                
+                    Amanda
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Red King
+             
+ 
+ 
+ as
+                
+                    Covert Information Retrieval
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Justina Machado
+             
+ 
+ 
+ as
+                
+                    Assistant
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Laurence Mason
+             
+ 
+ 
+ as
+                
+                    Tech Director/Luis Sarria
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Kelly McCool
+             
+ 
+ 
+ as
+                
+                    Kate the Holographic Girl
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Dillon McEwin
+             
+ 
+ 
+ as
+                
+                    Kid
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Andy Morrow
+             
+ 
+ 
+ as
+                
+                    Kid
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Kate Nei
+             
+ 
+ 
+ as
+                
+                    Toe Bell Ringing
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Eugene Osment
+             
+ 
+ 
+ as
+                
+                    Supernerd
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Ken Palmer
+             
+ 
+ 
+ as
+                
+                    Percussionist
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Tim Edward Rhoze
+             
+ 
+ 
+ as
+                
+                    Laboratory Technician
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Jeanine Salla
+             
+ 
+ 
+ as
+                
+                    Sentient Machine Therapist
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Laia Salla
+             
+ 
+ 
+ as
+                
+                    Mr. Chan's Assistant
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                J. Alan Scott
+             
+ 
+ 
+ as
+                
+                    Worker
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Billy Scudder
+             
+ 
+ 
+ as
+                
+                    Mechanic
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Mark Staubach
+             
+ 
+ 
+ as
+                
+                    Teen in Van
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Jason Sutter
+             
+ 
+ 
+ as
+                
+                    Percussionist
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Brian Turk
+             
+ 
+ 
+ as
+                
+                    Backstage Bull
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Wayne Wilderson
+             
+ 
+ 
+ as
+                
+                    Comedian
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Curt Youngberg
+             
+ 
+ 
+ as
+                
+                    Kid
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Al Jourgenson
+             
+ 
+ 
+ as
+                
+                    The Flesh Fair Band
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Paul Barker
+             
+ 
+ 
+ as
+                
+                    The Flesh Fair Band
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Max Brody
+             
+ 
+ 
+ as
+                
+                    The Flesh Fair Band
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Ty Coon
+             
+ 
+ 
+ as
+                
+                    The Flesh Fair Band
+                
+            
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Adam Grossman
+             
+ 
+ 
+ as
+                
+                    The Flesh Fair Band
+                
+            
+         
+ 
+ 
+ 
+            View All  
+ 
+ 
+ 
+ 
+ News & Interviews for  A.I. Artificial Intelligence 
+ 
+ 
+ 
+ 
+ 
+ 
+                    New on Netflix October 2019
+
+                      for "features" 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                    Total Recall: Jude Law’s Best Movies
+
+                      for "features" 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                    Total Recall: The Best of Stan Winston
+
+                      for "features" 
+ 
+ 
+ 
+ 
+ 
+ 
+ View All 
+ 
+ 
+ 
+ Critic Reviews for  A.I. Artificial Intelligence 
+ 
+ 
+ All Critics (193) 
+        |  Top Critics (46) 
+        |  Fresh (142) 
+        |  Rotten (51) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                    
+                        A confined domestic drama, a considerable morality tale, a fleeting futuristic noir, a persecution parable, an on-the-nose fairy tale adventure... and then it keeps going.
+                    
+                 
+ 
+                    
+                        April 21, 2011
+                    
+                    
+                    
+                        |  Full Review… 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ William Goss 
+ Film.com 
+  Top Critic 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                    
+                        At heart it's a terribly anguished expression of rejection, loneliness and love. If only it knew when to stop.
+                    
+                 
+ 
+                    
+                        August 16, 2007
+                    
+                    
+                    
+                        |  Full Review… 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Geoff Andrew 
+ Time Out 
+  Top Critic 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                    
+                        At heart it's a terribly anguished expression of rejection, loneliness and love. If only it knew when to stop.
+                    
+                 
+ 
+                    
+                        February 9, 2006
+                    
+                    
+                    
+                        |  Full Review… 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Time Out 
+  Top Critic 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                    
+                        Temperamentally, Spielberg and Kubrick are such polar opposites that A.I. has the moment-to-moment effect of being completely at odds with itself.
+                    
+                 
+ 
+                    
+                        October 29, 2001
+                    
+                    
+                    
+                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Peter Rainer 
+ New York Magazine/Vulture 
+  Top Critic 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                    
+                        It's an almost laughably creaky museum piece.
+                    
+                 
+ 
+                    
+                        October 12, 2001
+                    
+                    
+                    
+                        |  Full Review… 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Peter Bradshaw 
+ Guardian 
+  Top Critic 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                    
+                        It will probably please neither lovers of the late film maker's cerebral work, or fans of the incorrigible populist's crowd-pleasing blockbusters.
+                    
+                 
+ 
+                    
+                        September 10, 2001
+                    
+                    
+                        | Rating: 3/5
+                    
+                    
+                        |  Full Review… 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Neil Norman 
+ BBC.com 
+  Top Critic 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                    
+                        Although [A.I.] falls short of answering the questions raised by the basic premise of the film, it nevertheless makes you take pause in showing the irony of robots who are actually more human, and definitely more humane, than the humans themselves.
+                    
+                 
+ 
+                    
+                        November 6, 2019
+                    
+                    
+                    
+                        |  Full Review… 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Debbie Lynn Elias 
+ Behind The Lens 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                    
+                        The movie consistently goes against the grain of the emotional expectations that it invokes in Spielberg's expertly realized shorthand...
+                    
+                 
+ 
+                    
+                        August 17, 2018
+                    
+                    
+                    
+                        |  Full Review… 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Geoffrey O'Brien 
+ The New York Review of Books 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                    
+                        An incredibly ambitious (if not always successful) sci-fi effort...
+                    
+                 
+ 
+                    
+                        April 11, 2018
+                    
+                    
+                        | Rating: 3/4
+                    
+                    
+                        |  Full Review… 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ David Nusair 
+ Reel Film Reviews 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                    
+                        Flawed, to be sure, but beautifully crafted, unimaginably complex, visually dazzling, rich with metaphor and deeply affecting.
+                    
+                 
+ 
+                    
+                        May 16, 2011
+                    
+                    
+                        | Rating: 9/10
+                    
+                    
+                        |  Full Review… 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ R.L. Shaffer 
+ IGN DVD 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                    
+                        An unsettling sci-fi fairytale mlange of "Pinocchio" and "The Wizard of Oz" that's elegantly written, visually opulent and thematically challenging and discontented. One of Steven Spielberg's finest, and most fiercely misread, films.
+                    
+                 
+ 
+                    
+                        September 25, 2010
+                    
+                    
+                        | Rating: 4/4
+                    
+                    
+                        |  Full Review… 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Nick Rogers 
+ The Film Yap 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                    
+                        Provocative movie suitable for teens.
+                    
+                 
+ 
+                    
+                        September 2, 2010
+                    
+                    
+                        | Rating: 4/5
+                    
+                    
+                        |  Full Review… 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Nell Minow 
+ Common Sense Media 
+ 
+ 
+ 
+ 
+ 
+ 
+ View All Critic Reviews (193)  
+ Audience Reviews for  A.I. Artificial Intelligence 
+ 
+ 
+ 
+ 
+ 
+ 
+ Apr 07, 2015 
+ 
+ Deeply interesting, Hayley Joel-Osment continues to impress in his young age as does Jude Law, playing a barbie-like gigolo robot. Clearly more Spielberg than Kubrick in this sad noir-ish piece, the cinematography is extremely impressive throughout. A futuristic Pinocchio that will make you laugh and cry, but mostly cry...and think, you'll definitely think. Unforgettable and deeply moving. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Harry W 
+ 
+ Super Reviewer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Jul 14, 2014 
+ 
+ A.I. Artificial Intelligence was a project originally started by director Stanley Kubrick, but never completed due to his death in 1999, and taken over by Steven Spielberg. Spielberg would craft this film based on notes that Kubrick left behind and was able to make a captivating, engaging picture that enthralled the viewer. The film has some striking visuals and wonderful acting along with a richly detailed storyline that grabs your attention from start to finish due to its intricate concept. Spielberg manages to make a fine picture here, and it's very interesting what he does with the material of another director, who unfortunately never got to make the film. However, with that being said, Spielberg manages to make something that is well constructed, entertaining, and thought provoking and memorable. As well as solid direction from Spielberg, he has a talented cast to work with, which only enhances the film's experience. A.I. Artificial Intelligence is a wonderful Sci Fi picture that displays a stunning amount of creativity and wonderful ideas. The film deals with an interesting subject, one that makes you ask questions, and that's what keeps you involved in the film. The fact that it makes you think with its concept is the key factor to the film's entertainment factor. The best way I would describe the film is a spider web of thought, a film that just amps up its ideas to make them standout more due to its intricate plot and direction. Fans of the genre will surely enjoy this riveting picture, and I must admit, I didn't expect to enjoy the film the way I did, but I was pleasantly surprised by the result. Upon watching the film you must ask yourself, how this film would have turned out if Stanley Kubrick would have had the opportunity to direct it if he hadn't died. Who know how much more ambitious the film would have been. Nonetheless, Spielberg managed to create something quite entertaining, captivating and memorable. A.I Artificial Intelligence is a worthwhile viewing experience that is enthralling right up to the final shot. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Alex r 
+ 
+ Super Reviewer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Apr 15, 2013 
+ 
+ Damn it Spielberg you did it again! I thought you wouldn't get me but once again you made me cry whilst watching one of your films, sheesh!. Right...'A.I.', batten down the hatches mateys, this could be a big one.
+
+From the collective minds of Kubrick and Spielberg comes this lavish epic about a little robot boy who is brought into a young couples life. Based on a short story by a writer I admit I've never heard of, yet the idea could easily be mistaken for work from the brains of Arthur C. Clarke, Isaac Asimov or Philip K. Dick.
+
+Lets begin, this film gave me a headache, not a bad headache, more of a problematic headache. I was stuck and didn't know what to think. The film is a massive story betwixt two ideas or genres almost, on one hand you have the first half of a film that centres around the human angst and emotion of trying to adapt to adopting a robot child. The pain of a mother who's child is at deaths door from disease, and the decision by her husband to offer her a brand new state of the art robot child that for the first time can learn and express love for its owner.
+
+The second half of the film then changes completely, gone is the sentiment and powerful family bound plot as we enter into a more seedy grim world. One could almost say the film adopts many visual concepts from other sci-fi films/genres, which do work on their own, but maybe not together with this story. 
+
+The story is enthralling and draws you in...but oh so many questions arise Mr Spielberg, where to begin!. Once we leave the comfort of the family orientated first part of the film we pretty much straight away hit the Flesh Fair. Now this really did seem too harsh for me, a completely disjoined idea that harks back to a 'Mad Max' type world. Why would people of the future act like this towards simple machines? the whole sequence looked like some freaky red neck carnival. It also seemed like a huge setup for not very much, just a few minutes of carnage, was all that fan fair really required?.
+
+This lead me to the question of why do this to old, lost, outdated Mecha's? (the term for robots in this film which sounds a bit Japanese to me). Now surely these robots cost a lot to make, much time, effort, design etc...went into creating them, so surely destroying them is a complete waste. Wouldn't fixing them up for simple labour tasks like cleaning or whatever, be more useful? maybe selling them on? and even if you did have to shut them down, just do it more humanly, why the need for all the violence?. The whole sequence just didn't seem sensible really, and it was thought up by Spielberg!.
+
+Eventually we get to Rouge City, where is this suppose to be? why not use a real city?. Again the whole concept seemed out of place, the city seemed much more futuristic than everything else we have seen, plus the architecture was truly odd. The huge tunnel bridges with a woman's gaping open mouth as the opening? it seemed very 'Giger-esq' to me, quite sexual too, kids film anyone?. Then you had buildings shaped like women's boobs and legs etc...geez!. Its here we meet 'Gigolo Joe' who is superbly played by Jude Law I can't deny, but really at the end of the day, was he needed at all?. He is a nice character, very likeable but virtually bordering on a cartoon character, and why the need for the tap dancing?. 
+
+The makeup was very good for the Mecha characters, simple yet effective for both Law and Osment. Kudos to Osment of course for his portrayal of the robot 'David', I honestly can say its probably the best performance for a robot I've ever seen. Brilliant casting too I might add, Osment can act but his looks are half the battle won right there, he has this almost perfect plastic looking young face, its all in the eyes I think.
+
+Speaking of characters how can I not mention the star of the film, 'Teddy'. Now this little guy was adorable, I still find myself wanting my own Teddy *whimpers*. Every scene this little fellow was in I loved, I loved to see him waddle around and assist David in his simple electronic voice. I found myself caring for all the characters in this film but especially Teddy, he was just awesome. Sure he seemed to have some kind of infinite power source but that made him even cooler damn it!. What really broke my heart was we don't know what happens to lill Teddy, we see him at the end but what becomes of him?? what Steven WHAT??!!. I loved that lill guy *sniff*.
+
+As you near the end of the film and its multiple ongoing finales you literately get submerged in questions. 2000 years pass from the time David is trapped under the sea and his rescue (the ferris wheel didn't crush the helicopter/sub thingy??), in that time the planet has gone from global warming jungles to a MASSIVE ice age? I mean a REALLY HEAVY ice age. Now I'm no scientist but that doesn't seem right. I might quickly add, in the future why are all the skyscrapers in New York in tatters? as if they've been burnt out?. Sure the bottom of them has been flooded but they look like skeletons! as if a nuke hit them, eh?.
+
+The we get to the evolved Mecha's (or 'Close Encounter' aliens). How would these robots evolve into these angelic liquid-like creatures?? I don't get it, if the human race became extinct tomorrow would computers evolve into alien-like creatures?. Sure these robots can fix themselves and update themselves but that far? really?. Then you gotta ask yourself why would they be digging up old human remains? they know humans created them, OK they might not understand why but does that matter?. They clearly have highly advanced technology so why don't they travel space and look for new similar intelligent life?. Why bother with the human race, of which many despised them anyway, treated them like crap.
+
+This then leads onto the resurrection part of the story. I still can't quite work out why David's mother would only live for one day when brought back. There is an explanation from the advanced Mecha's but I couldn't follow it. Again we then have all manner of plot issues...why his mother doesn't recall her husband or son when she wakes, she doesn't question why David is there, she's disorientated but doesn't question anything. She doesn't seem to remember anything like the fact she was probably an old lady when she was last awake, and she doesn't ask to go outside! they stay inside the whole time. You could say the advanced Mecha fixed it so she wouldn't recall anything so not to jeopardize the situation, but when she wakes she acts as if nothing happened and its just a new day.
+
+Where the plot really gets silly is the fact this is all possible simply because Teddy kept some strands of cut hair from David's mother about 2000 years prior. Where on earth did he keep these hairs? its not like he has pockets, and what's more...why did he keep the strands of hair??!!. On top of that, and again I'm no scientist, but surely you'd need the roots of human hair for the DNA, not just cut strands, no?.
+
+Now there are a lot of whines in there but unfortunately there are a lot of plot issues in the film. I won't and can't say its a bad film, its a truly fantastic bit of sci-fi with some lovely design work and visuals, but there are problems along the way. First half is a decent sci-fi story similar to 'Bicentennial Man', second half is really a rehashed rip off of the classic 'Pinocchio' tale set in the future.
+
+The film garnered a lot of interest due to the involvement of Kubrick and Spielberg admittedly but its still a wonderful bit of work. Part sci-fi but all fairytale in the end, the film slowly becomes more of a children's tale the deeper you go, the narration nails that home if you think about it. The very end is kinda tacked on and doesn't feel correct, true, you can see they had trouble ending the film and a weepy ending was required so they made one. But god damn it works *sniff*.
+
+The final sequence of David lying besides his motionless mother still brings a lump to my throat as I type this now. We then see Teddy join them on the bed and just sit down to watch over them both, like a guardian. Does David actually die here? does he voluntarily switch himself off somehow? again...what happens to Teddy? I'm not sure. But as the score swells and the lights dim, you can't help but wipe away a tear. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Phil H 
+ 
+ Super Reviewer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oct 26, 2012 
+ 
+ It's a beautiful film. I don't know how much time I spent crying during the course of the film. It's a modern Pinocchio story with certain twists. There are so many dimensions to this film that is beyond utter of words. The film is like a combination of many science fiction films from the past 40 years: 2001: A Space Odyssey, Blade Runner, Metropolis, E.T. 
+ 
+ 
+ 
+ 
+ 
+ Sylvester K 
+ 
+ Super Reviewer 
+ 
+ 
+                See all Audience reviews
+             
+ 
+ A.I. Artificial Intelligence  Quotes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Monica Swinton: 
+ I'm sorry I didn't tell you about the world. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Professor Hobby: 
+ You are a real boy. At least as real as I've ever made one. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ David: 
+ Please make me a real boy? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Monica Swinton: 
+ I can't accept this! There is no substitute for you own child! 
+ 
+ 
+ Monica: 
+ I can't accept this! There is no substitute for your own child! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ View All Quotes 
+ 
+ 
+ 
+ 
+ 
+ Movie & TV guides 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  for "features" 
+ 200 Erotic Movies 
+                    Coming attractions for you
+                 
+ 
+ 
+ 
+ 
+ 
+ 
+  for "features" 
+ 2020's Most Anticipated Movies 
+                    What and when to watch
+                 
+ 
+ 
+ 
+ 
+ 
+ 
+  for "features" 
+ Video Game Movies Ranked 
+                    43 ranked worst to best
+                 
+ 
+ 
+ 
+ 
+ 
+ 
+  for "features" 
+ Best Netflix Series and Shows 
+                    What to watch right now
+                 
+ 
+ 
+ 
+ 
+ View All 
+ 
+ 
+ 
+ 
+ TOP HEADLINES 
+ 
+ 
+ 
+ 
+                                            Best Horror Movies of 2020 Ranked
+                                         
+ 
+ – Rotten Tomatoes 
+ 
+ 
+ 
+                                            Fall TV First Look: Find Out What’s Coming
+                                         
+ 
+ – Rotten Tomatoes 
+ 
+ 
+ 
+                                            The Best Peacock Original Shows and Movies
+                                         
+ 
+ – Rotten Tomatoes 
+ 
+ 
+ 
+                                            20 Movies To Watch If You Loved  Inception 
+ 
+ 
+ – Rotten Tomatoes 
+ 
+ 
+ 
+                                            All Upcoming Disney Movies: New Disney Live-Action, Animation, Pixar, Marvel, and More
+                                         
+ 
+ – Rotten Tomatoes 
+ 
+ 
+ 
+                                            The Best Quibi Shows to Stream Now
+                                         
+ 
+ – Rotten Tomatoes 
+ 
+ 
+ 
+                                            The 64 Most Anticipated Movies of 2020
+                                         
+ 
+ – Rotten Tomatoes 
+ 
+ 
+ 
+                                            Sundance 2020 Movie Scorecard
+                                         
+ 
+ – Rotten Tomatoes 
+ 
+ 
+ 
+ View All 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Tomatometer 
+ 
+ 
+ 
+ The percentage of Approved Tomatometer Critics who have given this movie a positive review 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Audience Score 
+ 
+ 
+ 
+ The percentage of users who rated this 3.5 stars or higher. 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ Help 
+ About Rotten Tomatoes 
+ What's the Tomatometer ® ? 
+ Feedback 
+ 
+ 
+ 
+ 
+ Critic Submission 
+ Licensing 
+ Advertise 
+ Careers 
+ 
+ 
+ 
+ JOIN THE NEWSLETTER 
+ 
+              Get the freshest reviews, news, and more delivered right to your inbox!
+           
+ 
+ Join the Newsletter! 
+ Join the Newsletter! 
+ 
+ 
+ 
+ Follow Us 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Copyright © Fandango. All rights reserved.  V3 
+ 
+ 
+ 
+                    Privacy Policy
+                  |
+             
+ Terms and Policies  | 
+ Do Not Sell My Info  | 
+ AdChoices 
+ 
+ 
+ 
+ Copyright © Fandango. All rights reserved.  V3 
+ 
+ Join Newsletter 
+ Join Newsletter 
+ 
+ 
+ Terms and Policies 
+ 
+ 
+                Privacy Policy
+             
+ 
+ Do Not Sell My Info 
+ Feedback 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Results added dynamically here  
+ 
+ 
+                                View All Results
+                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Go back
+         
+ 
+ More trailers  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

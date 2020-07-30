@@ -1,0 +1,1341 @@
+soft question - What is a correct and simple definition of quantum physics? - Physics Stack Exchange 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Stack Exchange Network 
+ 
+                            Stack Exchange network consists of 177 Q&A communities including  Stack Overflow , the largest, most trusted online community for developers to learn, share their knowledge, and build their careers.
+                         
+ Visit Stack Exchange 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Loading… 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ 
+ +0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                Tour
+                                 
+                                    Start here for a quick overview of the site
+                                 
+ 
+ 
+ 
+ 
+                            Help Center
+                             
+                                Detailed answers to any questions you might have
+                             
+ 
+ 
+ 
+ 
+                                        Meta
+                                         
+                                            Discuss the workings and policies of this site
+                                         
+ 
+ 
+ 
+ 
+                                    About Us
+                                     
+                                        Learn more about Stack Overflow the company
+                                     
+ 
+ 
+ 
+ 
+                                    Business
+                                     
+                                        Learn more about hiring developers or posting ads with us
+                                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Log in 
+ Sign up 
+ 
+ 
+ 
+ 
+ 
+ current community 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            Physics
+         
+ 
+ 
+ 
+ help 
+ chat 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            Physics Meta
+         
+ 
+ 
+ 
+ 
+ 
+ 
+your communities             
+ 
+ 
+ 
+ Sign up  or  log in  to customize your list.                 
+ 
+ 
+ more stack exchange communities 
+ 
+ company blog 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                    By using our site, you acknowledge that you have read and understand our  Cookie Policy ,  Privacy Policy , and our  Terms of Service .
+                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Physics Stack Exchange is a question and answer site for active researchers, academics and students of physics. It only takes a minute to sign up. 
+ Sign up to join this community 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                    Anybody can ask a question
+                 
+ 
+ 
+ 
+ 
+ 
+ 
+                    Anybody can answer
+                 
+ 
+ 
+ 
+ 
+ 
+ 
+                    The best answers are voted up and rise to the top
+                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Home             
+ 
+ 
+ 
+ 
+ 
+Questions             
+ 
+ 
+ 
+Tags             
+ 
+ 
+ 
+Users             
+ 
+ 
+ 
+Unanswered             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What is a correct and simple definition of quantum physics? 
+ 
+ 
+        Ask Question
+     
+ 
+ 
+ 
+ 
+ Asked 
+ 8 years, 9 months ago 
+ 
+ 
+ Active 
+ 3 years, 11 months ago 
+ 
+ 
+ Viewed 
+                        13k times
+                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ $\begingroup$ 
+ 
+ Is it correct to define  Quantum Physics  as the study of Physics in sub-atomic scale? Does Quantum Physics studies something else other than sub-atomic phenomena? 
+ 
+ 
+ 
+ quantum-mechanics   soft-question   terminology 
+ 
+ 
+ 
+ 
+ 
+ 
+ share 
+ | 
+ cite 
+ | 
+ improve this question 
+ | 
+ 
+        follow
+     
+ | 
+ 
+ 
+ 
+ 
+ 
+ edited  Aug 3 '16 at 16:04 
+ 
+ 
+ 
+ 
+ 
+ Qmechanic ♦ 
+ 
+ 131k 18 18 gold badges 287 287 silver badges 1579 1579 bronze badges 
+ 
+ 
+   
+ 
+ 
+ 
+        asked  Oct 23 '11 at 17:17 
+ 
+ 
+ 
+ 
+ 
+ Victor Victor 
+ 
+ 171 1 1 gold badge 1 1 silver badge 4 4 bronze badges 
+ 
+ 
+ 
+ 
+ 
+ 
+ $\endgroup$ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $\begingroup$ 
+ If you like this question you may also enjoy reading  physics.stackexchange.com/q/6738/2451 
+ $\endgroup$ 
+–  Qmechanic ♦ 
+ Oct 23 '11 at 17:43 
+ 
+ 
+ 
+ 
+ 
+ 
+ add a comment 
+  |  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                        5 Answers
+                                     5 
+ 
+ 
+ 
+ 
+ 
+            Active 
+ 
+            Oldest 
+ 
+            Votes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $\begingroup$ 
+ 
+ Quantum physics is a probability theory where probability amplitudes appear. Any phenomenon where probability amplitudes appear is a quantum phenomenon, whether it is microscopic or macroscopic. The probability amplitudes unify the particle and wave classical limits into one object, and they probably apply to all objects, microscopic and macroscopic. 
+ 
+ 
+ 
+ 
+ 
+ share 
+ | 
+ cite 
+ | 
+ improve this answer 
+ | 
+ 
+        follow
+     
+ | 
+ 
+ 
+ 
+ 
+ 
+        answered  Oct 23 '11 at 17:40 
+ 
+ 
+ 
+ 
+ 
+ Ron Maimon Ron Maimon 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ $\endgroup$ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ add a comment 
+  |  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $\begingroup$ 
+ 
+ The unique way the human kind has got to determine if an effect needs quantum mechanics to be described consists in calculating the action (cf. wikipedia) and comparing it with Planck's constant. If it is much bigger, there is no need of quantum mechanics; if it is on the same order, you will need QM to describe that effect. 
+ The action being much bigger than Planck's constant does not mean that QM cannot be used. Bohr used to think that the macroscopic and microscopic worlds were fundamentally different, but such examples as quantum levitation (which is macroscopic - see Wikipedia) suggest that describing fundamentally was a synonym of describing with QM. 
+ 
+ 
+ 
+ 
+ 
+ share 
+ | 
+ cite 
+ | 
+ improve this answer 
+ | 
+ 
+        follow
+     
+ | 
+ 
+ 
+ 
+ 
+ 
+        answered  Oct 23 '11 at 18:45 
+ 
+ 
+ 
+ 
+ 
+ Isaac Isaac 
+ 
+ 2,392 3 3 gold badges 22 22 silver badges 34 34 bronze badges 
+ 
+ 
+ 
+ 
+ 
+ $\endgroup$ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ add a comment 
+  |  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $\begingroup$ 
+ 
+ Is it correct to define Quantum Physics as the study of Physics in sub-atomic scale?  No. 
+ Does Quantum Physics studies something else other than sub-atomic phenomena?  Yes. 
+ Take  artificial atoms  or  superconducting flux qubits  as examples. 
+ What is a correct and simple definition of quantum physics? A correct and simple definition: "quantum physics" is a collection of models of physical phenomena which use the mathematics of "Hilbert space" to make operational predictions for the outcomes of laboratory experiments.  Which physical phenomena?  Well, whatever ones we can make good predictions for. 
+ 
+ 
+ 
+ 
+ 
+ share 
+ | 
+ cite 
+ | 
+ improve this answer 
+ | 
+ 
+        follow
+     
+ | 
+ 
+ 
+ 
+ 
+ 
+ edited  Oct 23 '11 at 23:58 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+        answered  Oct 23 '11 at 23:44 
+ 
+ 
+ 
+ 
+ 
+ Chris Ferrie Chris Ferrie 
+ 
+ 2,658 1 1 gold badge 11 11 silver badges 18 18 bronze badges 
+ 
+ 
+ 
+ 
+ 
+ $\endgroup$ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $\begingroup$ 
+ Interesting when you said "No" to the first question, because that definition "Quantum Physics as the study of Physics in sub-atomic scale" is what is written in the Portuguese (I am from Brazil) article of Quantum Physics on Wikipedia. So the Portuguese portion of Wikipedia is wrong about Quantum Physics. 
+ $\endgroup$ 
+–  Victor 
+ Oct 24 '11 at 0:38 
+ 
+ 
+ 
+ 
+ 
+ 
+ add a comment 
+  |  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $\begingroup$ 
+ 
+ Short answer:  It is the physics of small scales or high energies. 
+ Long answer:  Don't listen to Short-answer Jim, he doesn't know what he's talking about. (He's also a few rings short of Saturn, if you know what I mean) 
+ The simplest way I can think of correctly defining quantum physics is that it is the combination of our best and most correct theories of physics that does not include General Relativity. 
+ There are two relevant and important classes of physics for this explanation:  classical physics  and  quantum physics . 
+ Physicists are people too. If we can achieve our goals equally well through two different methods, we are going to pick the method that is easier for us to use. That being said, it should come as no surprise that the theories we choose to use for any given task are generally the simplest theories that effectively suit the needs of that task. 
+ Quantum physics is generally accepted as the more correct version of physics compared to classical physics. That is, classical physics is mostly wrong. However, classical physics is usually correct enough that, for most everyday applications, you wouldn't notice the difference between the quantum and classical results. Technically speaking, it is  possible  for you to do absolutely everything using only quantum physics (except anything involving GR) and you would get much more accurate results; however, quantum physics is so much more complex than classical that it becomes extremely impractical to use. If classical physics gives you an answer that is correct enough, it makes sense to use it. We use quantum physics only when classical physics will not give us a good enough result. This tends to be true more often when dealing with extremely small scales or with extremely high energies. That is why many people often tell you that quantum physics is the physics of small scales or high energies. They are wrong. Quantum physics covers everything except GR and it is simply our most correct theories of physics to date. 
+ That said, we know quantum physics is incomplete. We know it is not totally correct. That is why you will also hear some physicists say that physics breaks down on even smaller scales or at even higher energies. They don't mean that literally. There is no scale or energy level where physics actually does not apply. What they mean is that the theories we have, like classical physics on the quantum scale, are not correct enough to use. We don't know yet the theories that are correct enough to use outside the quantum limits. But even though we can't say what the physics is, we know the physics still works on those scales. 
+ That is the simplest way I can define quantum physics. 
+ 
+ 
+ 
+ 
+ 
+ share 
+ | 
+ cite 
+ | 
+ improve this answer 
+ | 
+ 
+        follow
+     
+ | 
+ 
+ 
+ 
+ 
+ 
+ edited  Aug 3 '16 at 13:02 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+        answered  Jul 11 '16 at 12:21 
+ 
+ 
+ 
+ 
+ 
+ Jim Jim 
+ 
+ 23k 3 3 gold badges 61 61 silver badges 110 110 bronze badges 
+ 
+ 
+ 
+ 
+ 
+ $\endgroup$ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ add a comment 
+  |  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $\begingroup$ 
+ 
+ Here's how I've tried to give a sense of quantum physics.
+It doesn't take you very far in understanding all the implications, but it's a start. 
+ First, let's understand the word "amplitude".
+Think of an incandescent light bulb, like an automobile light bulb.
+When you put positive twelve volts across it, like from the car battery, it glows with its full wattage, say 60 watts.
+If instead, you put an older-style 6 volt car battery across it, it only glows with 1/4 of its full wattage, 15 watts.
+Now each battery can be reversed, putting negative voltage across the light bulb, and you get the same result. 
+ So think of  amplitude  as the voltage, which goes as the square root of the power. The amplitude can have a sign, positive or negative, but the power is always positive and always varies as the square of the amplitude. 
+ 
+ Think of a coin. You flip it into the air, and you don't yet know if it will land "Heads".
+You know the probability of Heads is 0.5, assuming it's a fair coin. 
+ Now, in the quantum world we think of that probability, 0.5, like the power of the light bulb.
+What's actually underneath is an  amplitude  of 0.707, which when squared gives you 0.5. 
+ That amplitude could be positive, or it could be negative.
+(It could actually be something in-between, if it's a complex number, but you can read up about that.) 
+ 
+ Now, the coin's in the air, so you don't know how it's going to come out, yet,
+but you do know with certainty (P = 1) it will be either heads or tails, nothing else.
+The way you know that is by adding up the probabilities of the different outcomes.
+0.5 + 0.5 = 1. 
+ But in the quantum world, you don't add probabilities.
+You add amplitudes.
+Since the amplitudes have signs, they might cancel each other out, or they might reinforce.
+So with a quantum coin, the probability that you'll get  something  is the square of the sum of the amplitude for Heads, plus the amplitude for Tails.
+That sum could be -1.414, +1.414, 0 (or anywhere in between if amplitudes are complex).
+Therefore the probability of even  seeing the coin land  is somewhere between 0 and 2. 
+ 
+ OK, now you're confused (and so am I).
+How could you flip a coin and see it land twice or not at all, let alone somewhere in between? 
+ To answer this, we gotta go to the  double-slit experiment .
+Instead of flipping a coin we are shooting little electron or photon bullets through two parallel slits, the Heads slit and the Tails slit, and they hit a screen on the other side.
+If they worked like normal bullets, you would expect to see them pile up under each slit. 
+ However, they are quantum bullets so they don't do that.
+Instead, they pile up in places where they shouldn't land at all (in the center), and they completely avoid other places, for no apparent reason. 
+ So here's how some smart guys explained it.
+They don't say the bullet has a probability of going through one slit or the other,
+they say is has an amplitude of going through one slit or the other.
+Those amplitudes are numbers, but not only that, they're always changing.
+They are waves, in fact.
+Then when those amplitude waves come together, they interfere, just like water waves. 
+ Where they cancel out, you get zero probability (no bullets).
+Where they reinforce, you get excess probability, so excess bullets,
+because the bullets that don't end up in the sparse places end up in the dense places. 
+ 
+ So just to top off the confusion, you could say that when you flip that coin, the  universe bifurcates , but unlike in "Back to the Future", those separate universes don't stay separate, they rejoin in the same way that water waves interfere,
+and this is going on  everywhere, all the time . 
+ 
+ 
+ 
+ 
+ 
+ share 
+ | 
+ cite 
+ | 
+ improve this answer 
+ | 
+ 
+        follow
+     
+ | 
+ 
+ 
+ 
+ 
+ 
+ edited  Oct 24 '11 at 2:32 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+        answered  Oct 24 '11 at 2:13 
+ 
+ 
+ 
+ 
+ 
+ Mike Dunlavey Mike Dunlavey 
+ 
+ 15.3k 1 1 gold badge 34 34 silver badges 57 57 bronze badges 
+ 
+ 
+ 
+ 
+ 
+ $\endgroup$ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ add a comment 
+  |  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Highly active question . Earn 10 reputation in order to answer this question. The reputation requirement helps protect this question from spam and non-answer activity.
+                        
+                     
+ 
+ 
+ 
+ 
+ 
+Not the answer you're looking for? Browse other questions tagged  quantum-mechanics   soft-question   terminology   or  ask your own question .                             
+ 
+ 
+ 
+ 
+ 
+ 
+                        Featured on Meta
+                     
+ 
+ 
+   
+ 
+ Improved experience for users with review suspensions 
+ 
+ 
+ 
+ 
+   
+ 
+ CEO Blog: Some exciting news about fundraising 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            10 votes ·
+             
+                comment
+              ·
+             
+                stats
+             
+ 
+ 
+ 
+ Linked 
+ 
+ 
+ 
+ 7 
+ 
+ Simple explanation of quantum mechanics 
+ 
+ 
+ 
+ 
+ Related 
+ 
+ 
+ 
+ 
+ 
+ 
+            Hot Network Questions
+         
+ 
+ 
+ 
+ 
+                    Intersection modulo 2 theory for infinite dimensional manifolds?
+                 
+ 
+ 
+ 
+                    What is the LEGO code for this part used as a camcorder?
+                 
+ 
+ 
+ 
+                    Is it common to ask professors for an editable copy of their lecture notes (so I can improve them)?
+                 
+ 
+ 
+ 
+                    Identify this black dragonfly with a bright bluish-white band around its body
+                 
+ 
+ 
+ 
+                    Why don't we prove that functions used in physics are continuous and differentiable?
+                 
+ 
+ 
+ 
+                    Has there been any "invasive plants warfare" in the past?
+                 
+ 
+ 
+ 
+                    What is the theory behind a gravel bike?
+                 
+ 
+ 
+ 
+                    When the sun "enters" a constellation, doesn't it make it impossible to see that constellation?
+                 
+ 
+ 
+ 
+                    I need an alternative to leather
+                 
+ 
+ 
+ 
+                    Why is Mathematica taking so long to solve this equation?
+                 
+ 
+ 
+ 
+                    Why Jh in Middle English?
+                 
+ 
+ 
+ 
+                    What will happen if I receive major part of my protein needs from powders rather than foods?
+                 
+ 
+ 
+ 
+                    Why did they use uprighting bags in different sizes for the Apollo CM?
+                 
+ 
+ 
+ 
+                    Repairing bushes and small trees?
+                 
+ 
+ 
+ 
+                    How to fix a grub boot error : "symbol 'grub_calloc' not found
+                 
+ 
+ 
+ 
+                    What's wrong with this sentence 我终于快到中国了
+                 
+ 
+ 
+ 
+                    The shortest way to find one unique value when all other values are the same
+                 
+ 
+ 
+ 
+                    What's the effect of shorting the wiper terminal with one of the ends of a trim pot?
+                 
+ 
+ 
+ 
+                    Limit access to screens (phone, computer) to my kids, whereas I benefitted from "no limit" during my own childhood
+                 
+ 
+ 
+ 
+                    How to connect data points (for each subject) on a plot in R?
+                 
+ 
+ 
+ 
+                    Does the verse in Song of Solomon 5:16 contain the name of the Islamic prophet Muhammad?
+                 
+ 
+ 
+ 
+                    How is this note playing (Scriabin Op. 42 No. 5)
+                 
+ 
+ 
+ 
+                    Does "nor he mine" make sense here?
+                 
+ 
+ 
+ 
+                    Paying "rent" to romantic partner that owns the house
+                 
+ 
+ 
+ 
+            more hot questions
+         
+ 
+ 
+ 
+ 
+            Question feed
+         
+ 
+ 
+ 
+ 
+                Subscribe to RSS
+             
+ 
+ 
+ 
+                        Question feed
+                         To subscribe to this RSS feed, copy and paste this URL into your RSS reader. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ Physics 
+ 
+ Tour 
+ Help 
+ Chat 
+ Contact 
+ Feedback 
+ Mobile 
+ 
+ 
+ 
+ Company 
+ 
+ Stack Overflow 
+ For Teams 
+ Advertise With Us 
+ Hire a Developer 
+ Developer Jobs 
+ About 
+ Press 
+ Legal 
+ Privacy Policy 
+ 
+ 
+ 
+ 
+ 
+ Stack Exchange  Network 
+ 
+ Technology 
+ Life / Arts 
+ Culture / Recreation 
+ Science 
+ Other 
+ 
+ 
+ 
+ 
+ 
+ 
+ Stack Overflow 
+ Server Fault 
+ Super User 
+ Web Applications 
+ Ask Ubuntu 
+ Webmasters 
+ Game Development 
+ 
+ TeX - LaTeX 
+ Software Engineering 
+ Unix & Linux 
+ Ask Different (Apple) 
+ WordPress Development 
+ Geographic Information Systems 
+ Electrical Engineering 
+ 
+ Android Enthusiasts 
+ Information Security 
+ Database Administrators 
+ Drupal Answers 
+ SharePoint 
+ User Experience 
+ Mathematica 
+ 
+ Salesforce 
+ ExpressionEngine® Answers 
+ Stack Overflow em Português 
+ Blender 
+ Network Engineering 
+ Cryptography 
+ Code Review 
+ 
+ Magento 
+ Software Recommendations 
+ Signal Processing 
+ Emacs 
+ Raspberry Pi 
+ Stack Overflow на русском 
+ Code Golf 
+ 
+ Stack Overflow en español 
+ Ethereum 
+ Data Science 
+ Arduino 
+ Bitcoin 
+ Software Quality Assurance & Testing 
+ Sound Design 
+ 
+ Windows Phone 
+ 
+ 
+ 
+                            more (28)
+                         
+ 
+ 
+ 
+ 
+ 
+ 
+ Photography 
+ Science Fiction & Fantasy 
+ Graphic Design 
+ Movies & TV 
+ Music: Practice & Theory 
+ Worldbuilding 
+ Video Production 
+ 
+ Seasoned Advice (cooking) 
+ Home Improvement 
+ Personal Finance & Money 
+ Academia 
+ Law 
+ Physical Fitness 
+ Gardening & Landscaping 
+ 
+ Parenting 
+ 
+ 
+ 
+                            more (10)
+                         
+ 
+ 
+ 
+ 
+ 
+ 
+ English Language & Usage 
+ Skeptics 
+ Mi Yodeya (Judaism) 
+ Travel 
+ Christianity 
+ English Language Learners 
+ Japanese Language 
+ 
+ Chinese Language 
+ French Language 
+ German Language 
+ Biblical Hermeneutics 
+ History 
+ Spanish Language 
+ Islam 
+ 
+ Русский язык 
+ Russian Language 
+ Arqade (gaming) 
+ Bicycles 
+ Role-playing Games 
+ Anime & Manga 
+ Puzzling 
+ 
+ Motor Vehicle Maintenance & Repair 
+ Board & Card Games 
+ Bricks 
+ Homebrewing 
+ Martial Arts 
+ The Great Outdoors 
+ Poker 
+ 
+ Chess 
+ Sports 
+ 
+ 
+ 
+                            more (16)
+                         
+ 
+ 
+ 
+ 
+ 
+ 
+ MathOverflow 
+ Mathematics 
+ Cross Validated (stats) 
+ Theoretical Computer Science 
+ Physics 
+ Chemistry 
+ Biology 
+ 
+ Computer Science 
+ Philosophy 
+ Linguistics 
+ Psychology & Neuroscience 
+ Computational Science 
+ 
+ 
+ 
+                            more (10)
+                         
+ 
+ 
+ 
+ 
+ 
+ 
+ Meta Stack Exchange 
+ Stack Apps 
+ API 
+ Data 
+ 
+ 
+ 
+ 
+ 
+ 
+ Blog 
+ Facebook 
+ Twitter 
+ LinkedIn 
+ Instagram 
+ 
+ 
+site design / logo © 2020 Stack Exchange Inc; user contributions licensed under  cc by-sa .                     rev 2020.7.30.37305 
+ 
+ 
+ 
+ 
+ 
+ Physics Stack Exchange works best with JavaScript enabled
+             
+ 
+ 
+ 

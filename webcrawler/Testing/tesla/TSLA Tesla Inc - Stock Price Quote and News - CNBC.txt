@@ -1,0 +1,1657 @@
+ Title:Start  You have reached the cached page for  https://www.cnbc.com/quotes/?symbol=TSLA  Title:End   Content:Start  Below is a snapshot of the Web page as it appeared on  2020-07-30  (the last time our crawler visited it). This is the version of the page that was used for ranking your search results. The page may have changed since we last cached it. To see what might have changed (without the highlights),  go to the current page .  Content:End   Hit:Start  You searched for:  HitHighlight:Start tesla HitHighlight:End  We have highlighted matching words that appear in the page below.  Hit:End   Disclaimer:Start  Bing is not responsible for the content of this page.  Disclaimer:End   Banner:End  
+ HTML 
+ TSLA: Tesla Inc - Stock Price, Quote and News - CNBC 
+  comScore Identifier: comscorekw=quotes  
+ 
+  MPS insert_head  
+ 
+  end of MPS insert_head  
+  Global insert_head  
+  MPS Global Head Insert BEGIN PRODUCTION  
+ 
+     
+  DESKTOP DY Context Insert - Combined Legacy - BEGIN  
+ 
+  BEGIN DY SCRIPT  
+ 
+ 
+ 
+ 
+  END DY SCRIPT  
+  DY Context Insert - Combined - END  
+ 
+  MPS Global Head Insert END  
+ 
+  MPS ASYNC Application Component - Desktop Insert HEAD BEGIN - PRODUCTION 
+ 
+  Piano Ad Block Detection: BEGIN  
+ 
+  Piano Ad Block Detection: END  
+  Universal Player Compatibility for IE11 BEGIN  
+ 
+  Universal Player Compatibility for IE11 END  
+  MPS ASYNC Application Component - Desktop Insert HEAD END  
+  End Global insert_head  
+ 
+ 
+  <script  type="text/javascript" src= "//www.cnbc.com/staticContent/showads.js"></script>  
+ 
+ 
+ 
+ 
+ 
+ 
+  begin mps section  
+  end mps section  
+  BEGIN FRAME  
+ html SIGN IN Pro Watchlist Make It Select USA INTL Markets Pre-Markets U.S. Markets Currencies Cryptocurrency Futures & Commodities Bonds Funds & ETFs Watchlist Business Economy Finance Health & Science Media Real Estate Energy Transportation Industrials Retail Wealth Life Small Business Investing Invest In You Personal Finance Financial Advisors Trading Nation Options Action ETF Street Buffett Archive Earnings Trader Talk Tech Cybersecurity Enterprise Internet Media Mobile Social Media Venture Capital Tech Guide Politics White House Policy Defense Congress 2020 Elections CNBC TV Live TV Live Audio Latest Video Top Video CEO Interviews Business Day Shows Primetime Shows CNBC World Digital Originals Full Episodes Menu SEARCH QUOTES Markets Pre-Markets U.S. Markets Currencies Cryptocurrency Futures & Commodities Bonds Funds & ETFs Watchlist Business Economy Finance Health & Science Media Real Estate Energy Transportation Industrials Retail Wealth Life Small Business Investing Invest In You Personal Finance Financial Advisors Trading Nation Options Action ETF Street Buffett Archive Earnings Trader Talk Tech Cybersecurity Enterprise Internet Media Mobile Social Media Venture Capital Tech Guide Politics White House Policy Defense Congress 2020 Elections CNBC TV Live TV Live Audio Latest Video Top Video CEO Interviews Business Day Shows Primetime Shows CNBC World Digital Originals Full Episodes Menu 
+ 
+ 
+ 
+ SUBMIT FEEDBACK 
+ 
+ 
+ 
+ 
+  MPS iframe:ad  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  end of MPS iframe ad  
+ 
+ 
+ 
+ Welcome to the new quote page 
+ We have some new features we think you'll like. 
+ 
+ got it 
+ 
+ 
+ 
+ 
+ structured data  
+ 
+ 
+ end structured data  
+ 
+ 
+ 
+ 
+ 
+ 
+ Tesla  Inc  ( TSLA : NASDAQ )                	    	 
+ 
+ 
+ + WATCHLIST 
+ 
+ 
+ 
+    	                        	        	                        	Real Time Quote
+            	                		                        	 
+  |  
+ Last NYSE Arca, VOL From CTA 
+  | USD 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Extended Hours  |
+							 7:59:52 PM EDT 
+ 
+ 
+ 
+ Volume 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1501.15 
+ % 
+ 
+ 
+ + 
+ 2.04 
+  ( + 0.1 %) 
+ 
+ 
+ 
+ 
+ 
+ 156,579 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Last 
+ <content type='span' show='assetType:CURRENCY&mkthour:REG_MKT'>Bid</content> 
+ Yield 
+ Close  |
+						 4:00:00 PM EDT 
+ 
+ 
+ Volume 
+ 
+ 
+ 52 week range 
+ 
+ 
+ 
+ 
+ 1499.11 
+ % 
+ 
+ + 22.62  ( + 1.5 %) 
+ 
+ 
+ 
+ 
+ 9,128,519 
+ 
+ 
+ 
+ 
+ 211.0 
+  -  
+ 1795.0 
+ 
+ 
+ 
+ 
+ 
+  markup for quote strip halted trading banner  
+ trading halted 
+ 
+ 
+ 
+ 
+ 
+ 
+<link rel="stylesheet" type="text/css" href='//sc.cnbcfm.com/applications/cnbc.com/staticcontent/styles/QuoteRedesign/chartiq/page-defaults.css?vn=691' media="screen" />
+ 
+ 
+ 
+ 
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,700,500,100,300,400italic|Roboto+Condensed:400,700,300" rel="stylesheet" type="text/css">  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   <div stxtap="set(1,'today');">1d</div>   
+ 1d 
+ 5d 
+ 1m 
+ 3m 
+ 6m 
+ YTD 
+ 1y 
+ 5y 
+ All 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Comparison 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .DJI 
+ Dow Jones Industrial Average 
+ Dow Jones Global Indexes 
+ 
+ 
+ .SPX 
+ S&P 500 Index 
+ Index 
+ 
+ 
+ .IXIC 
+ Nasdaq Composite Index 
+ NASDAQ 
+ 
+ 
+ IQ100 
+ CNBC IQ 100 
+ Exchange 
+ 
+ 
+ 
+ 
+ 
+ 
+ ADD 
+ 
+ 
+ 
+ 
+ 
+ 
+ AAPL 
+  cq-comparison-price displays the current price with color animation  
+ 
+  cq-comparison-tick-price displays the price for the active crosshair item  
+  <cq-comparison-tick-price></cq-comparison-tick-price>	 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	<cq-menu class="ciq-search">
+		<cq-lookup cq-keystroke-claim cq-keystroke-default>
+			<cq-lookup-input cq-no-close>
+				<input id="symbol" type="text" spellcheck="off" autocomplete="off" autocorrect="off" autocapitalize="off" name="symbol" placeholder="Enter Symbol">
+				<cq-lookup-icon></cq-lookup-icon>
+			</cq-lookup-input>
+			<cq-lookup-results>
+				<cq-lookup-filters cq-no-close>
+					<cq-filter class="true">ALL</cq-filter>
+					<cq-filter>STOCKS</cq-filter>
+					<cq-filter>FX</cq-filter>
+					<cq-filter>INDEXES</cq-filter>
+					<cq-filter>FUNDS</cq-filter>
+					<cq-filter>FUTURES</cq-filter>
+				</cq-lookup-filters>
+				<cq-scroll></cq-scroll>
+			</cq-lookup-results>
+		</cq-lookup>
+	</cq-menu>
+	 
+ 
+ 
+ 
+ 1 D 
+ 
+ 1 D 
+ 1 W 
+ 1 Mo 
+   <cq-separator class="item-hide-separator"></cq-separator>   
+ 1 Min 
+ 5 Min 
+ 10 Min 
+ 15 Min 
+ 30 Min 
+ 1 Hour 
+ 4 Hour 
+ 
+ 
+ 
+			<cq-menu class="ciq-menu ciq-views collapse">
+				<span>Views</span>
+				<cq-menu-dropdown>
+					<cq-views>
+						<cq-heading>Saved Views</cq-heading>
+						<cq-views-content>
+							<template cq-view>
+								<cq-item>
+									<cq-label></cq-label>
+									<div class="ciq-icon ciq-close"></div>
+								</cq-item>
+							</template>
+						</cq-views-content>
+						<cq-separator cq-partial></cq-separator>
+						<cq-view-save>
+							<cq-item><cq-plus></cq-plus> Save View </cq-item>
+						</cq-view-save>
+					</cq-views>
+				</cq-menu-dropdown>
+			</cq-menu>
+			 
+ 
+ Display 
+ 
+ Chart Style 
+ Candle 
+ 
+ Bar 
+ 
+ Colored Bar 
+ 
+ Line 
+ 
+ Hollow Candle 
+ 
+ Mountain 
+ 
+ Baseline 
+ 
+ Volume Candle 
+ 
+ 
+ 
+ Heikin Ashi 
+ 
+ 
+ 
+ 
+ Kagi 
+ 
+ 
+ 
+ 
+ Line Break 
+ 
+ 
+ 
+ 
+ Renko 
+ 
+ 
+ 
+ 
+ Range Bars 
+ 
+ 
+ 
+ 
+ Point & Figure 
+ 
+ 
+ 
+ Chart Preferences 
+    <cq-item stxsetget="Layout.ChartScale('log')">Log Scale<span class="ciq-checkbox ciq-active"><span></span></span>
+					</cq-item>
+					 
+ Extended Hours 
+ 
+ 
+ Timezone 
+ 
+ Change Timezone 
+ 
+ 
+					<cq-separator></cq-separator>
+					<cq-heading>Themes</cq-heading>
+					<cq-themes>
+						<cq-themes-builtin cq-no-close>
+							<template>
+								<cq-item></cq-item>
+							</template>
+						</cq-themes-builtin>
+						<cq-themes-custom cq-no-close>
+							<template>
+								<cq-theme-custom>
+									<cq-item>
+										<cq-label></cq-label>
+										<cq-close></cq-close>
+									</cq-item>
+								</cq-theme-custom>
+							</template>
+						</cq-themes-custom>
+						<cq-separator cq-partial></cq-separator>
+						<cq-item stxtap="newTheme()"><cq-plus></cq-plus> New Theme </cq-item>
+					</cq-themes>
+					 
+ 
+ 
+ 
+ Studies 
+ 
+ 
+ 
+ Current Studies 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Clear All 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+			<cq-menu class="ciq-menu stx-markers collapse">
+				<span>Events</span>
+				<cq-menu-dropdown>
+					<cq-item class="square">Simple Square <span class="ciq-radio"><span></span></span>
+					</cq-item>
+					<cq-item class="circle">Simple Circle <span class="ciq-radio"><span></span></span>
+					</cq-item>
+					<cq-item class="callout">Callouts <span class="ciq-radio"><span></span></span>
+					</cq-item>
+					<cq-item class="abstract">Abstract <span class="ciq-radio"><span></span></span>
+					</cq-item>
+					<cq-item class="none">None <span class="ciq-radio ciq-active"><span></span></span>
+					</cq-item>
+				</cq-menu-dropdown>
+			</cq-menu>
+			 
+ 
+  enables the more button when in break-sm mode  
+ 
+		<div class="sidenav-toggle ciq-toggles">
+			<cq-toggle class="ciq-sidenav" cq-member="sidenav" cq-toggles="sidenavOn,sidenavOff"><span></span>
+				<cq-tooltip>More</cq-tooltip>
+			</cq-toggle>
+		</div>
+		 
+  any entry in this div will be shown in the side navigation bar in break-sm mode  
+ 
+ Crosshair 
+ <cq-toggle class="ciq-HU" cq-member="headsUp" cq-toggles="dynamic,static,null"><span></span><cq-tooltip>Info</cq-tooltip></cq-toggle> 
+ Draw 
+ Expand 
+  comment in the following line if you are using the TFC plug in  
+  <cq-toggle class="sidebar stx-trade"><span></span><cq-tooltip>Trade</cq-tooltip></cq-toggle>  
+  comment in the following line if you are using the tradingcentral plug in  
+  <cq-toggle class="stx-tradingcentral"><span></span><cq-tooltip>Analysis</cq-tooltip></cq-toggle>  
+ 
+ 
+ 
+  End Navbar  
+  comment in the following line if you are using the TFC plug in  
+  <cq-tfc></cq-tfc>  
+  comment in the following line if you are using the tradingcentral plug in  
+  <cq-tradingcentral token="leWp5sKSbV7sENXba2EUXQ==" partner="647" disabled></cq-tradingcentral>  
+ 
+ 
+ 
+ 
+ Select Tool 
+ 
+ None 
+ Clear Drawings 
+ Measure 
+ 
+ Annotation 
+ Callout 
+ Channel 
+ Continuous 
+ Crossline 
+ Doodle 
+ Ellipse 
+ Fibonacci 
+ Fib Arc 
+ Fib Fan 
+ Fib Time Zone 
+ Gann Fan 
+ Gartley 
+ Horizontal 
+ Line 
+ Pitchfork 
+ Quadrant Lines 
+ Ray 
+ Rectangle 
+ Regression Line 
+ Segment 
+ Shape - Arrow 
+ Shape - Check 
+ Shape - Cross 
+ Shape - Focus 
+ Shape - Heart 
+ Shape - Star 
+ Speed Resistance Arc 
+ Speed Resistance Line 
+ Time Cycle 
+ Tirone Levels 
+ Vertical 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ None 
+ 
+ 
+ 
+ 
+ 
+ Axis Label: 
+ 
+ 
+ 
+ I 
+ B 
+ 
+ 12px 
+ 
+ 8 
+ 10 
+ 12 
+ 13 
+ 14 
+ 16 
+ 20 
+ 28 
+ 36 
+ 48 
+ 64 
+ 
+ 
+ 
+ Default 
+ 
+ Default 
+ Helvetica 
+ Courier 
+ Garamond 
+ Palatino 
+ Times New Roman 
+ 
+ 
+ 
+ Settings 
+ 
+ 
+ 
+ Undo 
+ Redo 
+ 
+ 
+ 
+ 
+ 
+ Date/Time: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+				<cq-symbol></cq-symbol>
+				<cq-chart-price>
+					<cq-current-price cq-animate></cq-current-price>
+					<cq-change>
+						<div class="ico"></div>
+						<cq-todays-change></cq-todays-change> (
+						<cq-todays-change-pct></cq-todays-change-pct>)
+					</cq-change>
+				</cq-chart-price>
+			 
+ 
+ - 	Here is an example of how to create a study legend on the chart.
+					We use the cq-marker attribute to ensure that it floats inside the chart.
+					We set the optional cq-panel-only attribute so that only studies from
+					this panel are displayed.
+					 Comment out if a legend on the chart window is not desired
+			 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+			<cq-hu-static>
+				<div>
+					<div>Price</div><cq-hu-price></cq-hu-price>
+					<div>Open</div><cq-hu-open></cq-hu-open>
+					<div>Close</div><cq-hu-close></cq-hu-close>
+				</div>
+				<div>
+					<div>Vol</div>
+					<cq-volume-section>
+						<cq-hu-volume></cq-hu-volume>
+						<cq-volume-rollup></cq-volume-rollup>
+					</cq-volume-section>
+					<div>High</div><cq-hu-high></cq-hu-high>
+					<div>Low</div><cq-hu-low></cq-hu-low>
+				</div>
+			</cq-hu-static>
+			 
+ 
+  End Chart Container  
+ 
+  End Chart Box  
+ 
+  End Chart Area  
+  Markers/Events  
+ 
+  Callout Markers  
+ 
+ 
+ 
+ 
+ This is a callout marker 
+ 
+ Like all ChartIQ markers, the object itself is managed by the chart, so when you scroll the chart the object moves with you. It is also destroyed automatically for you when the symbol is changed. 
+ 
+ 
+ 
+ 
+ 
+ 
+ This is a callout marker 
+ 
+ Like all ChartIQ markers, the object itself is managed by the chart, so when you scroll the chart the object moves with you. It is also destroyed automatically for you when the symbol is changed. 
+ 
+ 
+ 
+ 
+ 
+ 
+ This is a callout marker 
+ 
+ Like all ChartIQ markers, the object itself is managed by the chart, so when you scroll the chart the object moves with you. It is also destroyed automatically for you when the symbol is changed. 
+ 
+ 
+ 
+ 
+  Abstract Markers. You can remove this unless you actually need a helicopter. Seriously though, markers can be anything you want them to be!  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  This is an example of a complex marker which can contain html, video, images, css, and animations.  
+ 
+ 
+ 
+ 
+ 
+  End Marker/Events  
+  Attribution component  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Volume 
+ 
+ 
+ 
+ 
+ 
+ Open 
+ Close 
+ High 
+ Low 
+ 
+ 
+ 
+ 
+ 
+ Share 
+ 
+ <div class="ciq-btn ciq-primary">Share!</div> 
+ 
+	<cq-show-range>
+		<div stxtap="set(1,'today');">1d</div>
+		<div stxtap="set(5,'day',30,2);">5d</div>
+		<div stxtap="set(1,'month',30,8);">1m</div>
+		<div class="hide-sm" stxtap="set(3,'month');">3m</div>
+		<div class="hide-sm" stxtap="set(6,'month');">6m</div>
+		<div class="hide-sm" stxtap="set(1,'YTD');">YTD</div>
+		<div stxtap="set(1,'year');">1y</div>
+		<div class="hide-sm" stxtap="set(5,'year','week',1);">5y</div>
+		<div class="hide-sm" stxtap="set(1,'all','month',1);">All</div>
+	</cq-show-range>
+	 
+ 
+  End Footer  
+ 
+ 
+ Save View 
+ 
+ 
+ Enter name of view: 
+ 
+ 
+ 
+ Save 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Enter value and hit "Enter" 
+ 
+ 
+ 
+ 
+ Enter value and hit "Enter" 
+ 
+ 
+ 
+ 
+ Enter value and hit "Enter" 
+ 
+ 
+ 
+ 
+ Enter value and hit "Enter" 
+ 
+ 
+ 
+ 
+ Enter box size and hit "Enter" 
+ 
+ 
+ 
+ Enter reversal and hit "Enter" 
+ 
+ 
+ 
+ or
+		 
+ Auto Select 
+ 
+ 
+ 
+ 
+ Settings 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Done 
+ 
+ 
+ 
+ 
+ Edit Settings... 
+ Delete Study 
+ 
+ 
+ 
+ Study 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Done 
+ 
+ 
+ 
+ 
+ 
+ Create Custom Theme 
+ 
+ 
+ 
+ Candle Color
+					 
+ 
+ 
+ Candle Wick
+					 
+ 
+ 
+ Candle Border
+					 
+ 
+ 
+ 
+ Line/Bar Chart
+					 
+ 
+ 
+ Mountain Color
+					 
+ 
+ 
+ 
+ Background
+					 
+ 
+ Grid Lines
+					 
+ 
+ Date Dividers
+					 
+ 
+ Axis Text
+					 
+ 
+ 
+ 
+ Save 
+ 
+ 
+ 
+ 
+ 
+ 
+ Choose Timezone 
+ 
+ To set your timezone use the location button below, or scroll through the following list... 
+ 
+ 
+ Use My Current Location 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Scroll for more options) 
+ 
+ 
+ 
+ 
+ 
+ Share Your Chart 
+ 
+ Press this button to generate a shareable image: 
+ 
+						Create Image
+				 
+ 
+ 
+ 
+ Done 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ summary 
+ news 
+ profile 
+ earnings 
+ peers 
+ financials 
+ options 
+ ownership 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ key stats 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ratios/profitability(ttm) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ events 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ More › 
+ 
+ 
+ 
+ 
+ latest news 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Stocks making the biggest moves midday: Kodak, AMD, Shopify, Boeing, General Electric & more 
+ 
+ 9hrs ago - CNBC.com 
+ 
+ 
+ 
+ 
+ 
+ Move over  Tesla : Robinhood day-trading crowd finds a new speculative favorite in Kodak 
+ 
+ 10hrs ago - CNBC.com 
+ 
+ 
+ 
+ 
+ 
+ Morgan Stanley raises  Tesla  'bull case' target to $2,500, but still keeps underweight rating 
+ 
+ 13hrs ago - CNBC.com 
+ 
+ 
+ 
+ 
+ 
+ Here are Wednesday's biggest analyst calls of the day:  Tesla , Apple, L Brands, Netflix & more 
+ 
+ 13hrs ago - CNBC.com 
+ 
+ 
+ 
+ 
+ 
+ Buy  Tesla  on a Biden win — here are RBC's individual stock plays for the election 
+ 
+ 15hrs ago - CNBC.com 
+ 
+ 
+ 
+ More › 
+ 
+ 
+ 
+ 
+ latest from our partners 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tesla : Revelation Of Regulatory Credits And The Questionable Accounting 
+ 
+ 7hrs ago - Seeking Alpha - Article 
+ 
+ 
+ 
+ 
+ 
+ PG&E and  Tesla  break ground on energy storage project 
+ 
+ 9hrs ago - Seeking Alpha - Article 
+ 
+ 
+ 
+ 
+ 
+ Tesla  to challenge Toyota and Volkswagen on volume - Morgan Stanley 
+ 
+ 11hrs ago - Seeking Alpha - Article 
+ 
+ 
+ 
+ 
+ 
+ Wall Street Breakfast: Big Tech Before Congress 
+ 
+ 14hrs ago - Seeking Alpha - Article 
+ 
+ 
+ 
+ 
+ 
+ Tesla  open to licensing software, supplying batteries to other automakers 
+ 
+ 17hrs ago - Seeking Alpha - Article 
+ 
+ 
+ 
+ More › 
+ 
+ 
+ 
+ 
+ latest news 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ More › 
+ 
+ 
+ 
+ 
+ 
+ latest from our partners 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ More › 
+ 
+ 
+ 
+ 
+ 
+ analyst consensus & trends 
+ <markup style='display:none'
+                    url="//apps.cnbc.com/Research/Quotes/ConsensusTrends?altSymbol=TSLA.O"                    size="308">
+                </markup> 
+ 
+ 
+ 
+ More › 
+ 
+ 
+ 
+ 
+ returns 
+ <markup style='display:none'
+                    url="https://apps.cnbc.com/Research/Quotes/returns?altSymbol=TSLA.O"                    size="333">
+                </markup> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ top peers 
+ 
+ 
+ symbol 
+ last 
+ chg 
+ %chg 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ More › 
+ 
+ 
+ 
+ 
+ earnings projections 
+ <markup style='display:none'
+                    url="//apps.cnbc.com/Research/Quotes/EarningsProjections?altSymbol=TSLA.O"                    size="308">
+                </markup> 
+ 
+ 
+ 
+ More › 
+ 
+ 
+ 
+ 
+ financials 
+ 
+ 
+ 
+ 
+ 
+                                            balance_sheet
+                                         
+ 
+                                            income_statement
+                                         
+ 
+                                            cash_flow
+                                         
+ 
+                                            sec_fillings
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ earnings 
+ 
+ 
+ 
+ 
+ 
+                                            earnings_history
+                                         
+ 
+                                            consensus_recommendations
+                                         
+ 
+                                            peer_earnings
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ news strip 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ latest press releases and transcripts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ latest press releases and transcripts news 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ More › 
+ 
+ 
+ 
+ 
+ 
+ latest from cnbc   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ profile 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ peers 
+ 
+ 
+ 
+ 
+ 
+                                            industry
+                                         
+ 
+                                            key_measures
+                                         
+ 
+                                            earnings
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ options 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ownership 
+ 
+ 
+ 
+ 
+ 
+                                            holdings_summary
+                                         
+ 
+                                            insider_holdings
+                                         
+ 
+                                            insider_trends
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ dart wrapper topflex 
+ 
+ 
+ 
+ 
+ 
+ related video 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ related video 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                            Why Bernstein's Sacconaghi cut  Tesla  to underperform
+                                                                 
+                                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ profile 
+ More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the latest Flash player 
+ 
+ 
+ 
+ 
+ 
+ Playing 
+ 
+ 
+ 
+ 
+ Share this video... 
+ 
+ 
+ × 
+ 
+ 
+ Watch Next... 
+ 
+ 
+ 
+ 
+ 
+ 
+ html Subscribe to CNBC PRO Licensing & Reprints CNBC Councils Supply Chain Values CNBC on Peacock Advertise With Us Join the CNBC Panel Digital Products News Releases Closed Captioning Corrections About CNBC Internships Site Map Podcasts Ad Choices Careers Help Contact News Tips Got a confidential news tip? We want to hear from you. Get In Touch CNBC Newsletters Sign up for free newsletters and get more CNBC delivered to your inbox Sign Up Now Get this delivered to your inbox, and more info about our products and services.  Privacy Policy | Do Not Sell My Personal Information | Terms of Service ©    2020    CNBC LLC. All Rights Reserved.     A Division of NBCUniversal Data is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis. Market Data Terms of Use and Disclaimers Data also provided by     
+ 
+ 
+ 
+ 
+ 
+  END FRAME  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Scripts from the skin  
+ 
+  End of Scripts from the skin  
+  Global insert_cmsfooter  
+  MPS Global Footer Insert BEGIN Production  
+  Start BounceX Tag  
+ 
+  End BounceX Tag  
+  START Parse.ly Include: DOM-Free  
+ 
+ 
+  END Parse.ly Include: DOM-Free  
+  AB Admiral BEGIN  
+ 
+  AB Admiral END  
+  MPS Global Footer Insert END  
+  MPS ASYNC Application Component - Desktop Insert FOOTER BEGIN Production  
+  EU OBA Compliance: BEGIN  
+ 
+  EU OBA Compliance: END  
+  Start Queryly tag  
+ 
+  End Queryly tag  
+  Start Sailthru tag  
+ 
+  End Sailthru tag  
+  Start Search dropdown pub link call  
+ 
+  End dropdown pub link call  
+  MPS ASYNC Application Component - Desktop Insert FOOTER END  
+  End Global insert_cmsfooter  
+  Wires Redirect Popup  
+  End Wires Redirect Popup  
+ 
+ 
+ 

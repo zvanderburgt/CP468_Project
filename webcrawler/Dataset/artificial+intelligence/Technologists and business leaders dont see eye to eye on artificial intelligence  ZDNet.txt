@@ -1,0 +1,1195 @@
+Technologists and business leaders don't see eye to eye on artificial intelligence | ZDNet 
+       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                            Edition:  
+ 
+ 
+ 
+ 
+            Asia
+         
+ 
+ 
+ 
+            Australia
+         
+ 
+ 
+ 
+            Europe
+         
+ 
+ 
+ 
+            India
+         
+ 
+ 
+ 
+            United Kingdom
+         
+ 
+ 
+ 
+            United States
+         
+ 
+ ZDNet around the globe: 
+ 
+ 
+            ZDNet China
+         
+ 
+ 
+ 
+            ZDNet France
+         
+ 
+ 
+ 
+            ZDNet Germany
+         
+ 
+ 
+ 
+            ZDNet Korea
+         
+ 
+ 
+ 
+            ZDNet Japan
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ 
+ 
+ What are you looking for? 
+ 
+ 
+ 
+ 
+ 
+ Go 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+                Videos
+             
+                Windows 10
+             
+                5G
+             
+                IoT
+             
+                Cloud
+             
+                AI
+             
+                Security
+             more 
+                TR Premium
+             
+                Coronavirus
+             
+                Working from Home
+             
+                Innovation
+             
+                ZDNet Recommends
+             
+                Tonya Hall Show
+             
+                Executive Guides
+             
+                ZDNet Academy
+             
+                See All Topics 
+             
+                White Papers
+             
+                Downloads
+             
+                Reviews
+             
+                Galleries
+             
+                Videos
+             
+                TechRepublic Forums
+             Newsletters All Writers Preferences Community Newsletters Log Out   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ What are you looking for? 
+ 
+ 
+ 
+ 
+ 
+ Go 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Menu 
+ 
+ 
+ 
+                Videos
+             
+ 
+ 
+ 
+                Windows 10
+             
+ 
+ 
+ 
+                5G
+             
+ 
+ 
+ 
+                IoT
+             
+ 
+ 
+ 
+                Cloud
+             
+ 
+ 
+ 
+                AI
+             
+ 
+ 
+ 
+                Security
+             
+ 
+ 
+ 
+                TR Premium
+             
+ 
+ 
+ 
+                Coronavirus
+             
+ 
+ 
+ 
+                Working from Home
+             
+ 
+ 
+ 
+                Innovation
+             
+ 
+ 
+ 
+                ZDNet Recommends
+             
+ 
+ 
+ 
+                Tonya Hall Show
+             
+ 
+ 
+ 
+                Executive Guides
+             
+ 
+ 
+ 
+                ZDNet Academy
+             
+ 
+ 
+ 
+                See All Topics 
+             
+ 
+ 
+ 
+                White Papers
+             
+ 
+ 
+ 
+                Downloads
+             
+ 
+ 
+ 
+                Reviews
+             
+ 
+ 
+ 
+                Galleries
+             
+ 
+ 
+ 
+                Videos
+             
+ 
+ 
+ 
+                TechRepublic Forums
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Preferences 
+ Community 
+ Newsletters 
+ Log Out 
+ 
+   
+ 
+ 
+ 
+ us 
+ 
+ 
+ 
+ 
+            Asia
+         
+ 
+ 
+ 
+            Australia
+         
+ 
+ 
+ 
+            Europe
+         
+ 
+ 
+ 
+            India
+         
+ 
+ 
+ 
+            United Kingdom
+         
+ 
+ 
+ 
+            United States
+         
+ 
+ ZDNet around the globe: 
+ 
+ 
+            ZDNet China
+         
+ 
+ 
+ 
+            ZDNet France
+         
+ 
+ 
+ 
+            ZDNet Germany
+         
+ 
+ 
+ 
+            ZDNet Korea
+         
+ 
+ 
+ 
+            ZDNet Japan
+         
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Technologists and business leaders don't see eye to eye on artificial intelligence Executives don't see AI deployments scaling to the extent that technologists on the ground see it, survey finds. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                   By
+                
+ Joe McKendrick 
+ 
+            
+                    
+                    for  Service Oriented 
+        
+                                        |             July 30, 2020 -- 16:21 GMT (09:21 PDT) 
+        
+                                                                                    | Topic:  Artificial Intelligence 
+ 
+   
+ 
+ Business leaders and technologists see artificial intelligence differently -- which is not a surprise. However, they have different perspectives on the progress on AI projects, and what it takes to scale AI to meet enterprise challenges. For example, technologists are twice as likely to see lack of viable data as an issue.    
+                                                    Photo: Joe McKendrick
+                                                 "This could be attributed to business leaders misunderstanding that the data on hand is often not the data needed when it comes to deploying AI at scale," the authors of a recent  survey  report released by Appen, surmise. .The survey covered 374 companies. When asked about the issues encountered with AI, technologists were more likely than business leaders to cite skills issues (24% versus 21%) and lack of data (17% versus 9%). Business leaders, on the other hand, were more inclined to see budgetary issues (18% versus 13% of technologists) and the need for more management buy-in (17% versus 12%) as holding back AI initiatives,    Interestingly, technologists seem to be more aware of progress with AI, with 40% having conducted a global roll-out to their entire user bases, versus only 27% of executives. Both side agree on one important thing, however: more work needs to be done. When asked if their company was behind on adopting AI, respondents appeared to be nearly 50%-50%, regardless of if they were technologists or business leaders.    In addition, it is also clear that the Covid-19 crisis is not affecting this AI work, the survey, conducted in April and May, finds. More than two-thirds of respondents, 70%, do not expect any negative impact from the crisis on their AI strategies. One in five, 20%, report significant acceleration, while only nine percent companies say there have been significant delays to their AI strategy.   There is also much more executive involvement in AI initiatives, the survey shows. In 2019, only 39% of executives "owned" AI initiatives -- a number that grew to 70% in this year's survey. With this increase in executive ownership comes money -- the number of organizations reporting AI budgets greater than $5 million also doubled. "With this level of executive involvement and increased budgets, ethics, governance, and risk management initiatives have become important topics for technologists building AI," the survey authors note.   
+ 
+ 
+ Global cloud providers gained significant traction as data science and machine learning tools from 2019, which may also be due to increased budget and executive oversight. Four times as many respondents this year over last year report using global cloud machine-learning providers. Leading the pack are Microsoft Azure (49%), Google Cloud (36%), IBM Watson (31%), AWS (25%), and Salesforce Einstein (17%). Each of these front runners saw double-digit adoption increases over the past year.   There are also a number of languages used to build models. Python remains the most used language in both 2019 and 2020, SQL and R were the second and third most commonly used language in 2019. However, in 2020, Java, C/C++, and JavaScript also gained significant traction. Python, R, and SQL are often indicative of the pilot stage, while Java, C/C++, and JavaScript are more production stage languages.         
+ 
+ 
+ 
+ 
+ Three out of four organizations report updating their AI models at least quarterly, signifying a focus on the model's life after deployment. Companies are now reporting that they are updating their models more frequently.    
+ 
+ 
+ Related Topics: 
+ 
+                    Big Data Analytics
+                 
+ 
+                    Digital Transformation
+                 
+ 
+                    CXO
+                 
+ 
+                    Internet of Things
+                 
+ 
+                    Innovation
+                 
+ 
+                    Enterprise Software
+                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                   By
+                
+ Joe McKendrick 
+ 
+            
+                    
+                    for  Service Oriented 
+        
+                                        |             July 30, 2020 -- 16:21 GMT (09:21 PDT) 
+        
+                                                                                    | Topic:  Artificial Intelligence 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+
+        Show Comments
+     
+  General comments  
+ 
+ 
+ 
+ 
+ LOG IN TO COMMENT 
+ 
+ 
+ 
+ 
+ My Profile 
+ Log Out 
+ 
+ 
+ 
+                    |  Community Guidelines 
+ 
+ 
+ 
+ 
+ 
+ Join Discussion 
+ 
+ 
+ 
+ 
+ Add Your Comment 
+ 
+ 
+ Add Your Comment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ More from Joe McKendrick 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ IT Priorities 
+ Artificial intelligence reduces the user experience, and that's a good thing 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Artificial Intelligence 
+ Push is on for more artificial intelligence in supply chains 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Enterprise Software 
+ What serverless computing enthusiasts like about serverless, and how they use it 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Artificial Intelligence 
+ Six deep learning applications ready for the enterprise mainstream 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ Please review our terms of service to complete your newsletter subscription. 
+ 
+ 
+ 
+ 
+ 
+ By registering, you agree to the  Terms of Use  and acknowledge the data practices outlined in the  Privacy Policy . 
+ You will also receive a complimentary subscription to the ZDNet's Tech Update Today and ZDNet Announcement newsletters. You may unsubscribe from these newsletters at any time. 
+ 
+ 
+ 
+ 
+ 
+ 
+ You agree to receive updates, alerts, and promotions from the CBS family of companies - including ZDNet’s Tech Update Today and ZDNet Announcement newsletters. You may unsubscribe at any time. 
+ 
+ 
+ 
+ 
+ 
+                                        
+            By signing up, you agree to receive the selected newsletter(s) which you may unsubscribe from at any time. You also agree to the  Terms of Use  and acknowledge the data collection and usage practices outlined in our  Privacy Policy .
+         
+ 
+ 
+ Continue 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Newsletters 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ See 
+                    All
+                   
+ 
+ 
+ 
+ 
+ 
+ See 
+                    All
+                   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Related Stories 
+ 
+ 
+ 
+ 
+   
+ 1 
+				of
+				 3 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Seechum app launches: The Netflix of social connections 
+ 
+ 
+									
+																			Seechum is an on-demand, social connection video mobile app that combines social science with an AI-driven search engine.
+																	 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Nvidia and Google claim bragging rights in MLPerf benchmarks as AI computers get bigger and bigger 
+ 
+ 
+									
+																																																														Nvidia
+																																																								and
+																																																								Google
+																																																								each
+																																																								had
+																																																								something
+																																																								to
+																																																								crow
+																																																								about
+																																																								in
+																																																								the
+																																																								latest
+																																																								benchmarks
+																																																								of
+																																																								giant
+																																																								AI
+																																																								computers.
+																																																								Some
+																																																								AI
+																																																								startups,
+																																																								though,
+																																																								continue
+																																																								to
+																																																								avoid
+																																																								the
+																																																								MLPerf
+																																																								bake-off.
+																																											...
+																	 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ This AI can discover the hidden links between great works of art 
+ 
+ 
+									
+																			The researchers created MosAIc, an algorithm that looks for links that humans wouldn't have thought of.
+																	 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Microsoft: We're taking over Windows 10 PyTorch AI library from Facebook 
+ 
+ 
+									
+																			The move aims to improve new GPU-accelerated machine-learning training on Windows 10's Subsystem for Linux.
+																	 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Juniper extends AI-driven network insights to WAN and branch locations 
+ 
+ 
+									
+																			Additionally, Juniper is bringing an AIOps conversational interface to networking.
+																	 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Singapore's DBS and GovTech pilot Singpass face verification technology 
+ 
+ 
+									
+																			Signing up for digital banking services with DBS just got faster.
+																	 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A new AI claims it can help remove racism on the web. So I put it to work 
+ 
+ 
+									
+																			It was too tempting a challenge. Which site has more problematic pages? FoxNews.com or ESPN.com? You may be surprised.
+																	 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Programming language popularity: Python overtakes Java – as Rust reaches top 20 
+ 
+ 
+									
+																			For the first time since 2012, Java is not in one of the two top spots in RedMonk's programming language popularity list.
+																	 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Smartphone usage patterns can reveal your personality type: Research 
+ 
+ 
+									
+																																																														Employers
+																																																								are
+																																																								increasingly
+																																																								using
+																																																								AI-based
+																																																								psychological
+																																																								profiling
+																																																								as
+																																																								part
+																																																								of
+																																																								their
+																																																								hiring
+																																																								processes.
+																																																								That's
+																																																								a
+																																																								labour
+																																																								rights
+																																																								issue,
+																																																								and
+																																																								it
+																																																								should
+																																																								worry
+																																																								us.
+																																											...
+																	 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ZDNet 
+ 
+ Connect with us 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ © 2020 CBS Interactive. All rights reserved.
+                     Privacy Policy  |
+                     Cookies  |
+                     Ad Choice  |
+                     Advertise  |
+                     Terms of Use  |
+                     Mobile User Agreement 
+ 
+ 
+ 
+ Visit other CBS Interactive sites: 
+ 
+ Select Site 
+ CBS Cares 
+ CBS Films 
+ CBS Radio 
+ CBS.com 
+ CBSInteractive 
+ CBSNews.com 
+ CBSSports.com 
+ Chowhound 
+ CNET 
+ College Networks 
+ GameSpot 
+ Last.fm 
+ MaxPreps 
+ Metacritic.com 
+ Moneywatch 
+ mySimon 
+ Search.com 
+ Showtime 
+ TechRepublic 
+ The Insider 
+ TV.com 
+ UrbanBaby.com 
+ ZDNet 
+ 
+ 
+ 
+ 
+ 
+ 
+ Topics 
+ Galleries 
+ Videos 
+ Sponsored Narratives 
+ CA Privacy/Info We Collect 
+ CA Do Not Sell My Info 
+ 
+ 
+ 
+ 
+ About ZDNet 
+ Meet The Team 
+ All Authors 
+ RSS Feeds 
+ Site Map 
+ Reprint Policy 
+ 
+ 
+ 
+ 
+ 
+ Manage  |  Log Out 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Join 
+                        |
+                         Log In 
+ 
+ 
+ Membership 
+ 
+ Newsletters 
+ Site Assistance 
+ ZDNet Academy 
+ TechRepublic Forums 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

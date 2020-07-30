@@ -1,0 +1,1127 @@
+Q-CTRL launches service to help with cloud-based quantum computing | ZDNet 
+       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                            Edition:  
+ 
+ 
+ 
+ 
+            Asia
+         
+ 
+ 
+ 
+            Australia
+         
+ 
+ 
+ 
+            Europe
+         
+ 
+ 
+ 
+            India
+         
+ 
+ 
+ 
+            United Kingdom
+         
+ 
+ 
+ 
+            United States
+         
+ 
+ ZDNet around the globe: 
+ 
+ 
+            ZDNet China
+         
+ 
+ 
+ 
+            ZDNet France
+         
+ 
+ 
+ 
+            ZDNet Germany
+         
+ 
+ 
+ 
+            ZDNet Korea
+         
+ 
+ 
+ 
+            ZDNet Japan
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ 
+ 
+ What are you looking for? 
+ 
+ 
+ 
+ 
+ 
+ Go 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+                Videos
+             
+                Windows 10
+             
+                5G
+             
+                IoT
+             
+                Cloud
+             
+                AI
+             
+                Security
+             more 
+                TR Premium
+             
+                Coronavirus
+             
+                Working from Home
+             
+                Innovation
+             
+                ZDNet Recommends
+             
+                Tonya Hall Show
+             
+                Executive Guides
+             
+                ZDNet Academy
+             
+                See All Topics 
+             
+                White Papers
+             
+                Downloads
+             
+                Reviews
+             
+                Galleries
+             
+                Videos
+             
+                TechRepublic Forums
+             Newsletters All Writers Preferences Community Newsletters Log Out   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ What are you looking for? 
+ 
+ 
+ 
+ 
+ 
+ Go 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Menu 
+ 
+ 
+ 
+                Videos
+             
+ 
+ 
+ 
+                Windows 10
+             
+ 
+ 
+ 
+                5G
+             
+ 
+ 
+ 
+                IoT
+             
+ 
+ 
+ 
+                Cloud
+             
+ 
+ 
+ 
+                AI
+             
+ 
+ 
+ 
+                Security
+             
+ 
+ 
+ 
+                TR Premium
+             
+ 
+ 
+ 
+                Coronavirus
+             
+ 
+ 
+ 
+                Working from Home
+             
+ 
+ 
+ 
+                Innovation
+             
+ 
+ 
+ 
+                ZDNet Recommends
+             
+ 
+ 
+ 
+                Tonya Hall Show
+             
+ 
+ 
+ 
+                Executive Guides
+             
+ 
+ 
+ 
+                ZDNet Academy
+             
+ 
+ 
+ 
+                See All Topics 
+             
+ 
+ 
+ 
+                White Papers
+             
+ 
+ 
+ 
+                Downloads
+             
+ 
+ 
+ 
+                Reviews
+             
+ 
+ 
+ 
+                Galleries
+             
+ 
+ 
+ 
+                Videos
+             
+ 
+ 
+ 
+                TechRepublic Forums
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Preferences 
+ Community 
+ Newsletters 
+ Log Out 
+ 
+   
+ 
+ 
+ 
+ us 
+ 
+ 
+ 
+ 
+            Asia
+         
+ 
+ 
+ 
+            Australia
+         
+ 
+ 
+ 
+            Europe
+         
+ 
+ 
+ 
+            India
+         
+ 
+ 
+ 
+            United Kingdom
+         
+ 
+ 
+ 
+            United States
+         
+ 
+ ZDNet around the globe: 
+ 
+ 
+            ZDNet China
+         
+ 
+ 
+ 
+            ZDNet France
+         
+ 
+ 
+ 
+            ZDNet Germany
+         
+ 
+ 
+ 
+            ZDNet Korea
+         
+ 
+ 
+ 
+            ZDNet Japan
+         
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Q-CTRL launches service to help with cloud-based quantum computing Meanwhile, UNSW has spun out an Internet of Things-focused security startup called CyAmst. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                   By
+                
+ Asha Barbaschow 
+ 
+            
+                    
+        
+                                        |             July 29, 2020 -- 06:03 GMT (23:03 PDT) 
+        
+                                                                                    | Topic:  Innovation 
+ 
+   
+ 
+ Australian startup Q-CTRL has launched "Quantum Professional Services" to assist organisations seeking to exploit the power of cloud-based quantum computers. Q-CTRL, a commercial spinoff from the University of Sydney, said organisations across verticals such as finance and telecommunications are turning to cloud-based quantum computing platforms such as IBM Q, Rigetti Computing's Quantum Cloud Service, Microsoft's Azure Quantum, and Amazon Web Services' Braket, but said they face a handful of challenges. See also:  2020s are the decade of commercial quantum computing, says IBM "Developing new algorithms for quantum computers isn't the only challenge," Q-CTRL Quantum Professional Services lead Andre Carvalho said. "Users still face many obstacles making them run successfully on cloud hardware." He said today's cloud quantum computing hardware is far from ideal. He said to make these systems more broadly usable, performance is often constrained and capabilities are limited. 
+ 
+ 
+ "Peak performance has generally only been accessible to specialist hardware research teams and even then still suffers from errors that have prevented the realisation of 'quantum advantage' -- when quantum computers solve practically relevant problems better or faster than conventional machines," Carvalho added. The plan for the new Quantum Professional Services team is to assist organisations seeking to "overcome the constraints of today's cloud-based quantum computers to improve algorithmic success". 
+ 
+ 
+ 
+ 
+ Q-CTRL earlier this month announced partnering with AI-based navigation hardware firm Advanced Navigation to  further work on quantum-enabled sensing . The two Australian companies have plans to conduct joint technical development in support of both the civilian and defence markets, focusing on quantum-enhanced precision navigation and timing.   Another Australian university spinout, CyAmast, from the University of New South Wales (UNSW), this week announced raising AU$1.3 million to fund the venture based on its technology that protects Internet of Things (IoT) devices from cybercrime. Dr Hassan Habibi and his research team from UNSW's School of Electrical Engineering and Telecommunications founded CyAmast in May to commercialise the software, which has been touted as protecting large networks of IoT devices from cyber attacks in a scalable, cost-effective way. CyAmast software continuously monitors network traffic and detects deviations from intended IoT behaviours. Habibi claims that CyAmast's solution is far more flexible, scalable, and cost-effective compared to traditional approaches to determining attacks on IoT systems, which inspect individual "packets" of data to determine threat signatures and then blacklist them. RELATED COVERAGE Australia's ambitious plan to win the quantum race Australia's new quantum-supercomputing innovation hub and CSIRO roadmap Australian universities tout cancer detection devices and future telco innovation University of Sydney researchers to use AI to help prevent heart attacks 
+ 
+ 
+ Related Topics: 
+ 
+                    Australia
+                 
+ 
+                    CXO
+                 
+ 
+                    Digital Transformation
+                 
+ 
+                    Tech Industry
+                 
+ 
+                    Smart Cities
+                 
+ 
+                    Cloud
+                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                   By
+                
+ Asha Barbaschow 
+ 
+            
+                    
+        
+                                        |             July 29, 2020 -- 06:03 GMT (23:03 PDT) 
+        
+                                                                                    | Topic:  Innovation 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+
+        Show Comments
+     
+  General comments  
+ 
+ 
+ 
+ 
+ LOG IN TO COMMENT 
+ 
+ 
+ 
+ 
+ My Profile 
+ Log Out 
+ 
+ 
+ 
+                    |  Community Guidelines 
+ 
+ 
+ 
+ 
+ 
+ Join Discussion 
+ 
+ 
+ 
+ 
+ Add Your Comment 
+ 
+ 
+ Add Your Comment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ More from Asha Barbaschow 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Innovation 
+ Australian Medical Association calls for telehealth permanency 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Innovation 
+ Perth Mint and Security Matters launch trueGold blockchain consortium 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Banking 
+ Best digital experience in Australia, bar none: Commonwealth Bank CEO's promise 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Security 
+ Amazon Fraud Detector now generally available 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ Please review our terms of service to complete your newsletter subscription. 
+ 
+ 
+ 
+ 
+ 
+ By registering, you agree to the  Terms of Use  and acknowledge the data practices outlined in the  Privacy Policy . 
+ You will also receive a complimentary subscription to the ZDNet's Tech Update Today and ZDNet Announcement newsletters. You may unsubscribe from these newsletters at any time. 
+ 
+ 
+ 
+ 
+ 
+ 
+ You agree to receive updates, alerts, and promotions from the CBS family of companies - including ZDNet’s Tech Update Today and ZDNet Announcement newsletters. You may unsubscribe at any time. 
+ 
+ 
+ 
+ 
+ 
+                                        
+            By signing up, you agree to receive the selected newsletter(s) which you may unsubscribe from at any time. You also agree to the  Terms of Use  and acknowledge the data collection and usage practices outlined in our  Privacy Policy .
+         
+ 
+ 
+ Continue 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Newsletters 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ See 
+                    All
+                   
+ 
+ 
+ 
+ 
+ 
+ See 
+                    All
+                   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Related Stories 
+ 
+ 
+ 
+ 
+   
+ 1 
+				of
+				 3 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Wanted: A robot with a gentle touch 
+ 
+ 
+									
+																			Think backflipping robot dogs are weird? The next phase of the robot revolution is going to be a little uncomfortable.
+																	 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Victorian government trials touchless pedestrian crossing technology in Melbourne 
+ 
+ 
+									
+																			Pedestrians just simply need to wave their hands to activate the pedestrian crossing signal.
+																	 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Australian Medical Association calls for telehealth permanency 
+ 
+ 
+									
+																			The measures put in place amid COVID-19 are 'strongly' supported by the AMA to become a lasting feature of Australia's health system.
+																	 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ IBM and University of Tokyo team up for Quantum Innovation Initiative Consortium 
+ 
+ 
+									
+																			QIIC to be housed at the University of Tokyo with access to quantum systems from IBM.
+																	 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Australia's report on the future of agtech coming soon 
+ 
+ 
+									
+																			It will examine the impacts, opportunities, and challenges around agtech over the next 10 years.
+																	 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ This AI can discover the hidden links between great works of art 
+ 
+ 
+									
+																			The researchers created MosAIc, an algorithm that looks for links that humans wouldn't have thought of.
+																	 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Perth Mint and Security Matters launch trueGold blockchain consortium 
+ 
+ 
+									
+																			The pair have been developing a 'high-tech proprietary supply chain solution' using blockchain technology.
+																	 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TikTok's Indian clones will need lots of luck and money to recreate magic of the original 
+ 
+ 
+									
+																			Now that the spigot of Chinese money has been impeded by a new law, the challenge will be even greater.
+																	 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Singapore's DBS and GovTech pilot Singpass face verification technology 
+ 
+ 
+									
+																			Signing up for digital banking services with DBS just got faster.
+																	 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ZDNet 
+ 
+ Connect with us 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ © 2020 CBS Interactive. All rights reserved.
+                     Privacy Policy  |
+                     Cookies  |
+                     Ad Choice  |
+                     Advertise  |
+                     Terms of Use  |
+                     Mobile User Agreement 
+ 
+ 
+ 
+ Visit other CBS Interactive sites: 
+ 
+ Select Site 
+ CBS Cares 
+ CBS Films 
+ CBS Radio 
+ CBS.com 
+ CBSInteractive 
+ CBSNews.com 
+ CBSSports.com 
+ Chowhound 
+ CNET 
+ College Networks 
+ GameSpot 
+ Last.fm 
+ MaxPreps 
+ Metacritic.com 
+ Moneywatch 
+ mySimon 
+ Search.com 
+ Showtime 
+ TechRepublic 
+ The Insider 
+ TV.com 
+ UrbanBaby.com 
+ ZDNet 
+ 
+ 
+ 
+ 
+ 
+ 
+ Topics 
+ Galleries 
+ Videos 
+ Sponsored Narratives 
+ CA Privacy/Info We Collect 
+ CA Do Not Sell My Info 
+ 
+ 
+ 
+ 
+ About ZDNet 
+ Meet The Team 
+ All Authors 
+ RSS Feeds 
+ Site Map 
+ Reprint Policy 
+ 
+ 
+ 
+ 
+ 
+ Manage  |  Log Out 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Join 
+                        |
+                         Log In 
+ 
+ 
+ Membership 
+ 
+ Newsletters 
+ Site Assistance 
+ ZDNet Academy 
+ TechRepublic Forums 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

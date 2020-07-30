@@ -1,0 +1,180 @@
+How to Make an AI (Artificial Intelligence) : 3 Steps - Instructables Home Circuits Workshop Craft Cooking Living Outside Teachers Following instructables circuits Projects Contests Community Classes Publish Enter search term How to Make an AI (Artificial Intelligence) 
+            By  nhormell 
+            
+                in  Circuits Computers 343,991 75 94 Download Favorite Introduction: How to Make an AI (Artificial Intelligence) By  nhormell Follow 
+                More by the author:
+             
+            
+                
+                    About: " Allow me to introduce myself. My name's Deadpool, and I'm a... traveling walrus tamer. I takes the wild and nasty walruses, ya see, and I beats their faces in till they're tame. "  --Deadpool
+                
+            
+             More About nhormell » simple but effective AI system Add Tip Ask Question Comment Download Step 1: Find Your Voice first you have to find your computers voice recognition. it is most likely in accessibility 
+once you find and set that up you can move on to step 2  Add Tip Ask Question Comment Download Step 2: Start Making the AI now that you have your voice recognition you have to make you Intel 
+you have to have a mic to do this step but record what you would want the computer to say to you 
+save it on you desktop as what you would ask the computer Add Tip Ask Question Comment Download Step 3: Fine Tuning drag the file onto the start menu  
+and your done 
+now to activate your ai you just have to open your voice reconition 
+and say "start menu...(the name of your file)" and it will play you the recording 
+for example i did 
+me: im lonely 
+computer: don't worry i'm here Add Tip Ask Question Comment Download 
+        
+            Be the First to Share
+        
+     Did you make this project? Share it with us! I Made It! Recommendations FULLY FUNCTIONAL Tensile Testing Machine: Tinkercad Contest Version 
+            by  CrazyBlackStone 
+                in  Arduino 
+                        63
+                     
+                    4.8K
+                 VK-01 Off-World Bartender 
+            by  Donald Bell 
+                in  Raspberry Pi 
+                        231
+                     
+                    19K
+                 Neopixel LED Face Mask 
+            by  splat238 
+                in  LEDs 
+                        231
+                     
+                    20K
+                 Parallel Sequencer Synth 
+            by  luklev 
+                in  Electronics 
+                        59
+                     
+                    6.9K
+                 "Can't Touch This" Family Contest CNC Contest 2020 Robots Contest 94 Discussions 0 CristinaL8 
+                    
+                    
+                    4 years ago
+                    
+                 Reply Upvote This really isn't an Artificial Intelligence, but I do actually know how to make one. It's quite simple actually. Just download the whole internet as it's personality and there you go, you have an AI. Just don't steal my idea guys. 
+            19
+            
+                replies
+            
+             0 Physics_tech749 CristinaL8 
+                    
+                        Reply
+                    
+                    2 years ago
+                    
+                 Reply Upvote I've studied quantum physics, engineering, and computer science for ten years now and downloading the whole internet is dangerous and requires an insane amount of storage space. I've made slightly larger working arc reactors to power humanoid robots that I 3D printed. And if you could download the hole internet you could not just simply upload it into a personality, you must program a code to interpret the information to be intergraded as a "personality". I own a company that does research in AI, we made a true AI from scanning the human brain then generating code to decode the brains information and a code for how information is processed into thoughts, emotions and feelings. With all this code and processing needs you can't just run it on a conventional computer, you need to build a cluster supercomputer. For my AI I bought 65 raspberry Pi 3's and joined them together. For storage I bought five, four terabyte external hard drives. As for the iron man suit, I took a look into this a few months ago and to make the thing at the cheapest it would cost around $4.2 Million USD and it would be very bulky. To make the suit as compact as Tony's you need to design all new circuit boards and would coast about $12.9 Million USD, and that's if you get everything right the first time and with such an advanced suit there will most definitely be error.           0 MaterialSmith Physics_tech749 
+                    
+                        Reply
+                    
+                    2 years ago
+                    
+                 Reply Upvote I'm not really concerned about a body for an AI I just want to know how to build one. So on that case how would one "scan the human brain then generate code to decode the brains information and a code for how information is processed into thoughts, emotions and feelings." I would really appreciate help from anyone because I'm interested in these things  0 YoutubeBin MaterialSmith 
+                    
+                        Reply
+                    
+                    1 year ago
+                    
+                 Reply Upvote Greetings. If you are reading this, please contact me on discord: Bin#4027 . I was working on one AI that would 100% work independend after connecting it into human brain. All tho I don't continue project anymore, I have got some files about it in my archives. Be aware that a lot in it is about how blood works to make "bio compoments" and artificial cells to make brain keep runing. S O M E. 0 Calex360 Physics_tech749 
+                    
+                        Reply
+                    
+                    2 years ago
+                    
+                 Reply Upvote Wow ! 0 talence CristinaL8 
+                    
+                        Reply
+                    
+                    4 years ago
+                    
+                 Reply Upvote I am 13 I am learning computer science. email me at talencecrouch2003@gmail.com I will go to Stanford. I know how to make a computer. I have a dream to make the first A.I computer with a group of people. Me and some other people make a Tech brand while in Stanford sort of 0 Calex360 talence 
+                    
+                        Reply
+                    
+                    2 years ago
+                    
+                 Reply Upvote Thats a nice dream i am also a Ai computer  scientics  0 DavidR903 talence 
+                    
+                        Reply
+                    
+                    2 years ago
+                    
+                 Reply Upvote https://www.youtube.com/watch?v=NQMffbdx86k this may help you some but bad news seems like there's already other groups working on this so either really get to it orrr work with one of these groups from the looks of it the most popular one is Vicarious FPC 0 DavidR903 talence 
+                    
+                        Reply
+                    
+                    2 years ago
+                    
+                 Reply Upvote hey I don't know if your for reals but if so just know that building a computer is a good start BUT when it comes to programing it has nothing to do with putting hardware together what you wanna start learning is java scripting maybe start with making an event listener for media or something and from there it should become alil more clear what i ment and such also an AI computer would be great but you may have to have a quantum computer to make that program or at least i would think so though don't worry to much sense recently they learned how to make a quantum computer run at room temperature rather than at 0 degrees so it should become more publicly accessible soon I'm hoping oh an one more thing for you to make that "computer AI" possible you will have to learn how to create an OS(operating System) for example Linux or Windows or Apple  0 Physics_tech749 talence 
+                    
+                        Reply
+                    
+                    2 years ago
+                    
+                 Reply Upvote If you are aimed to be the first person to create the first AI, I'm sorry to tell you its been done before. But if you want to create an AI a good way to get some bases of how to do so, base it off of IBM Watson. 0 CoderL CristinaL8 
+                    
+                        Reply
+                    
+                    4 years ago
+                    
+                 Reply Upvote Well that's nice and all but you're clearly lying. One cannot simply download the entire internet - there's no storage medium on earth large enough. And that wouldn't create a personality; you actually need to program to make an AI. If you did use the internet as a template for personality, your AI would be an overly-sexual weeaboo jerk. That's basically the internet summed up. I myself have a low-level AI which is about a step below Cortana or Siri. My AI is capable of responding to some phrases and running certain commands, but unfortunately not many commands and isn't able to converse. If I took a leaf out of Cleverbot's book, it would be able to converse, but would be random and idiotic compared to a human. 0 Physics_tech749 CoderL 
+                    
+                        Reply
+                    
+                    2 years ago
+                    
+                 Reply Upvote I like how you summed up the internet. I have built AI's with a whole personality code based off the human brain and instead of doing a lot of coding have a information processing code that has a simple bases of human interaction and knowledge according to personality bases and just teach the AI. 0 Sohum5 CoderL 
+                    
+                        Reply
+                    
+                    4 years ago
+                    
+                 Reply Upvote hi CoderL actually I am a lot instreated in AI's will you be able to provide your email ID mail me at dsohumra@gmail.com 0 talence Sohum5 
+                    
+                        Reply
+                    
+                    4 years ago
+                    
+                 Reply Upvote Hey i am learning computer science. I'm 13. I'm soon going to get into Stanford. And maybe we could work on a project BECAUSE I KNOW HOW TO MAKE A COMPUTER. I have a dream to make the first A.I computer. I want to be like Larry Page. And I will make my Tech brand while I'm in Stanford. 0 Dart4life Sohum5 
+                    
+                        Reply
+                    
+                    4 years ago
+                    
+                 Reply Upvote Same email me @ 307778@guhsd.net if u know how to make an ai plz 0 dylanh64 CoderL 
+                    
+                        Reply
+                    
+                    4 years ago
+                    
+                 Reply Upvote fyi cleverbot is clever in that you talk to real ppl that are switched at random interavals depending on how many ppl are useing it 0 Daniel Gerry CoderL 
+                    
+                        Reply
+                    
+                    4 years ago
+                    
+                 Reply Upvote there is google processes 20 pitabytes a day  0  Blake Russell CoderL 
+                    
+                        Reply
+                    
+                    4 years ago
+                    
+                 Reply Upvote you are partially correct currently there is no place that can store the whole internet; however the NSA is beginning building a complex that has the space to store around one and a half internets. 0  Blake Russell CoderL 
+                    
+                        Reply
+                    
+                    4 years ago
+                    
+                 Reply Upvote you are partially correct currently there is no place that can store the whole internet; however the NSA is beginning building a complex that has the space to store around one and a half internets. 0 Arby36 CristinaL8 
+                    
+                        Reply
+                    
+                    4 years ago
+                    
+                 Reply Upvote It's kind of funny that you guys think it's really simple. You know Google, Facebook, and other big tech companies have hoards of programmers working on this. I started on a simple Q&A Python Script, you can download it at http://billai.weebly.com/ More Comments Post Comment Categories Circuits
+                             Workshop
+                             Craft
+                             Cooking
+                             Living
+                             Outside
+                             Teachers
+                             About Us Who We Are Why Publish? Jobs Resources Sitemap Help Contact Find Us © 2020 Autodesk, Inc. Terms of Service | Privacy Statement | Privacy settings | Legal Notices & Trademarks 

@@ -1,0 +1,1414 @@
+What is Artificial Intelligence (AI)? - Definition from Techopedia 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Toggle navigation 
+ Menu 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Topics 
+ 
+ 
+ 
+ 
+ Cloud Computing 
+ Security 
+ Big Data 
+ Online Privacy 
+ Personal Tech 
+ Technology Trends 
+ IT Business 
+ Data Management 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How Remote Work Impacts DevOps and Development Trends 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Machine Learning and the Cloud: A Complementary Partnership 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Virtual Training: Paving Advanced Education's Future 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Hyperscale Cloud Optimization and Customization 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Database Management Systems: Is the Future Really in the Cloud? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ US Data Protection and Privacy in 2020 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Privacy Issues in the New Big Data Economy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Considering a VPN? Make the Right Choice for Your Needs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Do You Fear Blockchain? 5 Cybersecurity Benefits 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Biggest Ransomware Mistakes Businesses Are Making in 2020 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Privacy Issues in the New Big Data Economy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Deep Learning: How Enterprises Can Avoid Deployment Failure 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Big Data and 5G: Where Does This Intersection Lead? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How Big Data is Going to Change Genetic Testing 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Database Management Systems: Is the Future Really in the Cloud? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ US Data Protection and Privacy in 2020 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Privacy Issues in the New Big Data Economy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Considering a VPN? Make the Right Choice for Your Needs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ We’re Surrounded By Spying Machines: What Can We Do About It? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Malicious VPN Apps: How to Protect Your Data 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Are These Autonomous Vehicles Ready for Our World? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Drones in 2020: What's Next? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How This Museum Keeps the Oldest Functioning Computer Running 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5 Easy Steps to Clean Your Virtual Desktop 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Women in AI: Reinforcing Sexism and Stereotypes with Tech 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AI in Healthcare: Identifying Risks & Saving Money 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Utilizing Visual Artificial Intelligence for Ecommerce Monetization 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Artificial Intelligence: Debunking the Top 10 AI Myths 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How Remote Work Impacts DevOps and Development Trends 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Artificial Neural Networks: 5 Use Cases to Better Understand 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tech Career Pivot: Where the Jobs Are (and Aren’t) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Write For Techopedia: A New Challenge is Waiting For You 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Machine Learning: 4 Business Adoption Roadblocks 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Privacy Issues in the New Big Data Economy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tech Career Shift: 5 Factors to Consider 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How Remote Work Impacts DevOps and Development Trends 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Deep Learning: How Enterprises Can Avoid Deployment Failure 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Big Data and 5G: Where Does This Intersection Lead? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Smart Data Management in a Post-Pandemic World 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How To Train Your Anomaly Detection System To Learn Normal Behavior in Time Series Data 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Webinars 
+ Downloads 
+ Dictionary 
+ Tutorials 
+ Q & A 
+ AI Guide 
+ 
+ 
+ 
+ 
+ Trending: 
+ 
+ 
+ 
+ Virtualization 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Liberland: The Country on the Blockchain 
+ 
+ 
+ 
+ 
+ 
+ 
+ Network Virtualization: The Future of the OSI Model 
+ 
+ 
+ 
+ 
+ 
+ 
+ Virtual Training: Paving Advanced Education's Future 
+ 
+ 
+ 
+ 
+ 
+ 
+ Are These Autonomous Vehicles Ready for Our World? 
+ 
+ 
+ 
+ 
+ 
+ 
+ Computer Vision: Revolutionizing Research in 2020 and Beyond 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Machine Learning 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AI in Healthcare: Identifying Risks & Saving Money 
+ 
+ 
+ 
+ 
+ 
+ 
+ Artificial Intelligence: Debunking the Top 10 AI Myths 
+ 
+ 
+ 
+ 
+ 
+ 
+ Artificial Neural Networks: 5 Use Cases to Better Understand 
+ 
+ 
+ 
+ 
+ 
+ 
+ Advanced Analytics: Police Tools Combating Crime 
+ 
+ 
+ 
+ 
+ 
+ 
+ Advancing Standards of Care Through Machine Learning 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Big Data 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Privacy Issues in the New Big Data Economy 
+ 
+ 
+ 
+ 
+ 
+ 
+ Deep Learning: How Enterprises Can Avoid Deployment Failure 
+ 
+ 
+ 
+ 
+ 
+ 
+ Big Data and 5G: Where Does This Intersection Lead? 
+ 
+ 
+ 
+ 
+ 
+ 
+ How Big Data is Going to Change Genetic Testing 
+ 
+ 
+ 
+ 
+ 
+ 
+ Database Management Systems: Is the Future Really in the Cloud? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Enterprise 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How Remote Work Impacts DevOps and Development Trends 
+ 
+ 
+ 
+ 
+ 
+ 
+ Privacy Issues in the New Big Data Economy 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tech Career Shift: 5 Factors to Consider 
+ 
+ 
+ 
+ 
+ 
+ 
+ Deep Learning: How Enterprises Can Avoid Deployment Failure 
+ 
+ 
+ 
+ 
+ 
+ 
+ Smart Data Management in a Post-Pandemic World 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Development 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How Remote Work Impacts DevOps and Development Trends 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tech Career Shift: 5 Factors to Consider 
+ 
+ 
+ 
+ 
+ 
+ 
+ How Microservices Impact Software Development 
+ 
+ 
+ 
+ 
+ 
+ 
+ Deep Learning: How Enterprises Can Avoid Deployment Failure 
+ 
+ 
+ 
+ 
+ 
+ 
+ Implementing a Successful Remote Work Strategy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ More 
+ 
+ 
+ About 
+ Advertising Info 
+ Contact Us 
+ Contributors 
+ Newsletters 
+ Videos 
+ Write for Us 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Topics
+ 
+ 
+ 
+ Cloud Computing 
+ Security 
+ Big Data 
+ Online Privacy 
+ Personal Tech 
+ Technology Trends 
+ IT Business 
+ Data Management 
+ 
+ 
+ 
+ 
+Webinars
+ 
+ 
+ 
+ 
+Downloads
+ 
+ 
+ 
+ 
+Dictionary
+ 
+ 
+ 
+ 
+Tutorials
+ 
+ 
+ 
+ 
+Q & A
+ 
+ 
+ 
+ 
+AI Guide
+ 
+ 
+ 
+ 
+Trending
+ 
+ 
+ 
+ Virtualization 
+ Machine Learning 
+ Big Data 
+ Enterprise 
+ Development 
+ 
+ 
+ 
+ 
+More
+ 
+ 
+ 
+ About 
+ Advertising Info 
+ Contact Us 
+ Contributors 
+ Newsletters 
+ Videos 
+ Write for Us 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ 
+ 
+ Dictionary 
+ 
+ 
+ Tags 
+ 
+ 
+ Technology Trends 
+ 
+ 
+ Data Science 
+ 
+ 
+ 
+ 
+ 
+  Artificial Intelligence (AI) 
+ 
+ 
+ 
+ Last Updated:  March 27, 2020
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Definition - What does  Artificial Intelligence (AI)  mean?
+ 
+ 
+ 
+   Artificial intelligence (AI), also known as machine intelligence, is a branch of computer science that aims to imbue software with the ability to analyze its environment using either predetermined rules and search algorithms, or pattern recognizing machine learning models, and then make decisions based on those analyses. In this way, AI attempts to mimic biological intelligence to allow the software application or system to act with varying degrees of autonomy, thereby reducing manual human intervention for a wide range of functions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Techopedia explains  Artificial Intelligence (AI) 
+ 
+ 
+ While AI often invokes images of the sentient computer overlord of science fiction, the current reality is far different. At its heart, AI uses the same basic algorithmic functions that drive traditional software, but applies them in a different way. A standard warehouse management system, for example, can show the current levels of various products, while an intelligent one could identify shortages, analyze the cause and its effect on the overall supply chain, and even take steps to correct it. Artificial intelligence can be allowed to replace a whole system, making all decisions end-to-end, or it can be used to enhance a specific process. For example, analyzing video footage to recognize gestures, or replacing peripheral devices (keyboard, mouse, touchscreen) with a speech to text system., giving the impression that one is interacting with a sentient being. Just as philosophers debate the nature of man and the existence of free will, computer science experts debate the various types of AI. The Evolving Stages of Artificial Intelligence Narrow (Weak) AI Capable of performing only a limited set of predetermined functions; think, autonomous cars, retail kiosks, etc.; General (Strong) AI Said to equal the human mind’s ability to function autonomously according to a wide set of stimuli; Super AI Which will one day exceed human intelligence (and conceivably take over the world). At the moment, Narrow AI is only beginning to enter mainstream computing applications. Four Distinct Categories of Artificial Intelligence Reactive AI Can only react to existing situations, not past experiences. Limited Memory AI Relies on stored data to learn from recent experiences to make decisions. Theory of Mind AI Capable of comprehending conversational speech, emotions, non-verbal cues and other intuitive elements; Self-Aware AI Human-level consciousness with its own desires, goals and objectives. A good way to visualize these distinctions would be an AI-driven poker player. A reactive machine would base decisions only on the current hand in play, while a limited memory version would consider past decisions and player profiles. Using Theory of Mind, however, the program would pick up on speech and facial cues, and a self-aware AI might start to consider if there is something more worthwhile to do than play poker. Artificial Intelligence On a Practical Level AI is currently being applied to a range of functions both in the lab and in commercial/consumer settings: Speech Recognition Allows intelligent systems to convert human speech into text or code. Natural Language Processing A subset of speech recognition, enables conversational interaction between humans and computers. Computer Vision Allows a machine to scan an image and identify it using comparative analysis. Perhaps the most revolutionary aspect of AI, however, is that it allows software to rewrite itself as it adapts to its environment. Unlike traditional upgrade programs that take years and are often buggy, or even newer DevOps processes that push changes quickly with less disruption, AI allows a given program to optimize itself to highly specialized use cases. This should not only lower the cost of software licensing and support, it should provide steadily improving performance and the development of unique processes that deliver crucial advantages in an increasingly competitive economy. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share this: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Related Terms 
+ 
+ 
+ 
+ 
+Artificial General Intelligence (AGI)
+ 
+ 
+ 
+ 
+Weak Artificial Intelligence (Weak AI)
+ 
+ 
+ 
+ 
+Strong Artificial Intelligence (Strong AI)
+
+ 
+ 
+ 
+ 
+Narrow Artificial Intelligence (Narrow AI)
+ 
+ 
+ 
+ 
+Computer Vision
+ 
+ 
+ 
+ 
+Natural Language Processing (NLP)
+ 
+ 
+ 
+ 
+Automatic Speech Recognition (ASR)
+ 
+ 
+ 
+ 
+Cloudware
+ 
+ 
+ 
+ 
+Cloud Networking
+ 
+ 
+ 
+ 
+QNX
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tech moves fast! Stay ahead of the curve with Techopedia! 
+ Join nearly 200,000 subscribers who receive actionable tech insights from Techopedia. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Related Articles 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How Should I Start Learning About AI? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ We Asked IT Pros How Enterprises Will Use Chatbots in the Future. Here’s What They Said 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ C Programming Language: Its Important History and Why It Refuses to Go Away 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Deep Learning: How Enterprises Can Avoid Deployment Failure 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Machine Learning: 4 Business Adoption Roadblocks 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Artificial Neural Networks: 5 Use Cases to Better Understand 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
++ View More Articles
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Related Tutorials 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Getting Started With Python: A Python Tutorial for Beginners 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Related Questions 
+ 
+ 
+ 
+ 
+How are top enterprises effectively applying IoT to their BI strategies?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Featured Q&A 
+ 
+ 
+ 
+ 
+ 
+How can cloud computing save money?
+ 
+ 
+ 
+ 
+What is the difference between big data and data mining?
+ 
+ 
+ 
+ 
+What is the difference between big data and Hadoop?
+ 
+ 
+ 
+ 
+ 
+ More of your questions answered by our Experts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Related Tags 
+ 
+ 
+ 
+ Computer Science Artificial Intelligence (AI) Technology Trends Data Science 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Synonyms: 
+ 
+Artificially Intelligent, Artificial Intellect, Machine Intelligence, Artificial-Intelligence, Digital Intelligence
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Resources 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Machine Learning and Why It Matters: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 26 Real-World Use Cases: AI in the Insurance Industry: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10 Real World Use Cases: AI and ML in the Oil and Gas Industry: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Ultimate Guide to Applying AI in Business: 
+ 
+ 
+ 
+ 
+ 
+ report this ad 
+ 
+ Latest Articles 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AI in Healthcare: Identifying Risks & Saving Money 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tech Career Pivot: Where the Jobs Are (and Aren’t) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Utilizing Visual Artificial Intelligence for Ecommerce Monetization 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Artificial Intelligence: Debunking the Top 10 AI Myths 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ US Data Protection and Privacy in 2020 
+ 
+ 
+ 
+ report this ad 
+ 
+ 
+ report this ad 
+ 
+ 
+ 
+ 
+ 
+ ABOUT 
+ 
+ About 
+ Advertising Info 
+ Contact Us 
+ Write for Us 
+ Guest Posting 
+ 
+ 
+ 
+ CONTENT 
+ 
+ Topics 
+ Dictionary 
+ Q&A 
+ Tutorials 
+ 
+ 
+ 
+ TOPICS 
+ 
+ Cloud Computing 
+ Security 
+ Big Data 
+ Online Privacy 
+ Machine Learning 
+ IT Business 
+ Data Management 
+ All Topics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CONNECT 
+ 
+  Facebook 
+  Twitter 
+  LinkedIn 
+ 
+ 
+ 
+  MORE 
+ 
+ Webinars 
+ Downloads 
+ Newsletters 
+  Article Feed 
+  Q&A Feed 
+  Terms Feed 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Techopedia Terms:   
+ #    
+ A    
+ B    
+ C    
+ D    
+ E    
+ F    
+ G    
+ H    
+ I    
+ J    
+ K    
+ L    
+ M    
+ N    
+ O    
+ P    
+ Q    
+ R    
+ S    
+ T    
+ U    
+ V    
+ W    
+ X    
+ Y    
+ Z    
+ 
+ 
+ 
+Copyright © 2020 Techopedia Inc. -  Terms of Use  -
+ Privacy Policy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ x 
+ x 

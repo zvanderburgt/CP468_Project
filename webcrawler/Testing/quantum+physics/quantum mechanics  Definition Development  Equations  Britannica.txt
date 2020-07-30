@@ -1,0 +1,547 @@
+ Title:Start  You have reached the cached page for  https://www.britannica.com/science/quantum-mechanics-physics  Title:End   Content:Start  Below is a snapshot of the Web page as it appeared on  2020-07-30  (the last time our crawler visited it). This is the version of the page that was used for ranking your search results. The page may have changed since we last cached it. To see what might have changed (without the highlights),  go to the current page .  Content:End   Hit:Start  You searched for:  HitHighlight:Start quantum   physics HitHighlight:End  We have highlighted matching words that appear in the page below.  Hit:End   Disclaimer:Start  Bing is not responsible for the content of this page.  Disclaimer:End   Banner:End  html 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ quantum mechanics | Definition, Development, & Equations | Britannica 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                            Search Britannica
+                         
+ 
+ 
+ 
+ 
+ 
+ Encyclopædia  Britannica
+                 
+ 
+ 
+ 
+ 
+ 
+                                    Login
+                                 
+ 
+ 
+   Subscribe Now
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                    Categories 
+                     
+ 
+ 
+ 
+ 
+ 
+ Entertainment & Pop Culture 
+ Geography & Travel 
+ Health & Medicine 
+ Lifestyles & Social Issues 
+ Literature 
+ Philosophy & Religion 
+ Politics, Law & Government 
+ Science 
+ Sports & Recreation 
+ Technology 
+ Visual Arts 
+ World History 
+ 
+ 
+ 
+ 
+                    Features 
+                     
+ 
+ 
+ 
+ 
+ 
+ Demystified 
+ #WTFact 
+ Lists 
+ 100 Women 
+ Saving Earth 
+ SpaceNext 50 
+ Companions 
+ Spotlight 
+ Image Galleries 
+ Student Center 
+ 
+ 
+ 
+ 
+                    Videos
+                     
+ 
+ 
+ 
+ 
+ 
+ Entertainment & Pop Culture 
+ Geography & Travel 
+ Health & Medicine 
+ Lifestyles & Social Issues 
+ Literature 
+ Philosophy & Religion 
+ Politics, Law & Government 
+ Science 
+ Sports & Recreation 
+ Technology 
+ Visual Arts 
+ World History 
+ 
+ 
+ Britannica Classics Check out these retro videos from Encyclopedia Britannica’s archives. 
+ Britannica Explains In these videos, Britannica explains a variety of topics and answers frequently asked questions. 
+ This Week in History In these videos, find out what happened this week (or any week!) in history. 
+ #WTFact Videos In #WTFact Britannica shares some of the most bizarre facts we can find. 
+ Demystified Videos In Demystified, Britannica has all the answers to your burning questions. 
+ 
+ 
+ 
+ 
+ 
+ 
+                        Biographies 
+ 
+ 
+ 
+                        On This Day 
+ 
+ 
+ 
+                        Quizzes 
+ 
+ 
+ 
+ COVID-19 
+ 
+ 
+ 
+ 
+ COVID-19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Contents 
+ 
+ 
+ 
+ 
+ 
+ Quantum  mechanics 
+ physics 
+ 
+ 
+ 
+ 
+ 
+ 
+			Article
+		 
+ 
+ 
+ 
+ 
+			Media
+		 
+ 
+ 
+ 
+ 
+ 
+ 
+	
+	Info
+ 
+ 
+ 
+	
+	Print
+ 
+ 
+ 
+ Print 
+	   Please select which sections you would like to print:
+	    
+ 
+ 
+ Table Of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	
+	Cite
+ 
+ 
+ 
+ 
+	
+	Feedback
+ 
+ 
+ 
+ 
+ Feedback 
+ 
+				Corrections? Updates? Omissions? Let us know if you have suggestions to improve this article
+			     (requires login).
+			  
+ 
+ Select feedback type: 
+ 
+ Select a type (Required) 
+ Factual Correction 
+ Spelling/Grammar Correction 
+ Link Correction 
+ Additional Information 
+ Other 
+ 
+ 
+ 
+ 
+ Submit Feedback 
+ 
+ 
+ 
+ Thank you for your feedback 
+ Our editors will review what you’ve submitted and determine whether to revise the article. 
+ 
+                 Join  Britannica's Publishing Partner Program  and our community of experts to gain a global audience for your work!
+              
+ 
+ 
+ 
+ 
+ 
+	
+	Share
+ 
+ 
+ 
+ 
+ SHARE 
+ Facebook 
+ Twitter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ HTML Introduction Historical basis of  quantum  theory Basic considerations Early developments Planck’s radiation law Einstein and the photoelectric effect Bohr’s theory of the atom Scattering of X-rays De Broglie’s wave hypothesis Basic concepts and methods Schrödinger’s wave mechanics Electron spin and antiparticles Identical particles and multielectron atoms Time-dependent Schrödinger equation Tunneling Axiomatic approach Incompatible observables Heisenberg uncertainty principle Quantum  electrodynamics The interpretation of  quantum  mechanics The electron: wave or particle? Hidden variables Paradox of Einstein, Podolsky, and Rosen Measurement in  quantum  mechanics Applications of  quantum  mechanics Decay of the kaon Cesium clock A  quantum  voltage standard 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ Science 
+ Physics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Quantum  mechanics 
+ physics 
+ 
+ WRITTEN BY 
+ 
+ Gordon Leslie Squires 
+ Lecturer in  Physics , University of Cambridge; Fellow of Trinity College, Cambridge. Author of  Problems in  Quantum  Mechanics with Solutions  and others. 
+ 
+ 
+ See Article History 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [BEFORE-ARTICLE] HTML Quantum  mechanics ,   science  dealing with the behaviour of  matter  and  light  on the  atomic  and  subatomic  scale. It attempts to describe and account for the properties of molecules and atoms and their constituents— electrons , protons, neutrons, and other more  esoteric  particles such as quarks and gluons. These properties include the interactions of the particles with one another and with  electromagnetic radiation  (i.e., light, X-rays, and gamma rays). [P1] [AM1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ Britannica Quiz 
+ All About  Physics  Quiz 
+ Which wave phenomenon results from the interference or superimposition of waves moving in opposite directions? 
+ 
+ 
+ 
+ The behaviour of matter and radiation on the atomic scale often seems peculiar, and the consequences of  quantum  theory are accordingly difficult to understand and to believe. Its concepts frequently conflict with common-sense notions derived from observations of the everyday world. There is no reason, however, why the behaviour of the atomic world should conform to that of the familiar, large-scale world. It is important to realize that  quantum   mechanics  is a branch of  physics  and that the business of  physics  is to describe and account for the way the world—on both the large and the small scale—actually is and not how one imagines it or would like it to be. [P2] [AM2] [MOD2] The study of  quantum  mechanics is rewarding for several reasons. First, it illustrates the essential  methodology  of  physics . Second, it has been enormously successful in giving correct results in practically every situation to which it has been applied. There is, however, an intriguing  paradox . In spite of the overwhelming practical success of  quantum  mechanics, the foundations of the subject contain unresolved problems—in particular, problems concerning the nature of measurement. An essential feature of  quantum  mechanics is that it is generally impossible, even in principle, to measure a system without disturbing it; the detailed nature of this disturbance and the exact point at which it occurs are obscure and controversial. Thus,  quantum  mechanics attracted some of the ablest scientists of the 20th century, and they erected what is perhaps the finest  intellectual  edifice of the period. [P3] [AM3] [MOD3] 
+ [H2] Historical basis of  quantum  theory 
+ Basic considerations 
+ At a fundamental level, both radiation and matter have characteristics of  particles  and  waves . The gradual recognition by scientists that radiation has particle-like properties and that matter has wavelike properties provided the  impetus  for the development of  quantum  mechanics. Influenced by Newton, most physicists of the 18th century believed that light consisted of particles, which they called corpuscles. From about 1800, evidence began to accumulate for a  wave  theory of light. At about this time  Thomas Young  showed that, if monochromatic light passes through a pair of slits, the two emerging beams interfere, so that a fringe pattern of alternately bright and dark bands appears on a screen. The bands are readily explained by a wave theory of light. According to the theory, a bright band is produced when the crests (and troughs) of the waves from the two slits arrive together at the screen; a dark band is produced when the crest of one wave arrives at the same time as the trough of the other, and the effects of the two light beams cancel. Beginning in 1815, a series of experiments by  Augustin-Jean Fresnel  of France and others showed that, when a parallel beam of light passes through a single slit, the emerging beam is no longer parallel but starts to diverge; this phenomenon is known as diffraction. Given the wavelength of the light and the geometry of the apparatus (i.e., the separation and widths of the slits and the distance from the slits to the screen), one can use the wave theory to calculate the expected pattern in each case; the theory agrees precisely with the experimental data. [P4] [AM4] 
+Get exclusive access to content from our 1768 First Edition with your subscription. 
+ Subscribe today 
+ 
+ Early developments 
+ Planck’s radiation law 
+ By the end of the 19th century, physicists almost universally accepted the wave theory of light. However, though the ideas of classical  physics  explain  interference  and diffraction phenomena relating to the  propagation  of light, they do not account for the absorption and emission of light. All bodies radiate electromagnetic  energy  as heat; in fact, a body emits radiation at all wavelengths. The energy radiated at different wavelengths is a maximum at a wavelength that depends on the temperature of the body; the hotter the body, the shorter the wavelength for maximum radiation. Attempts to calculate the energy distribution for the radiation from a  blackbody  using classical ideas were unsuccessful. (A blackbody is a  hypothetical  ideal body or surface that absorbs and reemits all  radiant energy  falling on it.) One formula, proposed by  Wilhelm Wien  of Germany, did not agree with observations at long wavelengths, and another, proposed by  Lord Rayleigh  (John William Strutt) of England, disagreed with those at short wavelengths. [P5] [AM5] [MOD5] 
+ In 1900 the German theoretical physicist  Max Planck  made a bold suggestion. He assumed that the radiation energy is emitted, not continuously, but rather in discrete packets called  quanta . The energy  E  of the  quantum  is related to the  frequency  ν by  E  =  h ν. The quantity  h , now known as Planck’s constant, is a  universal constant  with the approximate value of 6.62607 × 10 −34  joule∙second. Planck showed that the calculated energy  spectrum  then agreed with observation over the entire wavelength range. [P6] [AM6] [MOD6] 
+ [END-OF-CONTENT] [AFTER-ARTICLE] 
+ 
+ 
+ 
+ 
+ 
+ 
+ [AD1] 
+ 
+ 
+ Quantum  mechanics 
+ Quick Facts 
+ 
+ HTML key people Werner Heisenberg   John von Neumann   Linus Pauling   P.A.M. Dirac   Richard Feynman   Pascual Jordan   David Bohm   Hermann Weyl   Eugene Wigner   Walter Kohn   related topics Physics   String theory   Unified field theory   Quantum  chromodynamics   Quantum  electrodynamics   Feynman diagram   Brane   Quantum  field theory   Supersymmetry   Supergravity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                        Load Next Page
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Quantum  mechanics 
+ Additional Information 
+ 
+ 
+ 
+ 
+ 
+ More About 
+ 
+ 
+ 
+ 
+ Additional Reading 
+ 
+ 
+ 
+ 
+ External Websites 
+ 
+ 
+ 
+ 
+ Boston University - The  Quantum  Mechanical View of the Atom 
+ Stanford Encyclopedia of Philosophy -  Quantum  Mechanics 
+ 
+ 
+ Britannica Websites 
+ Articles from Britannica Encyclopedias for elementary and high school students. 
+ 
+ quantum  mechanics - Student Encyclopedia (Ages 11 and up) 
+ 
+ 
+ 
+ Article History 
+ 
+ 
+ 
+ 
+ Article Contributors 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+				Load Next Article
+				 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Inspire your inbox – 
+      Sign up for daily fun facts about this day in history, updates, and special offers.
+    
+ 
+ 
+ 
+ 
+ 
+ Enter your email 
+ 
+ 
+ 
+ Subscribe 
+ 
+ 
+ 
+            By signing up for this email, you are agreeing to news, offers, and information from Encyclopaedia Britannica. 
+            Click here to view our  Privacy Notice . Easy unsubscribe links are provided in every email.
+         
+ 
+ 
+ Thank you for subscribing! 
+ Be on the lookout for your Britannica newsletter to get trusted stories delivered right to your inbox. 
+ 
+ 
+ 
+ 
+ 
+ Stay Connected 
+ Facebook 
+ Twitter 
+ YouTube 
+ Instagram 
+ Pinterest 
+ 
+ Newsletters 
+ 
+ 
+ 
+ 
+ 
+ About Us & Legal Info 
+ Partner Program 
+ Contact Us 
+ Privacy Notice 
+ Terms of Use 
+ 
+ ©2020 Encyclopædia Britannica, Inc. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ close 
+ 
+ 
+   Check out Britannica's new site for parents!
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

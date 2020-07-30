@@ -1,0 +1,1034 @@
+ Title:Start  You have reached the cached page for  https://www.microsoft.com/en-us/quantum  Title:End   Content:Start  Below is a snapshot of the Web page as it appeared on  2020-07-30  (the last time our crawler visited it). This is the version of the page that was used for ranking your search results. The page may have changed since we last cached it. To see what might have changed (without the highlights),  go to the current page .  Content:End   Hit:Start  You searched for:  HitHighlight:Start quantum   computing HitHighlight:End  We have highlighted matching words that appear in the page below.  Hit:End   Disclaimer:Start  Bing is not responsible for the content of this page.  Disclaimer:End   Banner:End  
+ html 
+ Quantum computing | Microsoft 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Skip to main content 
+ 
+ 
+ 
+ 
+ 
+ 
+ Microsoft 
+ 
+ 
+ 
+ Quantum 
+ 
+ 
+ 
+ 
+ Quantum 
+ 
+ 
+ 
+ 
+ Quantum 
+ 
+ 
+ 
+ 
+ 
+  Home  
+ 
+ 
+ Vision 
+ 
+ 
+ Azure  Quantum 
+ 
+ 
+ Development kit 
+ 
+ 
+ Labs 
+ 
+ 
+ Quantum  Network 
+ 
+ 
+ 
+ Resources 
+ 
+ 
+ Blog 
+ 
+ 
+ Newsletter sign-up 
+ 
+ 
+ Open positions 
+ 
+ 
+ 
+ 
+ 
+ 
+ More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+   All Microsoft 
+ 
+ 
+ 
+ 
+ Microsoft 365 
+ 
+ 
+ Azure 
+ 
+ 
+ Office 365 
+ 
+ 
+ Dynamics 365 
+ 
+ 
+ SQL 
+ 
+ 
+ Windows 10 
+ 
+ 
+ 
+ 
+ Products & Services 
+ 
+ 
+ Windows Server 
+ 
+ 
+ Enterprise Mobility + Security 
+ 
+ 
+ Power BI 
+ 
+ 
+ Teams 
+ 
+ 
+ Visual Studio 
+ 
+ 
+ Microsoft Advertising 
+ 
+ 
+ 
+ 
+ Emerging Technologies 
+ 
+ 
+ AI 
+ 
+ 
+ Internet of Things 
+ 
+ 
+ Azure Cognitive Services 
+ 
+ 
+ Quantum 
+ 
+ 
+ Microsoft HoloLens 
+ 
+ 
+ Mixed Reality 
+ 
+ 
+ 
+ 
+ Developer & IT 
+ 
+ 
+ Docs 
+ 
+ 
+ TechNet 
+ 
+ 
+ Developer Network 
+ 
+ 
+ Windows Dev Center 
+ 
+ 
+ Windows IT Pro Center 
+ 
+ 
+ FastTrack 
+ 
+ 
+ 
+ 
+ Partner 
+ 
+ 
+ Partner Network 
+ 
+ 
+ Solution Providers 
+ 
+ 
+ Partner Center 
+ 
+ 
+ Cloud Hosting 
+ 
+ 
+ 
+ 
+ Industries 
+ 
+ 
+ Education 
+ 
+ 
+ Financial services 
+ 
+ 
+ Government 
+ 
+ 
+ Health 
+ 
+ 
+ Manufacturing & resources 
+ 
+ 
+ Retail 
+ 
+ 
+ 
+ 
+ Other 
+ 
+ 
+ Security 
+ 
+ 
+ Licensing 
+ 
+ 
+ AppSource 
+ 
+ 
+ Azure Marketplace 
+ 
+ 
+ Events 
+ 
+ 
+ Research 
+ 
+ 
+ 
+ 
+ View Sitemap 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search 
+ Search Microsoft.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cancel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Read how Microsoft is responding to the COVID-19 outbreak, and get resources to help 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Experience  quantum  impact today 
+ To deliver on the promise of  quantum   computing  and solve the problems that will forever change our future, we need a  quantum  computer that scales.  We are focused on ground-breaking innovation at every layer of the  quantum  stack, from applications and solutions to cryogenic control and qubits.  Our unique approach pushes the boundaries of  computing  to create unprecedented possibilities for our world. 
+ 
+ 
+ 
+ 
+                Watch now
+             
+ 
+ 
+ 
+ 
+ 
+ Close 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Introducing Azure  Quantum   
+ Azure  Quantum  is the world’s first full-stack, open cloud ecosystem for  quantum  impact today, providing developers and customers access within Azure to the most diverse selection of  quantum  solutions, software and hardware across the industry. 
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ View the free on-demand content from our recent Azure  Quantum  developer workshop 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A scalable, open approach to  quantum  solutions and development 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Experience impact today through Azure  Quantum   Microsoft is building a full-stack  quantum  ecosystem, delivered through the power and scale of Azure’s global cloud services platform. 
+ 
+ 
+ Azure  Quantum 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Collaborate with a community of pioneers   Join the growing worldwide community of enterprises, academics, researchers, startups, students, and developers working together to create a comprehensive  quantum  ecosystem. To build this right, we need to build it together. 
+ 
+ 
+ Microsoft  Quantum  Network 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Start building  quantum  apps today   Bring  quantum  apps to life with an expansive open-source tool set, deep integration with your favorite development environments, and a growing open-source community. 
+ 
+ 
+ Quantum  Development Kit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ See how organizations like yours use  quantum  solutions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ As a startup, we have access to  quantum  chemistry package, which enables us to now leverage all of these underlying functionalities in simulating  quantum  chemistry. 
+   
+ —Arman Zaribafiyan, Head of  Quantum   Computing , 1QBit 
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Microsoft is providing optimized  quantum  inspired algorithms to really solve our hard problems, using them to make MRI faster, cheaper, and more efficient to help people all over the world with this technology. 
+   
+ —Mark Griswold, PhD, Professor, Radiology, Case Western Reserve University 
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ We are delighted to work with Microsoft to bring the revolutionary power of  quantum   computing  to Dubai... to make Dubai the smartest and happiest city in the world. 
+   
+ —HE Saeed Mohammed Al Tayer, Managing Director and CEO of DEWA 
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Microsoft  Quantum  Development Kit definitely makes it much easier to go from the chemistry product specification to the output that we care about. 
+   
+ —Sriram Krishnamoorthy, Systems Software and Applications Team Lead, PNNL 
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ By focusing on how we would model the problems on  quantum  computers… we are able to work with Microsoft to redefine the problems and speed up our solutions on existing hardware. 
+   
+ —John Haley, CEO, Willis Towers Watson 
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ford brings the expertise from the problem areas and where the value really is for us, and Microsoft brings the  Quantum  expertise and the team together to help formulate a solution. 
+   
+ —Patrick Ellis, Manager, Ford Research 
+ 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About  quantum   computing 
+ 
+ 
+ 
+ 
+ 
+ 
+ What is  quantum   computing ?   Quantum   computing  applies the properties of  quantum  physics to process information. Operating with nanoscale components at temperatures colder than intergalactic space,  quantum   computing  has the potential to solve some of the world’s toughest challenges.  Quantum  computers will enable new discoveries in the areas of healthcare, energy, environmental systems, smart materials, and beyond. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How do  quantum  computers work?   In  quantum   computing , a  quantum  bit is a unit of  quantum  information—like a classical bit. Where classical bits hold a single binary value such as a 0 or 1, a qubit can hold both values at the same time. When multiple qubits act coherently, they can process multiple options simultaneously. This allows them to process information in a fraction of the time it would take even the fastest nonquantum systems. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What are the benefits of  quantum   computing ?   Where current computers would require billions of years to solve the world’s most challenging problems, a  quantum  computer would find a solution in minutes, hours, or days.  Quantum   computing  will enable researchers to develop new catalysts and materials, improve medicines, accelerate advances in artificial intelligence, and answer fundamental questions about the origins of our universe. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Empowering the  quantum  revolution   The Microsoft  Quantum  Network is a community of pioneers collaborating with Microsoft to learn about, research, and launch  quantum   computing  applications and hardware. Network partners receive access to  quantum  development resources, exclusive Azure services and workshops on  quantum  programming and algorithm development. 
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Read the latest news and blogs 
+ 
+ 
+ 
+ 
+ 
+ 
+ New physics discovery from the Microsoft  Quantum  team: topology with a twist   
+ Read more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Azure  Quantum  updates at Microsoft Build   
+ Read more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Microsoft  Quantum  researchers pin down largest  quantum  speedup for unstructured problems   
+ Read more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Stay up to date with the Microsoft  Quantum  newsletter 
+ 
+ 
+ Sign up 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Follow us 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share this page 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BackToTop 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What's new 
+ 
+ 
+ Surface Go 2 
+ 
+ 
+ Surface Book 3 
+ 
+ 
+ Microsoft 365 
+ 
+ 
+ Surface Pro X 
+ 
+ 
+ Windows 10 apps 
+ 
+ 
+ 
+ 
+ Microsoft Store 
+ 
+ 
+ Account profile 
+ 
+ 
+ Download Center 
+ 
+ 
+ Microsoft Store support 
+ 
+ 
+ Returns 
+ 
+ 
+ Order tracking 
+ 
+ 
+ Store locations 
+ 
+ 
+ Virtual workshops and training 
+ 
+ 
+ Microsoft Store Promise 
+ 
+ 
+ 
+ 
+ Education 
+ 
+ 
+ Microsoft in education 
+ 
+ 
+ Office for students 
+ 
+ 
+ Office 365 for schools 
+ 
+ 
+ Deals for students & parents 
+ 
+ 
+ Microsoft Azure in education 
+ 
+ 
+ 
+ 
+ 
+ 
+ Enterprise 
+ 
+ 
+ Azure 
+ 
+ 
+ AppSource  
+ 
+ 
+ Automotive 
+ 
+ 
+ Government 
+ 
+ 
+ Healthcare 
+ 
+ 
+ Manufacturing 
+ 
+ 
+ Financial services 
+ 
+ 
+ Retail 
+ 
+ 
+ 
+ 
+ Developer 
+ 
+ 
+ Microsoft Visual Studio 
+ 
+ 
+ Windows Dev Center 
+ 
+ 
+ Developer Network 
+ 
+ 
+ TechNet 
+ 
+ 
+ Microsoft developer program 
+ 
+ 
+ Channel 9 
+ 
+ 
+ Office Dev Center 
+ 
+ 
+ Microsoft Garage 
+ 
+ 
+ 
+ 
+ Company 
+ 
+ 
+ Careers 
+ 
+ 
+ About Microsoft 
+ 
+ 
+ Company news 
+ 
+ 
+ Privacy at Microsoft 
+ 
+ 
+ Investors 
+ 
+ 
+ Diversity and inclusion 
+ 
+ 
+ Accessibility 
+ 
+ 
+ Security 
+ 
+ 
+ 
+ 
+ 
+ 
+ English (United States) 
+ 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Contact Microsoft 
+ 
+ 
+ Privacy & cookies  
+ 
+ 
+ Terms of use 
+ 
+ 
+ Trademarks 
+ 
+ 
+ Safety & eco 
+ 
+ 
+ About our ads 
+ 
+ © Microsoft 2020 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

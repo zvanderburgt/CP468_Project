@@ -1,9 +1,12 @@
-import urllib.request
+import urllib
+import requests
 from html.parser import HTMLParser
 from urllib.error import URLError, HTTPError
 import string
 import os
 from urllib.parse import urlparse
+import re
+from bs4 import BeautifulSoup
 
 # defines a global variable for all links found in a page
 allLinks = []
@@ -82,74 +85,70 @@ def getResultLinks(url):
 
         return links
 
+
 # saves the found webpages as a txt file containing the html
-
-
-def saveFiles(links, folder):
+def saveFiles(links, folder, superDir):
     c = 0
     # **********TO EDIT********** -- saves all links, potentially limit it to 10?
     # -- also potentially check file size or length to make sure each page has enough info?
     for link in links:
-        # creates a request for that url
-        req = urllib.request.Request(link)
-        # **********TO EDIT********** -- maybe a better solution than throwing the error
-        # especially error 403?
-        # handles errors with the url
         try:
-            # stores the response of that request
-            response = urllib.request.urlopen(req)
-        except HTTPError as e:
-            # throws HTTP errors
-            print('The server couldn\'t fulfill the request.')
-            print('Error code: ', e.code)
-        except URLError as e:
-            # throws URL errors
-            print('We failed to reach a server.')
-            print('Reason: ', e.reason)
-        else:
-            # the response is saved as bytes so it needs to be decoded. So we decode it using utf8, to store as a string to parse
-            try:
-                html = response.read().decode("utf8")
-            except:
-                print("Error decoding a HTML file... Passing.")
-                pass
-            # creates a MyHTMLParser object called parser
-            parser = MyHTMLParser()
-            # feeds the html string to the parser
-            parser.feed(html)
-            # if the article has a title
-            if parser.title != None:
-                # converts the title of the page to a valid filename
-                title = "".join(c for c in parser.title if c in valid_chars)
-                # gets the directory of the pyhton file being run
-                here = os.path.dirname(os.path.realpath(__file__))
-                # sets up the directory for the dataset
-                dir = os.path.join(here, "Dataset")
-                # if there isn't already a subdirectory called Dataset in the same directory as the python file
-                if not os.path.exists(dir):
-                    # make a new direcotry
-                    os.makedirs(dir)
-                # same as above but for the dataset subdirecories based on keywords
-                subDir = os.path.join(here, dir, folder)
-                if not os.path.exists(subDir):
-                    os.makedirs(subDir)
-                # sets up the file path to save the files
-                filepath = os.path.join(here, dir, subDir, title+".txt")
-                # saves the html file from the url with the title grabed and sanatized above to the filepath specified above
-                urllib.request.urlretrieve(link, filepath)
-                fSize = fileSize(filepath)
-                if fSize < 100:
-                    try:
-                        os.remove(filepath)
-                        print()
-                        print("File path removed:", filepath)
-                        c -= 1
-                    except:
-                        print("Error removing file from directory:", filepath)
+            res = requests.get(link, timeout=30)
+            html_page = res.content
+            soup = BeautifulSoup(html_page, 'html.parser')
+            text = soup.find_all(text=True)
+            output = ''
+            blacklist = ['[document]',
+	            'noscript',
+	            'header',
+	            'html',
+	            'meta',
+	            'head', 
+	            'input',
+	            'script',
+                'style']
 
-                c = c + 1
-                if c >= 30:
-                    return
+            for t in text:
+                if t.parent.name not in blacklist:
+                    output += '{} '.format(t)
+
+            title = "".join(c for c in soup.title.text if c in valid_chars)
+            #title = soup.title.text
+            # gets the directory of the pyhton file being run
+            here = os.path.dirname(os.path.realpath(__file__))
+            # sets up the directory for the dataset
+            dir = os.path.join(here, superDir)
+            # if there isn't already a subdirectory called Dataset in the same directory as the python file
+            if not os.path.exists(dir):
+                # make a new direcotry
+                os.makedirs(dir)
+            # same as above but for the dataset subdirecories based on keywords
+            subDir = os.path.join(here, dir, folder)
+            if not os.path.exists(subDir):
+                os.makedirs(subDir)
+            # sets up the file path to save the files
+            filepath = os.path.join(here, dir, subDir, title+".txt")
+            outFile = open(filepath, 'w+', encoding='utf-8')
+            outFile.write(output)
+            outFile.close()
+
+            fSize = fileSize(filepath)
+            if fSize < 10:
+                try:
+                    os.remove(filepath)
+                    print()
+                    print("File not added: ", filepath)
+                    c -= 1
+                except:
+                    print("Error removing file from directory: ", filepath)
+            else:
+                print("File added: ", filepath)
+            c = c + 1
+            if c >= 15:
+                return
+        except:
+            print("Timeout Error - Skipping")
+
 
 
 def fileSize(filePath):
@@ -164,11 +163,12 @@ def fileSize(filePath):
     return size//1000
 
 
+
+
 def main():
     output = open("links.txt", 'w')
     # defines a list of out keywords, words are seperated by '+'s as yahoo follows this format
-    keywords = ["self+driving+cars",
-                "quantum+computing", "artificial+intelligence"]
+    keywords = ["self+driving+cars", "quantum+computing", "artificial+intelligence"]
     # defines a master url for yahoo search that we can append out keywords to, so we can get a page with results for each keyword
     masterUrl = "https://ca.search.yahoo.com/search?p="  # quantum+computing
     # loops through each keyword
@@ -185,7 +185,24 @@ def main():
 
         # runs the save files method to save the html files found at each link
 
-        saveFiles(links, word)
+        saveFiles(links, word, "Dataset")
+        allLinks.clear()
+
+    keywords = ["tesla", "quantum+physics"]
+    for word in keywords:
+        # header for what its about to print
+        print("getting files for: " + word)
+        links = getResultLinks(masterUrl+word)
+
+        output.write(masterUrl+word +
+                     '\n\n=====================================\n')
+        for item in links:
+            output.write(item+'\n')
+        # clears allLinks, so that links from the previous keyword aren't inluded in the next set
+
+        # runs the save files method to save the html files found at each link
+
+        saveFiles(links, word, "Testing")
         allLinks.clear()
     output.close()
 

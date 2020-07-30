@@ -1,0 +1,419 @@
+ Title:Start  You have reached the cached page for  https://www.digitaltrends.com/computing/what-is-quantum-computing/  Title:End   Content:Start  Below is a snapshot of the Web page as it appeared on  2020-07-30  (the last time our crawler visited it). This is the version of the page that was used for ranking your search results. The page may have changed since we last cached it. To see what might have changed (without the highlights),  go to the current page .  Content:End   Hit:Start  You searched for:  HitHighlight:Start quantum   computing HitHighlight:End  We have highlighted matching words that appear in the page below.  Hit:End   Disclaimer:Start  Bing is not responsible for the content of this page.  Disclaimer:End   Banner:End  html 
+ What Is Quantum Computing? The Next Era of Computational Evolution, Explained | Digital Trends 
+ 
+ 
+ 
+ 
+ 
+   
+  Begin GPT  
+ 
+  End GPT  
+ 
+ 
+ 
+ 
+ 
+  Google Tag Manager  
+ 
+ 
+  End Google Tag Manager  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		Back to Menu	 
+ 
+ 
+ 
+					Search				 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Best Products Best Laptops Best Headphones Best Games Best Game Consoles Best Tablets Best Drones Best Cars Best Routers Best Phones Best Printers Best Speakers Best TVs Best Soundbars Best Home Security Systems Best Cameras Best Smartwatches Best Smart Home Devices Best Refrigerators Best Dishwashers Best Washing Machines Best Streaming Devices Best Desktops Best Coffee Machines Versus More Best Products Product Reviews Laptop Reviews TV Reviews Tablet Reviews Game Reviews Soundbar Reviews Camera Reviews Printer Reviews Drone Reviews Headphone Reviews Fitness Tracker Reviews Phone Reviews Monitor Reviews Smartwatch Reviews Appliance Reviews Home Security Reviews Speaker Reviews Desktop Reviews Car Reviews Streaming Device Reviews Smart Home Device Reviews All Reviews News Animal Crossing Mobile Home Theater Computing 5G Gaming Cars Photography Coronavirus Streaming Media Wearables Entertainment Culture Smart Home Small Business Smart Cities Artificial Intelligence Cybersecurity Internet of Things (IoT) Samsung More News Original Series Original Series Digital Trends Live Tech for Change Homework School's Out Bold Ideas Innovate / Collaborate Women With Byte Special Features Video Series Trends with Benefits Robots Everywhere What Comes Next Vs. Desk Envy Explained The Deets More Originals Buying Guides QLED vs. OLED TV Which Instant Pot Should You Buy? 4K TV Buying Guide Soundbar buying guide Google Home vs. Amazon Echo Laptop Buying Guide MacBook Pro vs MacBook Air Nintendo Switch vs. Switch Lite: Which is better? iPhone SE vs iPhone 11 Tesla Model 3 vs. Tesla Model Y MacBook Air Buying Guide Printer Buying Guide More Buying Guides Deals Best iPad Deals Best Apple Watch Deals Best iPhone Deals Best MacBook Deals Best 4K TV Deals Best Smartwatch Deals Best Laptop Deals Best Smartphone Deals Best Microsoft Surface Pro Deals Best Cheap Chromebook Deals Best Cheap Kindle Deals Best Cheap Gaming Laptop Deals More Deals Downloads Categories Browsers Office & Productivity Development Tools Learning Games Internet Music & Video Customization Security & VPN Social & Messaging OS & Tools Platforms Windows Mac Android iOS More Downloads More Social Twitter Facebook Instagram LinkedIn Pinterest RSS Newsletter YouTube More Careers Freelance Opportunities About Digital Trends The Manual Advertise with Us DT en Español Creative Resources Awards We Offer Press Sponsored Content   
+ 
+			Menu		 
+ 
+ 
+ 
+ Sign up for newsletters Trending: Watch: NASA Perseverance launch Recap: Tech CEO hearing with Congress Bezos gets off easy Zuckerberg grilled over coronavirus hoaxes Samsung Galaxy Unpacked   
+ 
+ 
+ 
+ 
+ 
+ 
+ Computing   
+					What is  quantum   computing ? The next era of computational evolution, explained				 
+ 
+ 
+			By
+							 
+					Jonathan Terrasi				 
+ 
+ 
+		October  1, 2019	 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ When you first stumble across the term “ quantum  computer,” you might pass it off as some far-flung science fiction concept rather than a serious current news item. 
+ But with the phrase being thrown around with increasing frequency, it’s understandable to wonder exactly what  quantum  computers are, and just as understandable to be at a loss as to where to dive in. Here’s the rundown on what  quantum  computers are, why there’s so much buzz around them, and what they might mean for you. 
+ What is  quantum   computing , and how does it work? 
+ All  computing  relies on bits, the smallest unit of information that is encoded as an “on” state or an “off” state, more commonly referred to as a 1 or a 0, in some physical medium or another. 
+ Most of the time, a bit takes the physical form of an electrical signal traveling over the circuits in the computer’s motherboard. By stringing multiple bits together, we can represent more complex and useful things like text, music, and more. 
+ IBM Research 
+ The two key differences between  quantum  bits and “classical” bits (from the computers we use today) are the physical form the bits take and, correspondingly, the nature of data encoded in them. The electrical bits of a classical computer can only exist in one state at a time, either 1 or 0. 
+ Quantum  bits (or “qubits”)  are made of subatomic particles , namely individual photons or electrons. Because these subatomic particles conform more to the rules of  quantum  mechanics than classical mechanics, they exhibit the bizarre properties of  quantum  particles. The most salient of these properties for computer scientists is superposition. This is the idea that a particle can exist in multiple states simultaneously, at least until that state is measured and collapses into a single state. By harnessing this superposition property, computer scientists can  make qubits encode a 1 and a 0 at the same time . 
+ The other  quantum  mechanical quirk that makes  quantum  computers tick is entanglement, a linking of two  quantum  particles or, in this case, two qubits. When the two particles are entangled, the change in state of one particle will alter the state of its partner in a predictable way, which comes in handy when it comes time to get a  quantum  computer to calculate the answer to the problem you feed it. 
+ A  quantum  computer’s qubits start in their 1-and-0 hybrid state as the computer initially starts crunching through a problem. When the solution is found, the qubits in superposition collapse to the correct orientation of stable 1s and 0s for returning the solution. 
+ What is the benefit of  quantum   computing ? 
+ Aside from the fact that they are far beyond the reach of all but the most elite research teams (and will likely stay that way for a while), most of us don’t have much use for  quantum  computers. They don’t offer any real advantage over classical computers for the kinds of tasks we do most of the time. 
+ However, even the most formidable classical supercomputers have a hard time cracking certain problems due to their inherent computational complexity. This is because some calculations can only be achieved by brute force, guessing until the answer is found. They end up with so many possible solutions that it would take thousands of years for all the world’s supercomputers combined to find the correct one. 
+ IBM Research 
+ The superposition property exhibited by qubits can allow supercomputers to cut this guessing time down precipitously. Classical  computing ’s laborious trial-and-error computations can only ever make one guess at a time, while the dual 1-and-0 state of a  quantum  computer’s qubits lets it make multiple guesses at the same time. 
+ So, what kind of problems require all this time-consuming guesswork calculation? One example is simulating atomic structures, especially when they interact chemically with those of other atoms. With a  quantum  computer powering the atomic modeling, researchers in material science could create new compounds for use in engineering and manufacturing.  Quantum  computers are well suited to simulating similarly intricate systems like economic market forces, astrophysical dynamics, or genetic mutation patterns in organisms, to name only a few. 
+ Amidst all these generally inoffensive applications of this emerging technology, though, there are also some uses of  quantum  computers that raise serious concerns. By far the most frequently cited harm is the potential for  quantum  computers to  break some of the strongest encryption algorithms currently in use . 
+ In the hands of an aggressive foreign government adversary,  quantum  computers could compromise a broad swath of otherwise secure internet traffic, leaving sensitive communications susceptible to widespread surveillance. Work is currently being undertaken to mature encryption ciphers based on calculations that are still hard for even  quantum  computers to do, but they are not all ready for prime-time, or widely adopted at present. 
+ Is  quantum   computing  even possible? 
+ A little over a decade ago, actual fabrication of  quantum  computers was barely in its incipient stages. Starting in the 2010s, though, development of functioning prototype  quantum  computers took off. A number of companies have assembled working  quantum  computers as of a few years ago, with IBM going so far as to allow researchers and hobbyists to  run their own programs on it via the cloud . 
+ Brad Jones/Digital Trends 
+ Despite the strides that companies like IBM have undoubtedly made to build functioning prototypes,  quantum  computers are still in their infancy. Currently, the  quantum  computers that research teams have constructed so far require a lot of overhead for executing error correction. For every qubit that actually performs a calculation, there are several dozen whose job it is to compensate for the one’s mistake. The aggregate of all these qubits make what is called a “logical qubit.” 
+ Long story short, industry and academic titans have gotten  quantum  computers to work, but they do so very inefficiently. 
+ Who has a  quantum  computer? 
+ Fierce competition between  quantum  computer researchers is still raging, between big and small players alike. Among those who have working  quantum  computers are the traditionally dominant tech companies one would expect: IBM, Intel, Microsoft, and Google. 
+ As exacting and costly of a venture as creating a  quantum  computer is, there are a surprising number of smaller companies and even startups that are rising to the challenge. 
+ The comparatively lean  D-Wave Systems has spurred many advances in the field  and proved it was not out of contention by answering Google’s momentous announcement with news of a  huge deal with Los Alamos National Labs . Still, smaller competitors like Rigetti  Computing  are also in the running for  establishing themselves as  quantum   computing  innovators . 
+ 
+ Depending on who you ask, you’ll get a different frontrunner for the “most powerful”  quantum  computer. Google certainly made its case recently with its  achievement of  quantum  supremacy , a metric that itself Google more or less devised.  Quantum  supremacy is the point at which a  quantum  computer is first able to outperform a classical computer at some computation.  Google’s Sycamore prototype  equipped with 54 qubits was able to break that barrier by zipping through a problem in just under three-and-a-half minutes that would take the mightiest classical supercomputer 10,000 years to churn through. 
+ Not to be outdone, D-Wave boasts that the devices it will soon be supplying to Los Alamos weigh in at 5000 qubits apiece, although it should be noted that  the quality of D-Wave’s qubits has been called into question before . IBM hasn’t made the same kind of splash as Google and D-Wave in the last couple of years, but they shouldn’t be counted out yet, either, especially considering their track  record of slow and steady accomplishments . 
+ Put simply, the race for the world’s most powerful  quantum  computer is as wide open as it ever was. 
+ Will  quantum   computing  replace traditional  computing ? 
+ The short answer to this is “not really,” at least for the near-term future.  Quantum  computers require an immense volume of equipment, and finely tuned environments to operate. The leading architecture requires cooling to mere degrees above absolute zero, meaning they are nowhere near practical for ordinary consumers to ever own. 
+ Microsoft 
+ But as the explosion of cloud  computing  has proven, you don’t need to own a specialized computer to harness its capabilities. As mentioned above, IBM is already offering daring technophiles the chance to run programs on a small subset of its  Q System One’s qubits . In time, IBM and its competitors will likely sell compute time on more robust  quantum  computers for those interested in applying them to otherwise inscrutable problems. 
+ But if you aren’t researching the kinds of exceptionally tricky problems that  quantum  computers aim to solve, you probably won’t interact with them much. In fact,  quantum  computers are in some cases worse at the sort of tasks we use computers for every day, purely because  quantum  computers are so hyper-specialized. Unless you are an academic running the kind of modeling where  quantum   computing  thrives, you’ll likely never get your hands on one, and never need to. 
+ 
+			Editors' Recommendations		 
+ 
+ 
+ 
+						This algorithm could revolutionize disease diagnosis, but we can’t use it yet					 
+ 
+ 
+ 
+						Meet Silq: The first intuitive programming language for  quantum  computers					 
+ 
+ 
+ 
+						CERN wants to build an even larger super-collider to research particle physics					 
+ 
+ 
+ 
+						What is a hard drive?					 
+ 
+ 
+ 
+						Hubble captures a galaxy zooming away from us at 1,000 miles a second					 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 					The best web browsers for 2020				   
+ 
+ 1 day ago   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 					Sony’s A7S III is the ultimate 4K video camera, five years in the making				   
+ 
+ 1 day ago   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 					These are the best cheap external hard drive deals for August 2020				   
+ 
+ 2 days ago   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 					This algorithm could revolutionize disease diagnosis, but we can’t use it yet				   
+ 
+ 3 days ago   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 					This could be the best Microsoft Office deal we’ve ever seen				   
+ 
+ 4 days ago   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 					How to use Skype				   
+ 
+ 2 days ago   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 					The best Google Chrome themes for 2020				   
+ 
+ 2 days ago   
+ 
+ 
+ 
+ 
+ 
+ 					How to password-protect an Excel file				   
+ 
+ 2 days ago   
+ 
+ 
+ 
+ 
+ 
+ 					How to choose an Ethernet cable				   
+ 
+ 2 days ago   
+ 
+ 
+ 
+ 
+ 
+ 					How to record a Skype call				   
+ 
+ 2 days ago   
+ 
+ 
+ 
+ 
+ 
+ 					The best password managers for 2020				   
+ 
+ 2 days ago   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 					3 Apple deals you can’t afford to miss today				   
+ 
+ 2 days ago   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 					The best cheap gaming PCs				   
+ 
+ 2 days ago   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 					AMD Ryzen and Radeon road map: 2020-21 and beyond				   
+ 
+ 2 days ago   
+ 
+ 
+ 
+ 
+ 
+ 					These are the best cheap Dell XPS deals for August 2020				   
+ 
+ 2 days ago   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Upgrade your lifestyle Digital Trends helps readers keep tabs on the fast-paced world of tech with all the latest news, fun product reviews, insightful editorials, and one-of-a-kind sneak peeks. Digital Trends may earn a commission when you buy through links on our site. 
+ Copyright ©2020 Designtechnica Corporation. All rights reserved. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Add Us To Your Social Channels 
+ 
+ Facebook 
+ Twitter 
+ Instragram 
+ LinkedIn 
+ Pinterest 
+ YouTube 
+ RSS Home 
+ 
+ 
+ Subscribe 
+ 
+ Newsletter Landing 
+ 
+ 
+ 
+ Must Reads 
+ 
+ Best Movies on Netflix 
+ Best Shows on Netflix 
+ Best Shows on Hulu 
+ Best Movies on Hulu 
+ Best Shows on Amazon Prime 
+ Best Movies on Amazon Prime 
+ Best iPhone Games 
+ Best Android Games 
+ Best Tech Jobs 
+ 
+ 
+ Popular Downloads 
+ 
+ Download Fortnite 
+ Download Skype 
+ Download Winrar 
+ Download Netflix for Android 
+ Download Spotify for Android 
+ Download PC games 
+ Downloads for Windows 
+ Downloads for Mac 
+ Downloads for Android 
+ 
+ 
+ Who We Are 
+ 
+ About Us 
+ Diversity & Inclusion 
+ Contact Us 
+ Privacy Policy 
+ Terms of Use 
+ Do Not Sell My Info 
+ Careers 
+ DT Español 
+ The Manual 
+ The Angle 
+ Podcasts 
+ Giveaways 
+ Sponsored Content 
+ Advertise with Us 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

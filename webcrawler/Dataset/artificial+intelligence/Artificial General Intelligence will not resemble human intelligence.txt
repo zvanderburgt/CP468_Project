@@ -1,0 +1,580 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Artificial General Intelligence will not resemble human intelligence 
+ 
+ 
+ 
+ 
+ [if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif] 
+ 
+ 
+ 
+ 
+      Skip to main content
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About menu 
+ 
+ 
+ Home 
+ 
+ 
+ About 
+ 
+ 
+ About Us 
+ 
+ 
+ The Team 
+ 
+ 
+ Terms and Privacy 
+ 
+ 
+ 
+ 
+ Let's Talk 
+ 
+ 
+ 
+ 
+ 
+ Menu 
+ 
+ 
+ 
+          Your story library
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Main navigation 
+ 
+ 
+ Core tech 
+ 
+ 
+ ERP 
+ 
+ 
+ HCM 
+ 
+ 
+ CRM 
+ 
+ 
+ Analytics 
+ 
+ 
+ Marketing 
+ 
+ 
+ Collaboration 
+ 
+ 
+ Infrastructure 
+ 
+ 
+ Open source 
+ 
+ 
+ 
+ 
+ Future tech 
+ 
+ 
+ IoT 
+ 
+ 
+ Robotics 
+ 
+ 
+ Machine and deep learning 
+ 
+ 
+ UX 
+ 
+ 
+ 
+ 
+ Policy & practice 
+ 
+ 
+ User stories 
+ 
+ 
+ Work 
+ 
+ 
+ Brexit 
+ 
+ 
+ Privacy 
+ 
+ 
+ Regulation 
+ 
+ 
+ Services 
+ 
+ 
+ Earnings reports 
+ 
+ 
+ 
+ 
+ Vertical markets 
+ 
+ 
+ Government 
+ 
+ 
+ Retail 
+ 
+ 
+ Financial services 
+ 
+ 
+ Connected manufacturing 
+ 
+ 
+ 
+ 
+ dbooks 
+ 
+ 
+ XaaS 
+ 
+ 
+ 
+ 
+ Partners 
+ 
+ 
+ COVID-19 
+ 
+ 
+ Events 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Artificial General Intelligence will not resemble human intelligence 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Read later 
+ 
+ 
+ 
+ 
+ 
+ By  Neil Raden 
+ 
+ July 30, 2020 
+ 
+ Summary:    
+          Airplanes don't flap their wings like birds, and artificial general intelligence (AGI) will never think like the human brain, which is more complex than we imagine
+       
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (© ktsdesign - Fotolia.com) 
+ 
+ AGI, Artificial General Intelligence, is the dream of some researchers — and the nightmare of the rest of us. While AGI will never be able to do more than simulate some aspects of human behavior, its gaps will be more frightening than its capabilities. Will humans be interacting with seemingly intelligent robots in ten years? Yes, and we already are. Will robots be ubiquitous in our lives, with human-like abilities such as emotions, unsupervised learning? Yes. 
+ By the end of this century, will robots' intelligence and skills match and exceed our own? 
+ Yes, but they won't think like humans. They won't need to. There will be human intelligence, together with our current weak simulation of intelligence for specific tasks, and a third thing — machine intelligence, superior to ours, but not the same. 
+ Neurons have the edge 
+ Unless there are new forms of computing we have not yet imagined, the processing power of a human brain is too far beyond the scale that we can duplicate with machines. And it's not just scale, it's efficiency. The current largest supercomputers in the world take 20MW of electricity to run and an entire cooling capacity building. The human brain runs on about 20W, or one-millionth the energy at about one exaFLOP, a billion billion calculations per second, five times the current fastest supercomputer's speed.  Dr. Stuart Hameroff  has  this to say about brain computation  in comparison to current AI techniques: 
+ The AI approach would be, roughly speaking, that a neuron fires or doesn't. It's roughly comparable to a bit, 1 or 0. It's more complicated than that, but roughly speaking. 
+ I was saying no, each neuron has approximately 10 8   tubulins  switching at around 10 7  per second, getting 10 15  operations per second per neuron. If you multiply that by the number of neurons, you get 10 26  operations per second per brain. AI is looking at neurons firing or not firing, 1,000 per second, 1,000 synapses. Something like 10 15  operations per second per brain… and that's without even bringing in the quantum business. 
+ 
+ Neural networks (or more precisely, Artificial Neural Networks, ANN) were a weak model to start, a sort of naïve and simplified model of how the brain works. While the original concept was to mimic the brain, it didn't take long to realize that it was impossible. Development proceeded with other designs for Machine Learning (ML) and variants of the ANN model — Recurrent Neural Networks (RNN) and Generative Adversarial Networks (GAN). These models diverge even farther from the brain metaphor to address specific applications, such as Natural Language Processing and Image Recognition.  
+ A single neuron can have as many as 100,000 inputs all from different cells , explains Yariv Adan, a Google product manager. Writing on  Medium , he explains that neurons, and the brain as a whole, have remarkable capabilities such as plasticity: 
+ New synaptic connections are made, old ones go away, and existing connections become stronger or weaker, based on experience. 
+ 
+ Plasticity even plays a role in the single neuron. The chemical and electric mechanisms of brain neurons are much more nuanced and robust compared to artificial neurons. Adan elaborates: 
+ For example, a neuron is not isoelectric — meaning that different regions in the cell may hold different voltage potential, and different current running through it. This allows a single neuron to do nonlinear calculations, identify changes over time (eg, moving object), or map parallel tasks to different dendritic regions — such that the cell as a whole can complete complex composite tasks. These are all much more advanced structures and capabilities compared to the very simple artificial neuron. 
+ 
+ What's the point of AI? 
+ The development of ANN tends to veer away from the stated goal to simulate human intelligence. Commercially, it is far more valuable to provide cognitive agents with natural language capabilities than a synthetic genetic human. Truly thinking machines will only arrive if they can learn from a minimal set of training examples — most probably through some built-in models that allow 'intuitive' understanding of physical laws, psychology, causality, and other rules that govern decision making and acting on Earth. These accelerate learning and guide prediction/action compared to the current generic tabula-rasa NN architectures. Perhaps, the answer is to implement AGI, not in a computer, but a hybrid biological machinal device. That thought keeps me awake at night. 
+ And it begs the question, with seven billion people in the world, many of whom don't have enough to do already, why would we want to approximate and simulate the most exquisite computing engine for an artificial one? That's the riddle I can't figure out. 
+ Another aspect of the human brain that, in my opinion, renders it not copyable, is how we process the same input differently at different times based on the condition of the whole network. ANN does not do this either. A just-published paper on "cortical excitability" by researchers from The Max Planck Institute for Human Cognitive and Brain Sciences explains  why the brain never processes the same input in the same way and how it works : 
+ This occurs because the impact a stimulus makes, on the brain regions that process it, depends on the momentary state of the networks those brain regions belong to. However, the factors that influence and underlie the constantly fluctuating momentary state of the networks and whether these states are random or follow a rhythm, was previously unknown. 
+ 
+ Consciousness, a quantum effect 
+ Hameroff had a theory about consciousness which he proposed decades ago. If Hameroff had offered these ideas himself, he might have been ignored, but his co-theorist was  Sir Roger Penrose , an esteemed figure in mathematical physics. Their theory, dubbed "orchestrated objective reduction," or  Orch-OR , suggests that structures called microtubules, which transport material inside cells, underlie our conscious thinking. 
+ So what is Orch-OR? Basically — as if anything involving quantum mechanics can be basic — it holds that consciousness is an emergent chaotic process that arises from the collapse of the wave function (quantum) in the neurons' microtubules that yield a conscious moment. And that is the central, undeniable reason why a computer will never have consciousness. Computers are algorithmic. Computers cannot simulate chaos, and chaos is at the root of consciousness. 
+ That is, if you accept the Orch-OR theory. I was first overwhelmed by Gödel's theorem many decades ago, which proved that lots of things in formal systems may be true, but cannot be proven. Penrose, speaking about Gödel's theorem, said: 
+ It told me that whatever is going on in our understanding is not computational. 
+ 
+ Synthesizing emotions 
+ In a  Forbes  article,  Empathy in Artificial Intelligence , Jun Wu gushes: 
+ In order for Artificial Intelligence to empathize with human emotions, artificial intelligence must have a way of learning about the range of emotions that we experience. 
+ Emoshape  is the first company to hold the patent technology for emotional synthesis. The emotion chip or EPU developed by Emoshape can enable any AI System to understand the range of emotions experienced by humans. At any moment, the EPU can understand 64 trillion possible emotional states every 1/10th of a second. The range of your emotions is mapped onto a gradient where each emotion's degree can be observed. 
+ 
+ Let's be clear here, "understand" does not mean process. Mapping to a gradient would imply a discrete value assigned, which is a pretty primitive way to represent emotions. Wu continues breathlessly: 
+ SignalactionAI  is using Emoshape to make situational awareness actionable by generating real-time insights with emotional intelligence from voice and text communication to empower users to make smart choices for positive outcomes. 
+ 
+ My take 
+ We are not close to "situational awareness." I see no path to an AGI that is a duplicate (and superior one) to human intelligence. Our current efforts are not much more than point solutions. Nor do I see the need. Airplanes don't flap their wings, they fly higher and faster than birds.  
+ What I do see, however, is a third thing — an artificial intelligence that is different and superior to human intelligence. We will have the technology for this in this century. While the relentless push to AGI raises serious ethical questions, they will not moderate progress. 
+ 
+ 
+ 
+ 
+ Read more on:    
+ Future of work 
+ Machine intelligence and AI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ New on diginomica/government 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ UK’s NHS COVID-19 tracing app will be ‘technically ready’ in 3 weeks  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Contact tracing, data and the NHS - some questions answered by NHSX 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Divisions over COVID-19 contact tracing tech emerge in Europe  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ California publishes ‘Crisis Standard’ to help authorities design services in response to Coronavirus  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The effectiveness of Coronavirus tracing technology called into question as UK works to develop app 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Premier partner newsfeed 
+ 
+ 
+ 
+ Creating a Culture That Fosters Product and Technology Innovation 
+ 
+ 
+ 
+ 
+ It’s a Four-Peat – Sage Intacct Receives the Highest Product Score Four Years in a Row 
+ 
+ 
+ 
+ 
+ Five remote sales trends we observed in Zoho CRM 
+ 
+ 
+ 
+ 
+ Troubleshoot Your Stack, Not Your Monitoring Bill 
+ 
+ 
+ 
+ 
+ How 3 SMBs Are Successfully Running Their Businesses on Acumatica Cloud ERP 
+ 
+ 
+ 
+ 
+ Leading Through Change in Financial Services: Aligning Collections with Borrower Engagement 
+ 
+ 
+ 
+ 
+ Department of Conservation chooses new mobile PM solution and transforms their SAP processes 
+ 
+ 
+ 
+ 
+ 5 Things to Know from the SAP Q2 2020 Earnings Call 
+ 
+ 
+ 
+ 
+ First-Time Fix: 5 Ways to Increase Your FTF Rate 
+ 
+ 
+ 
+ 
+ Taking off after the coronavirus pandemic: How commercial aviation can navigate the recovery phase 
+ 
+ 
+ 
+ 
+ Being Planful: Helpful FP&A Resources to Navigate an Uncertain World 
+ 
+ 
+ 
+ 
+ Atlas, Noodle.ai’s Machine Learning (ML) Framework Part 2: Design Premise & Architecture 
+ 
+ 
+ 
+ 
+ Understanding the dynamics of business transformation: Why great directors speak truth to power 
+ 
+ 
+ 
+ 
+ Why IIoT Serves a Critical Role During the COVID-19 Pandemic 
+ 
+ 
+ 
+ 
+ A sustainable food future through the supply chain 
+ 
+ 
+ 
+ 
+ McKinsey on What Resilient Companies Do Differently 
+ 
+ 
+ 
+ 
+ 4 Ways Marketers Can Seize the Chance to Prioritize Investment Data 
+ 
+ 
+ 
+ 
+ Rimini Street Expands Investment in Latin America and Appoints New General Manager for Mexico and Central America 
+ 
+ 
+ 
+ 
+ Helping customers manage risk in the age of COVID-19 
+ 
+ 
+ 
+ 
+ 4 best practices for creating a stellar mobile experience 
+ 
+ 
+ 
+ 
+ School of Rock, One Beat CPR Share Their Front Line Action Plans for Adaptation and the Future 
+ 
+ 
+ 
+ 
+ Latest Conversations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Go to topics 
+ 
+ 
+ diginomica - The new professional and IT as a service - IT service management - Digital skills and training - Outsourcing - Professional services - HCM and the digital future of work - Diversity - Future of work - HR admin and payroll - Talent management - Healthcare transformation - IoT robotics and AI - Internet of Things - Machine intelligence and AI - Robotics - Retail e-commerce and the omni-channel - e-commerce - UX and application design - Mobile - User experience - Zoneless - Analytics planning and data analysis - Brexit - Cloud ERP financials and supply chain - Financials - Spend management - Governing identity privacy and security - Ethics - Security - Identity - Regulation - Data privacy - Hits and misses - Collaboration sharing and digital productivity - Productivity - Social - Connected manufacturing - CRM and customer experience - Customer service management - DevOps NoSQL and the open source stack - Open source - NoSQL - Cloud platforms - infrastructure and architecture - Infrastructure - Digital and content marketing - Content marketing - Digital transformation - frictionless enterprise - Frictionless enterprise - Financial services and fintech - Fintech - Digital government and public services - Local - Third sector and non-profits - Health - G-Cloud and the Digital Marketplace - Education - Central - Digital enterprise in the real world - Use cases 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Copyright diginomica Ltd 2013-20. 
+ Created under Creative Commons License, some rights reserved. 
+ 
+ 
+ 
+ 
+ Cookie settings 
+ 
+ 
+ Developed by  BRAINSUM . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

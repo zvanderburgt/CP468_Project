@@ -1,0 +1,434 @@
+Quantum computer - definition of quantum computer by The Free Dictionary 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [if IE 8]><script src="//img.tfd.com/m/html5.js"></script><![endif] 
+ 
+ 
+ Quantum computer - definition of quantum computer by The Free Dictionary   https://www.thefreedictionary.com/quantum+computer Printer Friendly 
+ 
+ 
+ 
+ 
+ Dictionary, Encyclopedia and Thesaurus - The Free Dictionary 
+ 12,316,094,850  visitors served 
+ 
+ 
+ Search /  Page tools 
+ 
+ 
+ 
+ 
+ 
+ TheFreeDictionary 
+ Google 
+ 
+ ? 
+ 
+ 
+ 
+ Keyboard 
+ 
+ 
+ 
+ 
+ 
+ Word / Article 
+ Starts with 
+ Ends with 
+ Text 
+ 
+ 
+ 
+ 
+ 
+ 
+ A 
+ A 
+ A 
+ A 
+ 
+ 
+ Language: 
+ 
+ 
+ English Español Deutsch Français Italiano العربية 中文简体 Polski Português Nederlands Norsk Ελληνική Русский Türkçe אנגלית 
+ 
+ 
+ 
+ 
+ 
+ 
+ Twitter 
+ 
+ 
+ Get our app 
+ 
+ 
+ 
+ 
+ Flashcards 
+ ? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ My bookmarks 
+ ? 
+ 
+ 
+ +  Add current page to bookmarks 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Register 
+ Log in 
+ 
+ Sign up with one click: 
+ 
+ Facebook 
+ Twitter 
+ Google 
+ Yahoo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Get our app 
+ 
+ 
+ 
+ Dictionary Thesaurus Medical Dictionary Legal Dictionary Financial Dictionary Acronyms Idioms Encyclopedia Wikipedia Encyclopedia 
+ 
+ 
+ 
+ Tools 
+ 
+ 
+ 
+ A 
+ A 
+ A 
+ A 
+ 
+ 
+ Language: 
+ 
+ 
+ English Español Deutsch Français Italiano العربية 中文简体 Polski Português Nederlands Norsk Ελληνική Русский Türkçe אנגלית 
+ 
+ 
+ 
+ 
+ Mobile Apps: 
+ 
+ apple 
+ android 
+ 
+ 
+ 
+ For surfers: 
+ 
+ Free toolbar & extensions 
+ Word of the Day 
+ 
+ Help 
+ 
+ 
+ 
+ For webmasters: 
+ 
+ Free content 
+ Linking 
+ Lookup box 
+ 
+ 
+ Close 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ quantum computer   Also found in:  Encyclopedia ,  Wikipedia .
+		 
+ quantum computer n.  A computer that exploits the quantum mechanical properties of subatomic particles to allow a single operation to act on a large amount of data. quantum computer     n    (Computer Science) a type of computer which uses the ability of quantum systems to be in many different states at once, thus allowing it to perform many different computations simultaneously   
+ 
+ 
+ 
+		Want to thank TFD for its existence?  Tell a friend about us , add a link to this page, or visit  the webmaster's page for free fun content .
+		 
+		Link to this page:  <a href="https://www.thefreedictionary.com/quantum+computer">quantum computer</a> 
+ 
+ 
+ Facebook 
+ Twitter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Feedback 
+ 
+ 
+ 
+ 
+ 
+ Flashcards & Bookmarks 
+ ? 
+ 
+ Please  log in  or  register  to use Flashcards and Bookmarks. You can also log in with  Facebook Twitter Google+ Yahoo 
+ 
+ 
+ 
+ Flashcards 
+ ? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ My bookmarks 
+ ? 
+ 
+ 
+ 
+ +  Add current page to bookmarks 
+ 
+ 
+ 
+ 
+ 
+ 
+ TheFreeDictionary presents: 
+ 
+ 
+ Write what you mean clearly and correctly. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mentioned in 
+ ? 
+ 
+ 
+ arithmetic calculate cipher compute cypher factor factor in factor out figure quantum bit qubyte reckon superdense work out 
+ 
+ 
+ 
+ 
+ References in periodicals archive 
+ ? 
+ 
+ 
+ A  quantum computer  uses quantum bits, or qubits, to process information in new ways. Seven basic questions about quantum technology, answered Physicists at the National Institute of Standards and Technology (NIST) have teleported a computer circuit instruction known as a quantum logic operation between two separated ions (electrically charged atoms), showcasing how  quantum computer  programs could carry out tasks in future large-scale quantum networks. Physicists 'Teleport' Logic Operation At a certain moment in time, the binary values of the n bits corresponding to a classical computer define a certain state for it, while in the case of a  quantum computer , at a certain moment in time, a number of n qubits have the possibility to define all the classical computer's states, therefore covering an exponential increased computational volume. FROM BITS TO QUBITS, FROM COMPUTING TO QUANTUM COMPUTING: AN EVOLUTION ON THE VERGE OF A REVOLUTION IN THE COMPUTING LANDSCAPE has launched ISARA Catalyst Agile Digital Certificate Technology, a first-of-its-kind technology that allows organizations and manufacturers to secure their infrastructure and connected devices from the looming threat of an encryption-breaking  quantum computer . ISARA LAUNCHES CATALYST AGILE DIGITAL CERTIFICATE ISARA Corp., the world's provider of agile quantum-safe security solutions, has announced the launch of ISARA Catalyst(TM) Agile Digital Certificate Technology, a first-of-its-kind technology that allows organizations and manufacturers to secure their infrastructure and connected devices from the looming threat of an encryption-breaking  quantum computer , the company said. ISARA introduces technology to ease transition to quantum-safe future This includes defining the base capabilities of a  quantum computer , and tests such as a suite of algorithms upon which, if somebody's machine can solve these problems efficiently, demonstrates a capability beyond what we currently believe to be classically possible. Quantum Information Science: Making the Leap: 'Extraordinarily important for our economic and national security' IBM has simulated the electronic structure of a small molecule, using a seven-qubit  quantum computer . MATERIALS' QUANTUM LEAP: Researchers recently used a quantum computer to model a simple molecule. That's just the start But until recently, that possibility has remained only theoretical, as no one has known how to build a  quantum computer , much less program one. Quantum Computing Moves Toward Reality Quantum computers  use quantum mechanics to solve mathematical problems in ways that conventional computers can't.The development ofa large-scale  quantum computer  could place many encryption systems at risk, according to the committee. Standards committee seeks computing, cryptography experts Last week I visited the same lab, where my hosts showed me the world's first  quantum computer  that can handle 50 quantum bits, or qubits, which it unveiled in November. Stranger Than Fiction! A quantum simulator is not a general-purpose  quantum computer , but one that is designed to solve a particular equation or simulate a specific problem. Quantum Simulator With 53 Qubits Sets Record 
+ 
+ 
+ 
+ 
+ 
+ Dictionary browser 
+ ? 
+ 
+ 
+ ▲ Quantitive Quantitively quantity quantity discount Quantity of action Quantity of estate Quantity of matter Quantity of motion quantity surveyor quantity theory quantity unit quantivalence quantivalent quantization quantize quantized quantizer quantometer quantong Quantrill William Clarke quantulum quantum quantum bit quantum chromodynamics quantum coherence quantum computer quantum cryptography quantum dot quantum efficiency quantum electrodynamics quantum electronics quantum entanglement quantum field theory quantum flavourdynamics quantum gravity quantum jump quantum leap quantum mechanics quantum meruit quantum number quantum physics quantum state quantum statistics Quantum sufficit quantum teleportation quantum theory quantum tunneling Quantum valebat Quanzhou Quaoar Quap ▼ 
+ 
+ 
+ 
+ 
+ Full browser 
+ ? 
+ 
+ 
+ ▲ Quantum Chemical Reaction Dynamics 
+ Quantum Chemical Tree Code 
+ Quantum chemistry 
+ Quantum Chemistry and Chemical Dynamics Group 
+ Quantum Chemistry Literature Date Base 
+ Quantum Chemistry Program Exchange 
+ Quantum Chrestenson Transform 
+ Quantum Chromo-Dynamics On-a-Chip 
+ Quantum Chromo-Dynamics SumRules 
+ Quantum Chromo-Electro-Dynamics 
+ Quantum Chromodynamic Compton 
+ quantum chromodynamics 
+ quantum chromodynamics 
+ quantum chromodynamics 
+ quantum chromodynamics 
+ Quantum Chromodynamics on Digital Signal Processors 
+ Quantum Classical Liouville Equation 
+ Quantum Clock 
+ quantum coherence 
+ Quantum communication channel 
+ Quantum Communication, Measurement and Computing 
+ Quantum Communications Group, Inc. 
+ Quantum Communications Victoria 
+ Quantum Competition 3 
+ Quantum Complexities in Condensed Matter 
+ Quantum computation 
+ Quantum computation 
+ Quantum computation 
+ Quantum Computation Language 
+ Quantum Computation/Cryptography 
+ quantum computer Quantum Computer Emulator 
+ Quantum Computer Resources 
+ Quantum Computer Services 
+ Quantum computers 
+ Quantum computers 
+ Quantum computing 
+ Quantum computing 
+ Quantum computing 
+ Quantum computing 
+ Quantum Computing Concept Maturation 
+ Quantum Computing Graduate Research 
+ Quantum Condensed Matter Research Group 
+ Quantum Confined Stark Effect 
+ Quantum confinement 
+ Quantum confinement 
+ Quantum confinement effect 
+ Quantum confinement effect 
+ Quantum confinement effect 
+ Quantum Conservation 
+ Quantum Continuum Club 
+ Quantum cosmology 
+ Quantum Counter 
+ Quantum Cpu 
+ Quantum cryptography 
+ Quantum cryptography 
+ Quantum cryptography 
+ Quantum cryptography 
+ Quantum damnificatus 
+ Quantum Data Compression 
+ Quantum Data Hiding 
+ ▼ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Facebook Share 
+ Twitter 
+ 
+ CITE 
+ 
+ 
+ 
+ 
+ 
+ 
+ Site: 
+ Follow: 
+ 
+ Facebook 
+ Twitter 
+ Rss 
+ Mail 
+ 
+ Share: 
+ 
+ Facebook 
+ Twitter 
+ LinkedIn 
+ Mail 
+ 
+ 
+ 
+ Open / Close 
+ 
+ 
+ 
+ 
+ 
+ More from  Dictionary, Thesaurus, and Translations 
+ 
+ 
+ Mobile Apps 
+ 
+ Apple 
+ Android 
+ Kindle 
+ Windows 
+ Windows Phone 
+ 
+ 
+ 
+ Free Tools 
+ 
+ 
+ For surfers: 
+ 
+ Free toolbar & extensions 
+ Word of the Day 
+ 
+ Help 
+ 
+ 
+ 
+ For webmasters: 
+ 
+ Free content 
+ Linking 
+ Lookup box 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Terms of Use 
+ Privacy policy 
+ Feedback 
+ Advertise with Us 
+ 
+ Copyright © 2003-2020  Farlex, Inc 
+ 
+ Disclaimer 
+ All content on this website, including dictionary, thesaurus, literature, geography, and other reference data is for informational purposes only. This information should not be considered complete, up to date, and is not intended to be used in place of a visit, consultation, or advice of a legal, medical, or any other professional. 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 

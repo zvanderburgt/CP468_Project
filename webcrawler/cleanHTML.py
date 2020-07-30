@@ -8,7 +8,11 @@ import re
 def cleanhtml(raw_html):
     cleanr = re.compile('<.*?>')
     cleantext = re.sub(cleanr, '', raw_html)
-    return cleantext
+    cleanr2 = re.compile('\{.*?\}')
+    cleantext2 = re.sub(cleanr2, '', cleantext)
+    cleanr3 = re.compile('\(.*?\)')
+    cleantext3 = re.sub(cleanr3, '', cleantext2)
+    return cleantext3
 
 
 def main():

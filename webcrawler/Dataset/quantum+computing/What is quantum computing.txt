@@ -1,0 +1,1351 @@
+What is quantum computing? 
+  Begin Google Tag Manager  
+  End Google Tag Manager  
+ 
+  PinnedNavBarController, generated at 13:37:17 Thu Jul 30, 2020, by cds6  
+  AdsController, generated at 13:37:17 Thu Jul 30, 2020, by cds6  
+ 
+  AdsController, generated at 13:37:17 Thu Jul 30, 2020, by cds6  
+ 
+ 
+ 
+ WhatIs.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search Thousands of Tech Definitions 
+ 
+ 
+ 
+ 
+ 
+			Browse Definitions
+		: 
+ 
+ A 
+ B 
+ C 
+ D 
+ E 
+ F 
+ G 
+ H 
+ I 
+ J 
+ K 
+ L 
+ M 
+ N 
+ O 
+ P 
+ Q 
+ R 
+ S 
+ T 
+ U 
+ V 
+ W 
+ X 
+ Y 
+ Z 
+ # 
+ 
+ 
+ 
+ 
+ Login 
+ Register 
+ 
+ 
+ 
+ 
+ Techtarget Network 
+ File Extensions 
+ 
+ 
+ 
+ RSS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WhatIs .com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Browse Definitions 
+ 
+					Computing fundamentals 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+									Computer Science 
+ 
+ View All 
+ 
+ 
+ 
+									Algorithms 
+ 
+									Artificial intelligence - machine learning 
+ 
+									Electronics 
+ 
+									Fast references 
+ 
+									IT standards and organizations 
+ 
+									Learning guides 
+ 
+									Mathematics 
+ 
+									Microprocessors 
+ 
+									Nanotechnology 
+ 
+									Podcasts 
+ 
+									Protocols 
+ 
+									Quick Start Glossaries 
+ 
+									Quizzes 
+ 
+									Robotics 
+ 
+									Video Production 
+ 
+ 
+ 
+ 
+ 
+ 
+									AppDev 
+ 
+ View All 
+ 
+ 
+ 
+									Agile, Scrum, XP 
+ 
+									Apple 
+ 
+									DevOps 
+ 
+									Internet applications 
+ 
+									Java  
+ 
+									Linux 
+ 
+									Microsoft 
+ 
+									Open source 
+ 
+									Operating systems 
+ 
+									Programming 
+ 
+									Software applications 
+ 
+									Software development 
+ 
+									Web services, SOA 
+ 
+ 
+ 
+ 
+ 
+ 
+									Business software 
+ 
+ View All 
+ 
+ 
+ 
+									Amazon Web Services (AWS) 
+ 
+									Google - Android 
+ 
+									Microsoft - Windows 
+ 
+									Open Source 
+ 
+									Oracle 
+ 
+									Salesforce 
+ 
+									SAP 
+ 
+									VMware 
+ 
+									Writing for Business 
+ 
+ 
+ 
+ 
+ 
+ 
+									Computer Science 
+ 
+ View All 
+ 
+ 
+ 
+									Algorithms 
+ 
+									Artificial intelligence - machine learning 
+ 
+									Computing fundamentals 
+ 
+									Electronics 
+ 
+									Fast references 
+ 
+									IT standards and organizations 
+ 
+									Learning guides 
+ 
+									Mathematics 
+ 
+									Microprocessors 
+ 
+									Nanotechnology 
+ 
+									Podcasts 
+ 
+									Protocols 
+ 
+									Quick Start Glossaries 
+ 
+									Quizzes 
+ 
+									Robotics 
+ 
+									Video Production 
+ 
+ 
+ 
+ 
+ 
+ 
+									Consumer Tech 
+ 
+ View All 
+ 
+ 
+ 
+									Desktops and laptops 
+ 
+									End user hardware 
+ 
+									Internet acronyms and lingo 
+ 
+									Internet technologies 
+ 
+									Multimedia and graphics 
+ 
+									Personal computing 
+ 
+									Printers 
+ 
+									Wireless and mobile 
+ 
+ 
+ 
+ 
+ 
+ 
+									Data Center 
+ 
+ View All 
+ 
+ 
+ 
+									Cloud computing 
+ 
+									Converged infrastructure 
+ 
+									Data center management 
+ 
+									Disaster recovery 
+ 
+									Hardware 
+ 
+									IT Operations 
+ 
+									Storage hardware 
+ 
+									Virtualization 
+ 
+ 
+ 
+ 
+ 
+ 
+									IT Management 
+ 
+ View All 
+ 
+ 
+ 
+									Business software 
+ 
+									Career paths and IT certifications 
+ 
+									Compliance, risk and governance 
+ 
+									CRM 
+ 
+									ERP 
+ 
+									Government IT 
+ 
+									Healthcare IT 
+ 
+									HR management 
+ 
+									IT procurement 
+ 
+									Network management 
+ 
+									Project management 
+ 
+									Security management 
+ 
+									SEO 
+ 
+									Software asset management 
+ 
+									Storage management 
+ 
+ 
+ 
+ 
+ 
+ 
+									Networking 
+ 
+ View All 
+ 
+ 
+ 
+									Circuit switched services equipment and providers 
+ 
+									Data transmission 
+ 
+									Email and messaging 
+ 
+									High-speed networks 
+ 
+									Internet of Things 
+ 
+									LANs 
+ 
+									Network hardware 
+ 
+									Network software 
+ 
+									Networking and communications 
+ 
+									Routing and switching 
+ 
+									Smart grid 
+ 
+									Telecom 
+ 
+									VoIP 
+ 
+									Wireless LANs 
+ 
+									Wireless technologies 
+ 
+ 
+ 
+ 
+ 
+ 
+									Study Resources 
+ 
+ View All 
+ 
+ 
+ 
+ 
+ 
+ 
+									Security 
+ 
+ View All 
+ 
+ 
+ 
+									Anti-virus, antimalware 
+ 
+									Application security 
+ 
+									Authentication, access control 
+ 
+									Malware 
+ 
+									Network security 
+ 
+									Threat management 
+ 
+ 
+ 
+ 
+ 
+ 
+									Storage and Data Mgmt 
+ 
+ View All 
+ 
+ 
+ 
+									Business intelligence - business analytics 
+ 
+									Customer data management 
+ 
+									Data and data management 
+ 
+									Data backup - disaster recovery 
+ 
+									Data deduplication 
+ 
+									Database management 
+ 
+									Enterprise content management 
+ 
+									NAS 
+ 
+									Solid state storage 
+ 
+									SAN 
+ 
+ 
+ 
+ Please select a category 
+ 
+ 
+										AppDev 
+ 
+										Business software 
+ 
+										Computer Science 
+ 
+										Consumer Tech 
+ 
+										Data Center 
+ 
+										IT Management 
+ 
+										Networking 
+ 
+										Study Resources 
+ 
+										Security 
+ 
+										Storage and Data Mgmt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Quick Study 
+ Resources 
+ 
+ 
+ 
+ 
+ 
+ Buyer's Guides 
+ Certification Practice Questions and Exam Information 
+ Cheat Sheets 
+ Expert Advice 
+ IT Interview Questions and Answers 
+ Learning Guides 
+ Quizzes 
+ Tech Accelerator 
+ Technology-specific sites 
+ Writing for Business 
+ 
+ 
+ 
+ 
+ 
+ Follow: 
+ 
+ 
+ 
+  AdsController, generated at 13:37:17 Thu Jul 30, 2020, by cds6  
+  BreadcrumbsController, generated at 13:18:37 Thu Jul 30, 2020, by cds6  
+ 
+ 
+ 
+ Home 
+ Topics 
+ Computer Science 
+ Computing fundamentals 
+ quantum computing  
+ 
+ 
+ 
+ 
+ 
+  ContentItemController, generated at 13:18:37 Thu Jul 30, 2020, by cds6  
+ 
+ Definition quantum computing  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+									Posted by:  Margaret Rouse 
+ 
+ WhatIs.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Contributor(s): Borys Pawliw
+https://www.linkedin.com/in/boryspawliw/  
+ 
+  AdsController, generated at 13:18:37 Thu Jul 30, 2020, by cds6  
+ 
+ 
+  SocialMediaShareBarController, generated at 13:38:53 Thu Jul 30, 2020, by cds6  
+ 
+ 
+ 
+ Share this item with your network: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  ContentItemController, generated at 13:18:37 Thu Jul 30, 2020, by cds6  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Quantum computing is an area of study focused on the development of computer based technologies centered around the principles of  quantum theory . Quantum theory explains the nature and behavior of energy and matter on the  quantum  (atomic and subatomic) level. Quantum computing uses a combination of  bits  to perform specific computational tasks. All at a much higher efficiency than their classical counterparts. Development of  quantum computers  mark a leap forward in computing capability, with massive performance gains for specific use cases. For example quantum computing excels at like simulations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The quantum computer gains much of its processing power through the ability for bits to be in multiple states at one time. They can perform tasks using a combination of 1’s, 0’s and both a 1 and 0 simultaneously. Current research centers in quantum computing include MIT, IBM, Oxford University, and the Los Alamos National Laboratory. In addition, developers have begun gaining access to  quantum computers through cloud services . 
+ Quantum computing began with finding its essential elements. In 1981, Paul Benioff at Argonne National Labs came up with the idea of a computer that operated with quantum mechanical principles. It is generally accepted that David Deutsch of Oxford University provided the critical idea behind quantum computing research. In 1984, he began to wonder about the possibility of designing a computer that was based exclusively on quantum rules, publishing a breakthrough paper a few months later. 
+ Quantum Theory 
+ Quantum theory's development began in 1900 with a presentation by Max Planck. The presentation was to the German Physical Society, in which Planck introduced the idea that energy and matter exists in individual units. Further developments by a number of scientists over the following thirty years led to the modern understanding of quantum theory. 
+ 
+ 
+ 
+ The IBM Q System One was introduced in January 2019 and was the first quantum computing system for scientific and commercial use.
+  
+ 
+ 
+ 
+ 
+ Quantum Theory 
+ Quantum theory's development began in 1900 with a presentation by Max Planck. The presentation was to the German Physical Society, in which Planck introduced the idea that energy and matter exists in individual units. Further developments by a number of scientists over the following thirty years led to the modern understanding of quantum theory. 
+ The Essential Elements of Quantum Theory: 
+ 
+ Energy, like matter, consists of discrete units; as opposed to a continuous wave. 
+ Elementary particles of energy and matter, depending on the conditions, may behave like particles or waves. 
+ The movement of elementary particles is inherently random, and, thus, unpredictable. 
+ The simultaneous measurement of two complementary values -- such as the position and momentum of a particle -- is flawed. The more precisely one value is measured, the more flawed the measurement of the other value will be. 
+ 
+ Further Developments of Quantum Theory 
+ Niels Bohr proposed the Copenhagen interpretation of quantum theory. This theory asserts that a particle is whatever it is measured to be, but that it cannot be assumed to have specific properties, or even to exist, until it is measured. This relates to a principle called superposition. Superposition claims when we do not know what the state of a given object is, it is actually in all possible states simultaneously -- as long as we don't look to check. 
+ To illustrate this theory, we can use the famous analogy of Schrodinger's Cat. First, we have a living cat and place it in a lead box. At this stage, there is no question that the cat is alive. Then throw in a vial of cyanide and seal the box. We do not know if the cat is alive or if it has broken the cyanide capsule and died. Since we do not know, the cat is both alive and dead, according to quantum law -- in a superposition of states. It is only when we break open the box and see what condition the cat is in that the superposition is lost, and the cat must be either alive or dead. 
+ The principle that, in some way, one particle can exist in numerous states opens up profound implications for computing. 
+ A Comparison of Classical and Quantum Computing 
+ Classical computing relies on principles expressed by Boolean algebra; usually Operating with a 3 or 7-mode  logic gate  principle. Data must be processed in an exclusive binary state at any point in time; either 0 (off / false) or 1 (on / true). These values are binary digits, or bits. The millions of transistors and capacitors at the heart of computers can only be in one state at any point. In addition, there is still a limit as to how quickly these devices can be made to switch states. As we progress to smaller and faster circuits, we begin to reach the physical limits of materials and the threshold for classical laws of physics to apply.    The quantum computer operates with a two-mode logic gate:  XOR  and a mode called QO1 (the ability to change 0 into a superposition of 0 and 1). In a quantum computer, a number of elemental particles such as electrons or photons can be used. Each particle is given a charge, or polarization, acting as a representation of 0 and/or 1. Each particle is called a quantum bit, or qubit. The nature and behavior of these particles form the basis of quantum computing and  quantum supremacy . The two most relevant aspects of quantum physics are the principles of superposition and  entanglement . 
+ Superposition 
+ Think of a qubit as an electron in a magnetic field. The electron's spin may be either in alignment with the field, which is known as a  spin-up  state, or opposite to the field, which is known as a  spin-down  state. Changing the electron's spin from one state to another is achieved by using a pulse of energy, such as from a  laser . If only half a unit of laser energy is used, and the particle is isolated the particle from all external influences, the particle then enters a superposition of states. Behaving as if it were in both states simultaneously. 
+ Each qubit utilized could take a superposition of both 0 and 1. Meaning, the number of computations a quantum computer could take is 2^n, where n is the number of qubits used. A quantum computer comprised of 500 qubits would have a potential to do 2^500 calculations in a single step. For reference, 2^500 is infinitely more atoms than there are in the known universe. These particles all interact with each other via quantum entanglement. 
+ In comparison to classical, quantum computing counts as true  parallel processing . Classical computers today still only truly do one thing at a time. In classical computing, there are just two or more processors to constitute parallel processing.   Entanglement  Particles (like qubits) that have interacted at some point retain a type can be entangled with each other in pairs, in a process known as  correlation . Knowing the spin state of one entangled particle - up or down -- gives away the spin of the other in the opposite direction. In addition, due to the superposition, the measured particle has no single spin direction before being measured. The spin state of the particle being measured is determined at the time of measurement and communicated to the correlated particle, which simultaneously assumes the opposite spin direction. The reason behind why is not yet explained. 
+ Quantum entanglement allows qubits that are separated by large distances to interact with each other instantaneously (not limited to the speed of light). No matter how great the distance between the correlated particles, they will remain entangled as long as they are isolated.    Taken together, quantum superposition and entanglement create an enormously enhanced computing power. Where a 2-bit register in an ordinary computer can store only one of four binary configurations (00, 01, 10, or 11) at any given time, a 2-qubit register in a quantum computer can store all four numbers simultaneously. This is because each qubit represents two values. If more qubits are added, the increased capacity is expanded exponentially. 
+ Quantum Programming 
+ Quantum computing offers an ability to write programs in a completely new way. For example, a quantum computer could incorporate a programming sequence that would be along the lines of "take all the superpositions of all the prior computations." This would permit extremely fast ways of solving certain mathematical problems, such as factorization of large numbers.    The first quantum computing program appeared in 1994 by Peter Shor, who developed a quantum algorithm that could efficiently factorize large numbers. 
+ The Problems - And Some Solutions 
+ The benefits of quantum computing are promising, but there are huge obstacles to overcome still. Some problems with quantum computing are: 
+ 
+ Interference - the slightest disturbance in a quantum system can cause a quantum computation to collapse, a process known as de-coherence. A quantum computer must be totally isolated from all external interference during the computation phase. Some success has been achieved with the use of qubits in intense magnetic fields, using ions. 
+ Error correction - Qubits are not digital bits of data and cannot use conventional error correction. Error correction is critical in quantum computing, where even a single error in a calculation can cause the validity of the entire computation to collapse. There has been considerable progress in this area, however. With an error correction algorithm developed that utilizes 9 qubits -- 1 computational and 8 correctional. More recently, there was a breakthrough by IBM that makes do with a total of 5 qubits (1 computational and 4 correctional). 
+ Output observance - Retrieving output data after a quantum calculation is complete risks corrupting the data. Developments have since been made, such as a database search algorithm that relies on the special "wave" shape of the probability curve in quantum computers. This ensures that once all calculations are done, the act of measurement will see the quantum state decohere into the correct answer. 
+ 
+ There are many problems to overcome, such as how to handle security and quantum cryptography. Long time quantum information storage has been a problem in the past too. However, breakthroughs in the last 15 years and in the recent past have made some form of quantum computing practical. There is still much debate as to whether this is less than a decade away or a hundred years into the future. However, the potential that this technology offers is attracting tremendous interest from both the government and the private sector. Military applications include the ability to break encryptions keys via brute force searches, while civilian applications range from DNA modeling to complex material science analysis. 
+ 
+ 
+		
+		
+			
+			
+				
+					This was last updated in  June 2020 
+ 
+ 
+ 
+ 
+ 
+			Continue Reading About quantum computing
+		 
+ 
+ Honeywell quantum computing system passes IBM out of the gate 
+ 
+ 
+ How quantum computing and machine learning boost each other 
+ 
+ 
+ IBM quantum computers' usefulness in sight -- using binoculars 
+ 
+ 
+ Dive into the quantum computing qubit with IBM's Bob Sutor 
+ 
+ 
+ Quantum computing in business applications is coming 
+ 
+ 
+ 
+  AdsController, generated at 13:18:37 Thu Jul 30, 2020, by cds6  
+ 
+  RelatedTermsController, generated at 13:18:37 Thu Jul 30, 2020, by cds6  
+ 
+ 
+ 
+				Related Terms 
+ 
+ 
+ data restore 
+ 
+ Data restore is the process of copying backup data from secondary storage and restoring it to its original location or a new ...  
+							See complete definition 
+ 
+ 
+ 
+ enterprise architecture (EA) 
+ 
+ An enterprise architecture (EA) is a conceptual blueprint that defines the structure and operation of an organization.  
+							See complete definition 
+ 
+ 
+ 
+ Sniglet - Words that should be in the dictionary (but aren't) 
+ 
+ A sniglet is a word that should be in the dictionary but isn't.  
+							See complete definition 
+ 
+ 
+ 
+ 
+ 
+  DiscussionsController, generated at 06:20:46 Thu Jul 30, 2020, by cds6  
+ 
+ 
+ 
+  WordOfTheDayController, generated at 13:18:37 Thu Jul 30, 2020, by cds6  
+ 
+ 
+ Word of the Day 
+ Conway's law 
+ Conway’s law is an observation that the design of any system is significantly affected by the communications structure of the organization that develops it. 
+ 
+ 
+ 
+ 
+  LatestContentController, generated at 13:18:37 Thu Jul 30, 2020, by cds6  
+ 
+ 
+ 20 Newest and Updated Terms 
+ 
+ git stash 
+ IoT devices (internet of things devices) 
+ Amazon S3 
+ employee experience 
+ Sniglet - Words that should be in the dictionary (but aren't) 
+ Federal Information Security Management Act (FISMA) 
+ Platform as a Service (PaaS) 
+ vulnerability assessment (vulnerability analysis) 
+ use case diagram (UML use case diagram) 
+ data preparation 
+ enterprise architecture (EA) 
+ data preprocessing 
+ web server 
+ Cisco Performance Routing (PfR) 
+ The Phoenix Project 
+ risk assessment 
+ BIOS (basic input/output system) 
+ smart home or building (home automation or domotics) 
+ Salesforce Service Cloud 
+ self-service business intelligence (BI) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  CommentingController, generated at 13:43:54 Thu Jul 30, 2020, by cds6  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+				Join the conversation 
+ 
+ 
+ 8  comments 
+ 
+ 
+ 
+ 
+						Send me notifications when other members comment. 
+ Add My Comment 
+ 
+ 
+ 
+ 
+ Register 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+						          	I agree to TechTarget’s  Terms of Use ,  Privacy Policy , and the transfer of my information to the United States for processing to provide me with relevant information as described in our Privacy Policy. 
+ 
+ 
+ 
+ 
+ Please check the box if you want to proceed. 
+ 
+ 
+ 
+ 
+ 
+ 
+						          	I agree to my information being processed by TechTarget and its  Partners  to contact me via phone, email, or other means regarding information relevant to my professional interests. I may unsubscribe at any time. 
+ 
+ 
+ 
+ 
+ Please check the box if you want to proceed. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Login 
+ 
+ 
+ Forgot your password? 
+ 
+ 
+ 
+ 
+ 
+ Forgot your password? 
+ 
+ No problem! Submit your e-mail address below. We'll send you an email containing your password. 
+ 
+ 
+ 
+ 
+ Submit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Your password has been sent to: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Please create a username to comment. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oldest  
+ Newest  
+ 
+ 
+ 
+ 
+ 
+ 
+ [-] 
+ 
+ 
+ 
+ AnonymousUser 
+  - 26 Jan 2013 9:24 PM 
+ 
+ Quantum Computing Is an excuse for a pampered bunch of Academic Shitheads, to appropriate loads of money out of the public coffers, to aggrandize themselves,  while providing ammunition to obliterate any potentially viable technology or company that might pose a threat to their blatant scams 
+ 
+ 
+ 
+ Add My Comment 
+ Cancel 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [-] 
+ 
+ 
+ 
+ AnonymousUser 
+  - 1 Jun 2013 4:32 AM 
+ 
+ The research being done in quantum computing could have applications for mystical numerology based on the Vedic square.  Exciting work! 
+ 
+ 
+ 
+ Add My Comment 
+ Cancel 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [-] 
+ 
+ 
+ 
+ AnonymousUser 
+  - 26 May 2015 10:55 PM 
+ 
+ here the brief explanation about Quantum computing...https://www.mepits.com/tutorial/355/Latest-Technologies/Quantum-Computing 
+ 
+ 
+ 
+ Add My Comment 
+ Cancel 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [-] 
+ 
+ 
+ 
+ AnonymousUser 
+  - 26 May 2015 10:57 PM 
+ 
+ <a href="https://www.mepits.com/tutorial/355/Latest-Technologies/Quantum-Computing">Quantum Computing</a> 
+ 
+ 
+ 
+ Add My Comment 
+ Cancel 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [-] 
+ 
+ 
+ 
+ shubh1 
+  - 29 Nov 2018 4:48 AM 
+ 
+ i also write Quantum camputing see  
+ 
+ 
+ 
+ Add My Comment 
+ Cancel 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [-] 
+ 
+ 
+ 
+ milad1 
+  - 9 Feb 2019 1:06 PM 
+ 
+ thank you guy. it was so useful. 
+ 
+ 
+ 
+ Add My Comment 
+ Cancel 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [-] 
+ 
+ 
+ 
+ UmarMohammed 
+  - 21 Sep 2019 12:09 AM 
+ 
+ what are the prerequisite for the quantum computing, and how this will be benefited for the nature and people living in this world. Thank You. 
+ 
+ 
+ 
+ Add My Comment 
+ Cancel 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [-] 
+ 
+ 
+ 
+ cwadamsmith 
+  - 11 May 2020 9:13 AM 
+ 
+ Quantum computing is vastly different than conventional computing methods. The simplest definition of a quantum computing system would be the system that allows binary codes (0 &1) to be in the active state at the same time. https://www.knowledgenile.com/blogs/exascale-computing-vs-quantum-computing/ 
+ 
+ 
+ 
+ Add My Comment 
+ Cancel 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  GoogleAdSenseController, generated at 13:38:36 Thu Jul 30, 2020, by cds6  
+ 
+ -ADS BY GOOGLE 
+ 
+  Search Sites Responsive AFC  
+ 
+ 
+ 
+  FileExtensionsController, generated at 12:44:42 Thu Jul 30, 2020, by cds6  
+ 
+ File Extensions and File Formats 
+ 
+ A 
+ B 
+ C 
+ D 
+ E 
+ F 
+ G 
+ H 
+ I 
+ J 
+ K 
+ L 
+ M 
+ N 
+ O 
+ P 
+ Q 
+ R 
+ S 
+ 
+ 
+ T 
+ U 
+ V 
+ W 
+ X 
+ Y 
+ Z 
+ # 
+ 
+ 
+ Powered by: 
+ 
+ 
+ 
+  NetworkCoverageController, generated at 08:35:24 Thu Jul 30, 2020, by cds6  
+ 
+ 
+ Latest TechTarget  resources 
+ 
+ 
+ 
+							Compliance 
+ 
+ 
+ 
+ 
+ 
+							Security 
+ 
+ 
+ 
+ 
+ 
+							Health IT 
+ 
+ 
+ 
+ 
+ 
+							Disaster Recovery 
+ 
+ 
+ 
+ 
+ 
+							Storage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search Compliance 
+ 
+ 
+ 
+ 
+ risk assessment 
+ Risk assessment is the identification of hazards that could negatively impact an organization's ability to conduct business. 
+ 
+ 
+ 
+ PCI DSS (Payment Card Industry Data Security Standard) 
+ The Payment Card Industry Data Security Standard (PCI DSS) is a widely accepted set of policies and procedures intended to ... 
+ 
+ 
+ 
+ risk management 
+ Risk management is the process of identifying, assessing and controlling threats to an organization's capital and earnings. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search Security 
+ 
+ 
+ 
+ 
+ Federal Information Security Management Act (FISMA) 
+ The Federal Information Security Management Act (FISMA) is United States legislation that defines a comprehensive framework to ... 
+ 
+ 
+ 
+ vulnerability assessment (vulnerability analysis) 
+ A vulnerability assessment is the process of defining, identifying, classifying and prioritizing vulnerabilities in computer ... 
+ 
+ 
+ 
+ What is identity and access management? Guide to IAM 
+ Identity and access management (IAM) is a framework of business processes, policies and technologies that facilitates the ... 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search Health IT 
+ 
+ 
+ 
+ 
+ telemedicine (telehealth) 
+ Telemedicine is the remote delivery of healthcare services, such as health assessments or consultations, over the ... 
+ 
+ 
+ 
+ Project Nightingale 
+ Project Nightingale is a controversial partnership between Google and Ascension, the second largest health system in the United ... 
+ 
+ 
+ 
+ medical practice management (MPM) software 
+ Medical practice management (MPM) software is a collection of computerized services used by healthcare professionals and ... 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search Disaster Recovery 
+ 
+ 
+ 
+ 
+ Disaster Recovery as a Service (DRaaS) 
+ Disaster recovery as a service (DRaaS) is the replication and hosting of physical or virtual servers by a third party to provide ... 
+ 
+ 
+ 
+ cloud disaster recovery (cloud DR) 
+ Cloud disaster recovery (cloud DR) is a combination of strategies and services intended to back up data, applications and other ... 
+ 
+ 
+ 
+ crisis management plan (CMP) 
+ A crisis management plan (CMP) outlines how to respond to a critical situation that would negatively affect an organization's ... 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search Storage 
+ 
+ 
+ 
+ 
+ M.2 SSD 
+ An M.2 SSD is a solid-state drive (SSD) that conforms to a computer industry specification and is used in internally mounted ... 
+ 
+ 
+ 
+ kilobyte (KB or Kbyte) 
+ A kilobyte (KB or Kbyte) is a unit of measurement for computer memory or data storage used by mathematics and computer science ... 
+ 
+ 
+ 
+ virtual memory 
+ Virtual memory is a memory management capability of an operating system (OS) that uses hardware and software to allow a computer ... 
+ 
+ 
+ 
+ 
+ 
+  FooterLinksController, generated at 13:18:37 Thu Jul 30, 2020, by cds6  
+ 
+ 
+ Browse by Topic 
+ Browse Resources 
+ File Extensions 
+ 
+ 
+ About Us 
+ Contact Us 
+ Privacy Policy 
+ Advertisers 
+ Business Partners 
+ Events 
+ Media Kit 
+ Corporate Site 
+ Reprints 
+ 
+ All Rights Reserved,  
+ Copyright 1999 - 2020 , TechTarget 
+ 
+ 
+ Do Not Sell My Personal Info 
+ 
+ 
+  Begin Chartbeat  
+  End Chartbeat  
+  Begin STRUCTUREDDATA  
+  End STRUCTUREDDATA  
+ 
+ 
+ 
+ 
+ 
+ Close 
+ 
+ 
+Component Load Times
+====================
+DefaultPageController=78 ms
+CommentingController=25 ms
+
+Total time=103 ms
+Request Serving Server: cds6
+ 
+ 

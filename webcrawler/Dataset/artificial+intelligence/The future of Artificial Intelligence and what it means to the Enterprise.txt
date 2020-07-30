@@ -1,0 +1,772 @@
+The future of Artificial Intelligence and what it means to the Enterprise? 
+ Toggle Menu 
+  BEGIN .boxed  
+ 
+  BEGIN .header  
+ 
+ 
+ 
+ 
+ 
+ 
+  Homepage 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ Insights 
+ 
+ Artificial Intelligence 
+ 
+ Machine Learning 
+ Deep Learning 
+ Computer Vision 
+ Natural Language Processing 
+ Cognitive Computing 
+ AIOps 
+ Conversational AI 
+ Emotional AI 
+ Face/Image Recognition 
+ Self-Driving Cars 
+ 
+ 
+ Big Data Analytics 
+ 
+ Data Science 
+ Business Analytics 
+ Business Intelligence 
+ Augmented Analytics 
+ Data Management 
+ People Analytics 
+ Text Analytics 
+ Speech Analytics 
+ 
+ 
+ Cloud Computing 
+ 
+ Edge Computing 
+ Quantum Computing 
+ Data Centres 
+ 
+ 
+ Cybersecurity 
+ Digital Transformation 
+ Automation 
+ 
+ Intelligent Automation 
+ RPA 
+ 
+ 
+ Robotics 
+ Drone 
+ Chatbots 
+ Internet of Things 
+ Augmented/Virtual Reality 
+ Top List 
+ 
+ 
+ Latest News 
+   Most Popular 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ Business Analytics 
+ 
+ Four Types of Business Analytics to Know 
+ October 13, 2017 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ Books 
+ Data Science 
+ Education 
+ Latest News 
+ Top List 
+ 
+ Top 10 Data Science Books You Must Read to Boost Your Career 
+ March 17, 2020 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ Artificial Intelligence 
+ Asia 
+ India 
+ Latest News 
+ 
+ Top 20 B.Tech in Artificial Intelligence Institutes in India 
+ August 27, 2019 
+ 
+ 
+ 
+ 
+   Articles 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ Healthcare 
+ Latest News 
+ Quantum Computing 
+ 
+ Exploring the Possibility of Quantum Computing to Understand Genetic Diseases 
+ Can quantum computing determine the probability of genetic diseases? Scientists  AddThis Advanced Settings above via filter on get_the_excerpt   AddThis Advanced Settings below via filter on get_the_excerpt   AddThis Advanced Settings generic via filter on get_the_excerpt  
+ July 29, 2020 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ Artificial Intelligence 
+ Latest News 
+ 
+ The future of Artificial Intelligence and what it means to the Enterprise? 
+ In a decade people will become more dependent on artificial  AddThis Advanced Settings above via filter on get_the_excerpt   AddThis Advanced Settings below via filter on get_the_excerpt   AddThis Advanced Settings generic via filter on get_the_excerpt  
+ July 29, 2020 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ Data Science 
+ Latest News 
+ 
+ Why Does DataOps for Data Science Projects Matter? 
+ Applying DataOps practices to data science projects can have a  AddThis Advanced Settings above via filter on get_the_excerpt   AddThis Advanced Settings below via filter on get_the_excerpt   AddThis Advanced Settings generic via filter on get_the_excerpt  
+ July 29, 2020 
+ 
+ 
+ 
+ 
+  Widget added by an AddThis plugin   widget name: AddThis Tool  Follow Us  End of widget  
+ Magazine 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ Magazines 
+ 
+ The 10 Most Disruptive Face Image Recognition Solution Providers 
+  AddThis Advanced Settings above via filter on get_the_excerpt   AddThis Advanced Settings below via filter on get_the_excerpt   AddThis Advanced Settings generic via filter on get_the_excerpt  
+ May 10, 2020 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ Magazines 
+ 
+ The 10 Most Intelligent Automation Solution Providers 
+  AddThis Advanced Settings above via filter on get_the_excerpt   AddThis Advanced Settings below via filter on get_the_excerpt   AddThis Advanced Settings generic via filter on get_the_excerpt  
+ April 12, 2020 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ Magazines 
+ 
+ Top Recommended Data Science and AI Training Institutes 
+  AddThis Advanced Settings above via filter on get_the_excerpt   AddThis Advanced Settings below via filter on get_the_excerpt   AddThis Advanced Settings generic via filter on get_the_excerpt  
+ April 12, 2020 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ Magazines 
+ 
+ The 10 Most Innovative Global AI Executives 
+  AddThis Advanced Settings above via filter on get_the_excerpt   AddThis Advanced Settings below via filter on get_the_excerpt   AddThis Advanced Settings generic via filter on get_the_excerpt  
+ March 8, 2020 
+ 
+ 
+ 
+ 
+ 
+ Industry 
+ 
+ Advertising 
+ Automotive 
+ Aviation 
+ BFSI 
+ Manufacturing 
+ Retail 
+ Entertainment 
+ Healthcare 
+ Hospitality 
+ Education 
+ Legal 
+ 
+ 
+ Geographies 
+ 
+ Asia 
+ India 
+ China 
+ Singapore 
+ Japan 
+ Europe 
+ United Kingdom 
+ North America 
+ United States 
+ Canada 
+ MEA 
+ Israel 
+ Russia 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Us 
+ Publish 
+ 
+ Submit an Interview 
+ Submit News 
+ 
+ 
+ Connect 
+ 
+ Advertise 
+ Write for us 
+ jobs 
+ Contact Us 
+ 
+ 
+ More +++ 
+ 
+ Podcast 
+ Reports 
+ White Papers 
+ Events 
+ Glossary 
+ Tutorials 
+ 
+ 
+ Subscribe 
+ Boost Startup 
+  ` 
+ 
+ Login 
+ SignUp 
+ pms-account 
+ Logout 
+ 
+ 
+ 
+   
+ 
+ 
+  END .wrapper  
+ 
+  BEGIN .content  
+ 
+  BEGIN .wrapper  
+ 
+  Slaideri  
+ 
+			<div class="with-sidebar-layout left">
+			 
+  <div class="main-content has-sidebar">  
+  <div class="main-content has-double-sidebar">  
+ 
+  BEGIN .left-content  
+ 
+ 
+ The future of Artificial Intelligence and what it means to the Enterprise? 
+ 
+ 
+ 
+ 
+ Artificial Intelligence 
+ Latest News 
+ 
+ 
+ 
+									by  Kamalika Some   
+ July 29, 2020 
+ 0 comments 
+ 
+ 
+ In a decade people will become more dependent on artificial intelligence (AI) in the complex digital environments. 
+ Technology  headed by AI  has been instrumental in augmenting human capacities and reinventing human lifestyle. Code-driven systems integrating information and connectivity have ushered a new era which was previously unimagined bringing untapped opportunities and unprecedented threats. 
+ Technology experts across the world have predicted that networked artificial intelligence will amplify human effectiveness besides threating human autonomy, and capabilities. We are not far from the age of  super intelligent AI  where algorithms may match or even exceed human intelligence and capabilities on tasks which involve complex decision-making, sophisticated analytics, pattern recognition, reasoning and learning, language translation, visual acuity and speech recognition 
+   
+ The Concerns behind the Rise of AI 
+ • Data Security 
+ Modern enterprises generate data and most of that still battles against data abuse. Most AI tools are and will be dominated by companies and governments who are striving for profits or power. This leaves data silos and data lakes open rising fears of security against data mishandling. 
+   
+ • Diminishing Human Cognition 
+ Though many see AI to augment human capacities but some even predict the opposite. The increasing dependence on machine-driven networks may diminish  human cognitive abilities  to think for themselves, interact effectively with others and take decisions independent of automated systems. 
+   
+ • Trade-off for the Inevitable 
+ As AI algorithms have taken over decision making and predictions, humans may experience a loss of control over their ability to think and act. Decision-making on key aspects is automatically ceded to code powered “black box” tools. The drag and drop tools are not making decisions easy, as users know the context but do not understand the logic behind why the tools work. Thus, in this context, privacy and the power over choice; are scarified with no control over the processes. 
+   
+ Artificial Intelligence for the Next Decade 
+ AI and allied technologies have already achieved superhuman performance in a juncture of areas, and it is beyond doubt that their capabilities will improve over the years, probably very significantly in 10 years from now, by 2030. Aided by an access to vast data troves, bots powered by intelligent automation will  surpass humans in their ability  to take complex decisions. AI will drive a vast range of efficiency optimizations especially into highly rule-based chores which involve manpower. 
+ Newer generations of citizen data scientists will become more and more dependent on networked AI structures and processes.  Networked interdependence will, increase an enterprise’s vulnerability to cyberattacks. There will be a sharp gap between the digital ‘haves’ and ‘have-nots,’ especially those who are technologically dependent digital infrastructures. The next question will be to answer the ‘commanding heights’ of the digital network infrastructure’s ownership and control. 
+ Artificial Intelligence is empowering the ability for  autonomous operation  and the first thing which comes to mind is autonomous vehicles, but the applications are limitless. The combination of natural language processing, predictive analytics, and the world of intelligent sensors powered by IoT have had a pervasive impact in our daily lives. 
+ Summing up, AI will be an integral component of an enterprise experience. Organisations will increasingly use and sometimes rely on AI systems to enhance their daily interactions with each other. In the next decade, AI will propel the powers of language translation and augmented creativity bringing a new dimension into digital transformation. 
+  AddThis Advanced Settings above via filter on the_content   AddThis Advanced Settings below via filter on the_content   AddThis Advanced Settings generic via filter on the_content  
+ 
+ 
+ 
+ Share This Article 
+ Do the sharing thingy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Author 
+ More info about author 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Kamalika Some 
+ 
+ 
+ 
+ 
+ 
+ 
+								Kamalika Some is an NCFM level 1 certified professional with previous professional stints at Axis Bank and ICICI Bank. An MBA (Finance) and PGP Analytics by Education, Kamalika is passionate to write about Analytics driving technological change.							 
+ 
+ 
+ More by Kamalika Some 
+ 
+ 
+ 
+ 
+ 
+  ~ Copyright (C) 2014-2015 Media.net Advertising FZ-LLC All Rights Reserved
+   
+ 
+ 
+ 
+  ~ Copyright (C) 2014 Media.net Advertising FZ-LLC All Rights Reserved
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ Related Latest News Articles 
+ Similar Posts From Latest News Category 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Top Data Science Competitions to Test Your Knowledge 
+ June 21, 2020 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AI-Enabled Mechanisms to Stimulate Customer Experience, Predict Industry Dignitaries 
+ March 30, 2019 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Intelligent Automation-Technology to Look Forward To 
+ April 9, 2019 
+ 
+ 
+ 
+ 
+  BEGIN .comment-list  
+ 
+ 
+ No Comments so far 
+ Jump into a conversation 
+ 
+ 
+ 
+ No Comments Yet! 
+ You can be the one to  start a conversation . 
+ 
+ 
+ 
+ 
+ 
+   Click here to cancel reply.   
+ Your data will be safe! Your e-mail address will not be published. Also other data will not be shared with third person. <label for="c_message">Comment<span class="required">*</span></label> Nickname * 
+ E-mail * 
+ Website 
+   
+  #respond  
+  END #writecomment  
+ 
+  END .comment-list  
+ 
+ 
+  BEGIN #sidebar  
+ 
+ Magazines   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Most Popular  
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ Business Analytics 
+ 
+ Four Types of Business Analytics to Know 
+ October 13, 2017 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ Books 
+ Data Science 
+ Education 
+ Latest News 
+ Top List 
+ 
+ Top 10 Data Science Books You Must Read to Boost Your Career 
+ March 17, 2020 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ Artificial Intelligence 
+ Asia 
+ India 
+ Latest News 
+ 
+ Top 20 B.Tech in Artificial Intelligence Institutes in India 
+ August 27, 2019 
+ 
+ 
+ 
+ 
+ E-Books Epaper 
+   Press Releases 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 40 Under 40 Innovators 
+ Latest News 
+ Press Release 
+ 
+ Analytics Insight’s “40 Under 40 Innovators”: Hunting Deserving Young-Leaders Spearheading Diverse Innovations Across Industries 
+ Analytics Insight has been a leading source of recognizing organizations  AddThis Advanced Settings above via filter on get_the_excerpt   AddThis Advanced Settings below via filter on get_the_excerpt   AddThis Advanced Settings generic via filter on get_the_excerpt  
+ June 11, 2020 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ Latest News 
+ Press Release 
+ 
+ Denodo Recognized as a Leader in The Enterprise Data Fabric Evaluation by Independent Analyst Firm 
+ According to the Analyst Firm, Denodo’s Data Virtualization Platform has  AddThis Advanced Settings above via filter on get_the_excerpt   AddThis Advanced Settings below via filter on get_the_excerpt   AddThis Advanced Settings generic via filter on get_the_excerpt  
+ June 11, 2020 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ Artificial Intelligence 
+ Data Science 
+ Events 
+ Latest News 
+ Press Release 
+ 
+ Data Science Congress 2020 Virtual Featuring World Leaders in AI on 6 & 7 June 
+ Aegis School of Data Science is organizing the 3rd edition  AddThis Advanced Settings above via filter on get_the_excerpt   AddThis Advanced Settings below via filter on get_the_excerpt   AddThis Advanced Settings generic via filter on get_the_excerpt  
+ June 5, 2020 
+ 
+ 
+ 
+ 
+  Widget added by an AddThis plugin   widget name: AddThis Tool  Follow US  End of widget    
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+ 
+ 
+ 
+  END #sidebar  
+ 
+  END .main-content 
+ 
+  END .wrapper  
+ 
+  END .content  
+ 
+  BEGIN .footer  
+ 
+  BEGIN .wrapper  
+ 
+ 
+ About Us 
+
+ 
+
+ 
+
+Analytics Insight® is an influential platform dedicated to insights, trends, and opinion from the world of data-driven technologies. It monitors developments, recognition, and achievements made by Artificial Intelligence, Big Data and Analytics companies across the globe. LINKS   
+ About Us 
+ Advertise 
+ Media Kit 
+ Privacy Policy 
+ Content Licensing 
+ Sitemap 
+ Terms & Conditions 
+ Contact Us 
+ AI Glossary 
+ 40 Under 40 Innovators 
+ Podcast 
+ 
+ 
+ 
+  Subscribe  Widget added by an AddThis plugin   widget name: AddThis Tool   End of widget    
+  END .wrapper  
+ 
+ 
+  BEGIN .wrapper  
+ 
+ © 2020 Stravium Intelligence LLP. All Rights Reserved. 
+  < ?php _e("Designed by",'fraction-theme');? > <strong><a href="http://www.venkatnagaram.com/" target="_blank">Venkatnagaram.com</a></strong>  
+  END .wrapper  
+ 
+ 
+  END .footer  
+ 
+  END .boxed  
+ 
+ 
+ 
+   Close Window 
+ 
+ Loading, Please Wait! 
+ This may take a second or two. 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ Please wait... 
+ 
+ 
+ <h3>GET DAILY NEWS IN YOU INBOX</h3> 
+ JOIN THE WORLD'S FASTEST GROWING AI & BIG DATA COMMUNITY 
+ <div class="subheading">Want to be notified when our article is published? Enter your email address and name below to be the first to know.</div> 
+ Be the "First" to get our exclusive Digital Magazine & Daily Insights 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SIGN UP FOR NEWSLETTER NOW 
+ 
+ 
+ 
+ 
+ <div class="card"> 
+ 
+ <div class="container_1">
+		   <p><a href="https://www.analyticsinsight.net/10-influential-artificial-intelligence-executives-2019/" class="pull_left">Web Version</a>
+		   <a target="_blank" href="https://www.analyticsinsight.net/The-10-Most-Influential-Artificial-Intelligence-Executives-in-2019/" class="pull_right">Digital Version</a></p>
+			<div  class="cler_both"></div>
+		  </div>
+		</div> 
+ 
+ 
+ 
+ 
+ 
+  Memberships powered by Paid Memberships Pro v2.3.4.
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  END body  
+ 
+ 

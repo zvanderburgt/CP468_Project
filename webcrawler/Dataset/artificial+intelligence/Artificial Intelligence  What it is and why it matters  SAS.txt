@@ -1,0 +1,1355 @@
+ Title:Start  You have reached the cached page for  https://www.sas.com/en_us/insights/analytics/what-is-artificial-intelligence.html  Title:End   Content:Start  Below is a snapshot of the Web page as it appeared on  2020-07-30  (the last time our crawler visited it). This is the version of the page that was used for ranking your search results. The page may have changed since we last cached it. To see what might have changed (without the highlights),  go to the current page .  Content:End   Hit:Start  You searched for:  HitHighlight:Start artificial   intelligence HitHighlight:End  We have highlighted matching words that appear in the page below.  Hit:End   Disclaimer:Start  Bing is not responsible for the content of this page.  Disclaimer:End   Banner:End  HTML 
+ Artificial Intelligence – What it is and why it matters | SAS 
+ 
+ 
+ 
+ 
+ 
+ 
+  Google Tag Manager (noscript)  
+ 
+  End Google Tag Manager (noscript)  
+ 
+ 
+ 
+ 
+ Solutions By Industry Agriculture Banking Communications Education Health Care Insurance Life Sciences Manufacturing Public Sector Retail Small & Midsize Business Utilities All Industries By Technology & Topic Advanced Analytics AI & Machine Learning Cloud Computing COVID-19 Data Management Decisioning Fraud & Security  Intelligence Internet of Things (IoT) Marketing Analytics Open Integration Operationalizing Analytics Risk Management All Technologies & Topics By Product SAS Viya SAS Customer  Intelligence  360 SAS Detection & Investigation SAS Model Manager SAS Visual Analytics SAS Visual Data Mining & Machine Learning SAS Visual Forecasting All Products Free Software Trials By Role Data Scientists  Developers Job Seekers Novice Users Partners Small & Midsize Business Students & Professors Thought Leaders Try / Buy Free Software Trials COVID-19 Data Discovery Environment SAS Event Stream Processing on SAS Cloud SAS Machine Learning Buy Request a Demo Request Software Pricing Contact a SAS Sales Representative Partner Marketplace Why SAS Analyst Viewpoints Company Awards Company Leadership Customer Success Stories Thought Leadership Innovative R&D Design News Coverage & Highlights Partner Ecosystem World-Class Support Services Learning Training Free Training e-Learning Corporate Training SAS Academy for Data Science All Training My Training Courses Programming 1 Programming 2 SAS Enterprise Guide 1 SAS Programming for R Users   SAS Viya Enablement All Courses Learning Formats e-Learning Live Web Classroom Locations Video Tutorials All Learning Formats Webinars Certification Base Programmer Advanced Programmer Data Scientist Statistical Business Analyst Predictive Modeler All Certification Exam Preparation Certification Manager Books For Beginners Certification Discounts Upcoming Titles All Books All Learning Documentation By Product Base SAS SAS Enterprise Guide SAS Enterprise Miner SAS/STAT SAS Studio SAS Visual Analytics All Products Software Updates & Product Changes Programming SAS 9.4 & SAS Viya SAS 9.3 & Earlier Administration SAS Viya SAS 9.4 & Earlier​ Installation & Configuration Install Center System Requirements Third-Party Software Reference Technical Papers All Documentation Support Support Home Knowledge Base Installation Notes Problem Notes Usage Notes Search All Notes DATA Step Samples Graphics Samples Search All Samples Product Security All Knowledge Base Support by Product Base SAS SAS Customer  Intelligence  360 SAS Enterprise Guide SAS Enterprise Miner SASPy SAS/STAT SAS Studio SAS Visual Analytics All Products Focus Areas Product Security Support by Role Administrators Developers Programmers Students New to SAS Support Services Technical Support Manage Your Tracks Maintenance Licensing Assistance Support Services Support Policies Consulting All Services Downloads SAS Download Manager SAS Universal Viewer Standard Deployment Plans All Downloads Hot Fixes SAS Viya SAS 9.4 Hot Fix Announcements Hot Fix Tool All Hot Fixes SAS Starter Kit Sign In Community New SAS Users SAS Programming Administration & Deployment Data Management Machine Learning Data Visualization Statistical Procedures Developers All Communities SAS Analytics Explorers User Groups Academics Academic Programs Educators Students Free Academic Software Academic Discounts Partners About Our Partner Program Find a Partner Sign in to PartnerNet Partner Marketplace Events SAS Global Forum Webinars All Events About Our Company Overview Vision & Mission Our Values What We Stand For Company Leadership Company Information Media Coverage Annual Report Newsletters Company Awards Analyst Viewpoints Speaker Bureau Trust Center Careers Overview Our Culture Our Storytellers Internships Early Career Programs Search Jobs News Room Blogs Office Information Contact Us 
+ 
+ 
+ sas.com 
+ 
+ 
+ sas.com 
+ support.sas.com 
+ blogs.sas.com 
+ communities.sas.com 
+ developer.sas.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Worldwide Sites 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Albania 
+ 
+ 
+ 
+Argentina 
+ 
+ 
+ 
+Australia 
+ 
+ 
+ 
+Austria 
+ 
+ 
+ 
+Belgium 
+ 
+ 
+ 
+Bosnia & Herz. 
+ 
+ 
+ 
+Brazil 
+ 
+ 
+ 
+Canada (English) 
+ 
+ 
+ 
+Canada (Français) 
+ 
+ 
+ 
+Chile 
+ 
+ 
+ 
+China 
+ 
+ 
+ 
+Colombia 
+ 
+ 
+ 
+Croatia 
+ 
+ 
+ 
+Czech Republic 
+ 
+ 
+ 
+Denmark 
+ 
+ 
+ 
+Finland 
+ 
+ 
+ 
+ 
+ 
+France 
+ 
+ 
+ 
+Germany 
+ 
+ 
+ 
+Greece 
+ 
+ 
+ 
+Hong Kong 
+ 
+ 
+ 
+Hungary 
+ 
+ 
+ 
+Iceland 
+ 
+ 
+ 
+India 
+ 
+ 
+ 
+Indonesia (Bahasa) 
+ 
+ 
+ 
+Indonesia (English) 
+ 
+ 
+ 
+Ireland 
+ 
+ 
+ 
+Italy 
+ 
+ 
+ 
+Japan 
+ 
+ 
+ 
+Korea 
+ 
+ 
+ 
+Luxembourg 
+ 
+ 
+ 
+Macedonia 
+ 
+ 
+ 
+Malaysia 
+ 
+ 
+ 
+ 
+ 
+Mexico 
+ 
+ 
+ 
+Middle East 
+ 
+ 
+ 
+Montenegro 
+ 
+ 
+ 
+Morocco 
+ 
+ 
+ 
+Netherlands 
+ 
+ 
+ 
+New Zealand 
+ 
+ 
+ 
+Norway 
+ 
+ 
+ 
+Peru 
+ 
+ 
+ 
+Philippines 
+ 
+ 
+ 
+Poland 
+ 
+ 
+ 
+Portugal 
+ 
+ 
+ 
+Romania 
+ 
+ 
+ 
+Russia / CIS 
+ 
+ 
+ 
+Saudi Arabia 
+ 
+ 
+ 
+Serbia 
+ 
+ 
+ 
+Singapore 
+ 
+ 
+ 
+ 
+ 
+Slovakia 
+ 
+ 
+ 
+Slovenia 
+ 
+ 
+ 
+South Africa 
+ 
+ 
+ 
+Spain 
+ 
+ 
+ 
+Sweden 
+ 
+ 
+ 
+Switzerland (French) 
+ 
+ 
+ 
+Switzerland (German) 
+ 
+ 
+ 
+Taiwan 
+ 
+ 
+ 
+Thailand (English) 
+ 
+ 
+ 
+Thailand (Thai) 
+ 
+ 
+ 
+Turkey 
+ 
+ 
+ 
+Ukraine 
+ 
+ 
+ 
+United Kingdom 
+ 
+ 
+ 
+United States 
+ 
+ 
+ 
+ 
+ Worldwide Contacts 
+ If you don't find your country/region in the list, see our  worldwide contacts list . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Worldwide Sites Contact Us SAS Sites Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SAS Sites 
+ 
+ 
+ 
+  Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)   
+ 
+ 
+ 
+ sas.com 
+ 
+ 
+ 
+ 
+  Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Support 
+ 
+ 
+ 
+ 
+  Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Blogs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Communities 
+ 
+ 
+ 
+ xml version="1.0" encoding="utf-8"? 
+  Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)   
+ 
+ 
+ 
+ 
+ 
+ Developer 
+ 
+ 
+ 
+ 
+  Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Videos 
+ 
+ 
+ 
+ 
+ xml version="1.0" encoding="utf-8"? 
+  Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)   
+ 
+ 
+ 
+ 
+ Merchandise 
+ 
+ 
+ 
+ 
+ xml version="1.0" encoding="utf-8"? 
+  Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Brand 
+ 
+ 
+ 
+ 
+ xml version="1.0" encoding="utf-8"? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PartnerNet 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SAS Insights 
+ 
+ 
+ 
+ 
+ Analytics Insights  
+ 
+ 
+ 
+ 
+ History Today's world How it's used How it works 
+ 
+ AI Solutions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Artificial   Intelligence 
+ What it is and why it matters 
+ 
+ 
+ 
+ 
+ 
+ 
+ Artificial   intelligence  (AI) makes it possible for machines to learn from experience, adjust to new inputs and perform human-like tasks. Most AI examples that you hear about today – from chess-playing computers to self-driving cars – rely heavily on deep learning and  natural language processing . Using these technologies, computers can be trained to accomplish specific tasks by processing large amounts of data and recognizing patterns in the data. 
+ 
+ 
+ History 
+       Today's World 
+       How It's Used 
+       How It Works 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Artificial   Intelligence  History 
+ 
+ The term  artificial   intelligence  was coined in 1956, but AI has become more popular today thanks to increased data volumes, advanced algorithms, and improvements in computing power and storage. 
+ Early AI research in the 1950s explored topics like problem solving and symbolic methods. In the 1960s, the US Department of Defense took interest in this type of work and began training computers to mimic basic human reasoning. For example, the Defense Advanced Research Projects Agency (DARPA) completed street mapping projects in the 1970s. And DARPA produced intelligent personal assistants in 2003, long before Siri, Alexa or Cortana were household names. 
+ This early work paved the way for the automation and formal reasoning that we see in computers today, including decision support systems and smart search systems that can be designed to complement and augment human abilities. 
+ While Hollywood movies and science fiction novels depict AI as human-like robots that take over the world, the current evolution of AI technologies isn’t that scary – or quite that smart. Instead, AI has evolved to provide many specific benefits in every industry. Keep reading for modern examples of  artificial   intelligence  in health care, retail and more. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1950s–1970s 
+ Neural Networks 
+ 
+ Early work with neural networks stirs excitement for “thinking machines.” 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1980s–2010s 
+ Machine Learning 
+ Machine learning becomes popular. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Present Day 
+ Deep Learning 
+ Deep learning breakthroughs drive AI boom. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AI has been an integral part of SAS software for years. Today we help customers in every industry capitalize on advancements in AI, and we’ll continue embedding AI technologies like machine learning and deep learning in solutions across the SAS portfolio. 
+ 
+ 
+ Jim Goodnight 
+ CEO 
+ SAS 
+ 
+ 
+ 
+ 
+ Learn more about SAS for AI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Artificial   Intelligence  and Machine Learning 
+ 
+ Quick, watch this video to understand the relationship between AI and machine learning. You'll see how these two technologies work, with examples and a few funny asides. 
+ Plus, this is a great video to share with friends and family to explain  artificial   intelligence  in a way that anyone will understand.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Why is  artificial   intelligence  important? 
+ 
+ 
+ AI automates repetitive learning and discovery through data.  But AI is different from hardware-driven, robotic automation. Instead of automating manual tasks, AI performs frequent, high-volume, computerized tasks reliably and without fatigue. For this type of automation, human inquiry is still essential to set up the system and ask the right questions. 
+ AI adds  intelligence  to existing products. In most cases, AI will not be sold as an individual application. Rather, products you already use will be improved with AI capabilities, much like Siri was added as a feature to a new generation of Apple products. Automation, conversational platforms, bots and smart machines can be combined with large amounts of data to improve many technologies at home and in the workplace, from security  intelligence  to investment analysis. AI adapts through progressive learning algorithms  to let the data do the programming. AI finds structure and regularities in data so that the algorithm acquires a skill: The algorithm becomes a classifier or a predictor. So, just as the algorithm can teach itself how to play chess, it can teach itself what product to recommend next online. And the models adapt when given new data. Back propagation is an AI technique that allows the model to adjust, through training and added data, when the first answer is not quite right. 
+ 
+ 
+ 
+ AI analyzes more and deeper data  using neural networks that have many hidden layers. Building a fraud detection system with five hidden layers was almost impossible a few years ago. All that has changed with incredible computer power and  big data . You need lots of data to train deep learning models because they learn directly from the data. The more data you can feed them, the more accurate they become. AI achieves incredible accuracy  through deep neural networks – which was previously impossible. For example, your interactions with Alexa, Google Search and Google Photos are all based on deep learning – and they keep getting more accurate the more we use them. In the medical field, AI techniques from deep learning, image classification and object recognition can now be used to find cancer on MRIs with the same accuracy as highly trained radiologists. AI gets the most out of data.  When algorithms are self-learning, the data itself can become intellectual property. The answers are in the data; you just have to apply AI to get them out. Since the role of the data is now more important than ever before, it can create a competitive advantage. If you have the best data in a competitive industry, even if everyone is applying similar techniques, the best data will win. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WildTrack and SAS: Saving endangered species one footprint at a time. 
+ 
+ 
+ 
+ Flagship species like the cheetah are disappearing. And with them, the biodiversity that supports us all. WildTrack is exploring the value of  artificial   intelligence  in conservation – to analyze footprints the way indigenous trackers do and protect these endangered animals from extinction. 
+ 
+ 
+ 
+ x 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Artificial   Intelligence  in Today's World 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ xml version="1.0" encoding="utf-8"? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AI and the Internet of Things 
+ Data is all around us. The Internet of Things (IoT) and sensors have the ability to harness large volumes of data, while  artificial   intelligence  (AI) can learn patterns in the data to automate tasks for a variety of business benefits. 
+ 
+ 
+ 
+ Read about AI and IoT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ xml version="1.0" encoding="utf-8"? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Integrate AI into your Analytics Program 
+ 
+ For AI to be used effectively, it’s important that the strategy around it feeds into your larger business strategy, always taking into account the convergence of people, process and technology. 
+ 
+ 
+ 
+ Read summary 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Separate Hype From Reality 
+ 
+ AI is helping to embed "greater smartness into machines" but it is not taking over the world, says Oliver Schabenberger, SAS Executive Vice President and Chief Technology Officer. 
+ 
+ 
+ Read blog post 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How  Artificial   Intelligence  Is Being Used 
+ Every industry has a high demand for AI capabilities – especially question answering systems that can be used for legal assistance, patent searches, risk notification and medical research. Other uses of AI include: 
+ 
+ 
+ Health Care 
+ 
+ AI applications can provide personalized medicine and X-ray readings. Personal health care assistants can act as life coaches, reminding you to take your pills, exercise or eat healthier. 
+ 
+ 
+ Retail 
+ 
+ AI provides virtual shopping capabilities that offer personalized recommendations and discuss purchase options with the consumer. Stock management and site layout technologies will also be improved with AI. 
+ 
+ 
+ Manufacturing 
+ 
+ AI can analyze factory IoT data as it streams from connected equipment to forecast expected load and demand using recurrent networks, a specific type of deep learning network used with sequence data.    
+ 
+ 
+ Banking 
+ 
+ Artificial   Intelligence  enhances the speed, precision and effectiveness of human efforts. In financial institutions, AI techniques can be used to identify which transactions are likely to be fraudulent, adopt fast and accurate credit scoring, as well as automate manually intense data management tasks. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Working together with AI 
+ Artificial   intelligence  is not here to replace us. It augments our abilities and makes us better at what we do. Because AI algorithms learn differently than humans, they look at things differently. They can see relationships and patterns that escape us. This human, AI partnership offers many opportunities. It can: 
+ Bring  analytics  to industries and domains where it’s currently underutilized. Improve the performance of existing analytic technologies, like computer vision and time series analysis. 
+ Break down economic barriers, including language and translation barriers. Augment existing abilities and make us better at what we do. 
+ Give us better vision, better understanding, better memory and much more.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What are the challenges of using  artificial   intelligence ? 
+ Artificial   intelligence  is going to change every industry, but we have to understand its limits. 
+ The principle limitation of AI is that it learns from the data. There is no other way in which knowledge can be incorporated. That means any inaccuracies in the data will be reflected in the results. And any additional layers of prediction or analysis have to be added separately. 
+ Today’s AI systems are trained to do a clearly defined task. The system that plays poker cannot play solitaire or chess. The system that detects fraud cannot drive a car or give you legal advice. In fact, an AI system that detects health care fraud cannot accurately detect tax fraud or warranty claims fraud. 
+ In other words, these systems are very, very specialized. They are focused on a single task and are far from behaving like humans. 
+ Likewise, self-learning systems are not autonomous systems. The imagined AI technologies that you see in movies and TV are still science fiction. But computers that can probe complex data to learn and perfect specific tasks are becoming quite common. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SAS ®  Visual Data Mining and Machine Learning 
+ AI is simplified when you can prepare data for analysis, develop models with modern machine-learning algorithms and integrate  text analytics  all in one product. Plus, you can code projects that combine SAS with other languages, including Python, R, Java or Lua. 
+ 
+ 
+ Try it for free 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How  Artificial   Intelligence  Works 
+ 
+ 
+ AI works by combining large amounts of data with fast, iterative processing and intelligent algorithms, allowing the software to learn automatically from patterns or features in the data. AI is a broad field of study that includes many theories, methods and technologies, as well as the following major subfields: 
+ 
+ Machine learning   automates analytical model building. It uses methods from neural networks, statistics, operations research and physics to find hidden insights in data without explicitly being programmed for where to look or what to conclude. A neural network  is a type of machine learning that is made up of interconnected units (like neurons) that processes information by responding to external inputs, relaying information between each unit. The process requires multiple passes at the data to find connections and derive meaning from undefined data. Deep learning  uses huge neural networks with many layers of processing units, taking advantage of advances in computing power and improved training techniques to learn complex patterns in large amounts of data. Common applications include image and speech recognition. Cognitive computing  is a subfield of AI that strives for a natural, human-like interaction with machines. Using AI and cognitive computing, the ultimate goal is for a machine to simulate human processes through the ability to interpret images and speech – and then speak coherently in response.   Computer vision  relies on pattern recognition and deep learning to recognize what’s in a picture or video. When machines can process, analyze and understand images, they can capture images or videos in real time and interpret their surroundings. Natural language processing   (NLP) is the ability of computers to analyze, understand and generate human language, including speech. The next stage of NLP is natural language interaction, which allows humans to communicate with computers using normal, everyday language to perform tasks. 
+ 
+ 
+ 
+Additionally, several technologies enable and support AI: 
+ Graphical processing units  are key to AI because they provide the heavy compute power that’s required for iterative processing. Training neural networks requires big data plus compute power. The Internet of Things   generates massive amounts of data from connected devices, most of it unanalyzed. Automating models with AI will allow us to use more of it. Advanced algorithms   are being developed and combined in new ways to analyze more data faster and at multiple levels. This intelligent processing is key to identifying and predicting rare events, understanding complex systems and optimizing unique scenarios. APIs, or application programming interfaces ,  are portable packages of code that   make it possible to add AI functionality to existing products and software packages. They can add image recognition capabilities to home security systems and Q&A capabilities that describe data, create captions and headlines, or call out interesting patterns and insights in data. 
+ In summary, the goal of AI is to provide software that can reason on input and explain on output. AI will provide human-like interactions with software and offer decision support for specific tasks, but it’s not a replacement for humans – and won’t be anytime soon.  
+ 
+ 
+ 
+ 
+ 
+ 
+ Read More About This Topic 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Break stuff . . . servers, rules and the glass ceiling Carla Gentry knows what it’s like to be the only woman on the team and is happy to share her hard-won knowledge with an ever-growing number of female data scientists. She recently shared with us some sage advice for women entering or interested in advancing in the field. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Analytics leads to lifesaving cancer therapies A long-shot treatment offers hope to 10-year-old Harrison after he learns the DNA profile of his cancer is resistant to chemo. Find out how data and analytics play a role in cancer research and cancer treatments that are saving lives. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Three steps for conquering the last mile of analytics Putting your analytical models into production can be the most difficult part of the analytics journey. It’s no surprise that this last mile of analytics – bringing models into deployment – is the hardest part of digital transformation initiatives for organizations to master, yet it’s the most crucial. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+As AI accelerates, focus on 'road' conditions AI technology has made huge strides in a short amount of time and is ready for broader adoption. But as organizations accelerate their AI efforts, they need to take extra care, because as any police officer will tell you, even small potholes can cause problems for vehicles traveling at high speeds. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Getting Started with SAS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contact Us & General Questions 
+ 
+ 
+ 
+Pricing, Licensing & Price Requests 
+ 
+ 
+ 
+Request a Sales Demo 
+ 
+ 
+ 
+Free Software Trials 
+ 
+ 
+ 
+Training Resources 
+ 
+ 
+ 
+Free How-To Tutorials 
+ 
+ 
+ 
+Student & Educator Resources 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Customer Support 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Accessibility 
+ 
+ 
+ 
+Certification 
+ 
+ 
+ 
+Knowledge Base 
+ 
+ 
+ 
+Documentation 
+ 
+ 
+ 
+SAS Books 
+ 
+ 
+ 
+Training 
+ 
+ 
+ 
+User Groups 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Insights & Trends 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Analytics 
+ 
+ 
+ 
+AI 
+ 
+ 
+ 
+Big Data & IoT 
+ 
+ 
+ 
+Data Management 
+ 
+ 
+ 
+Fraud & Security 
+ 
+ 
+ 
+Marketing 
+ 
+ 
+ 
+Risk Management 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Quick Links 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blogs 
+ 
+ 
+ 
+Careers 
+ 
+ 
+ 
+Communities 
+ 
+ 
+ 
+Customer Stories 
+ 
+ 
+ 
+Webinars 
+ 
+ 
+ 
+White Papers 
+ 
+ 
+ 
+Videos 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Contact Us Share Subscribe Feedback 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share this 
+ Share this page with friends or colleagues.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Facebook 
+ Twitter 
+ LinkedIn 
+ YouTube 
+ RSS 
+ 
+ 
+ 
+ Privacy Statement  |  Terms of Use  |  © 2020 SAS Institute Inc. All Rights Reserved. 
+ 
+ 
+ 
+ 
+ 
+ Feedback 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   2020-07-30 06:24:44.122  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Back to Top 
+ 
+ 
+ ×   
+ 
+ 

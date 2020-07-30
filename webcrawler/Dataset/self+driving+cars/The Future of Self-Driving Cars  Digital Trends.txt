@@ -1,0 +1,397 @@
+ Title:Start  You have reached the cached page for  https://www.digitaltrends.com/cars/the-future-of-self-driving-cars/  Title:End   Content:Start  Below is a snapshot of the Web page as it appeared on  2020-07-29  (the last time our crawler visited it). This is the version of the page that was used for ranking your search results. The page may have changed since we last cached it. To see what might have changed (without the highlights),  go to the current page .  Content:End   Hit:Start  You searched for:  HitHighlight:Start self   driving   cars HitHighlight:End  We have highlighted matching words that appear in the page below.  Hit:End   Disclaimer:Start  Bing is not responsible for the content of this page.  Disclaimer:End   Banner:End  html 
+ The Future of Self-Driving Cars | Digital Trends 
+ 
+ 
+ 
+ 
+ 
+   
+  Begin GPT  
+ 
+  End GPT  
+ 
+ 
+ 
+ 
+ 
+  Google Tag Manager  
+ 
+ 
+  End Google Tag Manager  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		Back to Menu	 
+ 
+ 
+ 
+					Search				 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Best Products Best Laptops Best Headphones Best Games Best Game Consoles Best Tablets Best Drones Best  Cars Best Routers Best Phones Best Printers Best Speakers Best TVs Best Soundbars Best Home Security Systems Best Cameras Best Smartwatches Best Smart Home Devices Best Refrigerators Best Dishwashers Best Washing Machines Best Streaming Devices Best Desktops Best Coffee Machines Versus More Best Products Product Reviews Laptop Reviews TV Reviews Tablet Reviews Game Reviews Soundbar Reviews Camera Reviews Printer Reviews Drone Reviews Headphone Reviews Fitness Tracker Reviews Phone Reviews Monitor Reviews Smartwatch Reviews Appliance Reviews Home Security Reviews Speaker Reviews Desktop Reviews Car Reviews Streaming Device Reviews Smart Home Device Reviews All Reviews News Animal Crossing Mobile Home Theater Computing 5G Gaming Cars Photography Coronavirus Streaming Media Wearables Entertainment Culture Smart Home Small Business Smart Cities Artificial Intelligence Cybersecurity Internet of Things (IoT) Samsung More News Original Series Original Series Digital Trends Live Tech for Change Homework School's Out Bold Ideas Innovate / Collaborate Women With Byte Special Features Video Series Trends with Benefits Robots Everywhere What Comes Next Vs. Desk Envy Explained The Deets More Originals Buying Guides QLED vs. OLED TV Which Instant Pot Should You Buy? 4K TV Buying Guide Soundbar buying guide Google Home vs. Amazon Echo Laptop Buying Guide MacBook Pro vs MacBook Air Nintendo Switch vs. Switch Lite: Which is better? iPhone SE vs iPhone 11 Tesla Model 3 vs. Tesla Model Y MacBook Air Buying Guide Printer Buying Guide More Buying Guides Deals Best iPad Deals Best Apple Watch Deals Best iPhone Deals Best MacBook Deals Best 4K TV Deals Best Smartwatch Deals Best Laptop Deals Best Smartphone Deals Best Microsoft Surface Pro Deals Best Cheap Chromebook Deals Best Cheap Kindle Deals Best Cheap Gaming Laptop Deals More Deals Downloads Categories Browsers Office & Productivity Development Tools Learning Games Internet Music & Video Customization Security & VPN Social & Messaging OS & Tools Platforms Windows Mac Android iOS More Downloads More Social Twitter Facebook Instagram LinkedIn Pinterest RSS Newsletter YouTube More Careers Freelance Opportunities About Digital Trends The Manual Advertise with Us DT en Español Creative Resources Awards We Offer Press Sponsored Content   
+ 
+			Menu		 
+ 
+ 
+ 
+ Sign up for newsletters Trending: Live: Big Tech CEOs testify before Congress How to watch the Big Tech hearing Twitter censors links promoting hateful speech Panasonic RB-M700 review Samsung Galaxy Unpacked Paper Mario: The Origami King review   
+ 
+ 
+ 
+ 
+ 
+ 
+ Cars   
+					The future of  self - driving   cars   
+						From cruise control to automatic parking, all the steps to  self - driving   cars   
+ 
+ 
+			By
+							 
+					Will Nicol				 
+ 
+ 
+		February 26, 2019	 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Self - driving   cars  are one of the  hottest topics in the world of tech right now , and it’s not hard to see why. For as much as people romanticize  driving , it can be a monotonous, tiring activity, and even good drivers can make mistakes that end in gruesome accidents. If  cars  can drive themselves and use advanced tech to avoid accidents entirely, wouldn’t that be nice? 
+ Automation isn’t a binary concept, however, it’s a spectrum, with varying degrees as humans hand over responsibilities to the machine. 
+ How do we define a  self - driving  car? 
+ The society of Automotive Engineers created an international standard for measuring the degrees of automation in  cars , called J3016. 
+ 
+ The scale runs from 0 to 5, with 0 being no automation (so, good old-fashioned  cars  like the Model T or ‘70s sports  cars ). From levels 1 to 2, the person in the driver’s seat has to, at the very least, supervise the car, even if they’re using support features to steer or maintain acceleration. For example, cruise control can keep a car going at a constant speed without the driver needing to think about maintaining speed, but the driver is still in control of the car, and 
+ Once you get to levels 3-5, the car can drive itself (for levels 3 and 4, only under certain predetermined conditions). 
+ SAE takes into account whether features added to a car are “driver support” features, that might make it easier to brake, but still leave the act of  driving  to the driver. 
+ SAE 
+ Level 2  cars  can use cameras, ultrasonic sensors, RADAR and LIDAR to scan surroundings, then uses artificial intelligence to determine whether something is a distinct object, whether it’s a human or another car, and so on. These “ self - driving ”  cars  still are far from perfect, however, and sometimes have trouble recognizing objects. 
+ Automation could improve shipping, making it so cross country trucker no longer need to focus on  driving  during the long, empty stretches of highway they spend much of their time on. Trucking companies are investing in this tech, eager to reduce the risk of costly accidents. 
+ At level 3, the car is using “conditional automation.” At this level, the car can drive itself in many conditions, and doesn’t need the human driver to monitor, although it will, in certain conditions, request the driver take the wheel. 
+ At level 4, the car can drive in most conditions and won’t even need the human to intervene. Level 5 is much the same, but the car can drive in basically any conditions. 
+ 
+			Editors' Recommendations		 
+ 
+ 
+ 
+						Aftermarket autonomy: This magic box gives your car  self -parking abilities					 
+ 
+ 
+ 
+						Tesla Model 3 vs. Tesla Model Y					 
+ 
+ 
+ 
+						Waymo and Volvo ink deal to build an all-new electric robo-taxi					 
+ 
+ 
+ 
+						Most affordable electric  cars  for 2020					 
+ 
+ 
+ 
+						Cadillac Super Cruise vs. Tesla Autopilot					 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 					The 15 best tech jobs boast top salaries, high satisfaction, lots of openings				   
+ 
+ 6 hours ago   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 					Innovative ‘guide dog’ device uses lidar to help Blind people navigate				   
+ 
+ 22 hours ago   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 					2020 Tesla Model S vs. 2020 Tesla Model 3: Which one comes out on top?				   
+ 
+ 5 days ago   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 					Tesla Model 3 vs. Tesla Model Y				   
+ 
+ 5 days ago   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 					Want to join the Android Army? Here are all the  cars  with Android Auto				   
+ 
+ July  8, 2020   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 					2020 Toyota Camry vs. 2020 Honda Accord				   
+ 
+ July  8, 2020   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 					Elon Musk’s Boring Company plans ‘Not-a-Boring’ boring contest				   
+ 
+ July  9, 2020   
+ 
+ 
+ 
+ 
+ 
+ 					Parallel parking never looked as cool as it does in these record-breaking stunts				   
+ 
+ July 10, 2020   
+ 
+ 
+ 
+ 
+ 
+ 					Aftermarket autonomy: This magic box gives your car  self -parking abilities				   
+ 
+ July 11, 2020   
+ 
+ 
+ 
+ 
+ 
+ 					Tesla set to unveil new million-mile battery at in-person event in September				   
+ 
+ July 11, 2020   
+ 
+ 
+ 
+ 
+ 
+ 					Bone up on the history of the Ford Bronco ahead of the new model’s reveal				   
+ 
+ July 12, 2020   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 					The all-new Nissan Kidster is a cardboard car for children				   
+ 
+ July 13, 2020   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 					Everything you need to know about the Volkswagen Microbus				   
+ 
+ July 13, 2020   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 					15 awesome flying taxis and  cars  currently in development				   
+ 
+ July 13, 2020   
+ 
+ 
+ 
+ 
+ 
+ 					The best car-sharing apps for 2020				   
+ 
+ July 13, 2020   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Upgrade your lifestyle Digital Trends helps readers keep tabs on the fast-paced world of tech with all the latest news, fun product reviews, insightful editorials, and one-of-a-kind sneak peeks. Digital Trends may earn a commission when you buy through links on our site. 
+ Copyright ©2020 Designtechnica Corporation. All rights reserved. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Add Us To Your Social Channels 
+ 
+ Facebook 
+ Twitter 
+ Instragram 
+ LinkedIn 
+ Pinterest 
+ YouTube 
+ RSS Home 
+ 
+ 
+ Subscribe 
+ 
+ Newsletter Landing 
+ 
+ 
+ 
+ Must Reads 
+ 
+ Best Movies on Netflix 
+ Best Shows on Netflix 
+ Best Shows on Hulu 
+ Best Movies on Hulu 
+ Best Shows on Amazon Prime 
+ Best Movies on Amazon Prime 
+ Best iPhone Games 
+ Best Android Games 
+ Best Tech Jobs 
+ 
+ 
+ Popular Downloads 
+ 
+ Download Fortnite 
+ Download Skype 
+ Download Winrar 
+ Download Netflix for Android 
+ Download Spotify for Android 
+ Download PC games 
+ Downloads for Windows 
+ Downloads for Mac 
+ Downloads for Android 
+ 
+ 
+ Who We Are 
+ 
+ About Us 
+ Diversity & Inclusion 
+ Contact Us 
+ Privacy Policy 
+ Terms of Use 
+ Do Not Sell My Info 
+ Careers 
+ DT Español 
+ The Manual 
+ The Angle 
+ Podcasts 
+ Giveaways 
+ Sponsored Content 
+ Advertise with Us 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,495 @@
+ Title:Start  You have reached the cached page for  https://www.vox.com/future-perfect/2020/2/14/21063487/self-driving-cars-autonomous-vehicles-waymo-cruise-uber  Title:End   Content:Start  Below is a snapshot of the Web page as it appeared on  2020-07-29  (the last time our crawler visited it). This is the version of the page that was used for ranking your search results. The page may have changed since we last cached it. To see what might have changed (without the highlights),  go to the current page .  Content:End   Hit:Start  You searched for:  HitHighlight:Start self   driving   cars HitHighlight:End  We have highlighted matching words that appear in the page below.  Hit:End   Disclaimer:Start  Bing is not responsible for the content of this page.  Disclaimer:End   Banner:End  
+ html 
+ Self-driving cars from Tesla, Google, and others are still not here - Vox 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Skip to main content 
+  Google Tag Manager (noscript)  
+ 
+  End Google Tag Manager (noscript)  
+ clock 
+ menu 
+ more-arrow 
+ no 
+ yes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ It’s 2020. Where are our  self - driving   cars ?  
+ In the age of AI advances,  self - driving   cars  turned out to be harder than people expected. 
+ 
+ 
+    
+      
+        By
+         
+ Kelsey Piper 
+ 
+ 
+        
+            Updated
+        
+         
+          Feb 28, 2020,  5:33pm EST
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A Yandex driverless car undergoes testing in Moscow on July 15, 2019.  
+ Sergei Bobylev/TASS via Getty Images 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share this story 
+ 
+ 
+ 
+ 
+ Share this on Facebook 
+ 
+ 
+ 
+ 
+ 
+ Share this on Twitter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share 
+ All sharing options 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share 
+ All sharing options for: 
+ It’s 2020. Where are our  self - driving   cars ?  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reddit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pocket 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Flipboard 
+ 
+ 
+ 
+ 
+ 
+ Email 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ This story is part of a group of stories called  
+ 
+ 
+ 
+ 
+ 
+    Finding the best ways to do good. 
+   
+ 
+ 
+ When it comes to  self - driving   cars , the future was supposed to be now.  
+ In   2020, you’ll be a “permanent backseat driver,” the Guardian  predicted   in 2015 . “10 million  self - driving   cars  will be on the road by 2020,” blared a Business Insider headline from  2016 . Those declarations were accompanied by announcements from  General Motors ,  Google’s Waymo ,  Toyota , and  Honda  that they’d be making  self - driving   cars  by 2020. Elon Musk forecast that  Tesla would do it by 2018  — and then, when that failed, by 2020.  
+ But the year is here — and the  self - driving   cars  aren’t.  
+ Despite extraordinary efforts from many of the leading names in tech and in automaking, fully autonomous  cars  are still out of reach except in special trial programs. You can buy a car that will automatically brake for you when it anticipates a collision, or one that helps keep you in your lane, or even a Tesla Model S (which — disclosure — my partner and I own)   whose Autopilot mostly handles highway  driving .  
+ But almost every one of the above predictions has been rolled back as the engineering teams at those companies struggle to make  self - driving   cars  work properly.  
+ What happened? Here are   nine questions you might have had about this long-promised technology, and why the future we were promised still hasn’t arrived. 
+ 1) How exactly do  self - driving   cars  work?  
+ Engineers have been attempting prototypes of  self - driving   cars  for  decades . The idea behind it is really simple: Outfit a car with cameras that can track all the objects around it and have the car   react if it’s about to steer   into one. Teach in-car computers the rules of the road and set them loose to navigate to their own destination.  
+ This simple description elides   a whole lot of complexity.  Driving  is one of the more complicated activities humans routinely do. Following a list of rules of the road isn’t enough to drive as well as a human does, because we do things like make eye contact with others   to confirm who has the right of way, react to weather conditions, and otherwise make judgment calls that are difficult to encode in hard-and-fast rules. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ John Krafcik, CEO of Waymo, presents a  self - driving  car at Wed Summit in Lisbon, Portugal, on November 7, 2017. 
+ Horacio Villalobos/Corbis/Getty Images 
+ 
+ 
+ And even the simple parts of  driving  — like tracking the objects around a car on the road — are actually much trickier than they sound. Take Google’s sister company Waymo, the industry leader in  self - driving   cars .  Waymo’s  cars , which are fairly typical of other  self - driving   cars , use high-resolution cameras and lidar (light detection and ranging), a way of estimating distances to objects by bouncing light and   sound   off things. 
+ The car’s computers combine all of this to build a picture of where other  cars , cyclists, pedestrians, and obstacles are and where they’re moving. For this part, lots of training data is needed — that is,   the car has to draw   on millions of miles of  driving  data that Waymo has collected to form expectations about how other objects might move. It’s hard to get enough training data on the road, so the  cars  also train based on simulation data — but engineers have to be sure that their AI systems will generalize correctly from the simulation data to the real world. 
+ That’s far from a complete description of the systems at work when a  self - driving  car is on the road. But it illustrates an important principle to keep in mind when wondering where our  self - driving   cars  are: Even the “easy” things turn out to hide surprising complexity. 
+ 2) Why is it taking   longer than expected to get  self - driving   cars  on the road? 
+ Self - driving   cars  rely on artificial intelligence to work. And the 2010s were a great decade for AI. We saw big advances in   translation, speech generation, computer vision and object recognition, and game-playing. AI used to have a hard time identifying dogs in pictures; now that’s a trivial task. 
+ It’s this progress in AI that drove the optimistic predictions for  self - driving   cars  in the mid-2010s. Researchers anticipated that we could build on the amazing gains they’d seen (and are still seeing) in other arenas.  
+ But when it came to  self - driving   cars , the limitations of those gains became   very apparent. Even with extraordinary amounts of time, money, and effort invested, no team could figure out how to have AI solve a real-world problem: navigating our roads with the high degree of reliability needed. 
+ Much of the problem is the need for lots of training data. The ideal way to train a  self - driving  car would be to show it billions of hours of footage of real  driving , and use that to teach the computer good  driving  behavior. Modern machine learning systems do really well when they have abundant data, and very poorly when they have only a little bit of it. But collecting data for  self - driving   cars  is expensive. And since some events are rare — witnessing a car accident ahead, say, or encountering debris on the road — it’s possible for the car to be out of its depth because it has encountered a situation so infrequently in its training data. 
+ Carmakers have tried to get around this in lots of ways. They’ve driven more miles. They’ve  trained the  cars  in simulations . They sometimes  engineer specific situations  so that they can get more training data about those situations for the  cars .  
+ And they are getting closer. Waymo  cars  do roam the streets of Arizona with no one behind the wheel (a small pool of specially screened people can call them up like they would an Uber).   If all goes well, they may expand to more cities later this year (more on this below).   But it’s a hard problem, and progress has been slow. 
+ 3) What does a world with  self - driving   cars  look like? 
+ Companies continue to invest despite the setbacks because  self - driving   cars , when they happen, will change a lot for the world — and make their creators lots of money. 
+ Many consumers will want to upgrade. Imagine being able to read or doze off during your morning drive to work or on long car trips.   It also seems likely that taxi and ride-hailing companies will offer  self - driving   cars , rather than paying drivers (in fact,  companies like Uber are betting on it ).  Self - driving   cars  should also make a  huge difference for Americans with disabilities , many of whom can’t get a driver’s license and have trouble getting to work, the store, and doctor’s appointments.  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A  self - driving  car from General Motors’ Cruise division waits at an intersection in San Francisco on January 26, 2020. 
+ Smith Collection/Gado/Getty Images 
+ 
+ 
+ 
+ Experts disagree on whether  self - driving   cars  will change anything fundamental about car ownership in America. Some argue that people won’t need to own a car if they can order one on their phone and get a timely robot ride anywhere.  
+ Others have pointed out that people generally still own a car even in areas with good ride-share coverage and that  self - driving   cars  might not be any different. Polls suggest that  most Americans don’t want to be driven to work by a  self - driving  car  — but that might change fast once such  cars  actually exist.  Gallup polling on this question  found a small share (9 percent) of Americans who’d get such a car right away, with a larger contingent (38 percent) saying they’d wait a while, and half holding steadfast that they’d never use one. 
+ Over time, our infrastructure will likely change to make it   easier for  self - driving   cars  to navigate, and in fact,  some researchers have argued  that we won’t have widespread  self - driving   cars  until we’ve made major changes to our streets to make it easier to communicate information to those  cars . That would be expensive and require nationwide coordination, so it seems likely that it would   follow the widespread introduction of  self - driving   cars  rather than precede it.  
+ 4) What are the leading  self - driving  car programs, and what are they doing? 
+ Almost every major car manufacturer has at least tested the waters with  self - driving  car research. But some are much more serious about it than others.  
+ There are two core statistics useful for evaluating how advanced a  self - driving  car program is. One is how many miles it has driven. That’s a proxy for how much training data the company has, and how much investment it has poured into getting its  cars  on the road.  
+ The other is disengagements — moments when a human driver has to take over because the computer couldn’t handle a situation — per mile driven. Most companies don’t share these statistics, but the state of California requires that they be reported, and so California’s statistics are the best peek into how various companies are doing.  
+ On both fronts, Google’s sister company Waymo is the clear leader. Waymo just announced  20 million miles driven overall , most of those not in California. In 2018,  Waymo drove  1.2 million miles in California, with 0.09 disengagements every 1,000 miles. Coming in second is General Motors’ Cruise, with about half a million miles and 0.19 disengagements per 1,000 miles. (Cruise  argues  that since it tests its  cars  on San Francisco’s difficult streets, these numbers are even more impressive than they look.)  
+ Those two companies are well ahead of everyone else in both miles driven and disengagements in the state of California. While that’s only a limited snapshot of their efforts, most experts consider them the leading programs in general. 
+ 5) Didn’t a  self - driving  car kill a woman? How did that happen? And what are the safety issues involved with  self - driving   cars ? 
+ March 18, 2018, was the first time a  self - driving  car ran down a pedestrian. An Uber car with a safety driver behind the wheel hit and killed Elaine Herzberg, a 49-year-old woman walking her bicycle across the street in Tempe,   Arizona.  
+ The incident was a reminder that  self - driving  car technology still had a long way to go. Some people were  quick to point out  that humans frequently kill other humans while  driving , and that even if  self - driving   cars  are much safer than humans, there will be some fatal incidents with  self - driving   cars . That’s true as far as it goes. But it misses a key point. Human  driving  produces  one fatal accident in every 100 million miles driven . Waymo, the leader in miles driven, just reached 20 million miles driven. It hasn’t had a fatal accident yet, but given the number of miles its  cars  have driven, it’s simply  far too soon   to prove  that they’re as safe as or safer than a human driver. 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ An Uber  self - driving  car drives through traffic on Fifth Street in San Francisco on March 28, 2017. 
+ Justin Sullivan/Getty Images 
+ 
+ 
+ 
+ Uber hasn’t driven nearly as many miles and   has had a fatal incident. The company doesn’t release specific figures, but its filings for its IPO last year said that it had driven “millions” of miles. It’s hard to tell without specific numbers, but it’s fair to wonder if   Uber’s  driving  record is much worse than a human’s.  
+ Furthermore, a review of Herzberg’s death suggests that a lot of preventable mistakes were made. The  accident report  by the National Transportation Safety Board, released in December 2019, found that the near-range cameras and the ultrasonic sensors “were not in use at the time of the crash.”  
+ Additionally, the system was having such a problem with false alarms — detecting dangerous situations when none existed — that it had been programmed with “a one-second period during which the ADS [automated  driving  system]   suppresses planned braking while the (1) system verifies the nature of the detected hazard and calculates an alternative path, or (2) vehicle operator takes control of the vehicle,” according to the NTSB report. So even when the car detected the hazard, it didn’t brake — which could have made the collision avoidable or much less deadly — but instead continued with exactly what it was doing for a full second.  
+ The system was designed to assume that pedestrians would never cross except at a crosswalk, so when one did cross without using one, it failed to identify her. Even worse, when the system was unclear on whether an object was a bicycle (as it was with Herzberg), it was unable to retain any information about how the object was moving. The system sensed her presence six full seconds before the impact — and yet did nothing (except possibly braking in the last two-tenths of a second) before colliding with her at deadly speed. 
+ Those are avoidable failures. 
+ Uber pulled its  cars  off the road in response, returning to  self - driving  car trials a year later with a drastically changed program. “We’ve implemented key safety improvements from both safety reviews, shared our learnings with the larger  self - driving  industry, and accepted the NTSB’s recommendation to implement a Safety Management System, which is underway today,” Nat Beuse, Uber’s  self - driving   cars  head of safety, told Vox   in a statement in response to a request for comment. “As we look ahead to the future, we’ll continue to keep safety at the center of every decision we make.” 
+ Nonetheless, deadly accidents with  self - driving   cars  will keep happening — and it’s not just Uber. A report from the National Transportation Safety Board  implicated Tesla’s Autopilot system  in another lethal 2018 accident; while the driver had his hands off the wheel, the car steered into a concrete divider and crashed, killing him. A full investigation hasn’t yet been conducted on  three more recent deadly Tesla crashes . The problem,  according to NTSB chairman Robert Sumwalt , is that drivers assume Autopilot lets them take their attention off the road, when they shouldn’t. That won’t be a problem with fully autonomous vehicles, but it’s a potentially major one now. 
+ As  I’ve written before,  getting good  self - driving   cars  on the road can save hundreds of thousands of lives. But it takes a lot of engineering work to get the  cars  good enough to be lifesaving.  
+ 6) Are  self - driving   cars  going to be good for the environment?  
+ Some advocates have argued that  self - driving   cars  will be good for the environment.  They claim they might   reduce car trips  by making car ownership unnecessary and transitioning society to a model where most people don’t own a car and just call for one   when they need one. 
+ In addition, others have argued that human drivers drive in a wasteful way — braking hard, accelerating hard, idling the engine, all of which use up fuel — which a computer could  avoid . 
+ But as  self - driving   cars  have inched closer to reality, most of these claimed benefits have started to look less likely.  
+ There’s not much evidence that computers are dramatically more fuel-efficient drivers than humans. There’s  one small study  suggesting adaptive cruise control improves efficiency a little (5 to 7 percent),   but there’s little else beyond that. Furthermore, researchers have examined the effects of more fuel-efficient  cars  on miles traveled and found that, under many circumstances, people  drive more when  cars  get more fuel-efficient  — so  self - driving   cars  having higher fuel efficiency might not mean that they produce lower emissions.  
+ One study attempting to estimate the effects of  self - driving   cars  on car use behavior  simulated a family having a  self - driving  car by paying for them to have a chauffeur for a week , and telling them to treat the chauffeur service the way they’d treat having a car that could drive itself.  
+ The result? They went on a lot more car trips. 
+ It’s still possible that some big transition to a lower- driving  world will happen. A study of one week of  driving  habits isn’t enough to settle the question for sure. The researchers who conducted that study are preparing future studies, and it’s possible those comparisons will turn up more encouraging results.  
+ 7) So if they’re not necessarily safer and they’re not necessarily greener, why are we even doing this? 
+ The above few sections might inspire some pessimism, but there’s plenty of reason to be excited about  self - driving   cars . They will likely make life easier   for older people and those with disabilities who cannot safely drive. They   might provide better, safer, and cheaper options for people currently forced to own a car to get anywhere. Additional research and development will make them safer — and once the kinks are worked out, there is a likelihood that  self - driving   cars  will be safer than human-driven ones. 
+ In a sense, we’re in an awkward transition moment where we want  self - driving   cars  they aren’t yet an uncomplicated positive.  
+ Research and development is proceeding anyway, mostly because  self - driving   cars  will probably be a gold mine   for the first company to get them on the road. They’ll likely be able to establish themselves in ride-hailing, taxi, and trucking markets while competitors are still struggling to catch up, and then they’ll benefit from the additional miles traveled to further improve their  cars .  
+ It’s not uncommon for a technology to be dangerous and barely worth it when it is first invented, only to eventually be refined into a valuable part of modern life. The first airplanes were dangerous and commercially useless, but we improved things dramatically from there. 
+ 8) What role does policy play in the development of  self - driving   cars ?  
+ There is no federal law regarding  self - driving   cars . Much of the action on policy has largely taken place at the state level. And the laws surrounding  self - driving   cars  vary enormously by state, with  29 states having passed legislation . 
+ Self - driving  car development mostly happens in the states that have been friendliest to it — especially California and Arizona — and it’s easy to envision some states banning  self - driving   cars  long after they become commonplace in other states, especially if the safety case for them isn’t a slam-dunk. 
+ When  self - driving   cars  were first proposed, I heard a lot of worries that regulators would unnecessarily delay their implementation. By 2016, it was obvious that  hadn’t come to pass . Indeed, in some cases regulators may have been too permissive — for example, in light of Uber pulling its  cars  and instituting new safety procedures, it seems the vehicle that killed Elaine Herzberg probably shouldn’t have been on the road at all. 
+ Policy might also shape whether  self - driving   cars  are good or bad   for the environment. With high taxes on gasoline, for example, the social costs of carbon emissions could be reflected in the price of using   self - driving   cars  — and the money can be   spent on climate adaptation and clean energy. But right now, our transportation policy doesn’t do much of anything about the social costs of  driving , and that’s a problem that will only get worse if  self - driving   cars  put more people on the road.  
+ 9) So just when are we getting  self - driving   cars ?  
+ In some senses, we’ve been “close” on  self - driving   cars  for years now. Waymo is doing test runs with no one behind the wheel in Arizona, which   it’s been doing since 2017. Cruise delayed the 2019 launch of its autonomous taxi service but thinks it might happen in 2020. Earlier this year, the company unveiled a  car with no steering wheel  ... and no timetable for when it’ll be available for sale. Tesla’s periodic software updates make its Autopilot highway  self - driving  work better, but it remains well short of full  self - driving . 
+ There are certainly skeptics. Recently, the CEO of Volkswagen said that fully  self - driving   cars  might “ never happen .” 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A Tesla Model 3, which is fitted with a a partial  self - driving  system, on display at the Brussels Expo in Brussels, Belgium, on January 9, 2020. 
+ Sjoerd van der Wal/Getty Images 
+ 
+ 
+ 
+ That might be an overly harsh forecast, considering the progress that’s been made. But it is exasperatingly difficult to get a good estimate of how long until  self - driving   cars  happen for real for the typical American, both because no one knows for sure and because companies have incentives to publicize optimistic estimates. The companies boast about   their progress but   don’t publish their mishaps. Timelines slip, and the change in plans is often publicly acknowledged only long after it’s become obvious that the deadline can’t be met.  
+ At the same time, companies hesitate to put their  cars  on the road when there’s any chance they aren’t ready. They are well aware that killing someone, as Uber did, is not only horrible but also probably spells doom for their business. So there’s ample incentive to say optimistic things and not actually launch. 
+ It’s not hard to imagine their arrival later this year, at least in sufficiently limited contexts; it’s also not hard to imagine that the deadlines will be pushed out another three or four years. 
+ Self - driving   cars  are on their way. They’re closer than they were a year ago. When they’ll actually get here is anyone’s guess. 
+ 
+ Sign up for the Future Perfect newsletter  and we’ll send you a roundup of ideas and solutions for tackling the world’s biggest challenges — and how to get better at doing good. 
+ 
+ 
+ 
+ 
+ vox-mark 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Sign up for the
+        
+          newsletter
+        
+       
+      Future Perfect
+     
+ Get our newsletter in your inbox twice a week. 
+ 
+ 
+ 
+ 
+ 
+ Email  (required) 
+ 
+ 
+ 
+ 
+ 
+ 
+        By signing up, you agree to our  Privacy Notice  and European users agree to the data transfer policy.
+        For more newsletters, check out our  newsletters page .
+       
+ Subscribe 
+ 
+ 
+ 
+ 
+ Future Perfect is funded in part by individual contributions, grants, and sponsorships. Learn more  here . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Future Perfect 
+ 
+ Why Cornel West is hopeful (but not optimistic) 
+ 
+ 
+ 
+ 
+ First Person 
+ 
+ How anti-vaxxers are thinking about a Covid-19 vaccine 
+ 
+ 
+ 
+ 
+ Future Perfect 
+ 
+ Taco Bell is removing some vegetarian menu items. Here’s why you shouldn’t panic. 
+ 
+ 
+ View all stories in Future Perfect 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chorus 
+ 
+ 
+ 
+ 
+ Terms of Use 
+ Privacy Notice 
+ Cookie Policy 
+ Do not sell my info 
+ Licensing FAQ 
+ Accessibility 
+ Platform Status 
+ 
+ 
+ Contact 
+ Send Us a Tip 
+ Masthead 
+ About Us 
+ Editorial Ethics and Guidelines 
+ 
+ 
+ 
+ Vox Media Vox Media 
+ Vox Media logo. 
+ 
+ Advertise with us 
+ Jobs @ Vox Media 
+      
+      © 2020  Vox Media , LLC. All Rights Reserved
+      
+      
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share this story 
+ 
+ 
+ 
+ 
+ 
+              Twitter
+             
+ 
+ 
+ 
+ 
+ 
+ 
+              Facebook
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Phonograph  
+ 
+ 
+  End Phonograph  
+ 
+ 
+ 
+ 
+ 
+ 
