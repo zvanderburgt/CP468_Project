@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>43560a2d-bb8d-4a6d-a5ca-a0f46185094e</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>webcrawler.py</StartupFile>
+    <StartupFile>train.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>

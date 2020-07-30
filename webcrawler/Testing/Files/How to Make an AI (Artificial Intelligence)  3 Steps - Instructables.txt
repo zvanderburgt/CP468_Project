@@ -1,7 +1,7 @@
 How to Make an AI (Artificial Intelligence) : 3 Steps - Instructables Home Circuits Workshop Craft Cooking Living Outside Teachers Following instructables circuits Projects Contests Community Classes Publish Enter search term How to Make an AI (Artificial Intelligence) 
             By  nhormell 
             
-                in  Circuits Computers 343,991 75 94 Download Favorite Introduction: How to Make an AI (Artificial Intelligence) By  nhormell Follow 
+                in  Circuits Computers 343,993 75 94 Download Favorite Introduction: How to Make an AI (Artificial Intelligence) By  nhormell Follow 
                 More by the author:
              
             
@@ -27,17 +27,17 @@ computer: don't worry i'm here Add Tip Ask Question Comment Download
                 in  Arduino 
                         63
                      
-                    4.8K
+                    4.9K
                  VK-01 Off-World Bartender 
             by  Donald Bell 
                 in  Raspberry Pi 
-                        231
+                        234
                      
                     19K
                  Neopixel LED Face Mask 
             by  splat238 
                 in  LEDs 
-                        231
+                        233
                      
                     20K
                  Parallel Sequencer Synth 
@@ -45,7 +45,7 @@ computer: don't worry i'm here Add Tip Ask Question Comment Download
                 in  Electronics 
                         59
                      
-                    6.9K
+                    7.0K
                  "Can't Touch This" Family Contest CNC Contest 2020 Robots Contest 94 Discussions 0 CristinaL8 
                     
                     

@@ -9,17 +9,21 @@ import os
 from datetime import datetime
 import json
 
-def train_model(classifier, feature_vector_train, label, feature_vector_valid, is_neural_net=False):
+def train_model(classifier, feature_vector_train, label, feature_vector_valid, feature_vector_test, is_neural_net=False):
     # fit the training dataset on the classifier
     classifier.fit(feature_vector_train, label)
+
+    testing = classifier.predict(feature_vector_test)
     
+
     # predict the labels on validation dataset
     predictions = classifier.predict(feature_vector_valid)
     
     if is_neural_net:
         predictions = predictions.argmax(axis=-1)
     
-    return metrics.accuracy_score(predictions, valid_y)
+    return metrics.accuracy_score(predictions, valid_y), testing
+
 
 #load the dataset 
 here = os.path.dirname(os.path.realpath(__file__))
@@ -47,6 +51,28 @@ for folder in keywords:
             print("Unable to read: " + file)
     print("Able to read: " + str(c) + " files")
 
+testing, title = [], []
+dir = os.path.join(here,"Testing")
+subDir = os.path.join(here,dir,"Files")
+# if there isn't already a subdirectory called Dataset in the same directory as the python file
+if not os.path.exists(subDir):
+    # make a new direcotry
+    os.makedirs(subDir)
+c = 0
+for file in os.listdir(subDir):
+    filepath = os.path.join(here, dir, subDir, file)
+    title.append(file)
+    try:
+        print("Reading: " + file)
+        f = open(filepath, 'r', encoding='utf8',errors='ignore')
+        r = f.read()
+        testing.append(r)
+        f.close()
+        print("Done!")
+        c+=1
+    except:
+        print("Unable to read: " + file)
+print("Able to read: " + str(c) + " files")
 
 dir = os.path.join(here, "Features")
 # if there isn't already a subdirectory called Dataset in the same directory as the python file
@@ -58,6 +84,9 @@ if not os.path.exists(dir):
 trainDF = pandas.DataFrame()
 trainDF['text'] = texts
 trainDF['label'] = labels
+
+testDF = pandas.DataFrame()
+testDF['text'] = testing
 
 # split the dataset into training and validation datasets 
 train_x, valid_x, train_y, valid_y = model_selection.train_test_split(trainDF['text'], trainDF['label'])
@@ -72,11 +101,12 @@ tfidf_vect = TfidfVectorizer(analyzer='word', token_pattern=r'\w{1,}', max_featu
 tfidf_vect.fit(trainDF['text'])
 xtrain_tfidf =  tfidf_vect.transform(train_x)
 xvalid_tfidf =  tfidf_vect.transform(valid_x)
+xtest_tfidf = tfidf_vect.transform(testDF['text'])
 # same as above but for the dataset subdirecories based on keywords
 subDir = os.path.join(here, dir, "Word Level")
 if not os.path.exists(subDir):
     os.makedirs(subDir)
-filepath = os.path.join(here, dir, subDir, str(datetime.date(datetime.now()))+".txt")
+filepath = os.path.join(here, dir, subDir, datetime.now().strftime("%Y%m%d-%H%M%S")+".txt")
 outFile = open(filepath, "w+")
 outFile.write("Vocabulary: " + json.dumps(tfidf_vect.vocabulary_)+'\n'+'*'*10+'\n')
 print("\nIDF: ",file=outFile)
@@ -101,10 +131,11 @@ tfidf_vect_ngram = TfidfVectorizer(analyzer='word', token_pattern=r'\w{1,}', ngr
 tfidf_vect_ngram.fit(trainDF['text'])
 xtrain_tfidf_ngram =  tfidf_vect_ngram.transform(train_x)
 xvalid_tfidf_ngram =  tfidf_vect_ngram.transform(valid_x)
+xtest_tfidf_ngram = tfidf_vect_ngram.transform(testDF['text'])
 subDir = os.path.join(here, dir, "Ngram Level")
 if not os.path.exists(subDir):
     os.makedirs(subDir)
-filepath = os.path.join(here, dir, subDir, str(datetime.date(datetime.now()))+".txt")
+filepath = os.path.join(here, dir, subDir, datetime.now().strftime("%Y%m%d-%H%M%S")+".txt")
 outFile = open(filepath, "w+")
 outFile.write("Vocabulary: " + json.dumps(tfidf_vect_ngram.vocabulary_)+'\n'+'*'*10+'\n')
 print("\nIDF: ",file=outFile)
@@ -129,10 +160,11 @@ tfidf_vect_ngram_chars = TfidfVectorizer(analyzer='char', token_pattern=r'\w{1,}
 tfidf_vect_ngram_chars.fit(trainDF['text'])
 xtrain_tfidf_ngram_chars =  tfidf_vect_ngram_chars.transform(train_x) 
 xvalid_tfidf_ngram_chars =  tfidf_vect_ngram_chars.transform(valid_x) 
+xtest_tfidf_ngram_chars = tfidf_vect_ngram_chars.transform(testDF['text'])
 subDir = os.path.join(here, dir, "Character Level")
 if not os.path.exists(subDir):
     os.makedirs(subDir)
-filepath = os.path.join(here, dir, subDir, str(datetime.date(datetime.now()))+".txt")
+filepath = os.path.join(here, dir, subDir, datetime.now().strftime("%Y%m%d-%H%M%S")+".txt")
 outFile = open(filepath, "w+")
 outFile.write("Vocabulary: " + json.dumps(tfidf_vect_ngram_chars.vocabulary_)+'\n'+'*'*10+'\n')
 print("\nIDF: ",file=outFile)
@@ -152,22 +184,36 @@ print(xvalid_tfidf_ngram_chars.toarray(),file=outFile)
 print('\n'+'*'*10+'\n',file=outFile)
 outFile.close()
 
-
+dir = os.path.join(here,"Testing")
 subDir = os.path.join(here, dir, "Accuracy")
 if not os.path.exists(subDir):
     os.makedirs(subDir)
-filepath = os.path.join(here, dir, subDir, str(datetime.date(datetime.now()))+".txt")
+filepath = os.path.join(here, dir, subDir, datetime.now().strftime("%Y%m%d-%H%M%S")+".txt")
 outFile = open(filepath, "w+")
 # Naive Bayes on Word Level TF IDF Vectors
-accuracy = train_model(naive_bayes.MultinomialNB(), xtrain_tfidf, train_y, xvalid_tfidf)
+accuracy,testing = train_model(naive_bayes.MultinomialNB(), xtrain_tfidf, train_y, xvalid_tfidf, xtest_tfidf)
 print("NB, WordLevel TF-IDF: ", accuracy,file=outFile)
+print("Classification Results :", file=outFile)
+c = 0
+for r in testing:
+    print(title[c] + ": " + keywords[r],file=outFile)
+    c+=1
 
 # Naive Bayes on Ngram Level TF IDF Vectors
-accuracy = train_model(naive_bayes.MultinomialNB(), xtrain_tfidf_ngram, train_y, xvalid_tfidf_ngram)
+accuracy,testing = train_model(naive_bayes.MultinomialNB(), xtrain_tfidf_ngram, train_y, xvalid_tfidf_ngram, xtest_tfidf_ngram)
 print("NB, N-Gram Vectors: ", accuracy,file=outFile)
+print("Classification Results :", file=outFile)
+c = 0
+for r in testing:
+    print(title[c] + ": " + keywords[r], file=outFile)
+    c+=1
 
 # Naive Bayes on Character Level TF IDF Vectors
-accuracy = train_model(naive_bayes.MultinomialNB(), xtrain_tfidf_ngram_chars, train_y, xvalid_tfidf_ngram_chars)
+accuracy,testing = train_model(naive_bayes.MultinomialNB(), xtrain_tfidf_ngram_chars, train_y, xvalid_tfidf_ngram_chars,xtest_tfidf_ngram_chars)
 print("NB, CharLevel Vectors: ", accuracy,file=outFile)
+print("Classification Results :", file=outFile)
+c = 0
+for r in testing:
+    print(title[c] + ": " + keywords[r], file=outFile)
+    c+=1
 outFile.close()
-

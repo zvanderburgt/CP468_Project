@@ -1,4 +1,4 @@
-The future of Artificial Intelligence and what it means to the Enterprise? 
+How do CEO’s Succeed with Artificial Intelligence at their Workplace? 
  Toggle Menu 
   BEGIN .boxed  
  
@@ -129,13 +129,27 @@ The future of Artificial Intelligence and what it means to the Enterprise?
  
  
  
- Healthcare 
  Latest News 
- Quantum Computing 
+ Machine Learning 
  
- Exploring the Possibility of Quantum Computing to Understand Genetic Diseases 
- Can quantum computing determine the probability of genetic diseases? Scientists  AddThis Advanced Settings above via filter on get_the_excerpt   AddThis Advanced Settings below via filter on get_the_excerpt   AddThis Advanced Settings generic via filter on get_the_excerpt  
- July 29, 2020 
+ Decoding Practical Problems and Business Implications of Machine Learning 
+ Why do machine learning models matter to the future of  AddThis Advanced Settings above via filter on get_the_excerpt   AddThis Advanced Settings below via filter on get_the_excerpt   AddThis Advanced Settings generic via filter on get_the_excerpt  
+ July 30, 2020 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ Computer Vision 
+ Latest News 
+ 
+ How does Computer Vision Bring a Difference to the Enterprise? 
+ Computer Vision is bringing a New Shine to the Enterprise,  AddThis Advanced Settings above via filter on get_the_excerpt   AddThis Advanced Settings below via filter on get_the_excerpt   AddThis Advanced Settings generic via filter on get_the_excerpt  
+ July 30, 2020 
  
  
  
@@ -148,24 +162,9 @@ The future of Artificial Intelligence and what it means to the Enterprise?
  Artificial Intelligence 
  Latest News 
  
- The future of Artificial Intelligence and what it means to the Enterprise? 
- In a decade people will become more dependent on artificial  AddThis Advanced Settings above via filter on get_the_excerpt   AddThis Advanced Settings below via filter on get_the_excerpt   AddThis Advanced Settings generic via filter on get_the_excerpt  
- July 29, 2020 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- Data Science 
- Latest News 
- 
- Why Does DataOps for Data Science Projects Matter? 
- Applying DataOps practices to data science projects can have a  AddThis Advanced Settings above via filter on get_the_excerpt   AddThis Advanced Settings below via filter on get_the_excerpt   AddThis Advanced Settings generic via filter on get_the_excerpt  
- July 29, 2020 
+ How do CEO’s Succeed with Artificial Intelligence at their Workplace? 
+ Often CEO’s get perplexed what to do with the AI,  AddThis Advanced Settings above via filter on get_the_excerpt   AddThis Advanced Settings below via filter on get_the_excerpt   AddThis Advanced Settings generic via filter on get_the_excerpt  
+ July 30, 2020 
  
  
  
@@ -329,7 +328,7 @@ The future of Artificial Intelligence and what it means to the Enterprise?
   BEGIN .left-content  
  
  
- The future of Artificial Intelligence and what it means to the Enterprise? 
+ How do CEO’s Succeed with Artificial Intelligence at their Workplace? 
  
  
  
@@ -340,29 +339,29 @@ The future of Artificial Intelligence and what it means to the Enterprise?
  
  
 									by  Kamalika Some   
- July 29, 2020 
+ July 30, 2020 
  0 comments 
  
  
- In a decade people will become more dependent on artificial intelligence (AI) in the complex digital environments. 
- Technology  headed by AI  has been instrumental in augmenting human capacities and reinventing human lifestyle. Code-driven systems integrating information and connectivity have ushered a new era which was previously unimagined bringing untapped opportunities and unprecedented threats. 
- Technology experts across the world have predicted that networked artificial intelligence will amplify human effectiveness besides threating human autonomy, and capabilities. We are not far from the age of  super intelligent AI  where algorithms may match or even exceed human intelligence and capabilities on tasks which involve complex decision-making, sophisticated analytics, pattern recognition, reasoning and learning, language translation, visual acuity and speech recognition 
+ Often CEO’s get perplexed what to do with the AI, the question remains how to extract maximum benefits from Artificial Intelligence?   
+ Artificial Intelligence has arrived and it is good time that the C-suite especially the CEO’s take a note of it. However, with the media hype surrounding digital transformation and AI the decision-makers of an enterprise often left in quandary as to how and when to implement AI and what to do with this business transformative technology. 
+ With tangible results and takeaways, AI has shown real outcomes for early adopters resulting in a sense of trust and a feeling of assurance. To aid the C-Suite to derive benefits from this technology,  Harvard Business Review  has come up with a set of pointers which enterprisers both big and small need to know, for AI success in their workplace- 
+ 1. C-suite must take its time to evaluate the critical success from AI before deciding on a pilot. 
+ 2. It is good to believe in the hype surrounding AI implementation, disruptive technologies can potentially boost enterprise returns. 
+ 3. AI transformation might not succeed without the support of decision-making management. 
+ 4. Partnering for capability and capacity creation is a must for  AI success . 
+ 5. Trust other technologies too, and avoid the temptation of putting tech teams solely in charge of AI implementation. 
+ 6. Accelerate the enterprise AI journey with a portfolio approach. 
+ 7. Machine Learning is powerful, but weigh your enterprise use cases before selecting the technology. 
+ 8. Build digital capabilities before an AI pilot project. 
+ 9. Take the change in overseeing the AI pilot in the first place. 
+ 10. Beware, people, change management and process-up-gradation are the biggest challenges. 
+ The buzz around  Artificial Intelligence (AI) has grown by leaps and bounds , all set to instil confidence among the C-suite all across the world. This is marked by an increase in investments and the widespread interest by venture capitalists, tech powerheads and change-makers. AI-infused digital transformation success stories are becoming all the louder and more prominent across enterprises crisscrossing domain functionalities. 
    
- The Concerns behind the Rise of AI 
- • Data Security 
- Modern enterprises generate data and most of that still battles against data abuse. Most AI tools are and will be dominated by companies and governments who are striving for profits or power. This leaves data silos and data lakes open rising fears of security against data mishandling. 
-   
- • Diminishing Human Cognition 
- Though many see AI to augment human capacities but some even predict the opposite. The increasing dependence on machine-driven networks may diminish  human cognitive abilities  to think for themselves, interact effectively with others and take decisions independent of automated systems. 
-   
- • Trade-off for the Inevitable 
- As AI algorithms have taken over decision making and predictions, humans may experience a loss of control over their ability to think and act. Decision-making on key aspects is automatically ceded to code powered “black box” tools. The drag and drop tools are not making decisions easy, as users know the context but do not understand the logic behind why the tools work. Thus, in this context, privacy and the power over choice; are scarified with no control over the processes. 
-   
- Artificial Intelligence for the Next Decade 
- AI and allied technologies have already achieved superhuman performance in a juncture of areas, and it is beyond doubt that their capabilities will improve over the years, probably very significantly in 10 years from now, by 2030. Aided by an access to vast data troves, bots powered by intelligent automation will  surpass humans in their ability  to take complex decisions. AI will drive a vast range of efficiency optimizations especially into highly rule-based chores which involve manpower. 
- Newer generations of citizen data scientists will become more and more dependent on networked AI structures and processes.  Networked interdependence will, increase an enterprise’s vulnerability to cyberattacks. There will be a sharp gap between the digital ‘haves’ and ‘have-nots,’ especially those who are technologically dependent digital infrastructures. The next question will be to answer the ‘commanding heights’ of the digital network infrastructure’s ownership and control. 
- Artificial Intelligence is empowering the ability for  autonomous operation  and the first thing which comes to mind is autonomous vehicles, but the applications are limitless. The combination of natural language processing, predictive analytics, and the world of intelligent sensors powered by IoT have had a pervasive impact in our daily lives. 
- Summing up, AI will be an integral component of an enterprise experience. Organisations will increasingly use and sometimes rely on AI systems to enhance their daily interactions with each other. In the next decade, AI will propel the powers of language translation and augmented creativity bringing a new dimension into digital transformation. 
+ The AI Transformation Shift  
+ The key adoption point of the IA influx arises from the adoption in AI machine learning and NLP infusion, to deliver more output and results that suits all the AI adopters. The AI adaptability across different industries will be different from BFSI, Telecom and Logistics all set to lead the way, while healthcare and the government sector is slowly and steadily preparing for the transitional shift. 
+ In the future, developing new business models to build a growth path that is flexible and robust will be critical to digitization. The same seems to hold for AI,  early AI adopters have been very proactive  and robust in adoption g to the change, setting up examples for others to follow. 
+ Summing up, the C-Suite must not make any mistake, the digital adoption is here, and the faster they realize its presence and embrace to these new technologies, the quicker they would adopt and stay in the competition race, else the time will come soon for perish. We are talking of a technology-dominated digital transformation era in some years from now. 
   AddThis Advanced Settings above via filter on the_content   AddThis Advanced Settings below via filter on the_content   AddThis Advanced Settings generic via filter on the_content  
  
  
@@ -441,8 +440,8 @@ The future of Artificial Intelligence and what it means to the Enterprise?
  
  
  
- Top Data Science Competitions to Test Your Knowledge 
- June 21, 2020 
+ Intelligent Automation is Becoming an Intelligent Necessity 
+ January 9, 2020 
  
  
  
@@ -452,8 +451,8 @@ The future of Artificial Intelligence and what it means to the Enterprise?
  
  
  
- AI-Enabled Mechanisms to Stimulate Customer Experience, Predict Industry Dignitaries 
- March 30, 2019 
+ Interview with Kristin Kuter, Director of the Master of Science in Data Science, Saint Mary’s College 
+ September 28, 2018 
  
  
  
@@ -463,8 +462,8 @@ The future of Artificial Intelligence and what it means to the Enterprise?
  
  
  
- Intelligent Automation-Technology to Look Forward To 
- April 9, 2019 
+ Technologies Used to Deal with Coronavirus Outbreak 
+ April 10, 2020 
  
  
  

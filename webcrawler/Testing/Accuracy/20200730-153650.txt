@@ -1,0 +1,33 @@
+NB, WordLevel TF-IDF:  1.0
+Classification Results :
+Artificial Intelligence (AI) Definition.txt: self+driving+cars
+Benefits  Risks of Artificial Intelligence - Future of Life Institute.txt: self+driving+cars
+How do CEOs Succeed with Artificial Intelligence at their Workplace.txt: self+driving+cars
+How to Make an AI (Artificial Intelligence)  3 Steps - Instructables.txt: self+driving+cars
+Understanding the Four Types of Artificial Intelligence.txt: artificial+intelligence
+What is Artificial Intelligence (AI) - Definition from Techopedia.txt: self+driving+cars
+What is Artificial Intelligence How Does AI Work  Built In.txt: self+driving+cars
+When Will Self-Driving Cars Be Available 2020.txt: artificial+intelligence
+Which Cars Have Self-Driving Features for 2020  News  Cars.com.txt: artificial+intelligence
+NB, N-Gram Vectors:  1.0
+Classification Results :
+Artificial Intelligence (AI) Definition.txt: self+driving+cars
+Benefits  Risks of Artificial Intelligence - Future of Life Institute.txt: self+driving+cars
+How do CEOs Succeed with Artificial Intelligence at their Workplace.txt: self+driving+cars
+How to Make an AI (Artificial Intelligence)  3 Steps - Instructables.txt: self+driving+cars
+Understanding the Four Types of Artificial Intelligence.txt: self+driving+cars
+What is Artificial Intelligence (AI) - Definition from Techopedia.txt: self+driving+cars
+What is Artificial Intelligence How Does AI Work  Built In.txt: self+driving+cars
+When Will Self-Driving Cars Be Available 2020.txt: artificial+intelligence
+Which Cars Have Self-Driving Features for 2020  News  Cars.com.txt: artificial+intelligence
+NB, CharLevel Vectors:  1.0
+Classification Results :
+Artificial Intelligence (AI) Definition.txt: self+driving+cars
+Benefits  Risks of Artificial Intelligence - Future of Life Institute.txt: self+driving+cars
+How do CEOs Succeed with Artificial Intelligence at their Workplace.txt: self+driving+cars
+How to Make an AI (Artificial Intelligence)  3 Steps - Instructables.txt: quantum+computing
+Understanding the Four Types of Artificial Intelligence.txt: artificial+intelligence
+What is Artificial Intelligence (AI) - Definition from Techopedia.txt: self+driving+cars
+What is Artificial Intelligence How Does AI Work  Built In.txt: self+driving+cars
+When Will Self-Driving Cars Be Available 2020.txt: artificial+intelligence
+Which Cars Have Self-Driving Features for 2020  News  Cars.com.txt: artificial+intelligence

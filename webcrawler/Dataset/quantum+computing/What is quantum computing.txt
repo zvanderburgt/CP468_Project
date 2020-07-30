@@ -2,10 +2,10 @@ What is quantum computing?
   Begin Google Tag Manager  
   End Google Tag Manager  
  
-  PinnedNavBarController, generated at 13:37:17 Thu Jul 30, 2020, by cds6  
-  AdsController, generated at 13:37:17 Thu Jul 30, 2020, by cds6  
+  PinnedNavBarController, generated at 15:29:01 Thu Jul 30, 2020, by cds4  
+  AdsController, generated at 15:29:01 Thu Jul 30, 2020, by cds4  
  
-  AdsController, generated at 13:37:17 Thu Jul 30, 2020, by cds6  
+  AdsController, generated at 15:29:01 Thu Jul 30, 2020, by cds4  
  
  
  
@@ -497,8 +497,8 @@ What is quantum computing?
  
  
  
-  AdsController, generated at 13:37:17 Thu Jul 30, 2020, by cds6  
-  BreadcrumbsController, generated at 13:18:37 Thu Jul 30, 2020, by cds6  
+  AdsController, generated at 15:29:01 Thu Jul 30, 2020, by cds4  
+  BreadcrumbsController, generated at 12:59:40 Thu Jul 30, 2020, by cds4  
  
  
  
@@ -512,7 +512,7 @@ What is quantum computing?
  
  
  
-  ContentItemController, generated at 13:18:37 Thu Jul 30, 2020, by cds6  
+  ContentItemController, generated at 12:59:40 Thu Jul 30, 2020, by cds4  
  
  Definition quantum computing  
  
@@ -541,10 +541,10 @@ What is quantum computing?
  Contributor(s): Borys Pawliw
 https://www.linkedin.com/in/boryspawliw/  
  
-  AdsController, generated at 13:18:37 Thu Jul 30, 2020, by cds6  
+  AdsController, generated at 12:59:40 Thu Jul 30, 2020, by cds4  
  
  
-  SocialMediaShareBarController, generated at 13:38:53 Thu Jul 30, 2020, by cds6  
+  SocialMediaShareBarController, generated at 15:28:08 Thu Jul 30, 2020, by cds4  
  
  
  
@@ -576,7 +576,7 @@ https://www.linkedin.com/in/boryspawliw/
  
  
  
-  ContentItemController, generated at 13:18:37 Thu Jul 30, 2020, by cds6  
+  ContentItemController, generated at 12:59:40 Thu Jul 30, 2020, by cds4  
  
  
  
@@ -687,9 +687,9 @@ https://www.linkedin.com/in/boryspawliw/
  
  
  
-  AdsController, generated at 13:18:37 Thu Jul 30, 2020, by cds6  
+  AdsController, generated at 12:59:40 Thu Jul 30, 2020, by cds4  
  
-  RelatedTermsController, generated at 13:18:37 Thu Jul 30, 2020, by cds6  
+  RelatedTermsController, generated at 12:59:40 Thu Jul 30, 2020, by cds4  
  
  
  
@@ -719,11 +719,11 @@ https://www.linkedin.com/in/boryspawliw/
  
  
  
-  DiscussionsController, generated at 06:20:46 Thu Jul 30, 2020, by cds6  
+  DiscussionsController, generated at 15:29:01 Thu Jul 30, 2020, by cds4  
  
  
  
-  WordOfTheDayController, generated at 13:18:37 Thu Jul 30, 2020, by cds6  
+  WordOfTheDayController, generated at 15:21:32 Thu Jul 30, 2020, by cds4  
  
  
  Word of the Day 
@@ -733,7 +733,7 @@ https://www.linkedin.com/in/boryspawliw/
  
  
  
-  LatestContentController, generated at 13:18:37 Thu Jul 30, 2020, by cds6  
+  LatestContentController, generated at 12:59:40 Thu Jul 30, 2020, by cds4  
  
  
  20 Newest and Updated Terms 
@@ -765,7 +765,7 @@ https://www.linkedin.com/in/boryspawliw/
  
  
  
-  CommentingController, generated at 13:43:54 Thu Jul 30, 2020, by cds6  
+  CommentingController, generated at 15:29:52 Thu Jul 30, 2020, by cds4  
  
  
  
@@ -1099,7 +1099,7 @@ https://www.linkedin.com/in/boryspawliw/
  
  
  
-  GoogleAdSenseController, generated at 13:38:36 Thu Jul 30, 2020, by cds6  
+  GoogleAdSenseController, generated at 15:28:05 Thu Jul 30, 2020, by cds4  
  
  -ADS BY GOOGLE 
  
@@ -1107,7 +1107,7 @@ https://www.linkedin.com/in/boryspawliw/
  
  
  
-  FileExtensionsController, generated at 12:44:42 Thu Jul 30, 2020, by cds6  
+  FileExtensionsController, generated at 12:44:41 Thu Jul 30, 2020, by cds4  
  
  File Extensions and File Formats 
  
@@ -1146,7 +1146,7 @@ https://www.linkedin.com/in/boryspawliw/
  
  
  
-  NetworkCoverageController, generated at 08:35:24 Thu Jul 30, 2020, by cds6  
+  NetworkCoverageController, generated at 15:28:05 Thu Jul 30, 2020, by cds4  
  
  
  Latest TechTarget  resources 
@@ -1303,7 +1303,7 @@ https://www.linkedin.com/in/boryspawliw/
  
  
  
-  FooterLinksController, generated at 13:18:37 Thu Jul 30, 2020, by cds6  
+  FooterLinksController, generated at 12:59:41 Thu Jul 30, 2020, by cds4  
  
  
  Browse by Topic 
@@ -1342,10 +1342,10 @@ https://www.linkedin.com/in/boryspawliw/
  
 Component Load Times
 ====================
-DefaultPageController=78 ms
-CommentingController=25 ms
+DefaultPageController=51 ms
+CommentingController=29 ms
 
-Total time=103 ms
-Request Serving Server: cds6
+Total time=80 ms
+Request Serving Server: cds4
  
  

@@ -1,0 +1,27 @@
+NB, WordLevel TF-IDF:  0.42857142857142855
+Classification Results :
+Artificial Intelligence (AI) Definition.txt: artificial+intelligence
+Benefits  Risks of Artificial Intelligence - Future of Life Institute.txt: artificial+intelligence
+How do CEOs Succeed with Artificial Intelligence at their Workplace.txt: artificial+intelligence
+How to Make an AI (Artificial Intelligence)  3 Steps - Instructables.txt: artificial+intelligence
+Understanding the Four Types of Artificial Intelligence.txt: artificial+intelligence
+What is Artificial Intelligence (AI) - Definition from Techopedia.txt: artificial+intelligence
+What is Artificial Intelligence How Does AI Work  Built In.txt: artificial+intelligence
+NB, N-Gram Vectors:  0.42857142857142855
+Classification Results :
+Artificial Intelligence (AI) Definition.txt: self+driving+cars
+Benefits  Risks of Artificial Intelligence - Future of Life Institute.txt: self+driving+cars
+How do CEOs Succeed with Artificial Intelligence at their Workplace.txt: artificial+intelligence
+How to Make an AI (Artificial Intelligence)  3 Steps - Instructables.txt: artificial+intelligence
+Understanding the Four Types of Artificial Intelligence.txt: artificial+intelligence
+What is Artificial Intelligence (AI) - Definition from Techopedia.txt: self+driving+cars
+What is Artificial Intelligence How Does AI Work  Built In.txt: self+driving+cars
+NB, CharLevel Vectors:  0.2857142857142857
+Classification Results :
+Artificial Intelligence (AI) Definition.txt: artificial+intelligence
+Benefits  Risks of Artificial Intelligence - Future of Life Institute.txt: artificial+intelligence
+How do CEOs Succeed with Artificial Intelligence at their Workplace.txt: artificial+intelligence
+How to Make an AI (Artificial Intelligence)  3 Steps - Instructables.txt: artificial+intelligence
+Understanding the Four Types of Artificial Intelligence.txt: artificial+intelligence
+What is Artificial Intelligence (AI) - Definition from Techopedia.txt: artificial+intelligence
+What is Artificial Intelligence How Does AI Work  Built In.txt: artificial+intelligence

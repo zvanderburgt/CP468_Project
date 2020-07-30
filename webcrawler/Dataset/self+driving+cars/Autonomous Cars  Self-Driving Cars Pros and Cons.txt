@@ -1,0 +1,582 @@
+ Title:Start  You have reached the cached page for  https://www.popularmechanics.com/cars/car-technology/a27269684/self-driving-cars/  Title:End   Content:Start  Below is a snapshot of the Web page as it appeared on  2020-07-09  (the last time our crawler visited it). This is the version of the page that was used for ranking your search results. The page may have changed since we last cached it. To see what might have changed (without the highlights),  go to the current page .  Content:End   Hit:Start  You searched for:  HitHighlight:Start self   driving   cars HitHighlight:End  We have highlighted matching words that appear in the page below.  Hit:End   Disclaimer:Start  Bing is not responsible for the content of this page.  Disclaimer:End   Banner:End  
+ html 
+ Autonomous Cars | Self-Driving Cars Pros and Cons 
+ 
+ 
+ 
+ 
+ 
+ 
+ 73% of African Americans  
+            said they did not have  emergency funds to cover three months of expenses.
+         
+ #WeAreDoneDying 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            TAKE ACTION
+         
+ 
+ 
+ 
+  menus/sidepanel  
+ 
+ 
+ 
+ 
+ 
+                    Search
+                 
+ 
+ 
+ 
+ 
+ 
+ 
+ Follow 
+ 
+ Facebook 
+ Instagram 
+ Twitter 
+ Pinterest 
+ Youtube 
+ 
+ 
+ Subscribe 
+ 
+ Pop Mech Pro 
+ Give a Gift 
+ 
+ 
+ Get Our Newsletter 
+ Pop Mech Pro 
+ Home and DIY 
+ Power Tools 
+ Cars , Trucks, & Motorcycles 
+ Technology 
+ Military 
+ Gear & Gadget Reviews 
+ Science 
+ Sci-Fi 
+ Airplanes 
+ Space 
+ Podcasts 
+ Promotions 
+ Win 
+ 
+ 
+ Do Not Sell My Info 
+ 
+ 
+ 
+ 
+            Privacy Notice
+         
+ 
+            Terms of Use
+         
+ 
+ 
+  / menus/sidepanel  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PM_Logo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+					Subscribe
+				 
+ 
+ 
+ Sign In 
+ 
+ 
+ 
+ My Account 
+ Sign Out 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Type keyword(s) to search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+				Today's Top Stories
+			 
+ 
+ 
+			1
+		 
+ 
+ What If ‘Floor Is Lava’ Used Actual Lava? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+			2
+		 
+ 
+ Can the Boeing 737 MAX Be Saved? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+			3
+		 
+ 
+ Molten Salt Reactors Are Nuclear's Future 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+			4
+		 
+ 
+ USAF's Last “Spooky” Gunship Heads to the Boneyard 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+			5
+		 
+ 
+ Helle’s Temagami Knife is a Thing of Beauty 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		Gear-obsessed editors choose every product we review. We may earn commission if you buy from a link.
+
+					 How we test gear. 
+ 
+ 
+ When Are  Self - Driving   Cars  Actually Coming? 
+ We've been promised a future in which machines do the  driving  for us. When will they be ready? And when the time comes, will  we  be ready? 
+ 
+ 
+ 
+ 
+ 
+  shared/byline  
+ By
+					 Anthony Alaniz 
+ 
+  / shared/byline  
+ 
+ 
+											Apr 25, 2019
+					 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ANDREAS GEBERT Getty Images 
+ 
+ 
+ 
+ Back in the 1950s, George Jetson's flying car was the transportation tech promised to be right around the corner. Now, it's  self - driving  vehicles.  Google has  cars  piloting themselves around California, and have been doing so for years. General Motors and its Cruise Automation subsidiary are preparing to launch a  self - driving  taxi service sometime this year. But promises of reading a book or napping while your car ferries you off to work remain unfulfilled. The reality of  self - driving   cars  is much more complicated and still years away from realizing the powers promised to the public.  Technological limitations remain along with unknown legal hurdles. If a  self - driving  car crashes, who’s responsible? We don’t know yet, and insurance companies aren’t eager to head to court to figure it out. That's why the idea of getting into a car and doing nothing but picking a destination is fantasy—for now. What Autonomy Actually Is 
+ 
+ 
+ 
+ 
+ 
+ Viaframe Getty Images 
+ 
+ Self - driving   cars , which are also sometimes called autonomous or driverless vehicles, do not exist—yet. However, the term and its associated jargon are infiltrating the lexicon. As of today, there are no truly  self - driving  vehicles in the U.S. But there are partially  self - driving  vehicles, and that is complicating the discussion around  self - driving   cars . According to the Society of Automotive Engineers (SAE), there are six levels of semi-autonomous and autonomous vehicles, numbered zero to five. They are as follows:  Level 0: No Automation  A Level 0 vehicle isn’t a  self - driving  vehicle at all. It’s your standard, everyday car with zero advanced driver assistance systems. This vehicle lacks features like automatic emergency braking and adaptive cruise control. It’s a vehicle that requires a human to do all the  driving .  Level 1: Driver Assistance A Level 1  self - driving  vehicle features an advanced driver assistance system that can sometimes assist a human driver with operating the vehicle. For example, a Level 1 vehicle can steer (via lane-keep assist) or brake/accelerate (via adaptive cruise control) for the driver. However, it cannot do both simultaneously.  Level 2: Partial Automation Level 2 of autonomy means the vehicle features an advanced driver assistance system that can control steering and braking/accelerating simultaneously under some circumstances (specific weather conditions or on certain designated roads). However, Level 2 vehicles require the driver to maintain focus and pay attention at all times, operate other vehicle functions, assist in mitigating any dangerous situations, and be ready to take control in the event of an emergency. Level 2 encompasses the often praised  Cadillac Super Cruise technology  General Motors introduced on the 2017 Cadillac CT6.  Level 3: Conditional Automation A Level 3 vehicle can control all aspects of  driving  in some circumstances through several advanced driver assistance systems working together. While the vehicle does control all aspects of  driving , a Level 3  self - driving  car requires the driver to take back control when requested. In all other circumstances, a human is needed to perform  driving  tasks. Audi’s Traffic Jam Pilot, introduced on the 2019 A8, is billed as a Level 3 system. However, it’s not coming to the U.S.  Level 4: High Automation A Level 4  self - driving  is similar to a Level 3  self - driving  vehicle. Both control all aspects of  driving  in some circumstances. However, a Level 4 vehicle does not require a human to pay attention when the advanced driver assistance systems are operating the vehicle. A Level 4 vehicle can monitor the  driving  environment. Level 4 vehicles only work in certain circumstances.  Level 5: Full Automation A Level 5  self - driving  vehicle is a vehicle that can control all  driving  tasks in all circumstances. Here, human occupants are never involved in  driving  the vehicle under any conditions. At this point, we're just the passengers.  Advanced Driver Assistance Systems 
+ 
+ 
+ 
+ 
+ 
+ Dong Wenjie Getty Images 
+ 
+ Advanced driver assistance systems are an assortment of technologies that assist the driver with  driving  the vehicle. Automakers will often market these systems under different branded names; however, they function the same. Advanced driver assistance systems include, but are not limited to, the following:  Adaptive Cruise Control Automatic Parking Blind Spot Monitoring Collision Avoidance System Driver Drowsiness Detection Driver Monitoring System Hill Descent Control Forward Collision Warning Lane Centering Assist  Lane Departure Warning Traffic Sign Recognition These systems are the first steps toward  self - driving   cars —smaller pieces of a larger picture. They’re available today across a broad spectrum of makes, models, and price points. Companies like Toyota and Honda have made an effort to include many of these technologies and systems across their entire lineup regardless of trim.  The next step is to combine these technologies into one system that takes  driving  responsibility away from the driver. This is the challenge automakers and tech companies are struggling with. Wrapping all these systems into one cohesive package that works all the time will be the key that unlocks our  self - driving  future. Implementation and Other Issues 
+ 
+ 
+ 
+ 
+ 
+ darekm101 Getty Images 
+ 
+ Building the technology is only half the battle. Getting the car-buying public on board with  cars  that really drive themselves will take time. Polls show that many people, even the tech-loving younger crowd, are uneasy about the tech. Automakers and tech companies must carefully communicate what their  self - driving  technologies can—and can't—do. Insurance companies play with risk, and one risk they’re leery of is  self - driving   cars  and the stepping-stone technologies many automakers are already implementing. You’d think new technologies designed to reduce crashes and save lives would lower insurance premiums, but that doesn’t appear to be the case. Such systems could raise insurance premiums, likely dissuading some consumers from choosing such a vehicle when the time comes.  Why would premiums raise?  There’s more risk involved.  Self - driving   cars  and driver assist systems are not created equal and are not perfect, and that increases risk, something insurance companies want to avoid.   editoriallinks id='da5571bc-4cf3-42a2-a3b0-84b8ee17b391'][/editoriallinks] Finally, the rise of autonomous vehicles is already giving rise to thorny questions about when humans hand off responsibility to machines, when they can't, and how dangerous that transitions will be. Automakers are slowly introducing  self - driving  technologies into their vehicles. Many offer vehicles that would classify as a Level 1  self - driving  vehicle, offering several advanced driver assistance systems. Tesla Autopilot, Volvo Pilot Assist, Mercedes-Benz Drive Pilot, and Cadillac Super Cruise are all Level 2  self - driving  systems. Level 3 autonomy is coming to vehicles like the Mercedes S-Class and Volvo’s fleet. Entirely autonomous Level 5 vehicles are still years away.  There are also  issues with the terminology  surrounding  self - driving  vehicles that can confuse consumers. Calling any vehicle a  self - driving  vehicle, except those certified as a Level 5 vehicle, is disingenuous and potentially dangerous. Educating consumers about the limitations of Level 1-4  self - driving  vehicles is key to ensuring such vehicles are operated safely. These systems are open to abuse, with automakers and regulators leading the charge to educate customers and consumers about how  self - driving  vehicles of any SAE level operate.  
+ 
+    This content is created and maintained by a third party, and imported onto this page to help users provide their email addresses. You may be able to find more information about this and similar content at piano.io
+ 
+ 
+ 
+				This commenting section is created and maintained by a third party, and imported onto this page. You may be able to find more information on their web site.
+			 
+ 
+ 
+ 
+ 
+ Advertisement - Continue Reading Below 
+ 
+ 
+ 
+ 
+ 
+  shared/article-marketplace-horizontal.twig  
+ 
+  / shared/article-marketplace-horizontal.twig  
+  shared/end-of-content.twig  
+ 
+ 
+ 
+  / shared/end-of-content.twig  
+  shared/module-recommended.twig  
+ 
+  / shared/module-recommended.twig  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ More From 
+ Car Technology 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AMG Is Putting an Electric Turbo Into Production 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For Motor Oil, How Old Is Too Old? 
+ 
+ 
+ 
+ 
+ Advertisement - Continue Reading Below 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Aston Martin is Bringing Back the DB5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Here's How To Fix Your Anti-Lock Brakes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For Cargo Space, Sedan or Hatchback? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How to Care for Your Car's Differential 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ford Turns to At-Home VR for Vehicle Development 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ford Is Using Seat Vent Fans to Build Respirators 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Man Brake-Checks  Self - Driving  Van, Gets Arrested 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Is the Best  Self - Driving  Car...a Subaru? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Car Technology 
+ 
+ 
+ Cars 
+ 
+ 
+ Self -Defense for the  Self - Driving  Car 
+ 
+ 
+ Who's Afraid of the  Self - Driving  Car? 
+ 
+ 
+ Video: The  Self - Driving  Car Is Coming 
+ 
+ 
+ Uber's  Self - Driving   Cars  Off to a Rocky Start 
+ 
+ 
+ Human Driver Crashes Into Google  Self - Driving  Car 
+ 
+ 
+ 5 Ways  Self - Driving   Cars  Will Upend the Economy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  footers/main  
+ 
+ 
+ 
+ 
+ 
+ PM_Logo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Newsletter 
+ Digital Editions 
+ About Us 
+ Media Kit 
+ Press Room 
+ Contact Us 
+ Community Guidelines 
+ Advertise Online 
+ Customer Service 
+ Subscribe 
+ Other Hearst Subscriptions 
+ Give a Gift 
+ Events & Promotions 
+ Giveaways 
+ Being Green 
+ BestProducts 
+ 
+ A Part of Hearst Digital Media 
+ 
+				Popular Mechanics participates in various affiliate marketing programs, which means we may get paid commissions on editorially chosen products purchased through our links to retailer sites.
+			 
+ 
+ ©2020 Hearst Magazine Media, Inc. All Rights Reserved. 
+ Privacy Notice 
+ Your California Privacy Rights 
+ Interest-Based Ads 
+ Terms of Use 
+ Site Map 
+ 
+ 
+ Do Not Sell My Info 
+ 
+ 
+ 
+ 
+ 
+  / footers/main  
+ 
+ 
+ 
+ 
+ 
+ 
+ 

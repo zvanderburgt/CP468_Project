@@ -1,4 +1,27 @@
-What is Artificial Intelligence (AI)? - Definition from Techopedia 
+ Title:Start  You have reached the cached page for  https://www.techopedia.com/definition/190/artificial-intelligence-ai  Title:End   Content:Start  Below is a snapshot of the Web page as it appeared on  2020-07-30  (the last time our crawler visited it). This is the version of the page that was used for ranking your search results. The page may have changed since we last cached it. To see what might have changed (without the highlights),  go to the current page .  Content:End   Hit:Start  You searched for:  HitHighlight:Start artificial   intelligence HitHighlight:End  We have highlighted matching words that appear in the page below.  Hit:End   Disclaimer:Start  Bing is not responsible for the content of this page.  Disclaimer:End   Banner:End  
+ html 
+ What is Artificial Intelligence (AI)? - Definition from Techopedia 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
@@ -11,7 +34,6 @@ What is Artificial Intelligence (AI)? - Definition from Techopedia
  
  Toggle navigation 
  Menu 
- 
  
  
  
@@ -295,7 +317,7 @@ What is Artificial Intelligence (AI)? - Definition from Techopedia
  
  
  
- Utilizing Visual Artificial Intelligence for Ecommerce Monetization 
+ Utilizing Visual  Artificial   Intelligence  for Ecommerce Monetization 
  
  
  
@@ -304,7 +326,7 @@ What is Artificial Intelligence (AI)? - Definition from Techopedia
  
  
  
- Artificial Intelligence: Debunking the Top 10 AI Myths 
+ Artificial   Intelligence : Debunking the Top 10 AI Myths 
  
  
  
@@ -322,7 +344,7 @@ What is Artificial Intelligence (AI)? - Definition from Techopedia
  
  
  
- Artificial Neural Networks: 5 Use Cases to Better Understand 
+ Artificial  Neural Networks: 5 Use Cases to Better Understand 
  
  
  
@@ -501,14 +523,14 @@ What is Artificial Intelligence (AI)? - Definition from Techopedia
  
  
  
- Artificial Intelligence: Debunking the Top 10 AI Myths 
+ Artificial   Intelligence : Debunking the Top 10 AI Myths 
  
  
  
  
  
  
- Artificial Neural Networks: 5 Use Cases to Better Understand 
+ Artificial  Neural Networks: 5 Use Cases to Better Understand 
  
  
  
@@ -710,7 +732,6 @@ What is Artificial Intelligence (AI)? - Definition from Techopedia
  
  
  
- 
 Topics
  
  
@@ -811,6 +832,15 @@ More
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  Home 
  
  
@@ -829,7 +859,7 @@ More
  
  
  
-  Artificial Intelligence (AI) 
+   Artificial   Intelligence  (AI) 
  
  
  
@@ -842,15 +872,11 @@ More
  
  
  
-Definition - What does  Artificial Intelligence (AI)  mean?
+Definition - What does  Artificial   Intelligence  (AI)  mean?
  
  
  
-   Artificial intelligence (AI), also known as machine intelligence, is a branch of computer science that aims to imbue software with the ability to analyze its environment using either predetermined rules and search algorithms, or pattern recognizing machine learning models, and then make decisions based on those analyses. In this way, AI attempts to mimic biological intelligence to allow the software application or system to act with varying degrees of autonomy, thereby reducing manual human intervention for a wide range of functions. 
- 
- 
- 
- 
+   Artificial   intelligence  (AI), also known as machine  intelligence , is a branch of computer science that aims to imbue software with the ability to analyze its environment using either predetermined rules and search algorithms, or pattern recognizing machine learning models, and then make decisions based on those analyses. In this way, AI attempts to mimic biological  intelligence  to allow the software application or system to act with varying degrees of autonomy, thereby reducing manual human intervention for a wide range of functions. 
  
  
  
@@ -864,10 +890,22 @@ Definition - What does  Artificial Intelligence (AI)  mean?
  
  
  
- Techopedia explains  Artificial Intelligence (AI) 
  
  
- While AI often invokes images of the sentient computer overlord of science fiction, the current reality is far different. At its heart, AI uses the same basic algorithmic functions that drive traditional software, but applies them in a different way. A standard warehouse management system, for example, can show the current levels of various products, while an intelligent one could identify shortages, analyze the cause and its effect on the overall supply chain, and even take steps to correct it. Artificial intelligence can be allowed to replace a whole system, making all decisions end-to-end, or it can be used to enhance a specific process. For example, analyzing video footage to recognize gestures, or replacing peripheral devices (keyboard, mouse, touchscreen) with a speech to text system., giving the impression that one is interacting with a sentient being. Just as philosophers debate the nature of man and the existence of free will, computer science experts debate the various types of AI. The Evolving Stages of Artificial Intelligence Narrow (Weak) AI Capable of performing only a limited set of predetermined functions; think, autonomous cars, retail kiosks, etc.; General (Strong) AI Said to equal the human mind’s ability to function autonomously according to a wide set of stimuli; Super AI Which will one day exceed human intelligence (and conceivably take over the world). At the moment, Narrow AI is only beginning to enter mainstream computing applications. Four Distinct Categories of Artificial Intelligence Reactive AI Can only react to existing situations, not past experiences. Limited Memory AI Relies on stored data to learn from recent experiences to make decisions. Theory of Mind AI Capable of comprehending conversational speech, emotions, non-verbal cues and other intuitive elements; Self-Aware AI Human-level consciousness with its own desires, goals and objectives. A good way to visualize these distinctions would be an AI-driven poker player. A reactive machine would base decisions only on the current hand in play, while a limited memory version would consider past decisions and player profiles. Using Theory of Mind, however, the program would pick up on speech and facial cues, and a self-aware AI might start to consider if there is something more worthwhile to do than play poker. Artificial Intelligence On a Practical Level AI is currently being applied to a range of functions both in the lab and in commercial/consumer settings: Speech Recognition Allows intelligent systems to convert human speech into text or code. Natural Language Processing A subset of speech recognition, enables conversational interaction between humans and computers. Computer Vision Allows a machine to scan an image and identify it using comparative analysis. Perhaps the most revolutionary aspect of AI, however, is that it allows software to rewrite itself as it adapts to its environment. Unlike traditional upgrade programs that take years and are often buggy, or even newer DevOps processes that push changes quickly with less disruption, AI allows a given program to optimize itself to highly specialized use cases. This should not only lower the cost of software licensing and support, it should provide steadily improving performance and the development of unique processes that deliver crucial advantages in an increasingly competitive economy. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Techopedia explains  Artificial   Intelligence  (AI) 
+ 
+ 
+ While AI often invokes images of the sentient computer overlord of science fiction, the current reality is far different. At its heart, AI uses the same basic algorithmic functions that drive traditional software, but applies them in a different way. A standard warehouse management system, for example, can show the current levels of various products, while an intelligent one could identify shortages, analyze the cause and its effect on the overall supply chain, and even take steps to correct it. Artificial   intelligence  can be allowed to replace a whole system, making all decisions end-to-end, or it can be used to enhance a specific process. For example, analyzing video footage to recognize gestures, or replacing peripheral devices (keyboard, mouse, touchscreen) with a speech to text system., giving the impression that one is interacting with a sentient being. Just as philosophers debate the nature of man and the existence of free will, computer science experts debate the various types of AI. The Evolving Stages of  Artificial   Intelligence Narrow (Weak) AI Capable of performing only a limited set of predetermined functions; think, autonomous cars, retail kiosks, etc.; General (Strong) AI Said to equal the human mind’s ability to function autonomously according to a wide set of stimuli; Super AI Which will one day exceed human  intelligence  (and conceivably take over the world). At the moment, Narrow AI is only beginning to enter mainstream computing applications. Four Distinct Categories of  Artificial   Intelligence Reactive AI Can only react to existing situations, not past experiences. Limited Memory AI Relies on stored data to learn from recent experiences to make decisions. Theory of Mind AI Capable of comprehending conversational speech, emotions, non-verbal cues and other intuitive elements; Self-Aware AI Human-level consciousness with its own desires, goals and objectives. A good way to visualize these distinctions would be an AI-driven poker player. A reactive machine would base decisions only on the current hand in play, while a limited memory version would consider past decisions and player profiles. Using Theory of Mind, however, the program would pick up on speech and facial cues, and a self-aware AI might start to consider if there is something more worthwhile to do than play poker. Artificial   Intelligence  On a Practical Level AI is currently being applied to a range of functions both in the lab and in commercial/consumer settings: Speech Recognition Allows intelligent systems to convert human speech into text or code. Natural Language Processing A subset of speech recognition, enables conversational interaction between humans and computers. Computer Vision Allows a machine to scan an image and identify it using comparative analysis. Perhaps the most revolutionary aspect of AI, however, is that it allows software to rewrite itself as it adapts to its environment. Unlike traditional upgrade programs that take years and are often buggy, or even newer DevOps processes that push changes quickly with less disruption, AI allows a given program to optimize itself to highly specialized use cases. This should not only lower the cost of software licensing and support, it should provide steadily improving performance and the development of unique processes that deliver crucial advantages in an increasingly competitive economy. 
+ 
+ 
+ 
+ 
  
  
  
@@ -894,28 +932,32 @@ Definition - What does  Artificial Intelligence (AI)  mean?
  
  
  
+ 
+ 
+ 
+ 
+ 
  Related Terms 
  
  
  
  
-Artificial General Intelligence (AGI)
+ Artificial  General  Intelligence  (AGI)
  
  
  
  
-Weak Artificial Intelligence (Weak AI)
+Weak  Artificial   Intelligence  (Weak AI)
  
  
  
  
-Strong Artificial Intelligence (Strong AI)
-
+Strong  Artificial   Intelligence  (Strong AI)
  
  
  
  
-Narrow Artificial Intelligence (Narrow AI)
+Narrow  Artificial   Intelligence  (Narrow AI)
  
  
  
@@ -935,17 +977,21 @@ Automatic Speech Recognition (ASR)
  
  
  
-Cloudware
+Computing
  
  
  
  
-Cloud Networking
+Machine Learning as a Service (MLaaS)
  
  
  
  
-QNX
+Cloud-Based Point of Sale (Cloud-Based POS)
+ 
+ 
+ 
+ 
  
  
  
@@ -980,10 +1026,7 @@ QNX
  
  
  
- 
- 
  Related Articles 
- 
  
  
  
@@ -1060,8 +1103,7 @@ QNX
  
  
  
- Artificial Neural Networks: 5 Use Cases to Better Understand 
- 
+ Artificial  Neural Networks: 5 Use Cases to Better Understand 
  
  
  
@@ -1151,7 +1193,7 @@ What is the difference between big data and Hadoop?
  
  
  
- Computer Science Artificial Intelligence (AI) Technology Trends Data Science 
+ Computer Science Artificial   Intelligence  (AI) Technology Trends Data Science 
  
  
  
@@ -1161,7 +1203,11 @@ What is the difference between big data and Hadoop?
  
  Synonyms: 
  
-Artificially Intelligent, Artificial Intellect, Machine Intelligence, Artificial-Intelligence, Digital Intelligence
+Artificially Intelligent,  Artificial  Intellect, Machine  Intelligence ,  Artificial - Intelligence , Digital  Intelligence 
+ 
+ 
+ 
+ 
  
  
  
@@ -1212,7 +1258,12 @@ Artificially Intelligent, Artificial Intellect, Machine Intelligence, Artificial
  
  
  
- report this ad 
+ 
+ 
+ 
+ 
+ 
+   
  
  Latest Articles 
  
@@ -1257,7 +1308,7 @@ Artificially Intelligent, Artificial Intellect, Machine Intelligence, Artificial
  
  
  
- Utilizing Visual Artificial Intelligence for Ecommerce Monetization 
+ Utilizing Visual  Artificial   Intelligence  for Ecommerce Monetization 
  
  
  
@@ -1272,7 +1323,7 @@ Artificially Intelligent, Artificial Intellect, Machine Intelligence, Artificial
  
  
  
- Artificial Intelligence: Debunking the Top 10 AI Myths 
+ Artificial   Intelligence : Debunking the Top 10 AI Myths 
  
  
  
@@ -1291,10 +1342,20 @@ Artificially Intelligent, Artificial Intellect, Machine Intelligence, Artificial
  
  
  
- report this ad 
  
  
- report this ad 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
@@ -1410,5 +1471,26 @@ Copyright © 2020 Techopedia Inc. -  Terms of Use  -
  
  
  
- x 
- x 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

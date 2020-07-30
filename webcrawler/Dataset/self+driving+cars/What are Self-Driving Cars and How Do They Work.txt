@@ -2,10 +2,10 @@ What are Self-Driving Cars and How Do They Work?
   Begin Google Tag Manager  
   End Google Tag Manager  
  
-  PinnedNavBarController, generated at 13:43:24 Thu Jul 30, 2020, by cds4  
-  AdsController, generated at 13:43:24 Thu Jul 30, 2020, by cds4  
+  PinnedNavBarController, generated at 15:28:46 Thu Jul 30, 2020, by cds4  
+  AdsController, generated at 15:28:46 Thu Jul 30, 2020, by cds4  
  
-  AdsController, generated at 13:43:24 Thu Jul 30, 2020, by cds4  
+  AdsController, generated at 15:28:46 Thu Jul 30, 2020, by cds4  
  
  
  SearchEnterpriseAI 
@@ -97,7 +97,7 @@ What are Self-Driving Cars and How Do They Work?
  
  
  
-  AdsController, generated at 13:43:24 Thu Jul 30, 2020, by cds4  
+  AdsController, generated at 15:28:46 Thu Jul 30, 2020, by cds4  
  
   BreadcrumbsController, generated at 11:22:34 Thu Jul 30, 2020, by cds4  
  
@@ -143,7 +143,7 @@ What are Self-Driving Cars and How Do They Work?
   AdsController, generated at 11:22:34 Thu Jul 30, 2020, by cds4  
  
  
-  SocialMediaShareBarController, generated at 13:38:49 Thu Jul 30, 2020, by cds4  
+  SocialMediaShareBarController, generated at 15:28:46 Thu Jul 30, 2020, by cds4  
  
  
  
@@ -431,7 +431,7 @@ What are Self-Driving Cars and How Do They Work?
  
  
  
-  DigDeeperController, generated at 13:43:24 Thu Jul 30, 2020, by cds4  
+  DigDeeperController, generated at 15:28:46 Thu Jul 30, 2020, by cds4  
  
  
  Dig Deeper on Robotics in business 
@@ -474,7 +474,7 @@ What are Self-Driving Cars and How Do They Work?
  
  
  
-  DiscussionsController, generated at 13:43:24 Thu Jul 30, 2020, by cds4  
+  DiscussionsController, generated at 15:28:46 Thu Jul 30, 2020, by cds4  
  
  
  
@@ -525,7 +525,7 @@ What are Self-Driving Cars and How Do They Work?
  
  
  
-  CommentingController, generated at 13:43:24 Thu Jul 30, 2020, by cds4  
+  CommentingController, generated at 15:28:46 Thu Jul 30, 2020, by cds4  
  
  
  
@@ -864,7 +864,7 @@ mobility.
  
  
  
-  GoogleAdSenseController, generated at 13:38:37 Thu Jul 30, 2020, by cds4  
+  GoogleAdSenseController, generated at 15:27:59 Thu Jul 30, 2020, by cds4  
  
  -ADS BY GOOGLE 
  
@@ -911,7 +911,7 @@ mobility.
  
  
  
-  NetworkCoverageController, generated at 13:38:37 Thu Jul 30, 2020, by cds4  
+  NetworkCoverageController, generated at 15:28:00 Thu Jul 30, 2020, by cds4  
  
  
  Latest TechTarget  resources 
@@ -1039,7 +1039,7 @@ mobility.
  
  
  
-  FooterLinksController, generated at 13:38:37 Thu Jul 30, 2020, by cds4  
+  FooterLinksController, generated at 15:28:00 Thu Jul 30, 2020, by cds4  
  
  
   Plug in TechTarget Logo inside the anchor tag here.  
@@ -1101,14 +1101,15 @@ mobility.
  
 Component Load Times
 ====================
-DefaultPageController=63 ms
-PinnedNavBarController=41 ms
+DefaultPageController=120 ms
+PinnedNavBarController=39 ms
 AdsController=0 ms
-DigDeeperController=144 ms
-DiscussionsController=7 ms
-CommentingController=19 ms
+SocialMediaShareBarController=0 ms
+DigDeeperController=149 ms
+DiscussionsController=11 ms
+CommentingController=20 ms
 
-Total time=274 ms
+Total time=339 ms
 Request Serving Server: cds4
  
  
